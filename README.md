@@ -9,8 +9,8 @@ This repository is public. Never put booking references, account numbers or othe
 
 | Calendar | File | Subscription URL | How it updates |
 |---|---|---|---|
-| Sydney Motorsport Park | `docs/calendar.ics` | `https://akumarau.github.io/asterward-smsp-calendar/calendar.ics` | GitHub Actions scraper, daily |
-| Japan Trip 2026 | `docs/japan-2026.ics` | `https://akumarau.github.io/asterward-smsp-calendar/japan-2026.ics` | Hand built from `calendars/japan_2026.py` |
+| Sydney Motorsport Park | `docs/calendar.ics` | `https://akumarau.github.io/asterward-calendar-feeds/calendar.ics` | GitHub Actions scraper, daily |
+| Japan Trip 2026 | `docs/japan-2026.ics` | `https://akumarau.github.io/asterward-calendar-feeds/japan-2026.ics` | Hand built from `calendars/japan_2026.py` |
 
 ## Add a feed to Outlook
 
