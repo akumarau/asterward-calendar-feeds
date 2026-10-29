@@ -1,0 +1,549 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//akumarau//Milky Way 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Astro · Milky Way 2027
+X-WR-TIMEZONE:Australia/Sydney
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+BEGIN:STANDARD
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:milkyway2027-20270206@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20270207T021000
+DTEND;TZID=Australia/Sydney:20270207T044500
+SUMMARY:Milky Way · Norah Head Lighthouse · Core rising beside the lighth
+ ouse
+LOCATION:Norah Head Rock Pool\, Bald Street\, Norah Head NSW 2263
+GEO:-33.27893;151.56964
+URL:https://www.google.com/maps/search/?api=1&query=-33.27893,151.56964
+DESCRIPTION:WHAT: The galactic core rising out of the Pacific beside Norah 
+ Head Lighthouse. Early season\, so the core is low and short lived before 
+ dawn. Frame the lighthouse low and let the core climb beside it.\nPriority
+ : Optional\n\nWHEN (Sydney time)\nNight of Sat 06 Feb into Sun 07 Feb 2027
+ .\nShoot window: 02:55 to 04:45 (core between 8° and 60° high\, sky full
+ y dark\, moon down).\nBest composition: about 04:45\, core 29° high in th
+ e ESE.\nArrive by 02:10 to set up and focus.\nSunset 19:54 · astronomical
+  dusk 21:25 · astronomical dawn 04:49 · sunrise 06:21\nMoon: new moon Su
+ n 07 Feb 02:56. 0% lit and below the horizon during the window. Moonrise S
+ un 06:35 · Moonset Sat 19:40\n\nCORE POSITION\n03:00  altitude 9°\, azim
+ uth 119° ESE\n03:30  altitude 15°\, azimuth 115° ESE\n04:00  altitude 2
+ 1°\, azimuth 112° ESE\n04:30  altitude 26°\, azimuth 109° ESE\n\nCAMER
+ A POSITION\nNorah Head Rock Pool\, Bald Street\, Norah Head NSW 2263\nCame
+ ra pin: https://www.google.com/maps/search/?api=1&query=-33.27893\,151.569
+ 64\nSubject pin (Norah Head Lighthouse): https://www.google.com/maps/searc
+ h/?api=1&query=-33.28165\,151.57635\nNorah Head Lighthouse is 693 m away o
+ n bearing 116° (ESE). At 04:45 the core is 9 degrees left of it\, 29° up
+ . To stack the core straight above it\, move about 104 m to your right\, k
+ eeping the same distance.\nStraight line from Neutral Bay: about 70 km.\n\
+ nKIT AND STARTING SETTINGS (Sony A1)\nFE 12-24mm F2.8 GM at 12 to 14 mm fo
+ r single frames. FE 35mm F1.4 GM II for a sharper multi row panorama.\n12 
+ mm f/2.8: ISO 3200\, up to 19 s. 14 mm: up to 16 s. 24 mm: up to 9 s. 35 m
+ m f/1.4: up to 5 s (NPF rule).\nForeground: separate longer frames at ISO 
+ 800 to 1600\, or blue hour frames from the same tripod position.\nPeak Des
+ ign travel tripod\, red head torch\, dew heater strap on the lens.\n\nFIEL
+ D NOTES\n- Work from the public rock platform and foreshore\, not the ligh
+ thouse grounds.\n- Rock platform: check swell and tide first. Wet rock is 
+ slippery in the dark.\n- Light from the lighthouse beam sweeps the frame. 
+ Time exposures between passes or blend.\n\nVERIFY BEFORE YOU GO\nTPE Web (
+ camera pin\, subject pin and time set): https://app.photoephemeris.com/?ll
+ =-33.27893\,151.56964&center=-33.27893\,151.56964&z=15&dt=2027-02-06T17%3A
+ 45%3A00.000Z&sll=-33.28165\,151.57635&fovb=115.9&fovhfov=104.10&fovvfov=81
+ .20&fovd=693&fovo=l&fovov=1\nPhotoPills: Planner > drop the pin at the cam
+ era coordinates > set the date and time above > Milky Way layer. Use Night
+  AR on site to confirm the core path.\nCheck cloud (BOM and Windy) and lig
+ ht pollution (lightpollutionmap.info) two days out.\n\nSOURCES\nMoon phase
+ s: US Naval Observatory 2027 table (aa.usno.navy.mil).\nSun\, moon and cor
+ e positions: computed with Skyfield and JPL DE421 for the camera pin.\nCoo
+ rdinates: OpenStreetMap. Terrain horizons: SRTM 30 m via OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Norah Head Lighthouse · 
+ Core rising beside the lighthouse
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Norah Head Lighthouse · Core rising b
+ eside the lighthouse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milkyway2027-20270306@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20270307T001800
+DTEND;TZID=Australia/Sydney:20270307T051800
+SUMMARY:Milky Way · Cathedral Rocks · Core over the coastal rock stacks
+LOCATION:Cliff Drive viewpoint above Cathedral Rocks\, Kiama Downs NSW 2533
+GEO:-34.64444;150.85547
+URL:https://www.google.com/maps/search/?api=1&query=-34.64444,150.85547
+DESCRIPTION:WHAT: The core rising over the Cathedral Rocks sea stacks\, wit
+ h the Pacific below. By 03:00 the core is high enough to stack the band ab
+ ove the rocks.\nPriority: High\n\nWHEN (Sydney time)\nNight of Sat 06 Mar 
+ into Sun 07 Mar 2027.\nShoot window: 01:03 to 05:18 (core between 8° and 
+ 60° high\, sky fully dark\, moon down).\nBest composition: about 02:58\, 
+ core 30° high in the ESE.\nArrive by 00:18 to set up and focus.\nSunset 1
+ 9:27 · astronomical dusk 20:53 · astronomical dawn 05:22 · sunrise 06:4
+ 8\nMoon: new moon Mon 08 Mar 20:29. 3% lit and below the horizon during th
+ e window. Moonrise Sun 05:25 · Moonset Sat 18:16\n\nCORE POSITION\n01:30 
+  altitude 13°\, azimuth 117° ESE\n02:00  altitude 19°\, azimuth 113° E
+ SE\n02:30  altitude 24°\, azimuth 110° ESE\n03:00  altitude 30°\, azimu
+ th 106° ESE\n03:30  altitude 36°\, azimuth 103° ESE\n04:00  altitude 42
+ °\, azimuth 100° E\n04:30  altitude 48°\, azimuth 96° E\n05:00  altitu
+ de 55°\, azimuth 93° E\n\nCAMERA POSITION\nCliff Drive viewpoint above C
+ athedral Rocks\, Kiama Downs NSW 2533\nCamera pin: https://www.google.com/
+ maps/search/?api=1&query=-34.64444\,150.85547\nSubject pin (Cathedral Rock
+ s sea stacks): https://www.google.com/maps/search/?api=1&query=-34.64481\,
+ 150.85670\nCathedral Rocks sea stacks is 120 m away on bearing 110° (ESE)
+ . At 02:58 the core is 4 degrees left of it\, 30° up. To stack the core s
+ traight above it\, move about 8 m to your right\, keeping the same distanc
+ e.\nStraight line from Neutral Bay: about 96 km.\n\nKIT AND STARTING SETTI
+ NGS (Sony A1)\nFE 12-24mm F2.8 GM at 12 to 14 mm for single frames. FE 35m
+ m F1.4 GM II for a sharper multi row panorama.\n12 mm f/2.8: ISO 3200\, up
+  to 19 s. 14 mm: up to 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up to 5 s (NPF
+  rule).\nForeground: separate longer frames at ISO 800 to 1600\, or blue h
+ our frames from the same tripod position.\nPeak Design travel tripod\, red
+  head torch\, dew heater strap on the lens.\n\nFIELD NOTES\n- Viewpoint is
+  at the top of the cliff. Going down to the rocks means a rock platform at
+  night: only at low tide and small swell.\n- Check BOM tide times for Kiam
+ a before you go.\n- Long exposure smooths the surf around the stacks. Shoo
+ t the foreground at blue hour if possible.\n\nVERIFY BEFORE YOU GO\nTPE We
+ b (camera pin\, subject pin and time set): https://app.photoephemeris.com/
+ ?ll=-34.64444\,150.85547&center=-34.64444\,150.85547&z=15&dt=2027-03-06T15
+ %3A58%3A00.000Z&sll=-34.64481\,150.85670&fovb=110.1&fovhfov=104.10&fovvfov
+ =81.20&fovd=120&fovo=l&fovov=1\nPhotoPills: Planner > drop the pin at the 
+ camera coordinates > set the date and time above > Milky Way layer. Use Ni
+ ght AR on site to confirm the core path.\nCheck cloud (BOM and Windy) and 
+ light pollution (lightpollutionmap.info) two days out.\n\nSOURCES\nMoon ph
+ ases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nSun\, moon and 
+ core positions: computed with Skyfield and JPL DE421 for the camera pin.\n
+ Coordinates: OpenStreetMap. Terrain horizons: SRTM 30 m via OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Cathedral Rocks · Core o
+ ver the coastal rock stacks
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Cathedral Rocks · Core over the coast
+ al rock stacks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milkyway2027-20270410@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20270410T210300
+DTEND;TZID=Australia/Sydney:20270411T020800
+SUMMARY:Milky Way · Bombo Headland Quarry · Core above the basalt columns
+LOCATION:Bombo Headland Quarry Geological Site viewpoint\, Commissioners La
+ ne\, Bombo NSW 2533
+GEO:-34.65005;150.86242
+URL:https://www.google.com/maps/search/?api=1&query=-34.65005,150.86242
+DESCRIPTION:WHAT: The core rising in the east above the hexagonal basalt co
+ lumns of the old Bombo quarry\, with the ocean behind. The best core posit
+ ion of the coastal set.\nPriority: Very high\n\nWHEN (Sydney time)\nNight 
+ of Sat 10 Apr into Sun 11 Apr 2027.\nShoot window: 21:48 to 02:08 (core be
+ tween 8° and 60° high\, sky fully dark\, moon down).\nBest composition: 
+ about 23:43\, core 30° high in the ESE.\nArrive by 21:03 to set up and fo
+ cus.\nSunset 17:40 · astronomical dusk 19:03 · astronomical dawn 04:52 
+ · sunrise 06:16\nMoon: new moon Wed 07 Apr 09:51. 15% lit and below the h
+ orizon during the window. Moonrise Sun 10:46 · Moonset Sat 19:25\n\nCORE 
+ POSITION\n22:00  altitude 11°\, azimuth 118° ESE\n22:30  altitude 16°\,
+  azimuth 114° ESE\n23:00  altitude 22°\, azimuth 111° ESE\n23:30  altit
+ ude 28°\, azimuth 108° ESE\n00:00  altitude 34°\, azimuth 104° ESE\n00
+ :30  altitude 40°\, azimuth 101° E\n01:00  altitude 46°\, azimuth 98° 
+ E\n01:30  altitude 52°\, azimuth 94° E\n02:00  altitude 58°\, azimuth 9
+ 0° E\n\nCAMERA POSITION\nBombo Headland Quarry Geological Site viewpoint\
+ , Commissioners Lane\, Bombo NSW 2533\nCamera pin: https://www.google.com/
+ maps/search/?api=1&query=-34.65005\,150.86242\nSubject pin (Bombo basalt c
+ olumns): https://www.google.com/maps/search/?api=1&query=-34.65037\,150.86
+ 344\nBombo basalt columns is 100 m away on bearing 111° (ESE). At 23:43 t
+ he core is 5 degrees left of it\, 30° up. To stack the core straight abov
+ e it\, move about 8 m to your right\, keeping the same distance.\nStraight
+  line from Neutral Bay: about 96 km.\n\nKIT AND STARTING SETTINGS (Sony A1
+ )\nFE 12-24mm F2.8 GM at 12 to 14 mm for single frames. FE 35mm F1.4 GM II
+  for a sharper multi row panorama.\n12 mm f/2.8: ISO 3200\, up to 19 s. 14
+  mm: up to 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up to 5 s (NPF rule).\nFor
+ eground: separate longer frames at ISO 800 to 1600\, or blue hour frames f
+ rom the same tripod position.\nPeak Design travel tripod\, red head torch\
+ , dew heater strap on the lens.\n\nFIELD NOTES\n- Confirm current track an
+ d car park access with Kiama Council before the trip.\n- Old quarry: loose
+  rock and drop offs. Scout in daylight and keep to marked paths.\n- A low 
+ level light panel on the columns from the side adds texture. Keep it dim.\
+ n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin and time set): 
+ https://app.photoephemeris.com/?ll=-34.65005\,150.86242&center=-34.65005\,
+ 150.86242&z=15&dt=2027-04-10T13%3A43%3A00.000Z&sll=-34.65037\,150.86344&fo
+ vb=110.9&fovhfov=104.10&fovvfov=81.20&fovd=100&fovo=l&fovov=1\nPhotoPills:
+  Planner > drop the pin at the camera coordinates > set the date and time 
+ above > Milky Way layer. Use Night AR on site to confirm the core path.\nC
+ heck cloud (BOM and Windy) and light pollution (lightpollutionmap.info) tw
+ o days out.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.u
+ sno.navy.mil).\nSun\, moon and core positions: computed with Skyfield and 
+ JPL DE421 for the camera pin.\nCoordinates: OpenStreetMap. Terrain horizon
+ s: SRTM 30 m via OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Bombo Headland Quarry · 
+ Core above the basalt columns
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Bombo Headland Quarry · Core above th
+ e basalt columns
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milkyway2027-20270508@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20270508T191800
+DTEND;TZID=Australia/Sydney:20270509T001800
+SUMMARY:Milky Way · Lake Lyell · Core rising above the water
+LOCATION:Lake Lyell Recreation Park shoreline\, Magpie Hollow Road\, Rydal 
+ NSW 2790
+GEO:-33.52379;150.07734
+URL:https://www.google.com/maps/search/?api=1&query=-33.52379,150.07734
+DESCRIPTION:WHAT: The core rising in the east south east above the eastern 
+ arm of Lake Lyell. From this shoreline the water runs 100 m to 600 m out t
+ oward the core. Calm nights give a reflection.\nPriority: Very high\n\nWHE
+ N (Sydney time)\nNight of Sat 08 May into Sun 09 May 2027.\nShoot window: 
+ 20:03 to 00:18 (core between 8° and 60° high\, sky fully dark\, moon dow
+ n).\nBest composition: about 21:58\, core 30° high in the ESE.\nArrive by
+  19:18 to set up and focus.\nSunset 17:13 · astronomical dusk 18:38 · as
+ tronomical dawn 05:14 · sunrise 06:39\nMoon: new moon Thu 06 May 20:58. 6
+ % lit and below the horizon during the window. Moonrise Sun 09:39 · Moons
+ et Sat 18:17\n\nCORE POSITION\n20:30  altitude 13°\, azimuth 116° ESE\n2
+ 1:00  altitude 19°\, azimuth 113° ESE\n21:30  altitude 25°\, azimuth 11
+ 0° ESE\n22:00  altitude 31°\, azimuth 106° ESE\n22:30  altitude 37°\, 
+ azimuth 103° ESE\n23:00  altitude 43°\, azimuth 100° E\n23:30  altitude
+  49°\, azimuth 97° E\n00:00  altitude 55°\, azimuth 94° E\n\nCAMERA PO
+ SITION\nLake Lyell Recreation Park shoreline\, Magpie Hollow Road\, Rydal 
+ NSW 2790\nCamera pin: https://www.google.com/maps/search/?api=1&query=-33.
+ 52379\,150.07734\nFace ESE (azimuth 107°) at 21:58.\nStraight line from N
+ eutral Bay: about 111 km.\n\nKIT AND STARTING SETTINGS (Sony A1)\nFE 12-24
+ mm F2.8 GM at 12 to 14 mm for single frames. FE 35mm F1.4 GM II for a shar
+ per multi row panorama. Dark site option: Esprit 80ED on the AM5N with the
+  ASI2600MC Air for the Lagoon and Trifid region near the core. Antlia Trib
+ and for the emission nebulae.\n12 mm f/2.8: ISO 3200\, up to 19 s. 14 mm: 
+ up to 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up to 5 s (NPF rule).\nForegrou
+ nd: separate longer frames at ISO 800 to 1600\, or blue hour frames from t
+ he same tripod position.\nPeak Design travel tripod\, red head torch\, dew
+  heater strap on the lens.\n\nFIELD NOTES\n- The park has powered and unpo
+ wered camp sites. Camping is the simplest way to be on the shore after dar
+ k.\n- Expect cold\, damp air in May at 790 m. Run the dew heater on lenses
+  too.\n- Low hills across the lake sit about 3 degrees high\, so the core 
+ clears them early.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject 
+ pin and time set): https://app.photoephemeris.com/?ll=-33.52379\,150.07734
+ &center=-33.52379\,150.07734&z=15&dt=2027-05-08T11%3A58%3A00.000Z\nPhotoPi
+ lls: Planner > drop the pin at the camera coordinates > set the date and t
+ ime above > Milky Way layer. Use Night AR on site to confirm the core path
+ .\nCheck cloud (BOM and Windy) and light pollution (lightpollutionmap.info
+ ) two days out.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table (
+ aa.usno.navy.mil).\nSun\, moon and core positions: computed with Skyfield 
+ and JPL DE421 for the camera pin.\nCoordinates: OpenStreetMap. Terrain hor
+ izons: SRTM 30 m via OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Lake Lyell · Core rising
+  above the water
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Lake Lyell · Core rising above the wa
+ ter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milkyway2027-20270731@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20270731T224700
+DTEND;TZID=Australia/Sydney:20270801T035200
+SUMMARY:Milky Way · Hampden Bridge · Core descending over the sandstone t
+ owers
+LOCATION:Riverside viewpoint east of Hampden Bridge\, Cullen Crescent\, Kan
+ garoo Valley NSW 2577
+GEO:-34.72736;150.52311
+URL:https://www.google.com/maps/search/?api=1&query=-34.72736,150.52311
+DESCRIPTION:WHAT: Winter core\, high and bright\, sinking toward the west s
+ outh west behind the castellated sandstone towers of Hampden Bridge. Rural
+  valley skies\, darker than the coast.\nPriority: High\n\nWHEN (Sydney tim
+ e)\nNight of Sat 31 Jul into Sun 01 Aug 2027.\nShoot window: 23:32 to 03:5
+ 2 (core between 8° and 60° high\, sky fully dark\, moon down).\nBest com
+ position: about 01:57\, core 30° high in the WSW.\nArrive by 22:47 to set
+  up and focus.\nSunset 17:15 · astronomical dusk 18:42 · astronomical da
+ wn 05:25 · sunrise 06:52\nMoon: new moon Mon 02 Aug 20:05. 5% lit and bel
+ ow the horizon during the window. Moonrise Sun 05:47 · Moonset Sat 14:28\
+ n\nCORE POSITION\n00:00  altitude 53°\, azimuth 267° W\n00:30  altitude 
+ 47°\, azimuth 263° W\n01:00  altitude 41°\, azimuth 260° W\n01:30  alt
+ itude 35°\, azimuth 256° WSW\n02:00  altitude 29°\, azimuth 253° WSW\n
+ 02:30  altitude 23°\, azimuth 250° WSW\n03:00  altitude 18°\, azimuth 2
+ 46° WSW\n03:30  altitude 12°\, azimuth 243° WSW\n\nCAMERA POSITION\nRiv
+ erside viewpoint east of Hampden Bridge\, Cullen Crescent\, Kangaroo Valle
+ y NSW 2577\nCamera pin: https://www.google.com/maps/search/?api=1&query=-3
+ 4.72736\,150.52311\nSubject pin (Hampden Bridge): https://www.google.com/m
+ aps/search/?api=1&query=-34.72755\,150.52093\nHampden Bridge is 200 m away
+  on bearing 264° (W). At 01:57 the core is 10 degrees left of it\, 30° u
+ p. To stack the core straight above it\, move about 36 m to your right\, k
+ eeping the same distance.\nStraight line from Neutral Bay: about 118 km.\n
+ \nKIT AND STARTING SETTINGS (Sony A1)\nFE 12-24mm F2.8 GM at 12 to 14 mm f
+ or single frames. FE 35mm F1.4 GM II for a sharper multi row panorama. Dar
+ k site option: Esprit 80ED on the AM5N with the ASI2600MC Air for the Lago
+ on and Trifid region near the core. Antlia Triband for the emission nebula
+ e.\n12 mm f/2.8: ISO 3200\, up to 19 s. 14 mm: up to 16 s. 24 mm: up to 9 
+ s. 35 mm f/1.4: up to 5 s (NPF rule).\nForeground: separate longer frames 
+ at ISO 800 to 1600\, or blue hour frames from the same tripod position.\nP
+ eak Design travel tripod\, red head torch\, dew heater strap on the lens.\
+ n\nFIELD NOTES\n- Valley fog often forms on cold still nights. Check the f
+ orecast dew point.\n- The bridge carries traffic. Avoid headlights by timi
+ ng exposures\, or stack frames.\n- Terrain to the west south west is only 
+ about 2 degrees high from here.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera p
+ in\, subject pin and time set): https://app.photoephemeris.com/?ll=-34.727
+ 36\,150.52311&center=-34.72736\,150.52311&z=15&dt=2027-07-31T15%3A57%3A00.
+ 000Z&sll=-34.72755\,150.52093&fovb=263.9&fovhfov=104.10&fovvfov=81.20&fovd
+ =200&fovo=l&fovov=1\nPhotoPills: Planner > drop the pin at the camera coor
+ dinates > set the date and time above > Milky Way layer. Use Night AR on s
+ ite to confirm the core path.\nCheck cloud (BOM and Windy) and light pollu
+ tion (lightpollutionmap.info) two days out.\n\nSOURCES\nMoon phases: US Na
+ val Observatory 2027 table (aa.usno.navy.mil).\nSun\, moon and core positi
+ ons: computed with Skyfield and JPL DE421 for the camera pin.\nCoordinates
+ : OpenStreetMap. Terrain horizons: SRTM 30 m via OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Hampden Bridge · Core de
+ scending over the sandstone towers
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Hampden Bridge · Core descending over
+  the sandstone towers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milkyway2027-20270828@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20270828T205600
+DTEND;TZID=Australia/Sydney:20270829T015600
+SUMMARY:Milky Way · Hassans Walls Lookout · Core setting over the Hartley
+  Valley
+LOCATION:Hassans Walls Lookout\, Sir Joseph Cook Boardwalk\, Lithgow NSW 27
+ 90
+GEO:-33.51491;150.15092
+URL:https://www.google.com/maps/search/?api=1&query=-33.51491,150.15092
+DESCRIPTION:WHAT: The core sinking into the south west over the Hartley Val
+ ley from the highest lookout in the Blue Mountains region. Open horizon\, 
+ no terrain above zero degrees to the south west.\nPriority: High\n\nWHEN (
+ Sydney time)\nNight of Sat 28 Aug into Sun 29 Aug 2027.\nShoot window: 21:
+ 41 to 01:56 (core between 8° and 60° high\, sky fully dark\, moon down).
+ \nBest composition: about 00:06\, core 30° high in the WSW.\nArrive by 20
+ :56 to set up and focus.\nSunset 17:38 · astronomical dusk 19:01 · astro
+ nomical dawn 04:59 · sunrise 06:22\nMoon: new moon Wed 01 Sep 03:41. 14% 
+ lit and below the horizon during the window. Moonrise Sun 04:23 · Moonset
+  Sat 13:24\n\nCORE POSITION\n22:00  altitude 56°\, azimuth 267° W\n22:30
+   altitude 50°\, azimuth 263° W\n23:00  altitude 43°\, azimuth 260° W\
+ n23:30  altitude 37°\, azimuth 257° WSW\n00:00  altitude 31°\, azimuth 
+ 254° WSW\n00:30  altitude 25°\, azimuth 251° WSW\n01:00  altitude 19°\
+ , azimuth 247° WSW\n01:30  altitude 14°\, azimuth 244° WSW\n\nCAMERA PO
+ SITION\nHassans Walls Lookout\, Sir Joseph Cook Boardwalk\, Lithgow NSW 27
+ 90\nCamera pin: https://www.google.com/maps/search/?api=1&query=-33.51491\
+ ,150.15092\nFace WSW (azimuth 253°) at 00:06.\nStraight line from Neutral
+  Bay: about 105 km.\n\nKIT AND STARTING SETTINGS (Sony A1)\nFE 12-24mm F2.
+ 8 GM at 12 to 14 mm for single frames. FE 35mm F1.4 GM II for a sharper mu
+ lti row panorama. Dark site option: Esprit 80ED on the AM5N with the ASI26
+ 00MC Air for the Lagoon and Trifid region near the core. Antlia Triband fo
+ r the emission nebulae.\n12 mm f/2.8: ISO 3200\, up to 19 s. 14 mm: up to 
+ 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up to 5 s (NPF rule).\nForeground: se
+ parate longer frames at ISO 800 to 1600\, or blue hour frames from the sam
+ e tripod position.\nPeak Design travel tripod\, red head torch\, dew heate
+ r strap on the lens.\n\nFIELD NOTES\n- Cliff top boardwalk. Stay behind th
+ e rails.\n- Check road and reserve access after dark with Lithgow City Cou
+ ncil.\n- Late August at 1\,100 m is near freezing. Pack layers and a flask
+ .\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin and time set)
+ : https://app.photoephemeris.com/?ll=-33.51491\,150.15092&center=-33.51491
+ \,150.15092&z=15&dt=2027-08-28T14%3A06%3A00.000Z\nPhotoPills: Planner > dr
+ op the pin at the camera coordinates > set the date and time above > Milky
+  Way layer. Use Night AR on site to confirm the core path.\nCheck cloud (B
+ OM and Windy) and light pollution (lightpollutionmap.info) two days out.\n
+ \nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.mil)
+ .\nSun\, moon and core positions: computed with Skyfield and JPL DE421 for
+  the camera pin.\nCoordinates: OpenStreetMap. Terrain horizons: SRTM 30 m 
+ via OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Hassans Walls Lookout · 
+ Core setting over the Hartley Valley
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Hassans Walls Lookout · Core setting 
+ over the Hartley Valley
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milkyway2027-20270925@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20270925T190000
+DTEND;TZID=Australia/Sydney:20270926T000500
+SUMMARY:Milky Way · Pittwater\, Palm Beach · Core over Pittwater and Ku-r
+ ing-gai Chase
+LOCATION:Pittwater Park foreshore\, Palm Beach NSW 2108
+GEO:-33.59640;151.32002
+URL:https://www.google.com/maps/search/?api=1&query=-33.59640,151.32002
+DESCRIPTION:WHAT: The core over the dark bushland of Ku-ring-gai Chase acro
+ ss Pittwater\, with water in the foreground. Closest site to home\, but su
+ burban glow sits low to the south west.\nPriority: Medium\n\nWHEN (Sydney 
+ time)\nNight of Sat 25 Sep into Sun 26 Sep 2027.\nShoot window: 19:45 to 0
+ 0:05 (core between 8° and 60° high\, sky fully dark\, moon down).\nBest 
+ composition: about 22:10\, core 30° high in the WSW.\nArrive by 19:00 to 
+ set up and focus.\nSunset 17:52 · astronomical dusk 19:15 · astronomical
+  dawn 04:16 · sunrise 05:39\nMoon: new moon Thu 30 Sep 12:36. 27% lit and
+  below the horizon during the window. Moonrise Sun 02:55 · Moonset Sat 12
+ :15\n\nCORE POSITION\n20:00  altitude 57°\, azimuth 267° W\n20:30  altit
+ ude 51°\, azimuth 264° W\n21:00  altitude 44°\, azimuth 261° W\n21:30 
+  altitude 38°\, azimuth 257° WSW\n22:00  altitude 32°\, azimuth 254° W
+ SW\n22:30  altitude 26°\, azimuth 251° WSW\n23:00  altitude 20°\, azimu
+ th 248° WSW\n23:30  altitude 15°\, azimuth 245° WSW\n00:00  altitude 9
+ °\, azimuth 241° WSW\n\nCAMERA POSITION\nPittwater Park foreshore\, Palm
+  Beach NSW 2108\nCamera pin: https://www.google.com/maps/search/?api=1&que
+ ry=-33.59640\,151.32002\nFace WSW (azimuth 253°) at 22:10.\nStraight line
+  from Neutral Bay: about 28 km.\n\nKIT AND STARTING SETTINGS (Sony A1)\nFE
+  12-24mm F2.8 GM at 12 to 14 mm for single frames. FE 35mm F1.4 GM II for 
+ a sharper multi row panorama.\n12 mm f/2.8: ISO 3200\, up to 19 s. 14 mm: 
+ up to 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up to 5 s (NPF rule).\nForegrou
+ nd: separate longer frames at ISO 800 to 1600\, or blue hour frames from t
+ he same tripod position.\nPeak Design travel tripod\, red head torch\, dew
+  heater strap on the lens.\n\nFIELD NOTES\n- Calm water gives reflections.
+  Moored boats make good foreground lights.\n- Ridge line across Pittwater 
+ sits about 2 degrees high.\n- Light pollution is moderate here. Stop shoot
+ ing once the core drops below about 12 degrees.\n\nVERIFY BEFORE YOU GO\nT
+ PE Web (camera pin\, subject pin and time set): https://app.photoephemeris
+ .com/?ll=-33.59640\,151.32002&center=-33.59640\,151.32002&z=15&dt=2027-09-
+ 25T12%3A10%3A00.000Z\nPhotoPills: Planner > drop the pin at the camera coo
+ rdinates > set the date and time above > Milky Way layer. Use Night AR on 
+ site to confirm the core path.\nCheck cloud (BOM and Windy) and light poll
+ ution (lightpollutionmap.info) two days out.\n\nSOURCES\nMoon phases: US N
+ aval Observatory 2027 table (aa.usno.navy.mil).\nSun\, moon and core posit
+ ions: computed with Skyfield and JPL DE421 for the camera pin.\nCoordinate
+ s: OpenStreetMap. Terrain horizons: SRTM 30 m via OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Pittwater\, Palm Beach ·
+  Core over Pittwater and Ku-ring-gai Chase
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Pittwater\, Palm Beach · Core over Pi
+ ttwater and Ku-ring-gai Chase
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milkyway2027-20271030@akumarau
+DTSTAMP:20261029T122138Z
+DTSTART;TZID=Australia/Sydney:20271030T200900
+DTEND;TZID=Australia/Sydney:20271030T224900
+SUMMARY:Milky Way · Mount Blackheath Lookout · Last core of the season ov
+ er the Kanimbla Valley
+LOCATION:Mount Blackheath Lookout\, Mount Blackheath Road\, Blackheath NSW 
+ 2785
+GEO:-33.64173;150.24531
+URL:https://www.google.com/maps/search/?api=1&query=-33.64173,150.24531
+DESCRIPTION:WHAT: The final evening core of 2027\, low in the west south we
+ st over the Kanimbla Valley. A short window right after dark\, so be set u
+ p before astronomical dusk.\nPriority: Medium\n\nWHEN (Sydney time)\nNight
+  of Sat 30 Oct into Sun 31 Oct 2027.\nShoot window: 20:54 to 22:49 (core b
+ etween 8° and 60° high\, sky fully dark\, moon down).\nBest composition:
+  about 20:59\, core 30° high in the WSW.\nArrive by 20:09 to set up and f
+ ocus.\nSunset 19:24 · astronomical dusk 20:54 · astronomical dawn 04:30 
+ · sunrise 06:00\nMoon: new moon Sat 30 Oct 00:36. 1% lit and below the ho
+ rizon during the window. Moonrise Sun 06:36 · Moonset Sat 20:16\n\nCORE P
+ OSITION\n21:00  altitude 30°\, azimuth 253° WSW\n21:30  altitude 24°\, 
+ azimuth 250° WSW\n22:00  altitude 18°\, azimuth 247° WSW\n22:30  altitu
+ de 12°\, azimuth 243° WSW\n\nCAMERA POSITION\nMount Blackheath Lookout\,
+  Mount Blackheath Road\, Blackheath NSW 2785\nCamera pin: https://www.goog
+ le.com/maps/search/?api=1&query=-33.64173\,150.24531\nFace WSW (azimuth 25
+ 3°) at 20:59.\nStraight line from Neutral Bay: about 93 km.\n\nKIT AND ST
+ ARTING SETTINGS (Sony A1)\nFE 12-24mm F2.8 GM at 12 to 14 mm for single fr
+ ames. FE 35mm F1.4 GM II for a sharper multi row panorama.\n12 mm f/2.8: I
+ SO 3200\, up to 19 s. 14 mm: up to 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up
+  to 5 s (NPF rule).\nForeground: separate longer frames at ISO 800 to 1600
+ \, or blue hour frames from the same tripod position.\nPeak Design travel 
+ tripod\, red head torch\, dew heater strap on the lens.\n\nFIELD NOTES\n- 
+ Hang gliding launch area on the cliff edge. Keep well back from the drop.\
+ n- Distant ranges sit about 0.5 degrees high\, so the low core stays clear
+ .\n- Window is about two hours. Shoot the foreground at blue hour first.\n
+ \nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin and time set): h
+ ttps://app.photoephemeris.com/?ll=-33.64173\,150.24531&center=-33.64173\,1
+ 50.24531&z=15&dt=2027-10-30T09%3A59%3A00.000Z\nPhotoPills: Planner > drop 
+ the pin at the camera coordinates > set the date and time above > Milky Wa
+ y layer. Use Night AR on site to confirm the core path.\nCheck cloud (BOM 
+ and Windy) and light pollution (lightpollutionmap.info) two days out.\n\nS
+ OURCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\n
+ Sun\, moon and core positions: computed with Skyfield and JPL DE421 for th
+ e camera pin.\nCoordinates: OpenStreetMap. Terrain horizons: SRTM 30 m via
+  OpenTopoData.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Mount Blackheath Lookout 
+ · Last core of the season over the Kanimbla Valley
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Mount Blackheath Lookout · Last core 
+ of the season over the Kanimbla Valley
+END:VALARM
+END:VEVENT
+END:VCALENDAR
