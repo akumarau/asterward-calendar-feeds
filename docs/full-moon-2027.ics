@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fullmoon2027-20270122@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270122T200700
 DTEND;TZID=Australia/Sydney:20270122T212200
 SUMMARY:Full Moon · Anzac Bridge from Bicentennial Park\, Glebe · Moon be
@@ -57,28 +57,38 @@ DESCRIPTION:WHAT: The full moon climbing between the two white pylons of An
  he exact pin\, Anzac Bridge is 858 m away on bearing 56.4°.\nFrom the nam
  ed spot it is on bearing 59.7°\, so there the moon passes 3.2° left of t
  he target. Walk toward the exact pin to close the gap.\nStraight line from
-  Neutral Bay: about 6 km.\n\nFRAMING (Sony A1)\nAnzac Bridge spans about 8
- .0° tall from here. The moon is 0.52° wide\, about 8 m across at this di
- stance.\nLandmark filling 60% of the frame height: FE 70-200mm F2.8 GM OSS
-  II at about 105 mm.\nMoon dominant: FE 200-600mm at 600 mm puts the moon 
- at 23% of frame height (34% in APS-C crop mode).\nTripod\, OSS off on the 
- tripod\, 2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\nStart
- : ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 EV aft
- er sunset and blend.\n\nFIELD NOTES\n- Public foreshore park. Jubilee Park
-  light rail stop is close.\n- City light builds quickly after 21:00. Brack
- et for the moon and the sky separately.\n- Calm water in Rozelle Bay gives
-  a reflection of the bridge lights.\n\nVERIFY BEFORE YOU GO\nTPE Web (came
- ra pin\, subject pin\, alignment time): https://app.photoephemeris.com/?ll
- =-33.87326\,151.17759&center=-33.87326\,151.17759&z=16&dt=2027-01-22T09%3A
- 52%3A00.000Z&sll=-33.86899\,151.18533&fovb=56.4&fovhfov=19.75&fovvfov=13.2
- 8&fovd=858&fovo=l&fovov=1\nIn TPE\, set the secondary height to about 120 
- m above ground to check the geodetics line.\nPhotoPills: Planner > red pin
-  on the camera pin\, black pin on the subject > Find > Moon\, elevation 7.
- 7° > confirm the date. Use the AR view on site.\nHeights are approximate.
-  Fine tune by a few metres on the day.\n\nSOURCES\nMoon phases: US Naval O
- bservatory 2027 table (aa.usno.navy.mil).\nMoon and sun positions: compute
- d with Skyfield and JPL DE421\, with standard refraction.\nCoordinates: Op
- enStreetMap. Ground heights: SRTM 30 m via OpenTopoData.
+  Neutral Bay: about 6 km.\n\nTIDES (BOM prediction\, Sydney (Fort Denison)
+ )\nFort Denison is in the same harbour\, so times are close for this spot.
+ \nHigh water Fri 21:30  1.46 m\nAt the alignment (20:52): about 1.43 m and
+  rising.\nPredictions exclude swell\, wind setup and wave run up. Check BO
+ M coastal waters and swell forecasts on the day.\nSource table: https://ww
+ w.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP007.pdf\n\nFRAMING (Sony A1)
+ \nAnzac Bridge spans about 8.0° tall from here. The moon is 0.52° wide\,
+  about 8 m across at this distance.\nLandmark filling 60% of the frame hei
+ ght: FE 70-200mm F2.8 GM OSS II at about 105 mm.\nMoon dominant: FE 200-60
+ 0mm at 600 mm puts the moon at 23% of frame height (34% in APS-C crop mode
+ ).\nTripod\, OSS off on the tripod\, 2 s timer or remote\, shutter 1/125 s
+  or faster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for the moon. 
+ Bracket 3 frames at 2 EV after sunset and blend.\n\nFIELD NOTES\n- Public 
+ foreshore park. Jubilee Park light rail stop is close.\n- City light build
+ s quickly after 21:00. Bracket for the moon and the sky separately.\n- Cal
+ m water in Rozelle Bay gives a reflection of the bridge lights.\n\nVERIFY 
+ BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, alignment time): https:
+ //app.photoephemeris.com/?ll=-33.87326\,151.17759&center=-33.87326\,151.17
+ 759&z=16&dt=2027-01-22T09%3A52%3A00.000Z&sll=-33.86899\,151.18533&fovb=56.
+ 4&fovhfov=19.75&fovvfov=13.28&fovd=858&fovo=l&fovov=1\nIn TPE\, set the se
+ condary height to about 120 m above ground to check the geodetics line.\nP
+ hotoPills: Planner > red pin on the camera pin\, black pin on the subject 
+ > Find > Moon\, elevation 7.7° > confirm the date. Use the AR view on sit
+ e.\nHeights are approximate. Fine tune by a few metres on the day.\n\nSOUR
+ CES\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nMoo
+ n and sun positions: computed with Skyfield and JPL DE421\, with standard 
+ refraction.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m via Ope
+ nTopoData.\nTide predictions: Bureau of Meteorology 2027 tide tables\, Cop
+ yright Commonwealth of Australia 2026. Based on Bureau of Meteorology info
+ rmation that has been modified. The Bureau does not necessarily support or
+  endorse\, or have any connection with\, this product\, and gives no warra
+ nty about the information. Full terms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -97,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20270221@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270221T190700
 DTEND;TZID=Australia/Sydney:20270221T202200
 SUMMARY:Full Moon · Nobbys Lighthouse from Stockton foreshore · Moonrise 
@@ -126,29 +136,40 @@ DESCRIPTION:WHAT: The full moon rising out of the Tasman Sea behind Nobbys
  he exact pin\, Nobbys Lighthouse is 1560 m away on bearing 80.3°.\nFrom t
  he named spot it is on bearing 85.0°\, so there the moon passes 4.7° lef
  t of the target. Walk toward the exact pin to close the gap.\nStraight lin
- e from Neutral Bay: about 114 km.\n\nFRAMING (Sony A1)\nNobbys Lighthouse 
- spans about 0.7° tall from here. The moon is 0.52° wide\, about 14 m acr
- oss at this distance.\nLandmark filling 60% of the frame height: FE 200-60
- 0mm at 600 mm\, or 900 mm equivalent in APS-C crop mode.\nMoon dominant: F
- E 200-600mm at 600 mm puts the moon at 23% of frame height (34% in APS-C c
- rop mode).\nTripod\, OSS off on the tripod\, 2 s timer or remote\, shutter
-  1/125 s or faster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for th
- e moon. Bracket 3 frames at 2 EV after sunset and blend.\n\nFIELD NOTES\n-
-  Stockton is reached by the Newcastle ferry from Queens Wharf or by road o
- ver Stockton Bridge.\n- Harbour traffic: check the Port of Newcastle shipp
- ing schedule for a ship in frame.\n- The camera pin is on the foreshore so
- uth of the wharf. Walk the shoreline to fine tune.\n\nVERIFY BEFORE YOU GO
- \nTPE Web (camera pin\, subject pin\, alignment time): https://app.photoep
- hemeris.com/?ll=-32.92094\,151.78193&center=-32.92094\,151.78193&z=16&dt=2
- 027-02-21T08%3A52%3A00.000Z&sll=-32.91857\,151.79840&fovb=80.3&fovhfov=3.4
- 3&fovvfov=2.29&fovd=1560&fovo=l&fovov=1\nIn TPE\, set the secondary height
-  to about 18 m above ground to check the geodetics line.\nPhotoPills: Plan
- ner > red pin on the camera pin\, black pin on the subject > Find > Moon\,
-  elevation 1.2° > confirm the date. Use the AR view on site.\nHeights are
-  approximate. Fine tune by a few metres on the day.\n\nSOURCES\nMoon phase
- s: US Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and sun posit
- ions: computed with Skyfield and JPL DE421\, with standard refraction.\nCo
- ordinates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoData.
+ e from Neutral Bay: about 114 km.\n\nTIDES (BOM prediction\, Newcastle)\nT
+ he Newcastle gauge is in the same harbour mouth\, so times are close.\nLow
+  water Sun 15:57  0.21 m\nHigh water Sun 22:05  1.66 m\nAt the alignment (
+ 19:52): about 1.24 m and rising.\nPredictions exclude swell\, wind setup a
+ nd wave run up. Check BOM coastal waters and swell forecasts on the day.\n
+ Source table: https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP004.
+ pdf\n\nFRAMING (Sony A1)\nNobbys Lighthouse spans about 0.7° tall from he
+ re. The moon is 0.52° wide\, about 14 m across at this distance.\nLandmar
+ k filling 60% of the frame height: FE 200-600mm at 600 mm\, or 900 mm equi
+ valent in APS-C crop mode.\nMoon dominant: FE 200-600mm at 600 mm puts the
+  moon at 23% of frame height (34% in APS-C crop mode).\nTripod\, OSS off o
+ n the tripod\, 2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\
+ nStart: ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 
+ EV after sunset and blend.\n\nFIELD NOTES\n- Stockton is reached by the Ne
+ wcastle ferry from Queens Wharf or by road over Stockton Bridge.\n- Harbou
+ r traffic: check the Port of Newcastle shipping schedule for a ship in fra
+ me.\n- The camera pin is on the foreshore south of the wharf. Walk the sho
+ reline to fine tune.\n- Stay off the breakwall when there is any surf.\n\n
+ VERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, alignment time):
+  https://app.photoephemeris.com/?ll=-32.92094\,151.78193&center=-32.92094\
+ ,151.78193&z=16&dt=2027-02-21T08%3A52%3A00.000Z&sll=-32.91857\,151.79840&f
+ ovb=80.3&fovhfov=3.43&fovvfov=2.29&fovd=1560&fovo=l&fovov=1\nIn TPE\, set 
+ the secondary height to about 18 m above ground to check the geodetics lin
+ e.\nPhotoPills: Planner > red pin on the camera pin\, black pin on the sub
+ ject > Find > Moon\, elevation 1.2° > confirm the date. Use the AR view o
+ n site.\nHeights are approximate. Fine tune by a few metres on the day.\n\
+ nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).
+ \nMoon and sun positions: computed with Skyfield and JPL DE421\, with stan
+ dard refraction.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m vi
+ a OpenTopoData.\nTide predictions: Bureau of Meteorology 2027 tide tables\
+ , Copyright Commonwealth of Australia 2026. Based on Bureau of Meteorology
+  information that has been modified. The Bureau does not necessarily suppo
+ rt or endorse\, or have any connection with\, this product\, and gives no 
+ warranty about the information. Full terms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -167,7 +188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20270322@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270322T180100
 DTEND;TZID=Australia/Sydney:20270322T191600
 SUMMARY:Full Moon · Barrenjoey Lighthouse from West Head Lookout · Moonri
@@ -195,29 +216,41 @@ DESCRIPTION:WHAT: The full moon lifting off the ocean right beside Barrenjo
  ookout\, Barrenjoey Lighthouse is 1911 m away on bearing 93.5°.\nThe moon
   rises 0.5° left of the target\, roughly one moon width. Shift a few metr
  es along the rail to fine tune.\nStraight line from Neutral Bay: about 30 
- km.\n\nFRAMING (Sony A1)\nBarrenjoey Lighthouse spans about 0.5° tall fro
- m here. The moon is 0.52° wide\, about 17 m across at this distance.\nLan
- dmark filling 60% of the frame height: FE 200-600mm at 600 mm\, or 900 mm 
- equivalent in APS-C crop mode.\nMoon dominant: FE 200-600mm at 600 mm puts
-  the moon at 23% of frame height (34% in APS-C crop mode).\nTripod\, OSS o
- ff on the tripod\, 2 s timer or remote\, shutter 1/125 s or faster at 600 
- mm.\nStart: ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 frames a
- t 2 EV after sunset and blend.\n\nFIELD NOTES\n- NPWS: West Head gates clo
- se at 8.30pm during daylight saving and 6pm the rest of the year. Leave be
- fore the gate closes.\n- Park entry is a vehicle day fee\, payable with th
- e Park'nPay app.\n- The lookout is about 100 m above the sea\, so the moon
-  rises from the sea horizon level with the lantern.\n\nVERIFY BEFORE YOU G
- O\nTPE Web (camera pin\, subject pin\, alignment time): https://app.photoe
- phemeris.com/?ll=-33.57914\,151.30924&center=-33.57914\,151.30924&z=16&dt=
- 2027-03-22T07%3A46%3A00.000Z&sll=-33.58019\,151.32983&fovb=93.5&fovhfov=3.
- 43&fovvfov=2.29&fovd=1911&fovo=l&fovov=1\nIn TPE\, set the secondary heigh
- t to about 18 m above ground to check the geodetics line.\nPhotoPills: Pla
- nner > red pin on the camera pin\, black pin on the subject > Find > Moon\
- , elevation 0.3° > confirm the date. Use the AR view on site.\nHeights ar
- e approximate. Fine tune by a few metres on the day.\n\nSOURCES\nMoon phas
- es: US Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and sun posi
- tions: computed with Skyfield and JPL DE421\, with standard refraction.\nC
- oordinates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoData.
+ km.\n\nTIDES (BOM prediction\, Sydney (Fort Denison))\nNearest BOM standar
+ d port. Broken Bay tides are similar in timing. The lookout is high above 
+ the water\, so tide only changes the foreground.\nLow water Mon 15:21  0.2
+ 9 m\nHigh water Mon 21:31  1.75 m\nAt the alignment (18:46): about 1.15 m 
+ and rising.\nPredictions exclude swell\, wind setup and wave run up. Check
+  BOM coastal waters and swell forecasts on the day.\nSource table: https:/
+ /www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP007.pdf\n\nFRAMING (Sony 
+ A1)\nBarrenjoey Lighthouse spans about 0.5° tall from here. The moon is 0
+ .52° wide\, about 17 m across at this distance.\nLandmark filling 60% of 
+ the frame height: FE 200-600mm at 600 mm\, or 900 mm equivalent in APS-C c
+ rop mode.\nMoon dominant: FE 200-600mm at 600 mm puts the moon at 23% of f
+ rame height (34% in APS-C crop mode).\nTripod\, OSS off on the tripod\, 2 
+ s timer or remote\, shutter 1/125 s or faster at 600 mm.\nStart: ISO 200 t
+ o 400\, f/8\, expose for the moon. Bracket 3 frames at 2 EV after sunset a
+ nd blend.\n\nFIELD NOTES\n- NPWS: West Head gates close at 8.30pm during d
+ aylight saving and 6pm the rest of the year. Leave before the gate closes.
+ \n- Park entry is a vehicle day fee\, payable with the Park'nPay app.\n- T
+ he lookout is about 100 m above the sea\, so the moon rises from the sea h
+ orizon level with the lantern.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pi
+ n\, subject pin\, alignment time): https://app.photoephemeris.com/?ll=-33.
+ 57914\,151.30924&center=-33.57914\,151.30924&z=16&dt=2027-03-22T07%3A46%3A
+ 00.000Z&sll=-33.58019\,151.32983&fovb=93.5&fovhfov=3.43&fovvfov=2.29&fovd=
+ 1911&fovo=l&fovov=1\nIn TPE\, set the secondary height to about 18 m above
+  ground to check the geodetics line.\nPhotoPills: Planner > red pin on the
+  camera pin\, black pin on the subject > Find > Moon\, elevation 0.3° > c
+ onfirm the date. Use the AR view on site.\nHeights are approximate. Fine t
+ une by a few metres on the day.\n\nSOURCES\nMoon phases: US Naval Observat
+ ory 2027 table (aa.usno.navy.mil).\nMoon and sun positions: computed with 
+ Skyfield and JPL DE421\, with standard refraction.\nCoordinates: OpenStree
+ tMap. Ground heights: SRTM 30 m via OpenTopoData.\nTide predictions: Burea
+ u of Meteorology 2027 tide tables\, Copyright Commonwealth of Australia 20
+ 26. Based on Bureau of Meteorology information that has been modified. The
+  Bureau does not necessarily support or endorse\, or have any connection w
+ ith\, this product\, and gives no warranty about the information. Full ter
+ ms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -236,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20270421@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270421T165100
 DTEND;TZID=Australia/Sydney:20270421T180600
 SUMMARY:Full Moon · Kiama Lighthouse from Black Beach\, Kiama · Moon on t
@@ -266,29 +299,41 @@ DESCRIPTION:WHAT: The full moon rising behind Kiama Lighthouse on Blowhole
  ,150.86259\nFrom the exact pin\, Kiama Lighthouse is 611 m away on bearing
   109.1°.\nFrom the named spot it is on bearing 106.3°\, so there the moo
  n passes 2.8° right of the target. Walk toward the exact pin to close the
-  gap.\nStraight line from Neutral Bay: about 98 km.\n\nFRAMING (Sony A1)\n
- Kiama Lighthouse spans about 1.4° tall from here. The moon is 0.52° wide
- \, about 6 m across at this distance.\nLandmark filling 60% of the frame h
- eight: FE 200-600mm at about 590 mm.\nMoon dominant: FE 200-600mm at 600 m
- m puts the moon at 23% of frame height (34% in APS-C crop mode).\nTripod\,
-  OSS off on the tripod\, 2 s timer or remote\, shutter 1/125 s or faster a
- t 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 fr
- ames at 2 EV after sunset and blend.\n\nFIELD NOTES\n- Wednesday\, about 2
-  hours south. Plan a half day. Kiama station is a short walk away.\n- Low 
- tide exposes the dark rocks at Black Beach for foreground.\n- Blowhole Poi
- nt floodlights switch on after dark. Shoot the alignment before they domin
- ate.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, alignmen
- t time): https://app.photoephemeris.com/?ll=-34.67001\,150.85627&center=-3
- 4.67001\,150.85627&z=16&dt=2027-04-21T07%3A36%3A00.000Z&sll=-34.67181\,150
- .86259&fovb=109.1&fovhfov=3.50&fovvfov=2.34&fovd=611&fovo=l&fovov=1\nIn TP
- E\, set the secondary height to about 15 m above ground to check the geode
- tics line.\nPhotoPills: Planner > red pin on the camera pin\, black pin on
-  the subject > Find > Moon\, elevation 3.4° > confirm the date. Use the A
- R view on site.\nHeights are approximate. Fine tune by a few metres on the
-  day.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.na
- vy.mil).\nMoon and sun positions: computed with Skyfield and JPL DE421\, w
- ith standard refraction.\nCoordinates: OpenStreetMap. Ground heights: SRTM
-  30 m via OpenTopoData.
+  gap.\nStraight line from Neutral Bay: about 98 km.\n\nTIDES (BOM predicti
+ on\, Port Kembla)\nPort Kembla is the nearest BOM standard port. Treat tim
+ es as approximate.\nLow water Wed 14:15  0.45 m\nHigh water Wed 20:41  1.8
+ 0 m\nAt the alignment (17:36): about 1.17 m and rising.\nROCK PLATFORM CAU
+ TION: the water is mid to high and the tide is rising at this time. Stay o
+ n dry ground above the platform.\nPredictions exclude swell\, wind setup a
+ nd wave run up. Check BOM coastal waters and swell forecasts on the day.\n
+ Source table: https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP006.
+ pdf\n\nFRAMING (Sony A1)\nKiama Lighthouse spans about 1.4° tall from her
+ e. The moon is 0.52° wide\, about 6 m across at this distance.\nLandmark 
+ filling 60% of the frame height: FE 200-600mm at about 590 mm.\nMoon domin
+ ant: FE 200-600mm at 600 mm puts the moon at 23% of frame height (34% in A
+ PS-C crop mode).\nTripod\, OSS off on the tripod\, 2 s timer or remote\, s
+ hutter 1/125 s or faster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose 
+ for the moon. Bracket 3 frames at 2 EV after sunset and blend.\n\nFIELD NO
+ TES\n- Wednesday\, about 2 hours south. Plan a half day. Kiama station is 
+ a short walk away.\n- Low tide exposes the dark rocks at Black Beach for f
+ oreground.\n- Blowhole Point floodlights switch on after dark. Shoot the a
+ lignment before they dominate.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pi
+ n\, subject pin\, alignment time): https://app.photoephemeris.com/?ll=-34.
+ 67001\,150.85627&center=-34.67001\,150.85627&z=16&dt=2027-04-21T07%3A36%3A
+ 00.000Z&sll=-34.67181\,150.86259&fovb=109.1&fovhfov=3.50&fovvfov=2.34&fovd
+ =611&fovo=l&fovov=1\nIn TPE\, set the secondary height to about 15 m above
+  ground to check the geodetics line.\nPhotoPills: Planner > red pin on the
+  camera pin\, black pin on the subject > Find > Moon\, elevation 3.4° > c
+ onfirm the date. Use the AR view on site.\nHeights are approximate. Fine t
+ une by a few metres on the day.\n\nSOURCES\nMoon phases: US Naval Observat
+ ory 2027 table (aa.usno.navy.mil).\nMoon and sun positions: computed with 
+ Skyfield and JPL DE421\, with standard refraction.\nCoordinates: OpenStree
+ tMap. Ground heights: SRTM 30 m via OpenTopoData.\nTide predictions: Burea
+ u of Meteorology 2027 tide tables\, Copyright Commonwealth of Australia 20
+ 26. Based on Bureau of Meteorology information that has been modified. The
+  Bureau does not necessarily support or endorse\, or have any connection w
+ ith\, this product\, and gives no warranty about the information. Full ter
+ ms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -307,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20270520@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270520T164300
 DTEND;TZID=Australia/Sydney:20270520T175800
 SUMMARY:Full Moon · Sydney Harbour Bridge from Blues Point Reserve · Moon
@@ -338,29 +383,39 @@ DESCRIPTION:WHAT: The full moon sitting on the top of the Harbour Bridge ar
  Sydney Harbour Bridge is 732 m away on bearing 112.0°.\nFrom the named sp
  ot it is on bearing 112.6°\, so there the moon passes 0.7° left of the t
  arget. Walk toward the exact pin to close the gap.\nStraight line from Neu
- tral Bay: about 2 km.\n\nFRAMING (Sony A1)\nSydney Harbour Bridge spans ab
- out 10.4° tall from here. The moon is 0.52° wide\, about 7 m across at t
- his distance.\nLandmark filling 60% of the frame height: FE 70-200mm F2.8 
- GM OSS II at about 80 mm.\nMoon dominant: FE 200-600mm at 600 mm puts the 
- moon at 23% of frame height (34% in APS-C crop mode).\nTripod\, OSS off on
-  the tripod\, 2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\n
- Start: ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 E
- V after sunset and blend.\n\nFIELD NOTES\n- About 1.5 km from the North Sy
- dney office. Leave by 16:30 on the day.\n- Popular spot on full moon night
- s. Arrive early to claim the line.\n- Twilight bridge climbers may be on t
- he arch. At 600 mm they make a strong silhouette against the moon.\n\nVERI
- FY BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, alignment time): htt
- ps://app.photoephemeris.com/?ll=-33.84966\,151.20343&center=-33.84966\,151
- .20343&z=16&dt=2027-05-20T07%3A28%3A00.000Z&sll=-33.85212\,151.21078&fovb=
- 112.0&fovhfov=25.63&fovvfov=17.29&fovd=732&fovo=l&fovov=1\nIn TPE\, set th
- e secondary height to about 134 m above ground to check the geodetics line
- .\nPhotoPills: Planner > red pin on the camera pin\, black pin on the subj
- ect > Find > Moon\, elevation 10.3° > confirm the date. Use the AR view o
- n site.\nHeights are approximate. Fine tune by a few metres on the day.\n\
- nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).
- \nMoon and sun positions: computed with Skyfield and JPL DE421\, with stan
- dard refraction.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m vi
- a OpenTopoData.
+ tral Bay: about 2 km.\n\nTIDES (BOM prediction\, Sydney (Fort Denison))\nF
+ ort Denison is about 1.5 km away in the same harbour\, so times are close.
+ \nLow water Thu 13:39  0.62 m\nHigh water Thu 20:15  1.90 m\nAt the alignm
+ ent (17:28): about 1.42 m and rising.\nPredictions exclude swell\, wind se
+ tup and wave run up. Check BOM coastal waters and swell forecasts on the d
+ ay.\nSource table: https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_T
+ P007.pdf\n\nFRAMING (Sony A1)\nSydney Harbour Bridge spans about 10.4° ta
+ ll from here. The moon is 0.52° wide\, about 7 m across at this distance.
+ \nLandmark filling 60% of the frame height: FE 70-200mm F2.8 GM OSS II at 
+ about 80 mm.\nMoon dominant: FE 200-600mm at 600 mm puts the moon at 23% o
+ f frame height (34% in APS-C crop mode).\nTripod\, OSS off on the tripod\,
+  2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\nStart: ISO 20
+ 0 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 EV after sunse
+ t and blend.\n\nFIELD NOTES\n- About 1.5 km from the North Sydney office. 
+ Leave by 16:30 on the day.\n- Popular spot on full moon nights. Arrive ear
+ ly to claim the line.\n- Twilight bridge climbers may be on the arch. At 6
+ 00 mm they make a strong silhouette against the moon.\n\nVERIFY BEFORE YOU
+  GO\nTPE Web (camera pin\, subject pin\, alignment time): https://app.phot
+ oephemeris.com/?ll=-33.84966\,151.20343&center=-33.84966\,151.20343&z=16&d
+ t=2027-05-20T07%3A28%3A00.000Z&sll=-33.85212\,151.21078&fovb=112.0&fovhfov
+ =25.63&fovvfov=17.29&fovd=732&fovo=l&fovov=1\nIn TPE\, set the secondary h
+ eight to about 134 m above ground to check the geodetics line.\nPhotoPills
+ : Planner > red pin on the camera pin\, black pin on the subject > Find > 
+ Moon\, elevation 10.3° > confirm the date. Use the AR view on site.\nHeig
+ hts are approximate. Fine tune by a few metres on the day.\n\nSOURCES\nMoo
+ n phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and su
+ n positions: computed with Skyfield and JPL DE421\, with standard refracti
+ on.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoDat
+ a.\nTide predictions: Bureau of Meteorology 2027 tide tables\, Copyright C
+ ommonwealth of Australia 2026. Based on Bureau of Meteorology information 
+ that has been modified. The Bureau does not necessarily support or endorse
+ \, or have any connection with\, this product\, and gives no warranty abou
+ t the information. Full terms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -379,7 +434,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20270718@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270718T161500
 DTEND;TZID=Australia/Sydney:20270718T173000
 SUMMARY:Full Moon · Norah Head Lighthouse from Norah Head Rock Pool · Moo
@@ -408,28 +463,40 @@ DESCRIPTION:WHAT: The full moon rising behind Norah Head Lighthouse across
  3.28165\,151.57635\nFrom the exact pin\, Norah Head Lighthouse is 695 m aw
  ay on bearing 115.5°.\nFrom the named spot it is on bearing 115.9°\, so 
  there the moon passes 0.3° left of the target. Walk toward the exact pin 
- to close the gap.\nStraight line from Neutral Bay: about 70 km.\n\nFRAMING
-  (Sony A1)\nNorah Head Lighthouse spans about 2.2° tall from here. The mo
- on is 0.52° wide\, about 6 m across at this distance.\nLandmark filling 6
- 0% of the frame height: FE 200-600mm at about 370 mm.\nMoon dominant: FE 2
- 00-600mm at 600 mm puts the moon at 23% of frame height (34% in APS-C crop
-  mode).\nTripod\, OSS off on the tripod\, 2 s timer or remote\, shutter 1/
- 125 s or faster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for the m
- oon. Bracket 3 frames at 2 EV after sunset and blend.\n\nFIELD NOTES\n- Ro
- ck pool and platform: check swell before stepping onto the rocks.\n- The a
- lignment pin is within metres of the rock pool.\n- A Sunday shoot. Allow a
- bout 1 h 30 min to drive up from Neutral Bay.\n\nVERIFY BEFORE YOU GO\nTPE
-  Web (camera pin\, subject pin\, alignment time): https://app.photoephemer
- is.com/?ll=-33.27895\,151.56960&center=-33.27895\,151.56960&z=16&dt=2027-0
- 7-18T07%3A00%3A00.000Z&sll=-33.28165\,151.57635&fovb=115.5&fovhfov=5.54&fo
- vvfov=3.70&fovd=695&fovo=l&fovov=1\nIn TPE\, set the secondary height to a
- bout 27 m above ground to check the geodetics line.\nPhotoPills: Planner >
-  red pin on the camera pin\, black pin on the subject > Find > Moon\, elev
- ation 3.4° > confirm the date. Use the AR view on site.\nHeights are appr
- oximate. Fine tune by a few metres on the day.\n\nSOURCES\nMoon phases: US
-  Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and sun positions:
-  computed with Skyfield and JPL DE421\, with standard refraction.\nCoordin
- ates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoData.
+ to close the gap.\nStraight line from Neutral Bay: about 70 km.\n\nTIDES (
+ BOM prediction\, Newcastle)\nNewcastle is the nearest BOM standard port. T
+ reat times as approximate.\nLow water Sun 13:35  0.68 m\nHigh water Sun 20
+ :14  1.85 m\nAt the alignment (17:00): about 1.29 m and rising.\nROCK PLAT
+ FORM CAUTION: the water is mid to high and the tide is rising at this time
+ . Stay on dry ground above the platform.\nPredictions exclude swell\, wind
+  setup and wave run up. Check BOM coastal waters and swell forecasts on th
+ e day.\nSource table: https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NS
+ W_TP004.pdf\n\nFRAMING (Sony A1)\nNorah Head Lighthouse spans about 2.2° 
+ tall from here. The moon is 0.52° wide\, about 6 m across at this distanc
+ e.\nLandmark filling 60% of the frame height: FE 200-600mm at about 370 mm
+ .\nMoon dominant: FE 200-600mm at 600 mm puts the moon at 23% of frame hei
+ ght (34% in APS-C crop mode).\nTripod\, OSS off on the tripod\, 2 s timer 
+ or remote\, shutter 1/125 s or faster at 600 mm.\nStart: ISO 200 to 400\, 
+ f/8\, expose for the moon. Bracket 3 frames at 2 EV after sunset and blend
+ .\n\nFIELD NOTES\n- Rock pool and platform: check swell before stepping on
+ to the rocks.\n- The alignment pin is within metres of the rock pool.\n- A
+  Sunday shoot. Allow about 1 h 30 min to drive up from Neutral Bay.\n\nVER
+ IFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, alignment time): ht
+ tps://app.photoephemeris.com/?ll=-33.27895\,151.56960&center=-33.27895\,15
+ 1.56960&z=16&dt=2027-07-18T07%3A00%3A00.000Z&sll=-33.28165\,151.57635&fovb
+ =115.5&fovhfov=5.54&fovvfov=3.70&fovd=695&fovo=l&fovov=1\nIn TPE\, set the
+  secondary height to about 27 m above ground to check the geodetics line.\
+ nPhotoPills: Planner > red pin on the camera pin\, black pin on the subjec
+ t > Find > Moon\, elevation 3.4° > confirm the date. Use the AR view on s
+ ite.\nHeights are approximate. Fine tune by a few metres on the day.\n\nSO
+ URCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nM
+ oon and sun positions: computed with Skyfield and JPL DE421\, with standar
+ d refraction.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m via O
+ penTopoData.\nTide predictions: Bureau of Meteorology 2027 tide tables\, C
+ opyright Commonwealth of Australia 2026. Based on Bureau of Meteorology in
+ formation that has been modified. The Bureau does not necessarily support 
+ or endorse\, or have any connection with\, this product\, and gives no war
+ ranty about the information. Full terms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -448,7 +515,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20270816@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270816T163900
 DTEND;TZID=Australia/Sydney:20270816T175400
 SUMMARY:Full Moon · Sydney Harbour Bridge from Blues Point Reserve · Moon
@@ -479,29 +546,39 @@ DESCRIPTION:WHAT: The full moon reaching the top of the Harbour Bridge arch
  ney Harbour Bridge is 734 m away on bearing 103.2°.\nFrom the named spot 
  it is on bearing 112.6°\, so there the moon passes 9.4° left of the targ
  et. Walk toward the exact pin to close the gap.\nStraight line from Neutra
- l Bay: about 2 km.\n\nFRAMING (Sony A1)\nSydney Harbour Bridge spans about
-  10.4° tall from here. The moon is 0.52° wide\, about 7 m across at this
-  distance.\nLandmark filling 60% of the frame height: FE 70-200mm F2.8 GM 
- OSS II at about 80 mm.\nMoon dominant: FE 200-600mm at 600 mm puts the moo
- n at 23% of frame height (34% in APS-C crop mode).\nTripod\, OSS off on th
- e tripod\, 2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\nSta
- rt: ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 EV a
- fter sunset and blend.\n\nFIELD NOTES\n- About 1.5 km from the North Sydne
- y office. Leave by 16:20 on the day.\n- The exact pin is about 120 m south
-  of the reserve pin\, near the point itself.\n- The moon is still faint ag
- ainst the sunset sky. Expose for the sky and bracket.\n\nVERIFY BEFORE YOU
-  GO\nTPE Web (camera pin\, subject pin\, alignment time): https://app.phot
- oephemeris.com/?ll=-33.85061\,151.20304&center=-33.85061\,151.20304&z=16&d
- t=2027-08-16T07%3A24%3A00.000Z&sll=-33.85212\,151.21078&fovb=103.2&fovhfov
- =25.57&fovvfov=17.25&fovd=734&fovo=l&fovov=1\nIn TPE\, set the secondary h
- eight to about 134 m above ground to check the geodetics line.\nPhotoPills
- : Planner > red pin on the camera pin\, black pin on the subject > Find > 
- Moon\, elevation 10.2° > confirm the date. Use the AR view on site.\nHeig
- hts are approximate. Fine tune by a few metres on the day.\n\nSOURCES\nMoo
- n phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and su
- n positions: computed with Skyfield and JPL DE421\, with standard refracti
- on.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoDat
- a.
+ l Bay: about 2 km.\n\nTIDES (BOM prediction\, Sydney (Fort Denison))\nFort
+  Denison is about 1.5 km away in the same harbour\, so times are close.\nL
+ ow water Mon 13:19  0.54 m\nHigh water Mon 19:49  1.74 m\nAt the alignment
+  (17:24): about 1.38 m and rising.\nPredictions exclude swell\, wind setup
+  and wave run up. Check BOM coastal waters and swell forecasts on the day.
+ \nSource table: https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP00
+ 7.pdf\n\nFRAMING (Sony A1)\nSydney Harbour Bridge spans about 10.4° tall 
+ from here. The moon is 0.52° wide\, about 7 m across at this distance.\nL
+ andmark filling 60% of the frame height: FE 70-200mm F2.8 GM OSS II at abo
+ ut 80 mm.\nMoon dominant: FE 200-600mm at 600 mm puts the moon at 23% of f
+ rame height (34% in APS-C crop mode).\nTripod\, OSS off on the tripod\, 2 
+ s timer or remote\, shutter 1/125 s or faster at 600 mm.\nStart: ISO 200 t
+ o 400\, f/8\, expose for the moon. Bracket 3 frames at 2 EV after sunset a
+ nd blend.\n\nFIELD NOTES\n- About 1.5 km from the North Sydney office. Lea
+ ve by 16:20 on the day.\n- The exact pin is about 120 m south of the reser
+ ve pin\, near the point itself.\n- The moon is still faint against the sun
+ set sky. Expose for the sky and bracket.\n\nVERIFY BEFORE YOU GO\nTPE Web 
+ (camera pin\, subject pin\, alignment time): https://app.photoephemeris.co
+ m/?ll=-33.85061\,151.20304&center=-33.85061\,151.20304&z=16&dt=2027-08-16T
+ 07%3A24%3A00.000Z&sll=-33.85212\,151.21078&fovb=103.2&fovhfov=25.57&fovvfo
+ v=17.25&fovd=734&fovo=l&fovov=1\nIn TPE\, set the secondary height to abou
+ t 134 m above ground to check the geodetics line.\nPhotoPills: Planner > r
+ ed pin on the camera pin\, black pin on the subject > Find > Moon\, elevat
+ ion 10.2° > confirm the date. Use the AR view on site.\nHeights are appro
+ ximate. Fine tune by a few metres on the day.\n\nSOURCES\nMoon phases: US 
+ Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and sun positions: 
+ computed with Skyfield and JPL DE421\, with standard refraction.\nCoordina
+ tes: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoData.\nTide pred
+ ictions: Bureau of Meteorology 2027 tide tables\, Copyright Commonwealth o
+ f Australia 2026. Based on Bureau of Meteorology information that has been
+  modified. The Bureau does not necessarily support or endorse\, or have an
+ y connection with\, this product\, and gives no warranty about the informa
+ tion. Full terms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -520,7 +597,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20270916@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20270916T172700
 DTEND;TZID=Australia/Sydney:20270916T184200
 SUMMARY:Full Moon · Nobbys Lighthouse from Stockton foreshore · Spring mo
@@ -549,28 +626,39 @@ DESCRIPTION:WHAT: The full moon rising behind Nobbys Head Lighthouse about
  pin\, Nobbys Lighthouse is 1569 m away on bearing 85.9°.\nFrom the named 
  spot it is on bearing 85.0°\, so there the moon passes 0.9° right of the
   target. Walk toward the exact pin to close the gap.\nStraight line from N
- eutral Bay: about 115 km.\n\nFRAMING (Sony A1)\nNobbys Lighthouse spans ab
- out 0.7° tall from here. The moon is 0.52° wide\, about 14 m across at t
- his distance.\nLandmark filling 60% of the frame height: FE 200-600mm at 6
- 00 mm\, or 900 mm equivalent in APS-C crop mode.\nMoon dominant: FE 200-60
- 0mm at 600 mm puts the moon at 23% of frame height (34% in APS-C crop mode
- ).\nTripod\, OSS off on the tripod\, 2 s timer or remote\, shutter 1/125 s
-  or faster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for the moon. 
- Bracket 3 frames at 2 EV after sunset and blend.\n\nFIELD NOTES\n- Thursda
- y evening\, about 2 hours north. Plan a half day or a Newcastle overnight.
- \n- The exact pin is about 80 m along the foreshore from the wharf.\n- Che
- ck the shipping schedule for an outbound ship.\n\nVERIFY BEFORE YOU GO\nTP
- E Web (camera pin\, subject pin\, alignment time): https://app.photoepheme
- ris.com/?ll=-32.91958\,151.78164&center=-32.91958\,151.78164&z=16&dt=2027-
- 09-16T08%3A12%3A00.000Z&sll=-32.91857\,151.79840&fovb=85.9&fovhfov=3.43&fo
- vvfov=2.29&fovd=1569&fovo=l&fovov=1\nIn TPE\, set the secondary height to 
- about 18 m above ground to check the geodetics line.\nPhotoPills: Planner 
- > red pin on the camera pin\, black pin on the subject > Find > Moon\, ele
- vation 1.2° > confirm the date. Use the AR view on site.\nHeights are app
- roximate. Fine tune by a few metres on the day.\n\nSOURCES\nMoon phases: U
- S Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and sun positions
- : computed with Skyfield and JPL DE421\, with standard refraction.\nCoordi
- nates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoData.
+ eutral Bay: about 115 km.\n\nTIDES (BOM prediction\, Newcastle)\nThe Newca
+ stle gauge is in the same harbour mouth\, so times are close.\nLow water T
+ hu 14:16  0.50 m\nHigh water Thu 20:29  1.68 m\nAt the alignment (18:12): 
+ about 1.33 m and rising.\nPredictions exclude swell\, wind setup and wave 
+ run up. Check BOM coastal waters and swell forecasts on the day.\nSource t
+ able: https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP004.pdf\n\nF
+ RAMING (Sony A1)\nNobbys Lighthouse spans about 0.7° tall from here. The 
+ moon is 0.52° wide\, about 14 m across at this distance.\nLandmark fillin
+ g 60% of the frame height: FE 200-600mm at 600 mm\, or 900 mm equivalent i
+ n APS-C crop mode.\nMoon dominant: FE 200-600mm at 600 mm puts the moon at
+  23% of frame height (34% in APS-C crop mode).\nTripod\, OSS off on the tr
+ ipod\, 2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\nStart: 
+ ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 EV after
+  sunset and blend.\n\nFIELD NOTES\n- Thursday evening\, about 2 hours nort
+ h. Plan a half day or a Newcastle overnight.\n- The exact pin is about 80 
+ m along the foreshore from the wharf.\n- Check the shipping schedule for a
+ n outbound ship.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pi
+ n\, alignment time): https://app.photoephemeris.com/?ll=-32.91958\,151.781
+ 64&center=-32.91958\,151.78164&z=16&dt=2027-09-16T08%3A12%3A00.000Z&sll=-3
+ 2.91857\,151.79840&fovb=85.9&fovhfov=3.43&fovvfov=2.29&fovd=1569&fovo=l&fo
+ vov=1\nIn TPE\, set the secondary height to about 18 m above ground to che
+ ck the geodetics line.\nPhotoPills: Planner > red pin on the camera pin\, 
+ black pin on the subject > Find > Moon\, elevation 1.2° > confirm the dat
+ e. Use the AR view on site.\nHeights are approximate. Fine tune by a few m
+ etres on the day.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table
+  (aa.usno.navy.mil).\nMoon and sun positions: computed with Skyfield and J
+ PL DE421\, with standard refraction.\nCoordinates: OpenStreetMap. Ground h
+ eights: SRTM 30 m via OpenTopoData.\nTide predictions: Bureau of Meteorolo
+ gy 2027 tide tables\, Copyright Commonwealth of Australia 2026. Based on B
+ ureau of Meteorology information that has been modified. The Bureau does n
+ ot necessarily support or endorse\, or have any connection with\, this pro
+ duct\, and gives no warranty about the information. Full terms: page 4 of 
+ the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -589,7 +677,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20271016@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20271016T192100
 DTEND;TZID=Australia/Sydney:20271016T203600
 SUMMARY:Full Moon · Crookhaven Lighthouse from Orient Point · Moonrise be
@@ -617,29 +705,40 @@ DESCRIPTION:WHAT: The full moon rising behind the small Crookhaven Heads Li
   3093 m away on bearing 68.4°.\nFrom the named spot it is on bearing 68.1
  °\, so there the moon passes 0.3° right of the target. Walk toward the e
  xact pin to close the gap.\nStraight line from Neutral Bay: about 127 km.\
- n\nFRAMING (Sony A1)\nCrookhaven Lighthouse spans about 0.2° tall from he
- re. The moon is 0.52° wide\, about 28 m across at this distance.\nLandmar
- k filling 60% of the frame height: FE 200-600mm at 600 mm\, or 900 mm equi
- valent in APS-C crop mode.\nMoon dominant: FE 200-600mm at 600 mm puts the
-  moon at 23% of frame height (34% in APS-C crop mode).\nTripod\, OSS off o
- n the tripod\, 2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\
- nStart: ISO 200 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 
- EV after sunset and blend.\n\nFIELD NOTES\n- Long drive: about 2 h 30 min 
- south. Pair it with a Shoalhaven weekend.\n- Check the exact pin falls on 
- the public foreshore before you go\, then fine tune along the shore.\n- Mo
- onrise is after sunset. The sky is dark blue\, so expose for the moon and 
- blend.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, alignm
- ent time): https://app.photoephemeris.com/?ll=-34.90935\,150.73862&center=
- -34.90935\,150.73862&z=16&dt=2027-10-16T09%3A06%3A00.000Z&sll=-34.89912\,1
- 50.77017&fovb=68.4&fovhfov=3.43&fovvfov=2.29&fovd=3093&fovo=l&fovov=1\nIn 
- TPE\, set the secondary height to about 11 m above ground to check the geo
- detics line.\nPhotoPills: Planner > red pin on the camera pin\, black pin 
- on the subject > Find > Moon\, elevation 0.5° > confirm the date. Use the
-  AR view on site.\nHeights are approximate. Fine tune by a few metres on t
- he day.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.
- navy.mil).\nMoon and sun positions: computed with Skyfield and JPL DE421\,
-  with standard refraction.\nCoordinates: OpenStreetMap. Ground heights: SR
- TM 30 m via OpenTopoData.
+ n\nTIDES (BOM prediction\, Port Kembla)\nPort Kembla is the nearest BOM st
+ andard port. The Crookhaven River mouth can lag the open coast\, so treat 
+ times as approximate.\nLow water Sat 15:39  0.33 m\nHigh water Sat 21:38  
+ 1.41 m\nAt the alignment (20:06): about 1.25 m and rising.\nPredictions ex
+ clude swell\, wind setup and wave run up. Check BOM coastal waters and swe
+ ll forecasts on the day.\nSource table: https://www.bom.gov.au/ntc/IDO5900
+ 1/IDO59001_2027_NSW_TP006.pdf\n\nFRAMING (Sony A1)\nCrookhaven Lighthouse 
+ spans about 0.2° tall from here. The moon is 0.52° wide\, about 28 m acr
+ oss at this distance.\nLandmark filling 60% of the frame height: FE 200-60
+ 0mm at 600 mm\, or 900 mm equivalent in APS-C crop mode.\nMoon dominant: F
+ E 200-600mm at 600 mm puts the moon at 23% of frame height (34% in APS-C c
+ rop mode).\nTripod\, OSS off on the tripod\, 2 s timer or remote\, shutter
+  1/125 s or faster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for th
+ e moon. Bracket 3 frames at 2 EV after sunset and blend.\n\nFIELD NOTES\n-
+  Long drive: about 2 h 30 min south. Pair it with a Shoalhaven weekend.\n-
+  Check the exact pin falls on the public foreshore before you go\, then fi
+ ne tune along the shore.\n- Moonrise is after sunset. The sky is dark blue
+ \, so expose for the moon and blend.\n\nVERIFY BEFORE YOU GO\nTPE Web (cam
+ era pin\, subject pin\, alignment time): https://app.photoephemeris.com/?l
+ l=-34.90935\,150.73862&center=-34.90935\,150.73862&z=16&dt=2027-10-16T09%3
+ A06%3A00.000Z&sll=-34.89912\,150.77017&fovb=68.4&fovhfov=3.43&fovvfov=2.29
+ &fovd=3093&fovo=l&fovov=1\nIn TPE\, set the secondary height to about 11 m
+  above ground to check the geodetics line.\nPhotoPills: Planner > red pin 
+ on the camera pin\, black pin on the subject > Find > Moon\, elevation 0.5
+ ° > confirm the date. Use the AR view on site.\nHeights are approximate. 
+ Fine tune by a few metres on the day.\n\nSOURCES\nMoon phases: US Naval Ob
+ servatory 2027 table (aa.usno.navy.mil).\nMoon and sun positions: computed
+  with Skyfield and JPL DE421\, with standard refraction.\nCoordinates: Ope
+ nStreetMap. Ground heights: SRTM 30 m via OpenTopoData.\nTide predictions:
+  Bureau of Meteorology 2027 tide tables\, Copyright Commonwealth of Austra
+ lia 2026. Based on Bureau of Meteorology information that has been modifie
+ d. The Bureau does not necessarily support or endorse\, or have any connec
+ tion with\, this product\, and gives no warranty about the information. Fu
+ ll terms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -658,7 +757,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20271114@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20271114T200000
 DTEND;TZID=Australia/Sydney:20271114T211500
 SUMMARY:Full Moon · Anzac Bridge from Bicentennial Park\, Glebe · Late sp
@@ -688,28 +787,38 @@ DESCRIPTION:WHAT: The full moon rising between the pylons of Anzac Bridge a
  ct pin\, Anzac Bridge is 857 m away on bearing 53.9°.\nFrom the named spo
  t it is on bearing 59.7°\, so there the moon passes 5.8° left of the tar
  get. Walk toward the exact pin to close the gap.\nStraight line from Neutr
- al Bay: about 6 km.\n\nFRAMING (Sony A1)\nAnzac Bridge spans about 8.0° t
- all from here. The moon is 0.52° wide\, about 8 m across at this distance
- .\nLandmark filling 60% of the frame height: FE 70-200mm F2.8 GM OSS II at
-  about 105 mm.\nMoon dominant: FE 200-600mm at 600 mm puts the moon at 23%
-  of frame height (34% in APS-C crop mode).\nTripod\, OSS off on the tripod
- \, 2 s timer or remote\, shutter 1/125 s or faster at 600 mm.\nStart: ISO 
- 200 to 400\, f/8\, expose for the moon. Bracket 3 frames at 2 EV after sun
- set and blend.\n\nFIELD NOTES\n- Public foreshore park. Jubilee Park light
-  rail stop is close.\n- The moon climbs further north than in January\, cl
- oser to the left pylon.\n- Sunday night. Easy return home.\n\nVERIFY BEFOR
- E YOU GO\nTPE Web (camera pin\, subject pin\, alignment time): https://app
- .photoephemeris.com/?ll=-33.87353\,151.17783&center=-33.87353\,151.17783&z
- =16&dt=2027-11-14T09%3A45%3A00.000Z&sll=-33.86899\,151.18533&fovb=53.9&fov
- hfov=19.77&fovvfov=13.29&fovd=857&fovo=l&fovov=1\nIn TPE\, set the seconda
- ry height to about 120 m above ground to check the geodetics line.\nPhotoP
- ills: Planner > red pin on the camera pin\, black pin on the subject > Fin
- d > Moon\, elevation 7.7° > confirm the date. Use the AR view on site.\nH
- eights are approximate. Fine tune by a few metres on the day.\n\nSOURCES\n
- Moon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon and
-  sun positions: computed with Skyfield and JPL DE421\, with standard refra
- ction.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopo
- Data.
+ al Bay: about 6 km.\n\nTIDES (BOM prediction\, Sydney (Fort Denison))\nFor
+ t Denison is in the same harbour\, so times are close for this spot.\nHigh
+  water Sun 21:20  1.42 m\nAt the alignment (20:45): about 1.40 m and risin
+ g.\nPredictions exclude swell\, wind setup and wave run up. Check BOM coas
+ tal waters and swell forecasts on the day.\nSource table: https://www.bom.
+ gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP007.pdf\n\nFRAMING (Sony A1)\nAnza
+ c Bridge spans about 8.0° tall from here. The moon is 0.52° wide\, about
+  8 m across at this distance.\nLandmark filling 60% of the frame height: F
+ E 70-200mm F2.8 GM OSS II at about 105 mm.\nMoon dominant: FE 200-600mm at
+  600 mm puts the moon at 23% of frame height (34% in APS-C crop mode).\nTr
+ ipod\, OSS off on the tripod\, 2 s timer or remote\, shutter 1/125 s or fa
+ ster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for the moon. Bracke
+ t 3 frames at 2 EV after sunset and blend.\n\nFIELD NOTES\n- Public foresh
+ ore park. Jubilee Park light rail stop is close.\n- The moon climbs furthe
+ r north than in January\, closer to the left pylon.\n- Sunday night. Easy 
+ return home.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, 
+ alignment time): https://app.photoephemeris.com/?ll=-33.87353\,151.17783&c
+ enter=-33.87353\,151.17783&z=16&dt=2027-11-14T09%3A45%3A00.000Z&sll=-33.86
+ 899\,151.18533&fovb=53.9&fovhfov=19.77&fovvfov=13.29&fovd=857&fovo=l&fovov
+ =1\nIn TPE\, set the secondary height to about 120 m above ground to check
+  the geodetics line.\nPhotoPills: Planner > red pin on the camera pin\, bl
+ ack pin on the subject > Find > Moon\, elevation 7.7° > confirm the date.
+  Use the AR view on site.\nHeights are approximate. Fine tune by a few met
+ res on the day.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table (
+ aa.usno.navy.mil).\nMoon and sun positions: computed with Skyfield and JPL
+  DE421\, with standard refraction.\nCoordinates: OpenStreetMap. Ground hei
+ ghts: SRTM 30 m via OpenTopoData.\nTide predictions: Bureau of Meteorology
+  2027 tide tables\, Copyright Commonwealth of Australia 2026. Based on Bur
+ eau of Meteorology information that has been modified. The Bureau does not
+  necessarily support or endorse\, or have any connection with\, this produ
+ ct\, and gives no warranty about the information. Full terms: page 4 of th
+ e source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -728,7 +837,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fullmoon2027-20271213@akumarau
-DTSTAMP:20261029T122131Z
+DTSTAMP:20261030T212820Z
 DTSTART;TZID=Australia/Sydney:20271213T192400
 DTEND;TZID=Australia/Sydney:20271213T203900
 SUMMARY:Full Moon · Kiama Lighthouse from Kiama Surf Beach · Summer moonr
@@ -757,29 +866,39 @@ DESCRIPTION:WHAT: The full moon rising out of the sea behind Kiama Lighthou
  rom the exact pin\, Kiama Lighthouse is 860 m away on bearing 54.7°.\nFro
  m the named spot it is on bearing 55.6°\, so there the moon passes 0.9° 
  left of the target. Walk toward the exact pin to close the gap.\nStraight 
- line from Neutral Bay: about 99 km.\n\nFRAMING (Sony A1)\nKiama Lighthouse
-  spans about 1.0° tall from here. The moon is 0.52° wide\, about 8 m acr
- oss at this distance.\nLandmark filling 60% of the frame height: FE 200-60
- 0mm at 600 mm\, or 900 mm equivalent in APS-C crop mode.\nMoon dominant: F
- E 200-600mm at 600 mm puts the moon at 23% of frame height (34% in APS-C c
- rop mode).\nTripod\, OSS off on the tripod\, 2 s timer or remote\, shutter
-  1/125 s or faster at 600 mm.\nStart: ISO 200 to 400\, f/8\, expose for th
- e moon. Bracket 3 frames at 2 EV after sunset and blend.\n\nFIELD NOTES\n-
-  The exact pin is beside the Surf Life Saving Club\, a few metres from the
-  beach pin.\n- Monday evening\, about 2 hours south. Plan to leave work ea
- rly.\n- Summer swell can be large here. Stay above the wet sand.\n\nVERIFY
-  BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, alignment time): https
- ://app.photoephemeris.com/?ll=-34.67628\,150.85491&center=-34.67628\,150.8
- 5491&z=16&dt=2027-12-13T09%3A09%3A00.000Z&sll=-34.67181\,150.86259&fovb=54
- .7&fovhfov=3.43&fovvfov=2.29&fovd=860&fovo=l&fovov=1\nIn TPE\, set the sec
- ondary height to about 15 m above ground to check the geodetics line.\nPho
- toPills: Planner > red pin on the camera pin\, black pin on the subject > 
- Find > Moon\, elevation 2.2° > confirm the date. Use the AR view on site.
- \nHeights are approximate. Fine tune by a few metres on the day.\n\nSOURCE
- S\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nMoon 
- and sun positions: computed with Skyfield and JPL DE421\, with standard re
- fraction.\nCoordinates: OpenStreetMap. Ground heights: SRTM 30 m via OpenT
- opoData.
+ line from Neutral Bay: about 99 km.\n\nTIDES (BOM prediction\, Port Kembla
+ )\nPort Kembla is the nearest BOM standard port. Treat times as approximat
+ e.\nHigh water Mon 21:08  1.27 m\nAt the alignment (20:09): about 1.20 m a
+ nd rising.\nPredictions exclude swell\, wind setup and wave run up. Check 
+ BOM coastal waters and swell forecasts on the day.\nSource table: https://
+ www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP006.pdf\n\nFRAMING (Sony A
+ 1)\nKiama Lighthouse spans about 1.0° tall from here. The moon is 0.52° 
+ wide\, about 8 m across at this distance.\nLandmark filling 60% of the fra
+ me height: FE 200-600mm at 600 mm\, or 900 mm equivalent in APS-C crop mod
+ e.\nMoon dominant: FE 200-600mm at 600 mm puts the moon at 23% of frame he
+ ight (34% in APS-C crop mode).\nTripod\, OSS off on the tripod\, 2 s timer
+  or remote\, shutter 1/125 s or faster at 600 mm.\nStart: ISO 200 to 400\,
+  f/8\, expose for the moon. Bracket 3 frames at 2 EV after sunset and blen
+ d.\n\nFIELD NOTES\n- The exact pin is beside the Surf Life Saving Club\, a
+  few metres from the beach pin.\n- Monday evening\, about 2 hours south. P
+ lan to leave work early.\n- Summer swell can be large here. Stay above the
+  wet sand.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin\, al
+ ignment time): https://app.photoephemeris.com/?ll=-34.67628\,150.85491&cen
+ ter=-34.67628\,150.85491&z=16&dt=2027-12-13T09%3A09%3A00.000Z&sll=-34.6718
+ 1\,150.86259&fovb=54.7&fovhfov=3.43&fovvfov=2.29&fovd=860&fovo=l&fovov=1\n
+ In TPE\, set the secondary height to about 15 m above ground to check the 
+ geodetics line.\nPhotoPills: Planner > red pin on the camera pin\, black p
+ in on the subject > Find > Moon\, elevation 2.2° > confirm the date. Use 
+ the AR view on site.\nHeights are approximate. Fine tune by a few metres o
+ n the day.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.us
+ no.navy.mil).\nMoon and sun positions: computed with Skyfield and JPL DE42
+ 1\, with standard refraction.\nCoordinates: OpenStreetMap. Ground heights:
+  SRTM 30 m via OpenTopoData.\nTide predictions: Bureau of Meteorology 2027
+  tide tables\, Copyright Commonwealth of Australia 2026. Based on Bureau o
+ f Meteorology information that has been modified. The Bureau does not nece
+ ssarily support or endorse\, or have any connection with\, this product\, 
+ and gives no warranty about the information. Full terms: page 4 of the sou
+ rce PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

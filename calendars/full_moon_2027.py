@@ -12,6 +12,7 @@ from datetime import date, timedelta
 
 import astro_engine as A
 from astro_ics import fov_deg, gmaps, tpe, write_calendar
+import astro_tides as TD
 
 HOME = (-33.8366, 151.2190)  # Neutral Bay, for straight line distance only
 FULL_MOONS = [dt.astimezone(A.SYD) for dt, n in A.moon_phases(2027) if n == "Full Moon"]
@@ -68,7 +69,8 @@ PLAN = [
               "across the mouth of Newcastle Harbour. Big ships often pass in front.",
          notes=["Stockton is reached by the Newcastle ferry from Queens Wharf or by road over Stockton Bridge.",
                 "Harbour traffic: check the Port of Newcastle shipping schedule for a ship in frame.",
-                "The camera pin is on the foreshore south of the wharf. Walk the shoreline to fine tune."]),
+                "The camera pin is on the foreshore south of the wharf. Walk the shoreline to fine tune.",
+                "Stay off the breakwall when there is any surf."]),
     dict(evening=date(2027, 3, 22), vp="West Head Lookout", lm="Barrenjoey Lighthouse",
          title="Moonrise over Barrenjoey Head", use_named=True,
          what="The full moon lifting off the ocean right beside Barrenjoey Lighthouse, seen across Broken Bay "
@@ -135,6 +137,20 @@ PLAN = [
 ]
 
 CAM_HEIGHT = 1.5
+
+# Tide station per viewpoint, with how well it represents the spot.
+TIDE = {
+    "Bicentennial Park, Glebe": ("Sydney (Fort Denison)", "Fort Denison is in the same harbour, so times are close for this spot."),
+    "Blues Point Reserve": ("Sydney (Fort Denison)", "Fort Denison is about 1.5 km away in the same harbour, so times are close."),
+    "Stockton foreshore": ("Newcastle", "The Newcastle gauge is in the same harbour mouth, so times are close."),
+    "West Head Lookout": ("Sydney (Fort Denison)", "Nearest BOM standard port. Broken Bay tides are similar in timing. "
+                          "The lookout is high above the water, so tide only changes the foreground."),
+    "Black Beach, Kiama": ("Port Kembla", "Port Kembla is the nearest BOM standard port. Treat times as approximate."),
+    "Kiama Surf Beach": ("Port Kembla", "Port Kembla is the nearest BOM standard port. Treat times as approximate."),
+    "Norah Head Rock Pool": ("Newcastle", "Newcastle is the nearest BOM standard port. Treat times as approximate."),
+    "Orient Point": ("Port Kembla", "Port Kembla is the nearest BOM standard port. The Crookhaven River mouth "
+                     "can lag the open coast, so treat times as approximate."),
+}
 
 
 def solve(vp, lm, evening):
@@ -218,6 +234,10 @@ def build():
         end = b["t"] + timedelta(minutes=30)
         weekday = p["evening"].weekday() < 5
 
+        st, st_note = TIDE[p["vp"]]
+        tide_lines = [""] + TD.section(st, st_note, b["t"] - timedelta(minutes=45), b["t"] + timedelta(minutes=30),
+                                       at=b["t"], label="alignment",
+                                       rock=p["vp"] in ("Norah Head Rock Pool", "Black Beach, Kiama"))
         desc = "\n".join([
             f"WHAT: {p['what']}",
             f"Target: moon centred on {l['target']}.",
@@ -245,6 +265,7 @@ def build():
              f"From the named spot it is on bearing {bv:.1f}°, so there the moon passes {abs(diff):.1f}° {lr} of the target. "
              "Walk toward the exact pin to close the gap."),
             f"Straight line from Neutral Bay: about {dist_home/1000:.0f} km.",
+            *tide_lines,
             "",
             "FRAMING (Sony A1)",
             f"{p['lm']} spans about {h_ang:.1f}° tall from here. The moon is 0.52° wide, about {moon_w:.0f} m across at this distance.",
@@ -269,6 +290,7 @@ def build():
             "Moon phases: US Naval Observatory 2027 table (aa.usno.navy.mil).",
             "Moon and sun positions: computed with Skyfield and JPL DE421, with standard refraction.",
             "Coordinates: OpenStreetMap. Ground heights: SRTM 30 m via OpenTopoData.",
+            TD.BOM_NOTE,
         ])
         events.append(dict(
             uid=f"fullmoon2027-{p['evening']:%Y%m%d}@akumarau",

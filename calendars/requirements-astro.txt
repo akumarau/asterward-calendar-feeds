@@ -1,3 +1,4 @@
 # Only needed to rebuild the astro calendars (milky_way_2027.py, full_moon_2027.py).
 # The first run downloads the JPL DE421 ephemeris (about 17 MB) into calendars/.
 skyfield>=1.49,<2
+# Refreshing the BOM tide data (calendars/bom_tides.py) also needs: pdfplumber
