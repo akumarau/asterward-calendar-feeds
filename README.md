@@ -61,14 +61,17 @@ Calendar alerts fire 2 days before (weather check) and 3 hours before (leave).
 
 ### Milky Way 2027
 
-Weekend nights nearest each new moon. June and early July are skipped for travel. Sea cave sessions are limited to low tide plus or minus 90 minutes.
+Weekend nights nearest each new moon. June and early July are skipped for travel. Sea cave and rock platform sessions are limited to low tide plus or minus 90 minutes. Optional nights pair with a nearby main night to make a two night trip.
 
 | Night | Site | Shot |
 |---|---|---|
 | Sat 6 Feb | Norah Head Lighthouse | Core rising beside the lighthouse |
+| Fri 5 Mar | Little Blowhole, Kiama | Core over the rock platform at low tide (optional) |
 | Sat 6 Mar | Cathedral Rocks, Kiama Downs | Core through the sea cave at low tide (01:03 to 03:38), then over the rock stacks |
+| Fri 2 Apr | Bogey Hole, Newcastle | Core over the convict cut ocean pool at low tide (optional) |
 | Sat 3 Apr | Caves Beach sea caves, Lake Macquarie | Core rising through the sea caves at low tide (optional) |
 | Sat 10 Apr | Bombo Headland Quarry | Core above the basalt columns |
+| Sat 1 May | The Skillion, Terrigal | Core rising over the headland, no tide limit (optional) |
 | Sat 8 May | Lake Lyell | Core rising above the water |
 | Sat 31 Jul | Hampden Bridge, Kangaroo Valley | Core descending over the sandstone towers |
 | Sat 28 Aug | Hassans Walls Lookout, Lithgow | Core setting over the Hartley Valley |

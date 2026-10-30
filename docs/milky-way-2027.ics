@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:milkyway2027-20270206@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270207T021000
 DTEND;TZID=Australia/Sydney:20270207T044500
 SUMMARY:Milky Way · Norah Head Lighthouse · Core rising beside the lighth
@@ -101,8 +101,83 @@ DESCRIPTION:Leave soon: Milky Way · Norah Head Lighthouse · Core rising b
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:milkyway2027-20270305@akumarau
+DTSTAMP:20261030T213702Z
+DTSTART;TZID=Australia/Sydney:20270306T002500
+DTEND;TZID=Australia/Sydney:20270306T030000
+SUMMARY:Milky Way · Little Blowhole · Core rising over the Little Blowhol
+ e rock platform
+LOCATION:Little Blowhole\, off Tingira Crescent\, Kiama NSW 2533
+GEO:-34.68671;150.85915
+URL:https://www.google.com/maps/search/?api=1&query=-34.68671,150.85915
+DESCRIPTION:WHAT: The core rising out of the Pacific above the dark volcani
+ c rock platform and the Little Blowhole. Pairs with Cathedral Rocks the ne
+ xt night for one Kiama weekend.\nPriority: Optional\n\nWHEN (Sydney time)\
+ nNight of Fri 05 Mar into Sat 06 Mar 2027.\nShoot window: 01:10 to 03:00 (
+ core between 8° and 60° high\, sky fully dark\, moon down\, low tide).\n
+ Rock platform shoot: the window is cut to low tide plus or minus 90 minute
+ s.\nBest composition: about 03:00\, core 29° high in the ESE.\nArrive by 
+ 00:25 to set up and focus.\nSunset 19:29 · astronomical dusk 20:55 · ast
+ ronomical dawn 05:21 · sunrise 06:47\nMoon: new moon Mon 08 Mar 20:29. 7%
+  lit and below the horizon during the window. Moonrise Sat 04:26 · Moonse
+ t Fri 17:47\n\nCORE POSITION\n01:30  altitude 12°\, azimuth 117° ESE\n02
+ :00  altitude 18°\, azimuth 113° ESE\n02:30  altitude 23°\, azimuth 110
+ ° ESE\n03:00  altitude 29°\, azimuth 107° ESE\n\nTIDES (BOM prediction\
+ , Port Kembla)\nPort Kembla is the nearest BOM standard port. Treat times 
+ as approximate for this site.\nThe window above is cut to low tide 01:33 (
+ 0.57 m) plus or minus 90 minutes.\nLow water Sat 01:33  0.57 m\nAt the bes
+ t composition (03:00): about 0.70 m and rising.\nPredictions exclude swell
+ \, wind setup and wave run up. Check BOM coastal waters and swell forecast
+ s on the day.\nSource table: https://www.bom.gov.au/ntc/IDO59001/IDO59001_
+ 2027_NSW_TP006.pdf\n\nCAMERA POSITION\nLittle Blowhole\, off Tingira Cresc
+ ent\, Kiama NSW 2533\nCamera pin: https://www.google.com/maps/search/?api=
+ 1&query=-34.68671\,150.85915\nFace ESE (azimuth 107°) at 03:00.\nStraight
+  line from Neutral Bay: about 100 km.\n\nKIT AND STARTING SETTINGS (Sony A
+ 1)\nFE 12-24mm F2.8 GM at 12 to 14 mm for single frames. FE 35mm F1.4 GM I
+ I for a sharper multi row panorama.\n12 mm f/2.8: ISO 3200\, up to 19 s. 1
+ 4 mm: up to 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up to 5 s (NPF rule).\nFo
+ reground: separate longer frames at ISO 800 to 1600\, or blue hour frames 
+ from the same tripod position.\nPeak Design travel tripod\, red head torch
+ \, dew heater strap on the lens.\n\nFIELD NOTES\n- Access: car park and lo
+ okout off Tingira Crescent\, about 2 km south of Kiama town. The site is a
+  little hard to find\, so check it in daylight.\n- Official listing: free 
+ entry\, car park\, lookouts. Not suitable for people with access needs.\n-
+  The blowhole fires best with a north east swell. That same swell makes th
+ e platform dangerous. Shoot from the lookout if waves reach the rocks.\n- 
+ Clear ocean horizon to the ESE. No terrain above 1 degree.\n\nVERIFY BEFOR
+ E YOU GO\nTPE Web (camera pin\, subject pin and time set): https://app.pho
+ toephemeris.com/?ll=-34.68671\,150.85915&center=-34.68671\,150.85915&z=15&
+ dt=2027-03-05T16%3A00%3A00.000Z\nPhotoPills: Planner > drop the pin at the
+  camera coordinates > set the date and time above > Milky Way layer. Use N
+ ight AR on site to confirm the core path.\nCheck cloud (BOM and Windy) and
+  light pollution (lightpollutionmap.info) two days out.\n\nSOURCES\nMoon p
+ hases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nSun\, moon and
+  core positions: computed with Skyfield and JPL DE421 for the camera pin.\
+ nCoordinates: OpenStreetMap. Terrain horizons: SRTM 30 m via OpenTopoData.
+ \nTide predictions: Bureau of Meteorology 2027 tide tables\, Copyright Com
+ monwealth of Australia 2026. Based on Bureau of Meteorology information th
+ at has been modified. The Bureau does not necessarily support or endorse\,
+  or have any connection with\, this product\, and gives no warranty about 
+ the information. Full terms: page 4 of the source PDF.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Little Blowhole · Core r
+ ising over the Little Blowhole rock platform
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Little Blowhole · Core rising over th
+ e Little Blowhole rock platform
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:milkyway2027-20270306@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270307T001800
 DTEND;TZID=Australia/Sydney:20270307T051800
 SUMMARY:Milky Way · Cathedral Rocks · Core over the rock stacks and throu
@@ -194,8 +269,85 @@ DESCRIPTION:Leave soon: Milky Way · Cathedral Rocks · Core over the rock
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:milkyway2027-20270402@akumarau
+DTSTAMP:20261030T213702Z
+DTSTART;TZID=Australia/Sydney:20270402T223400
+DTEND;TZID=Australia/Sydney:20270403T015900
+SUMMARY:Milky Way · Bogey Hole · Core over the convict cut ocean pool
+LOCATION:The Bogey Hole\, below King Edward Park\, York Drive\, Newcastle N
+ SW 2300
+GEO:-32.93522;151.78164
+URL:https://www.google.com/maps/search/?api=1&query=-32.93522,151.78164
+DESCRIPTION:WHAT: The core rising over the Tasman Sea above the Bogey Hole\
+ , the ocean pool cut into the rock platform by convicts in about 1820. Pai
+ rs with the Caves Beach sea caves the next night.\nPriority: Optional\n\nW
+ HEN (Sydney time)\nNight of Fri 02 Apr into Sat 03 Apr 2027.\nShoot window
+ : 23:19 to 01:59 (core between 8° and 60° high\, sky fully dark\, moon d
+ own\, low tide).\nRock platform shoot: the window is cut to low tide plus 
+ or minus 90 minutes.\nBest composition: about 01:14\, core 30° high in th
+ e ESE.\nArrive by 22:34 to set up and focus.\nSunset 18:47 · astronomical
+  dusk 20:09 · astronomical dawn 05:43 · sunrise 07:05\nMoon: new moon We
+ d 07 Apr 09:51. 19% lit and below the horizon during the window. Moonrise 
+ Sat 03:13 · Moonset Fri 16:09\n\nCORE POSITION\n23:30  altitude 10°\, az
+ imuth 118° ESE\n00:00  altitude 16°\, azimuth 115° ESE\n00:30  altitude
+  22°\, azimuth 111° ESE\n01:00  altitude 28°\, azimuth 108° ESE\n01:30
+   altitude 34°\, azimuth 105° ESE\n02:00  altitude 40°\, azimuth 102° 
+ ESE\n\nTIDES (BOM prediction\, Newcastle)\nNewcastle is the nearest BOM st
+ andard port. Treat times as approximate for this site.\nThe window above i
+ s cut to low tide 00:30 (0.80 m) plus or minus 90 minutes.\nLow water Sat 
+ 00:30  0.80 m\nAt the best composition (01:14): about 0.83 m and rising.\n
+ Predictions exclude swell\, wind setup and wave run up. Check BOM coastal 
+ waters and swell forecasts on the day.\nSource table: https://www.bom.gov.
+ au/ntc/IDO59001/IDO59001_2027_NSW_TP004.pdf\n\nCAMERA POSITION\nThe Bogey 
+ Hole\, below King Edward Park\, York Drive\, Newcastle NSW 2300\nCamera pi
+ n: https://www.google.com/maps/search/?api=1&query=-32.93522\,151.78164\nF
+ ace ESE (azimuth 107°) at 01:14.\nStraight line from Neutral Bay: about 1
+ 13 km.\n\nKIT AND STARTING SETTINGS (Sony A1)\nFE 12-24mm F2.8 GM at 12 to
+  14 mm for single frames. FE 35mm F1.4 GM II for a sharper multi row panor
+ ama.\n12 mm f/2.8: ISO 3200\, up to 19 s. 14 mm: up to 16 s. 24 mm: up to 
+ 9 s. 35 mm f/1.4: up to 5 s (NPF rule).\nForeground: separate longer frame
+ s at ISO 800 to 1600\, or blue hour frames from the same tripod position.\
+ nPeak Design travel tripod\, red head torch\, dew heater strap on the lens
+ .\n\nFIELD NOTES\n- Access: steps lead down from King Edward Park to the p
+ ool platform. Park on York Drive or at the top of The Terrace and walk dow
+ n through the park.\n- Official listing: free entry. Not suitable for peop
+ le with access needs.\n- Waves break over the pool in any real swell\, and
+  people have been washed off these rocks. Shoot from the steps or the clif
+ f top if sets reach the platform.\n- Open ocean to the ESE. Newcastle city
+  glow sits behind you to the west.\n\nVERIFY BEFORE YOU GO\nTPE Web (camer
+ a pin\, subject pin and time set): https://app.photoephemeris.com/?ll=-32.
+ 93522\,151.78164&center=-32.93522\,151.78164&z=15&dt=2027-04-02T14%3A14%3A
+ 00.000Z\nPhotoPills: Planner > drop the pin at the camera coordinates > se
+ t the date and time above > Milky Way layer. Use Night AR on site to confi
+ rm the core path.\nCheck cloud (BOM and Windy) and light pollution (lightp
+ ollutionmap.info) two days out.\n\nSOURCES\nMoon phases: US Naval Observat
+ ory 2027 table (aa.usno.navy.mil).\nSun\, moon and core positions: compute
+ d with Skyfield and JPL DE421 for the camera pin.\nCoordinates: OpenStreet
+ Map. Terrain horizons: SRTM 30 m via OpenTopoData.\nTide predictions: Bure
+ au of Meteorology 2027 tide tables\, Copyright Commonwealth of Australia 2
+ 026. Based on Bureau of Meteorology information that has been modified. Th
+ e Bureau does not necessarily support or endorse\, or have any connection 
+ with\, this product\, and gives no warranty about the information. Full te
+ rms: page 4 of the source PDF.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · Bogey Hole · Core over t
+ he convict cut ocean pool
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · Bogey Hole · Core over the convict cu
+ t ocean pool
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:milkyway2027-20270403@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270403T230400
 DTEND;TZID=Australia/Sydney:20270404T024400
 SUMMARY:Milky Way · Caves Beach sea caves · Core rising through the sea c
@@ -239,29 +391,29 @@ DESCRIPTION:WHAT: The core rising over the Pacific\, framed by the sea cave
  cave openings are not mapped\, so drop your own pin on the daylight scout 
  and check which opening faces the ESE core with PhotoPills Night AR.\n- Ro
  cks outside the caves are mossy and slippery. Some openings need crawling.
-  Wear grippy shoes.\n- Backup night: Fri 2 Apr. Low tide 00:30 (0.80 m)\, 
- core about 22 degrees\, moon rises after 03:00.\n- About 1 h 45 min north 
- of Neutral Bay.\n- Daylight saving ends at 03:00 this night and clocks go 
- back to 02:00. Every time in this event is before the change\, in AEDT.\n-
-  SEA CAVE SAFETY: scout the cave\, the approach and your exit in daylight 
- on an earlier visit.\n- Only go in on a falling or low tide with small swe
- ll. Leave the cave by the time shown\, whatever the shot.\n- Never go alon
- e. Carry a phone in a dry bag and a spare head torch. Watch every set of w
- aves.\n\nVERIFY BEFORE YOU GO\nTPE Web (camera pin\, subject pin and time 
- set): https://app.photoephemeris.com/?ll=-33.11041\,151.64770&center=-33.1
- 1041\,151.64770&z=15&dt=2027-04-03T14%3A09%3A00.000Z\nPhotoPills: Planner 
- > drop the pin at the camera coordinates > set the date and time above > M
- ilky Way layer. Use Night AR on site to confirm the core path.\nCheck clou
- d (BOM and Windy) and light pollution (lightpollutionmap.info) two days ou
- t.\n\nSOURCES\nMoon phases: US Naval Observatory 2027 table (aa.usno.navy.
- mil).\nSun\, moon and core positions: computed with Skyfield and JPL DE421
-  for the camera pin.\nCoordinates: OpenStreetMap. Terrain horizons: SRTM 3
- 0 m via OpenTopoData.\nTide predictions: Bureau of Meteorology 2027 tide t
- ables\, Copyright Commonwealth of Australia 2026. Based on Bureau of Meteo
- rology information that has been modified. The Bureau does not necessarily
-  support or endorse\, or have any connection with\, this product\, and giv
- es no warranty about the information. Full terms: page 4 of the source PDF
- .
+  Wear grippy shoes.\n- Backup night: Fri 2 Apr (low tide 00:30\, 0.80 m). 
+ That is also the Bogey Hole night\, 30 minutes north\, so swap the two if 
+ Friday looks clearer.\n- About 1 h 45 min north of Neutral Bay.\n- Dayligh
+ t saving ends at 03:00 this night and clocks go back to 02:00. Every time 
+ in this event is before the change\, in AEDT.\n- SEA CAVE SAFETY: scout th
+ e cave\, the approach and your exit in daylight on an earlier visit.\n- On
+ ly go in on a falling or low tide with small swell. Leave the cave by the 
+ time shown\, whatever the shot.\n- Never go alone. Carry a phone in a dry 
+ bag and a spare head torch. Watch every set of waves.\n\nVERIFY BEFORE YOU
+  GO\nTPE Web (camera pin\, subject pin and time set): https://app.photoeph
+ emeris.com/?ll=-33.11041\,151.64770&center=-33.11041\,151.64770&z=15&dt=20
+ 27-04-03T14%3A09%3A00.000Z\nPhotoPills: Planner > drop the pin at the came
+ ra coordinates > set the date and time above > Milky Way layer. Use Night 
+ AR on site to confirm the core path.\nCheck cloud (BOM and Windy) and ligh
+ t pollution (lightpollutionmap.info) two days out.\n\nSOURCES\nMoon phases
+ : US Naval Observatory 2027 table (aa.usno.navy.mil).\nSun\, moon and core
+  positions: computed with Skyfield and JPL DE421 for the camera pin.\nCoor
+ dinates: OpenStreetMap. Terrain horizons: SRTM 30 m via OpenTopoData.\nTid
+ e predictions: Bureau of Meteorology 2027 tide tables\, Copyright Commonwe
+ alth of Australia 2026. Based on Bureau of Meteorology information that ha
+ s been modified. The Bureau does not necessarily support or endorse\, or h
+ ave any connection with\, this product\, and gives no warranty about the i
+ nformation. Full terms: page 4 of the source PDF.
 CATEGORIES:Astrophotography
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -280,7 +432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milkyway2027-20270410@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270410T210300
 DTEND;TZID=Australia/Sydney:20270411T020800
 SUMMARY:Milky Way · Bombo Headland Quarry · Core above the basalt columns
@@ -359,8 +511,83 @@ DESCRIPTION:Leave soon: Milky Way · Bombo Headland Quarry · Core above th
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:milkyway2027-20270501@akumarau
+DTSTAMP:20261030T213702Z
+DTSTART;TZID=Australia/Sydney:20270501T194300
+DTEND;TZID=Australia/Sydney:20270502T004300
+SUMMARY:Milky Way · The Skillion\, Terrigal · Core rising over the Skilli
+ on headland
+LOCATION:The Skillion\, Terrigal Haven\, Terrigal NSW 2260
+GEO:-33.45104;151.45173
+URL:https://www.google.com/maps/search/?api=1&query=-33.45104,151.45173
+DESCRIPTION:WHAT: The core rising over the open Pacific from the grassy Ski
+ llion headland\, with the steep slope dropping to the sea in the foregroun
+ d. No tide limit\, so it is the easiest night of the set.\nPriority: Optio
+ nal\n\nWHEN (Sydney time)\nNight of Sat 01 May into Sun 02 May 2027.\nShoo
+ t window: 20:28 to 00:43 (core between 8° and 60° high\, sky fully dark\
+ , moon down).\nBest composition: about 22:18\, core 30° high in the ESE.\
+ nArrive by 19:43 to set up and focus.\nSunset 17:14 · astronomical dusk 1
+ 8:38 · astronomical dawn 05:04 · sunrise 06:28\nMoon: new moon Thu 06 Ma
+ y 20:58. 26% lit and below the horizon during the window. Moonrise Sun 01:
+ 56 · Moonset Sat 14:06\n\nCORE POSITION\n20:30  altitude 9°\, azimuth 11
+ 9° ESE\n21:00  altitude 15°\, azimuth 115° ESE\n21:30  altitude 21°\, 
+ azimuth 112° ESE\n22:00  altitude 26°\, azimuth 109° ESE\n22:30  altitu
+ de 32°\, azimuth 106° ESE\n23:00  altitude 38°\, azimuth 103° ESE\n23:
+ 30  altitude 45°\, azimuth 100° E\n00:00  altitude 51°\, azimuth 96° E
+ \n00:30  altitude 57°\, azimuth 93° E\n\nTIDES (BOM prediction\, Sydney 
+ (Fort Denison))\nFort Denison is the nearest BOM standard port. Treat time
+ s as approximate for this site.\nHigh water Sat 16:57  1.41 m\nLow water S
+ at 22:46  0.79 m\nAt the best composition (22:18): about 0.80 m and fallin
+ g.\nPredictions exclude swell\, wind setup and wave run up. Check BOM coas
+ tal waters and swell forecasts on the day.\nSource table: https://www.bom.
+ gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP007.pdf\n\nCAMERA POSITION\nThe Sk
+ illion\, Terrigal Haven\, Terrigal NSW 2260\nCamera pin: https://www.googl
+ e.com/maps/search/?api=1&query=-33.45104\,151.45173\nFace ESE (azimuth 107
+ °) at 22:18.\nStraight line from Neutral Bay: about 48 km.\n\nKIT AND STA
+ RTING SETTINGS (Sony A1)\nFE 12-24mm F2.8 GM at 12 to 14 mm for single fra
+ mes. FE 35mm F1.4 GM II for a sharper multi row panorama.\n12 mm f/2.8: IS
+ O 3200\, up to 19 s. 14 mm: up to 16 s. 24 mm: up to 9 s. 35 mm f/1.4: up 
+ to 5 s (NPF rule).\nForeground: separate longer frames at ISO 800 to 1600\
+ , or blue hour frames from the same tripod position.\nPeak Design travel t
+ ripod\, red head torch\, dew heater strap on the lens.\n\nFIELD NOTES\n- A
+ ccess: free car park at Terrigal Haven by the boat ramp. Cross the oval\, 
+ then take the short steep path to the summit lookout above the pin.\n- The
+  headland ends in sheer cliffs with no fence on parts of the top. Stay wel
+ l back from the edge.\n- Clear ocean horizon to the ESE. Terrigal town lig
+ hts sit behind you.\n- About 1 h 15 min north of Neutral Bay.\n\nVERIFY BE
+ FORE YOU GO\nTPE Web (camera pin\, subject pin and time set): https://app.
+ photoephemeris.com/?ll=-33.45104\,151.45173&center=-33.45104\,151.45173&z=
+ 15&dt=2027-05-01T12%3A18%3A00.000Z\nPhotoPills: Planner > drop the pin at 
+ the camera coordinates > set the date and time above > Milky Way layer. Us
+ e Night AR on site to confirm the core path.\nCheck cloud (BOM and Windy) 
+ and light pollution (lightpollutionmap.info) two days out.\n\nSOURCES\nMoo
+ n phases: US Naval Observatory 2027 table (aa.usno.navy.mil).\nSun\, moon 
+ and core positions: computed with Skyfield and JPL DE421 for the camera pi
+ n.\nCoordinates: OpenStreetMap. Terrain horizons: SRTM 30 m via OpenTopoDa
+ ta.\nTide predictions: Bureau of Meteorology 2027 tide tables\, Copyright 
+ Commonwealth of Australia 2026. Based on Bureau of Meteorology information
+  that has been modified. The Bureau does not necessarily support or endors
+ e\, or have any connection with\, this product\, and gives no warranty abo
+ ut the information. Full terms: page 4 of the source PDF.
+CATEGORIES:Astrophotography
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Check cloud and weather: Milky Way · The Skillion\, Terrigal 
+ · Core rising over the Skillion headland
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+DESCRIPTION:Leave soon: Milky Way · The Skillion\, Terrigal · Core rising
+  over the Skillion headland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:milkyway2027-20270508@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270508T191800
 DTEND;TZID=Australia/Sydney:20270509T001800
 SUMMARY:Milky Way · Lake Lyell · Core rising above the water
@@ -425,7 +652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milkyway2027-20270731@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270731T224700
 DTEND;TZID=Australia/Sydney:20270801T035200
 SUMMARY:Milky Way · Hampden Bridge · Core descending over the sandstone t
@@ -496,7 +723,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milkyway2027-20270828@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270828T205600
 DTEND;TZID=Australia/Sydney:20270829T015600
 SUMMARY:Milky Way · Hassans Walls Lookout · Core setting over the Hartley
@@ -561,7 +788,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milkyway2027-20270925@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20270925T190000
 DTEND;TZID=Australia/Sydney:20270926T000500
 SUMMARY:Milky Way · Pittwater\, Palm Beach · Core over Pittwater and Ku-r
@@ -635,7 +862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:milkyway2027-20271030@akumarau
-DTSTAMP:20261030T212814Z
+DTSTAMP:20261030T213702Z
 DTSTART;TZID=Australia/Sydney:20271030T200900
 DTEND;TZID=Australia/Sydney:20271030T224900
 SUMMARY:Milky Way · Mount Blackheath Lookout · Last core of the season ov

@@ -44,6 +44,21 @@ NIGHTS = [
                 "Rock platform: check swell and tide first. Wet rock is slippery in the dark.",
                 "Light from the lighthouse beam sweeps the frame. Time exposures between passes or blend."],
          tide="Newcastle"),
+    dict(evening=date(2027, 3, 5), priority="Optional", region="Kiama",
+         site="Little Blowhole", title="Core rising over the Little Blowhole rock platform",
+         cam=(-34.68671, 150.85915), cam_name="Little Blowhole, off Tingira Crescent, Kiama NSW 2533",
+         subject=None, subject_name=None,
+         what="The core rising out of the Pacific above the dark volcanic rock platform and the Little Blowhole. "
+              "Pairs with Cathedral Rocks the next night for one Kiama weekend.",
+         kit=KIT_WIDE,
+         notes=["Access: car park and lookout off Tingira Crescent, about 2 km south of Kiama town. "
+                "The site is a little hard to find, so check it in daylight.",
+                "Official listing: free entry, car park, lookouts. Not suitable for people with access needs.",
+                "The blowhole fires best with a north east swell. That same swell makes the platform dangerous. "
+                "Shoot from the lookout if waves reach the rocks.",
+                "Clear ocean horizon to the ESE. No terrain above 1 degree."],
+         tide="Port Kembla",
+         tide_limit_min=90),
     dict(evening=date(2027, 3, 6), priority="High", region="Kiama Downs",
          site="Cathedral Rocks", title="Core over the rock stacks and through the sea cave",
          cam=(-34.64444, 150.85547), cam_name="Cliff Drive viewpoint above Cathedral Rocks, Kiama Downs NSW 2533",
@@ -63,6 +78,21 @@ NIGHTS = [
          cave=dict(name="Cathedral Rocks sea cave", access=(-34.63931, 150.85258),
                    access_name="Parking opposite Moona Avenue, North Kiama Drive, Kiama Downs NSW 2533",
                    tide_limit_min=90)),
+    dict(evening=date(2027, 4, 2), priority="Optional", region="Newcastle",
+         site="Bogey Hole", title="Core over the convict cut ocean pool",
+         cam=(-32.93522, 151.78164), cam_name="The Bogey Hole, below King Edward Park, York Drive, Newcastle NSW 2300",
+         subject=None, subject_name=None,
+         what="The core rising over the Tasman Sea above the Bogey Hole, the ocean pool cut into the rock "
+              "platform by convicts in about 1820. Pairs with the Caves Beach sea caves the next night.",
+         kit=KIT_WIDE,
+         notes=["Access: steps lead down from King Edward Park to the pool platform. Park on York Drive or at "
+                "the top of The Terrace and walk down through the park.",
+                "Official listing: free entry. Not suitable for people with access needs.",
+                "Waves break over the pool in any real swell, and people have been washed off these rocks. "
+                "Shoot from the steps or the cliff top if sets reach the platform.",
+                "Open ocean to the ESE. Newcastle city glow sits behind you to the west."],
+         tide="Newcastle",
+         tide_limit_min=90),
     dict(evening=date(2027, 4, 3), priority="Optional", region="Lake Macquarie",
          site="Caves Beach sea caves", title="Core rising through the sea caves",
          cam=(-33.11041, 151.64770), cam_name="Caves Beach, south end sea caves, below Caves Beach Road, Caves Beach NSW 2281",
@@ -75,7 +105,8 @@ NIGHTS = [
                 "The camera pin is the beach. The cave openings are not mapped, so drop your own pin on the daylight "
                 "scout and check which opening faces the ESE core with PhotoPills Night AR.",
                 "Rocks outside the caves are mossy and slippery. Some openings need crawling. Wear grippy shoes.",
-                "Backup night: Fri 2 Apr. Low tide 00:30 (0.80 m), core about 22 degrees, moon rises after 03:00.",
+                "Backup night: Fri 2 Apr (low tide 00:30, 0.80 m). That is also the Bogey Hole night, 30 minutes "
+                "north, so swap the two if Friday looks clearer.",
                 "About 1 h 45 min north of Neutral Bay.",
                 "Daylight saving ends at 03:00 this night and clocks go back to 02:00. "
                 "Every time in this event is before the change, in AEDT."],
@@ -93,6 +124,19 @@ NIGHTS = [
                 "The columns can block the lowest part of the core. Shoot from the upper terrace.",
                 "A low level light panel on the columns from the side adds texture. Keep it dim."],
          tide="Port Kembla"),
+    dict(evening=date(2027, 5, 1), priority="Optional", region="Central Coast",
+         site="The Skillion, Terrigal", title="Core rising over the Skillion headland",
+         cam=(-33.45104, 151.45173), cam_name="The Skillion, Terrigal Haven, Terrigal NSW 2260",
+         subject=None, subject_name=None,
+         what="The core rising over the open Pacific from the grassy Skillion headland, with the steep slope "
+              "dropping to the sea in the foreground. No tide limit, so it is the easiest night of the set.",
+         kit=KIT_WIDE,
+         notes=["Access: free car park at Terrigal Haven by the boat ramp. Cross the oval, then take the short "
+                "steep path to the summit lookout above the pin.",
+                "The headland ends in sheer cliffs with no fence on parts of the top. Stay well back from the edge.",
+                "Clear ocean horizon to the ESE. Terrigal town lights sit behind you.",
+                "About 1 h 15 min north of Neutral Bay."],
+         tide="Sydney (Fort Denison)"),
     dict(evening=date(2027, 5, 8), priority="Very high", region="Lithgow",
          site="Lake Lyell", title="Core rising above the water",
          cam=(-33.52379, 150.07734), cam_name="Lake Lyell Recreation Park shoreline, Magpie Hollow Road, Rydal NSW 2790",
@@ -245,7 +289,8 @@ def build():
             tide_lines = [""] + TD.section(nt["tide"], PROXY[nt["tide"]], start_t, end_t, at=bt,
                                            label="best composition",
                                            rock=nt["site"] in ("Norah Head Lighthouse", "Cathedral Rocks",
-                                                               "Caves Beach sea caves"))
+                                                               "Caves Beach sea caves", "Little Blowhole",
+                                                               "Bogey Hole"))
         if nt.get("tide_limit_min"):
             tide_lines.insert(3, f"The window above is cut to low tide {A.fmt(low[0])} ({low[1]:.2f} m) plus or "
                                  f"minus {nt['tide_limit_min']} minutes.")
@@ -257,6 +302,8 @@ def build():
             f"Night of {nt['evening']:%a %d %b} into {day2:%a %d %b} 2027.",
             f"Shoot window: {A.fmt(start_t)} to {A.fmt(end_t)} (core between 8° and 60° high, sky fully dark, moon down"
             + (", low tide" if nt.get("tide_limit_min") else "") + ").",
+            *([f"Rock platform shoot: the window is cut to low tide plus or minus {nt['tide_limit_min']} minutes."]
+              if nt.get("tide_limit_min") and "cave" not in nt["site"].lower() else []),
             f"Best composition: about {A.fmt(bt)}, core {balt:.0f}° high in the {A.compass(baz)}.",
             f"Arrive by {A.fmt(start_t - timedelta(minutes=45))} to set up and focus.",
             f"Sunset {A.fmt(n['sunset'])} · astronomical dusk {A.fmt(n['astro_dusk'])} · "
@@ -285,7 +332,7 @@ def build():
             "",
             "FIELD NOTES",
             *[f"- {x}" for x in nt["notes"]],
-            *([f"- {x}" for x in CAVE_SAFETY] if nt.get("tide_limit_min") else []),
+            *([f"- {x}" for x in CAVE_SAFETY] if "cave" in nt["site"].lower() else []),
             "",
             "VERIFY BEFORE YOU GO",
             f"TPE Web (camera pin, subject pin and time set): {tpe(cam, nt['subject'], bt, fov)}",
