@@ -52,7 +52,8 @@ Every event carries the details needed for later research in the field.
 * **Where:** a camera pin and a subject pin as Google Maps links, with distance and bearing.
 * **Sky:** core or moon altitude and azimuth through the session.
 * **Kit:** lens choice, framing and starting settings.
-* **Field notes:** access, tides, gates and safety.
+* **Tides:** for coastal events, BOM 2027 high and low waters from the nearest standard port, the height at the key moment, and a caution when a rock platform is under water.
+* **Field notes:** access, gates and safety.
 * **Verify:** a prefilled TPE Web link (camera pin, subject pin and time) and PhotoPills steps.
 * **Sources:** where every number came from.
 
@@ -60,12 +61,13 @@ Calendar alerts fire 2 days before (weather check) and 3 hours before (leave).
 
 ### Milky Way 2027
 
-Saturday nights nearest each new moon. June and early July are skipped for travel.
+Weekend nights nearest each new moon. June and early July are skipped for travel. Sea cave sessions are limited to low tide plus or minus 90 minutes.
 
 | Night | Site | Shot |
 |---|---|---|
 | Sat 6 Feb | Norah Head Lighthouse | Core rising beside the lighthouse |
-| Sat 6 Mar | Cathedral Rocks, Kiama Downs | Core over the coastal rock stacks |
+| Sat 6 Mar | Cathedral Rocks, Kiama Downs | Core through the sea cave at low tide (01:03 to 03:38), then over the rock stacks |
+| Sat 3 Apr | Caves Beach sea caves, Lake Macquarie | Core rising through the sea caves at low tide (optional) |
 | Sat 10 Apr | Bombo Headland Quarry | Core above the basalt columns |
 | Sat 8 May | Lake Lyell | Core rising above the water |
 | Sat 31 Jul | Hampden Bridge, Kangaroo Valley | Core descending over the sandstone towers |
@@ -99,6 +101,9 @@ python calendars/milky_way_2027.py
 python calendars/full_moon_2027.py
 ```
 
+Tide data lives in `calendars/data/bom_tides_2027.json`, parsed from the BOM 2027 NSW tide table PDFs for Newcastle, Fort Denison and Port Kembla.
+To refresh it, run `pip install pdfplumber` and then `python calendars/bom_tides.py`.
+
 The first run downloads the JPL DE421 ephemeris (about 17 MB) into `calendars/`. It is git ignored.
 Sites, subjects and field notes live in the `NIGHTS` and `PLAN` lists at the top of each generator.
 All sky numbers are recomputed on every run.
@@ -110,6 +115,10 @@ All sky numbers are recomputed on every run.
 * Site coordinates come from OpenStreetMap. Ground heights and terrain horizons come from SRTM 30 m via OpenTopoData.
 * Landmark heights are approximate. Check each shot in TPE Web or PhotoPills before you travel.
 * TPE Web link format follows the TPE URL parameter guide: https://photoephemeris.com/en/help/general/tpe-url-parameters
+* Tide predictions come from the Bureau of Meteorology 2027 NSW tide tables: [Newcastle](https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP004.pdf), [Port Kembla](https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP006.pdf) and [Sydney (Fort Denison)](https://www.bom.gov.au/ntc/IDO59001/IDO59001_2027_NSW_TP007.pdf).
+  Times are local (AEST, or AEDT when in effect). Heights are metres above Lowest Astronomical Tide. Each site uses the nearest standard port, so treat times as approximate. Predictions exclude swell and wave run up.
+
+Tide data attribution: Copyright Commonwealth of Australia 2026, Bureau of Meteorology. This product is based on Bureau of Meteorology information that has subsequently been modified. The Bureau does not necessarily support or endorse, or have any connection with, the product. In respect of that part of the information which is sourced from the Bureau, and to the maximum extent permitted by law: (i) the Bureau makes no representation and gives no warranty of any kind whether express, implied, statutory or otherwise in respect to the availability, accuracy, currency, completeness, quality or reliability of the information or that the information will be fit for any particular purpose or will not infringe any third party Intellectual Property rights; and (ii) the Bureau's liability for any loss, damage, cost or expense resulting from use of, or reliance on, the information is entirely excluded.
 
 ## Sydney Motorsport Park scraper
 
