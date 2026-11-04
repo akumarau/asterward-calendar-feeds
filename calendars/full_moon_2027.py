@@ -53,16 +53,32 @@ VIEWPOINTS = {
         place="Orient Point foreshore, Orient Point NSW 2540"),
     "Kiama Surf Beach": dict(pin=(-34.67634, 150.85456), elev=4,
         place="Kiama Surf Beach, Manning Street, Kiama NSW 2533"),
+    "Barangaroo Reserve": dict(pin=(-33.85775, 151.20010), elev=2,
+        place="Wulugul Walk, Barangaroo Reserve, Barangaroo NSW 2000"),
 }
 
 PLAN = [
-    dict(evening=date(2027, 1, 22), vp="Bicentennial Park, Glebe", lm="Anzac Bridge",
-         title="Moon between the pylons",
-         what="The full moon climbing between the two white pylons of Anzac Bridge, across Rozelle Bay. "
-              "Moonrise is at sunset, and the moon reaches the pylon tops in blue hour.",
-         notes=["Public foreshore park. Jubilee Park light rail stop is close.",
-                "City light builds quickly after 21:00. Bracket for the moon and the sky separately.",
-                "Calm water in Rozelle Bay gives a reflection of the bridge lights."]),
+    dict(evening=date(2027, 1, 22), vp="Barangaroo Reserve", lm="Sydney Harbour Bridge",
+         title="Supermoon on the arch (self guided)",
+         what="The January supermoon, the closest full moon of 2027, rising behind the Harbour Bridge and "
+              "climbing onto the top of the arch, seen across the harbour from the Barangaroo foreshore. "
+              "Moonrise is at sunset, so the alignment lands in early blue hour. Self guided, no booking.",
+         notes=["Wulugul Walk is the public harbour promenade along Barangaroo Reserve. Barangaroo ferry wharf "
+                "and Barangaroo Metro station are a short walk, so skip city parking.",
+                "Backup spot, same night: Illoura Reserve, Balmain East. The moon reaches arch height at about "
+                "20:33, about 2.5° left of the top, on the arch's left shoulder. A paid photo group is listed "
+                "at Balmain East that night, so expect company there.",
+                "If the 22nd is cloudy, the 21st and 23rd do not align from here. Rework the pin in TPE first.",
+                "Video: the moon climbs its own diameter in about 2 minutes. Start recording at moonrise and run "
+                "one continuous clip past the alignment. Set exposure, focus and white balance manually so the "
+                "clip does not pump.",
+                "Supermoon nights draw crowds on the harbour. Arrive early to claim a spot on the rail."],
+         framing=["Longest reach in your kit: FE 70-200mm F2.8 GM OSS II with the 2x teleconverter at 400 mm "
+                  f"(f/5.6). The moon fills about {0.52 / fov_deg(400)[1] * 100:.0f}% of the frame height.",
+                  "Locked tripod, OSS off, 2 s timer or remote. Stills at 1/125 s or faster at 400 mm.",
+                  "Start: ISO 200 to 400, f/8, expose for the moon. After civil twilight, bracket 3 frames at "
+                  "2 EV and blend. For video, expose for the moon and let the sky go deep blue."],
+         supermoon="Supermoon: about 357,600 km centre to centre at full moon, the closest full moon of 2027."),
     dict(evening=date(2027, 2, 21), vp="Stockton foreshore", lm="Nobbys Lighthouse",
          title="Moonrise behind Nobbys Head",
          what="The full moon rising out of the Tasman Sea behind Nobbys Head Lighthouse, "
@@ -140,6 +156,8 @@ CAM_HEIGHT = 1.5
 
 # Tide station per viewpoint, with how well it represents the spot.
 TIDE = {
+    "Barangaroo Reserve": ("Sydney (Fort Denison)", "Fort Denison is about 2 km away in the same harbour, so times are close. "
+                           "The promenade sits above the water, so tide only changes the foreground."),
     "Bicentennial Park, Glebe": ("Sydney (Fort Denison)", "Fort Denison is in the same harbour, so times are close for this spot."),
     "Blues Point Reserve": ("Sydney (Fort Denison)", "Fort Denison is about 1.5 km away in the same harbour, so times are close."),
     "Stockton foreshore": ("Newcastle", "The Newcastle gauge is in the same harbour mouth, so times are close."),
@@ -245,6 +263,7 @@ def build():
             "WHEN (Sydney time)",
             f"{p['evening']:%A %d %B %Y}" + ("  (work day)" if weekday else ""),
             f"Full moon: {fm:%a %d %b %H:%M}. Moon {illum:.0f}% lit at the alignment.",
+            *([p["supermoon"]] if p.get("supermoon") else []),
             f"Sunset {A.fmt(n['sunset'])}{civil_txt}",
             f"Moonrise {A.fmt(mr)} at azimuth {mr_az:.0f}° {A.compass(mr_az)} (sea level horizon).",
             f"ALIGNMENT {A.fmt(b['t'])}: moon altitude {b['alt']:.1f}°, azimuth {b['az']:.1f}°.",
@@ -270,10 +289,11 @@ def build():
             "FRAMING (Sony A1)",
             f"{p['lm']} spans about {h_ang:.1f}° tall from here. The moon is 0.52° wide, about {moon_w:.0f} m across at this distance.",
             f"Landmark filling 60% of the frame height: {pick}.",
-            f"Moon dominant: FE 200-600mm at 600 mm puts the moon at {0.52 / fov_deg(600)[1] * 100:.0f}% of frame height "
-            "(34% in APS-C crop mode).",
-            "Tripod, OSS off on the tripod, 2 s timer or remote, shutter 1/125 s or faster at 600 mm.",
-            "Start: ISO 200 to 400, f/8, expose for the moon. Bracket 3 frames at 2 EV after sunset and blend.",
+            *(p["framing"] if p.get("framing") else [
+              f"Moon dominant: FE 200-600mm at 600 mm puts the moon at {0.52 / fov_deg(600)[1] * 100:.0f}% of frame height "
+              "(34% in APS-C crop mode).",
+              "Tripod, OSS off on the tripod, 2 s timer or remote, shutter 1/125 s or faster at 600 mm.",
+              "Start: ISO 200 to 400, f/8, expose for the moon. Bracket 3 frames at 2 EV after sunset and blend."]),
             "",
             "FIELD NOTES",
             *[f"- {x}" for x in p["notes"]],

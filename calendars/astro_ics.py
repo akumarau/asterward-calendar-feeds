@@ -92,8 +92,11 @@ def write_calendar(filename, prodid, calname, events):
                   "BEGIN:VALARM", "ACTION:DISPLAY", "TRIGGER:-P2D",
                   f"DESCRIPTION:{esc('Check cloud and weather: ' + ev['summary'])}", "END:VALARM",
                   "BEGIN:VALARM", "ACTION:DISPLAY", "TRIGGER:-PT3H",
-                  f"DESCRIPTION:{esc('Leave soon: ' + ev['summary'])}", "END:VALARM",
-                  "END:VEVENT"]
+                  f"DESCRIPTION:{esc('Leave soon: ' + ev['summary'])}", "END:VALARM"]
+        for trigger, text in ev.get("alarms", []):
+            lines += ["BEGIN:VALARM", "ACTION:DISPLAY", f"TRIGGER:{trigger}",
+                      f"DESCRIPTION:{esc(text)}", "END:VALARM"]
+        lines.append("END:VEVENT")
     lines.append("END:VCALENDAR")
     path = os.path.join(DOCS, filename)
     with open(path, "w", encoding="utf-8", newline="") as f:

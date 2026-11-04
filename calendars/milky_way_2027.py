@@ -83,7 +83,7 @@ NIGHTS = [
          cam=(-32.93522, 151.78164), cam_name="The Bogey Hole, below King Edward Park, York Drive, Newcastle NSW 2300",
          subject=None, subject_name=None,
          what="The core rising over the Tasman Sea above the Bogey Hole, the ocean pool cut into the rock "
-              "platform by convicts in about 1820. Pairs with the Caves Beach sea caves the next night.",
+              "platform by convicts in about 1820.",
          kit=KIT_WIDE,
          notes=["Access: steps lead down from King Edward Park to the pool platform. Park on York Drive or at "
                 "the top of The Terrace and walk down through the park.",
@@ -93,25 +93,26 @@ NIGHTS = [
                 "Open ocean to the ESE. Newcastle city glow sits behind you to the west."],
          tide="Newcastle",
          tide_limit_min=90),
-    dict(evening=date(2027, 4, 3), priority="Optional", region="Lake Macquarie",
-         site="Caves Beach sea caves", title="Core rising through the sea caves",
-         cam=(-33.11041, 151.64770), cam_name="Caves Beach, south end sea caves, below Caves Beach Road, Caves Beach NSW 2281",
+    dict(evening=date(2027, 4, 3), priority="Booked", region="Central Coast",
+         site="Bouddi National Park", title="Sony Scene Astromeet (booked)",
+         cam=(-33.52816, 151.37384), cam_name="End of Putty Beach Road, Bouddi National Park, Killcare Heights NSW 2257",
          subject=None, subject_name=None,
-         what="The core rising over the Pacific, framed by the sea cave openings at the south end of Caves Beach. "
-              "The shoot window is set by the low tide, not just the sky.",
-         kit=KIT_WIDE,
-         notes=["Access: free parking above the Surf Life Saving Club. Walk down to the beach and turn right to the "
-                "southern end. A track over the rocks leads to the caves.",
-                "The camera pin is the beach. The cave openings are not mapped, so drop your own pin on the daylight "
-                "scout and check which opening faces the ESE core with PhotoPills Night AR.",
-                "Rocks outside the caves are mossy and slippery. Some openings need crawling. Wear grippy shoes.",
-                "Backup night: Fri 2 Apr (low tide 00:30, 0.80 m). That is also the Bogey Hole night, 30 minutes "
-                "north, so swap the two if Friday looks clearer.",
-                "About 1 h 45 min north of Neutral Bay.",
-                "Daylight saving ends at 03:00 this night and clocks go back to 02:00. "
-                "Every time in this event is before the change, in AEDT."],
-         tide="Newcastle",
-         tide_limit_min=90),
+         booked=dict(start=datetime(2027, 4, 3, 21, 30, tzinfo=A.SYD), end=datetime(2027, 4, 4, 2, 30, tzinfo=A.SYD),
+                     url="https://scene.sonyanz.com/events/crazy-astrophotographers-astromeet-bouddi-national-park"),
+         what="Guided group Milky Way night on the Bouddi coast, the Crazy Astrophotographers Astromeet hosted by "
+              "Jay Evans (Sony Digital Imaging Advocate). Booked. Use the guided access to the coastal track and "
+              "run your own plan alongside, such as a core timelapse on a second tripod.",
+         kit=KIT_WIDE + " FE 14mm F1.8 GM on a second tripod for a core timelapse.",
+         notes=["Meet at the end of Putty Beach Road. Capacity 15.",
+                "Grade 2 (moderate): beach access, walking tracks and uneven rocky ground near cliff edges, in the dark.",
+                "Organiser's list: head torch (mandatory), fast wide lens, tripod with plates or L bracket, remote "
+                "or intervalometer, warm layers, boots with ankle support, water, snacks, insect repellent.",
+                "Runs in cloud. Postponed only for heavy rain or storms. The organiser's reserve date is Sat 10 Apr, "
+                "your Bombo Headland night. Decide early which one wins if it moves.",
+                "Daylight saving ends at 03:00 this night and clocks go back to 02:00. The event ends before the "
+                "change. Every time in this event is AEDT.",
+                "Roughly 1 h 30 min drive north of Neutral Bay."],
+         tide="Sydney (Fort Denison)"),
     dict(evening=date(2027, 4, 10), priority="Very high", region="Kiama",
          site="Bombo Headland Quarry", title="Core above the basalt columns",
          cam=(-34.65005, 150.86242), cam_name="Bombo Headland Quarry Geological Site viewpoint, Commissioners Lane, Bombo NSW 2533",
@@ -194,6 +195,96 @@ NIGHTS = [
 ]
 
 
+# Booked learning sessions that are not core shoots. Built by workshop_events().
+DEEP_SKY_TARGETS = [
+    ("Orion Nebula (M42)", A.Star(ra_hours=(5, 35, 17.3), dec_degrees=(-5, 23, 28))),
+    ("Rosette Nebula (NGC 2237)", A.Star(ra_hours=(6, 33, 45), dec_degrees=(4, 59, 54))),
+    ("Tarantula Nebula (NGC 2070)", A.Star(ra_hours=(5, 38, 42), dec_degrees=(-69, 6, 3))),
+    ("Carina Nebula (NGC 3372)", A.Star(ra_hours=(10, 45, 8.5), dec_degrees=(-59, 52, 4))),
+]
+WORKSHOPS = [
+    dict(evening=date(2027, 2, 11), start=(18, 0), end=(1, 0),
+         title="Deep Sky · Gary Phayes 1 on 1 workshop · Learn the Esprit 80ED rig (booked)",
+         pin=(-33.63389, 150.28472), elev=1065,
+         place="Blue Mountains, Blackheath area NSW 2785 (meeting point TBC with Gary)",
+         what="One on one deep sky workshop with Gary Phayes on your own rig: setup, polar alignment, "
+              "focusing with the EAF, plate solving and capture with the ASI2600MC Air, then stacking and "
+              "processing basics. Booked. Weather reschedule agreed with Gary.",
+         rig=["Sky-Watcher Esprit 80ED Pro on the ZWO AM5N mount",
+              "ZWO ASI2600MC Air (built in ASIAIR) with the ZWO EAF focuser",
+              "Antlia Triband II RGB Ultra 2 inch in the ZWO filter drawer",
+              "PrimaLuceLab dew heater and the ZWO DC Y splitter cable",
+              "Laptop for stacking, head torch, warm layers, gloves and a beanie"],
+         notes=["Thursday, a work day. The Blackheath area is roughly 2 h by car from North Sydney. "
+                "Leave by about 15:45, or take the afternoon off.",
+                "Times are approximate per Gary: about 6 pm to 1 am.",
+                "Gary's site lists Blue Mountains field locations and his Pulpit Rock Gallery training room. "
+                "The pin is Blackheath town until he confirms the meeting point.",
+                "Night temperature at about 1,000 m can be cool even in February. Pack layers."]),
+]
+
+
+def workshop_events():
+    out = []
+    for w in WORKSHOPS:
+        topo = A.site(*w["pin"], w["elev"])
+        ev = w["evening"]
+        n = A.night_summary(topo, ev)
+        start = datetime(ev.year, ev.month, ev.day, *w["start"], tzinfo=A.SYD)
+        end = datetime(ev.year, ev.month, ev.day, *w["end"], tzinfo=A.SYD) + timedelta(days=1)
+        nm = min(NEW_MOONS, key=lambda d: abs((d.date() - ev).days))
+        mid = n["astro_dusk"]
+        rows = []
+        for name, star in DEEP_SKY_TARGETS:
+            cells = []
+            for hh in (21, 23, 1):
+                t = datetime(ev.year, ev.month, ev.day, hh, 30, tzinfo=A.SYD) + (timedelta(days=1) if hh < 12 else timedelta())
+                alt, az, _ = A.altaz(topo, star, t)
+                cells.append(f"{hh:02d}:30 {alt:.0f}° {A.compass(az)}")
+            rows.append(f"{name}: " + " · ".join(cells))
+        moon = (f"Moonset {n['moonset']:%H:%M}" if "moonset" in n else "Moon down all night")
+        desc = "\n".join([
+            f"WHAT: {w['what']}",
+            "",
+            "WHEN (Sydney time)",
+            f"{ev:%A %d %B %Y}, about {A.fmt(start)} to {A.fmt(end)}  (work day)",
+            f"Sunset {A.fmt(n['sunset'])} · astronomical dusk {A.fmt(n['astro_dusk'])} · {moon}.",
+            f"Moon: new moon {nm:%a %d %b %H:%M}. Waxing crescent, {A.moon_illumination(mid):.0f}% lit at "
+            "astronomical dusk and setting early, so the evening sky goes dark quickly.",
+            "",
+            "TARGET ALTITUDES (Blackheath, altitude and direction)",
+            *rows,
+            "",
+            "WHERE",
+            w["place"],
+            f"Placeholder pin: {gmaps(*w['pin'])}",
+            "",
+            "BRING YOUR RIG",
+            *[f"- {x}" for x in w["rig"]],
+            "",
+            "PREP (reminder fires 7 days before)",
+            "- Update ASIAIR app and camera, mount and EAF firmware at home, not in the field.",
+            "- Charge or check power for the mount, camera and dew heaters for about 7 hours.",
+            "- Dry run assembly and balance at home, and write down every cable run.",
+            "- Confirm the meeting point and start time with Gary.",
+            "",
+            "FIELD NOTES",
+            *[f"- {x}" for x in w["notes"]],
+            "",
+            "SOURCES",
+            "Date and times: email thread with Gary Phayes, October 2026.",
+            "Location area: garyphayes.photography/deep-sky-moon-planets.",
+            "Sun, moon and target positions: computed with Skyfield and JPL DE421.",
+        ])
+        out.append(dict(
+            uid=f"deepsky2027-{ev:%Y%m%d}@akumarau", start=start, end=end,
+            summary=w["title"], location=w["place"], geo=w["pin"], url=gmaps(*w["pin"]),
+            description=desc, category="Astrophotography",
+            alarms=[("-P7D", "Prep the rig and confirm with Gary: " + w["title"])]))
+        print(f"{ev}  workshop {A.fmt(start)}-{A.fmt(end)} sunset {A.fmt(n['sunset'])} dusk {A.fmt(n['astro_dusk'])} {moon}")
+    return out
+
+
 def window(topo, n, rising, alt_min, alt_max=60):
     """Longest run of dark, moonless times with the core between alt_min and alt_max,
     on the eastern (rising) or western (setting) side of the sky."""
@@ -226,6 +317,9 @@ def build():
         topo = A.site(*cam)
         n = A.night_summary(topo, nt["evening"])
         pts = window(topo, n, nt["evening"].month <= 5, alt_min=8)
+        bk = nt.get("booked")
+        if bk:
+            pts = [p for p in pts if bk["start"] <= p[0] <= bk["end"]]
         low = None
         if nt.get("tide_limit_min"):
             low = TD.nearest_low(nt["tide"], pts[len(pts) // 2][0])
@@ -289,8 +383,8 @@ def build():
             tide_lines = [""] + TD.section(nt["tide"], PROXY[nt["tide"]], start_t, end_t, at=bt,
                                            label="best composition",
                                            rock=nt["site"] in ("Norah Head Lighthouse", "Cathedral Rocks",
-                                                               "Caves Beach sea caves", "Little Blowhole",
-                                                               "Bogey Hole"))
+                                                               "Little Blowhole", "Bogey Hole",
+                                                               "Bouddi National Park"))
         if nt.get("tide_limit_min"):
             tide_lines.insert(3, f"The window above is cut to low tide {A.fmt(low[0])} ({low[1]:.2f} m) plus or "
                                  f"minus {nt['tide_limit_min']} minutes.")
@@ -304,8 +398,11 @@ def build():
             + (", low tide" if nt.get("tide_limit_min") else "") + ").",
             *([f"Rock platform shoot: the window is cut to low tide plus or minus {nt['tide_limit_min']} minutes."]
               if nt.get("tide_limit_min") and "cave" not in nt["site"].lower() else []),
+            *([f"BOOKED SESSION: {A.fmt(bk['start'])} to {A.fmt(bk['end'])}. The shoot window above is cut to it.",
+               f"Event page: {bk['url']}"] if bk else []),
             f"Best composition: about {A.fmt(bt)}, core {balt:.0f}° high in the {A.compass(baz)}.",
-            f"Arrive by {A.fmt(start_t - timedelta(minutes=45))} to set up and focus.",
+            (f"Arrive by {A.fmt(bk['start'] - timedelta(minutes=15))} for the group start." if bk else
+             f"Arrive by {A.fmt(start_t - timedelta(minutes=45))} to set up and focus."),
             f"Sunset {A.fmt(n['sunset'])} · astronomical dusk {A.fmt(n['astro_dusk'])} · "
             f"astronomical dawn {A.fmt(n['astro_dawn'])} · sunrise {A.fmt(n['sunrise'])}",
             f"Moon: new moon {nm:%a %d %b %H:%M}. {illum:.0f}% lit and below the horizon during the window. "
@@ -348,11 +445,13 @@ def build():
         ])
         events.append(dict(
             uid=f"milkyway2027-{nt['evening']:%Y%m%d}@akumarau",
-            start=start_t - timedelta(minutes=45), end=end_t,
+            start=bk["start"] if bk else start_t - timedelta(minutes=45), end=bk["end"] if bk else end_t,
             summary=f"Milky Way · {nt['site']} · {nt['title']}",
             location=nt["cam_name"], geo=cam, url=gmaps(*cam),
             description=desc, category="Astrophotography"))
         print(f"{nt['evening']}  {nt['site']:28s} window {A.fmt(start_t)}-{A.fmt(end_t)} best {A.fmt(bt)} alt {balt:.0f} az {baz:.0f}")
+    events += workshop_events()
+    events.sort(key=lambda e: e["start"])
     path = write_calendar("milky-way-2027.ics", "Milky Way 2027", "Astro · Milky Way 2027", events)
     print(f"wrote {path} ({len(events)} events)")
 

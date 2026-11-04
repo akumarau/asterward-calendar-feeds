@@ -61,15 +61,16 @@ Calendar alerts fire 2 days before (weather check) and 3 hours before (leave).
 
 ### Milky Way 2027
 
-Weekend nights nearest each new moon. June and early July are skipped for travel. Sea cave and rock platform sessions are limited to low tide plus or minus 90 minutes. Optional nights pair with a nearby main night to make a two night trip.
+Weekend nights nearest each new moon, plus booked astro sessions. June and early July are skipped for travel. Sea cave and rock platform sessions are limited to low tide plus or minus 90 minutes. Optional nights pair with a nearby main night to make a two night trip.
 
 | Night | Site | Shot |
 |---|---|---|
 | Sat 6 Feb | Norah Head Lighthouse | Core rising beside the lighthouse |
+| Thu 11 Feb | Blue Mountains, Blackheath area | Deep sky 1 on 1 workshop with Gary Phayes on the Esprit 80ED rig (booked) |
 | Fri 5 Mar | Little Blowhole, Kiama | Core over the rock platform at low tide (optional) |
 | Sat 6 Mar | Cathedral Rocks, Kiama Downs | Core through the sea cave at low tide (01:03 to 03:38), then over the rock stacks |
 | Fri 2 Apr | Bogey Hole, Newcastle | Core over the convict cut ocean pool at low tide (optional) |
-| Sat 3 Apr | Caves Beach sea caves, Lake Macquarie | Core rising through the sea caves at low tide (optional) |
+| Sat 3 Apr | Bouddi National Park | Sony Scene Astromeet, 21:30 to 02:30 (booked) |
 | Sat 10 Apr | Bombo Headland Quarry | Core above the basalt columns |
 | Sat 1 May | The Skillion, Terrigal | Core rising over the headland, no tide limit (optional) |
 | Sat 8 May | Lake Lyell | Core rising above the water |
@@ -84,7 +85,7 @@ For each full moon, the evening where moonrise lands closest to sunset. The gene
 
 | Evening | Landmark | Camera spot | Alignment |
 |---|---|---|---|
-| Fri 22 Jan | Anzac Bridge | Bicentennial Park, Glebe | 20:52 |
+| Fri 22 Jan | Sydney Harbour Bridge (supermoon, self guided) | Barangaroo Reserve | 20:44 |
 | Sun 21 Feb | Nobbys Lighthouse | Stockton foreshore | 19:52 |
 | Mon 22 Mar | Barrenjoey Lighthouse | West Head Lookout | 18:46 |
 | Wed 21 Apr | Kiama Lighthouse | Black Beach, Kiama | 17:36 |
