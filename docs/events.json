@@ -44,6 +44,17 @@
     "source_text": ""
   },
   {
+    "uid": "b1d47fd858b462c0e88adc42@smsp-calendar.akumarau",
+    "title": "Australian Drift School",
+    "start": "2026-10-02T18:30",
+    "end": "2026-10-02T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
     "uid": "8eb1bcd37f7b71d6617a614c@smsp-calendar.akumarau",
     "title": "SMSP Track Night",
     "start": "2026-10-02T18:30",
@@ -55,13 +66,13 @@
     "source_text": ""
   },
   {
-    "uid": "b1d47fd858b462c0e88adc42@smsp-calendar.akumarau",
-    "title": "Australian Drift School",
-    "start": "2026-10-02T18:30",
-    "end": "2026-10-02T22:30",
+    "uid": "2330ad081b99239ed68c3275@smsp-calendar.akumarau",
+    "title": "Anglo Motorsport - Formula Ford Experience",
+    "start": "2026-10-03T08:30",
+    "end": "2026-10-03T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
+    "location": "Amaroo (South)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -88,13 +99,13 @@
     "source_text": ""
   },
   {
-    "uid": "2330ad081b99239ed68c3275@smsp-calendar.akumarau",
-    "title": "Anglo Motorsport - Formula Ford Experience",
-    "start": "2026-10-03T08:30",
-    "end": "2026-10-03T16:30",
+    "uid": "a79bba5f5010b8dc31f1afeb@smsp-calendar.akumarau",
+    "title": "SMSP Ride Night MEGA",
+    "start": "2026-10-03T18:30",
+    "end": "2026-10-03T22:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Amaroo (South)",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -106,17 +117,6 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "a79bba5f5010b8dc31f1afeb@smsp-calendar.akumarau",
-    "title": "SMSP Ride Night MEGA",
-    "start": "2026-10-03T18:30",
-    "end": "2026-10-03T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -187,17 +187,6 @@
     "source_text": ""
   },
   {
-    "uid": "4117fc95ae16860c50e1028a@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2026-10-07T08:30",
-    "end": "2026-10-07T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "0bfda63499f3418930ca585c@smsp-calendar.akumarau",
     "title": "Driving Solutions - Advanced Driver Training",
     "start": "2026-10-07T08:30",
@@ -205,6 +194,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "4117fc95ae16860c50e1028a@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2026-10-07T08:30",
+    "end": "2026-10-07T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -253,17 +253,6 @@
     "source_text": ""
   },
   {
-    "uid": "0dd484874b10261ff2e07655@smsp-calendar.akumarau",
-    "title": "Driving Solutions - NSW Fire",
-    "start": "2026-10-09T08:30",
-    "end": "2026-10-09T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "7656cfc34a84f6a75eaa26e8@smsp-calendar.akumarau",
     "title": "Driving Solutions - Private Event",
     "start": "2026-10-09T08:30",
@@ -271,6 +260,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "0dd484874b10261ff2e07655@smsp-calendar.akumarau",
+    "title": "Driving Solutions - NSW Fire",
+    "start": "2026-10-09T08:30",
+    "end": "2026-10-09T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -297,17 +297,6 @@
     "source_text": ""
   },
   {
-    "uid": "6621a14095102de09cd6f85e@smsp-calendar.akumarau",
-    "title": "SubiNats 26 - Impreza WRX Club Inc.",
-    "start": "2026-10-10T08:30",
-    "end": "2026-10-10T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP), Skid Circuit",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "4342910dcb41be0033877e53@smsp-calendar.akumarau",
     "title": "SubiNats 26 - Impreza WRX Club Inc.",
     "start": "2026-10-10T08:30",
@@ -315,6 +304,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "6621a14095102de09cd6f85e@smsp-calendar.akumarau",
+    "title": "SubiNats 26 - Impreza WRX Club Inc.",
+    "start": "2026-10-10T08:30",
+    "end": "2026-10-10T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP), Skid Circuit",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -473,13 +473,13 @@
     "source_text": ""
   },
   {
-    "uid": "83157e9d6fdc491931ecb5ca@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
+    "uid": "854f37426774b038dab3fee5@smsp-calendar.akumarau",
+    "title": "Motor Racing Australia - MRA",
     "start": "2026-10-17T08:30",
     "end": "2026-10-17T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -495,24 +495,13 @@
     "source_text": ""
   },
   {
-    "uid": "854f37426774b038dab3fee5@smsp-calendar.akumarau",
-    "title": "Motor Racing Australia - MRA",
+    "uid": "83157e9d6fdc491931ecb5ca@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
     "start": "2026-10-17T08:30",
     "end": "2026-10-17T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "ca0990572fddc699d486589e@smsp-calendar.akumarau",
-    "title": "Drift Sydney - United Festival 2026",
-    "start": "2026-10-17T18:30",
-    "end": "2026-10-17T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP), Skid Circuit",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -524,6 +513,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "ca0990572fddc699d486589e@smsp-calendar.akumarau",
+    "title": "Drift Sydney - United Festival 2026",
+    "start": "2026-10-17T18:30",
+    "end": "2026-10-17T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP), Skid Circuit",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -737,17 +737,6 @@
     "source_text": ""
   },
   {
-    "uid": "5d73865dbcddf55300e37c4d@smsp-calendar.akumarau",
-    "title": "Drift Sydney",
-    "start": "2026-10-24T18:30",
-    "end": "2026-10-24T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "e58aaf806d8cf54accc642a3@smsp-calendar.akumarau",
     "title": "Cranked Motorsports",
     "start": "2026-10-24T18:30",
@@ -755,6 +744,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "5d73865dbcddf55300e37c4d@smsp-calendar.akumarau",
+    "title": "Drift Sydney",
+    "start": "2026-10-24T18:30",
+    "end": "2026-10-24T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -858,17 +858,6 @@
     "source_text": ""
   },
   {
-    "uid": "1758262bcfd3b461e78263cb@smsp-calendar.akumarau",
-    "title": "Australian Drift School",
-    "start": "2026-10-31T18:30",
-    "end": "2026-10-31T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "0e7ab968f40f827259483f3b@smsp-calendar.akumarau",
     "title": "Porsche Car Club",
     "start": "2026-10-31T18:30",
@@ -876,6 +865,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "1758262bcfd3b461e78263cb@smsp-calendar.akumarau",
+    "title": "Australian Drift School",
+    "start": "2026-10-31T18:30",
+    "end": "2026-10-31T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -891,17 +891,6 @@
     "source_text": ""
   },
   {
-    "uid": "e8bfa373f2eae54a992cafeb@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2026-11-01T08:30",
-    "end": "2026-11-01T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "17870802e6467d1bb71c276d@smsp-calendar.akumarau",
     "title": "SMSP Ride Days - MEGA",
     "start": "2026-11-01T08:30",
@@ -909,6 +898,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "e8bfa373f2eae54a992cafeb@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2026-11-01T08:30",
+    "end": "2026-11-01T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -990,24 +990,13 @@
     "source_text": ""
   },
   {
-    "uid": "c6c25724a8f9b8c31039c70a@smsp-calendar.akumarau",
-    "title": "Anglo Motorsport - Formula Ford Experience",
+    "uid": "fc1284c4d64769a28e05e90c@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Advanced Driver Training",
     "start": "2026-11-06T08:30",
     "end": "2026-11-06T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Amaroo (South)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "ac1fa5b0a9f9cb7a73743210@smsp-calendar.akumarau",
-    "title": "Fastrack V8 Race Experience",
-    "start": "2026-11-06T08:30",
-    "end": "2026-11-06T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Druitt (North)",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1023,13 +1012,24 @@
     "source_text": ""
   },
   {
-    "uid": "fc1284c4d64769a28e05e90c@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Advanced Driver Training",
+    "uid": "ac1fa5b0a9f9cb7a73743210@smsp-calendar.akumarau",
+    "title": "Fastrack V8 Race Experience",
     "start": "2026-11-06T08:30",
     "end": "2026-11-06T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
+    "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "c6c25724a8f9b8c31039c70a@smsp-calendar.akumarau",
+    "title": "Anglo Motorsport - Formula Ford Experience",
+    "start": "2026-11-06T08:30",
+    "end": "2026-11-06T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Amaroo (South)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1041,28 +1041,6 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "bf1595e505df3712642d7099@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training Private",
-    "start": "2026-11-07T08:30",
-    "end": "2026-11-07T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "ae8f91fd5bc9b2a360e4815b@smsp-calendar.akumarau",
-    "title": "Australian Drift School",
-    "start": "2026-11-07T08:30",
-    "end": "2026-11-07T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1089,13 +1067,24 @@
     "source_text": ""
   },
   {
-    "uid": "0dff7f74603bd72de501aa12@smsp-calendar.akumarau",
-    "title": "St George Motorcycle Club - Summer Night Series 2026/2027",
-    "start": "2026-11-07T18:30",
-    "end": "2026-11-07T22:30",
+    "uid": "bf1595e505df3712642d7099@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training Private",
+    "start": "2026-11-07T08:30",
+    "end": "2026-11-07T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
+    "location": "4WD Track",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "ae8f91fd5bc9b2a360e4815b@smsp-calendar.akumarau",
+    "title": "Australian Drift School",
+    "start": "2026-11-07T08:30",
+    "end": "2026-11-07T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1111,13 +1100,24 @@
     "source_text": ""
   },
   {
-    "uid": "ea5b0b667a1da30c097d0412@smsp-calendar.akumarau",
-    "title": "Mazda MX-5 Club of NSW",
+    "uid": "0dff7f74603bd72de501aa12@smsp-calendar.akumarau",
+    "title": "St George Motorcycle Club - Summer Night Series 2026/2027",
+    "start": "2026-11-07T18:30",
+    "end": "2026-11-07T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "576162b6ba83e0c11d8a819b@smsp-calendar.akumarau",
+    "title": "Fastrack V8 Race Experience",
     "start": "2026-11-08T08:30",
     "end": "2026-11-08T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
+    "location": "Druitt (North)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1133,6 +1133,17 @@
     "source_text": ""
   },
   {
+    "uid": "ea5b0b667a1da30c097d0412@smsp-calendar.akumarau",
+    "title": "Mazda MX-5 Club of NSW",
+    "start": "2026-11-08T08:30",
+    "end": "2026-11-08T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
     "uid": "ce2d81642f9e862c5b77fa4e@smsp-calendar.akumarau",
     "title": "Driving Solutions - 4WD Driver Training Private",
     "start": "2026-11-08T08:30",
@@ -1140,17 +1151,6 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "576162b6ba83e0c11d8a819b@smsp-calendar.akumarau",
-    "title": "Fastrack V8 Race Experience",
-    "start": "2026-11-08T08:30",
-    "end": "2026-11-08T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Druitt (North)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1353,17 +1353,6 @@
     "source_text": ""
   },
   {
-    "uid": "c9833a64a56488bc650a7f6f@smsp-calendar.akumarau",
-    "title": "SMSP Ride Days - MEGA",
-    "start": "2026-11-22T08:30",
-    "end": "2026-11-22T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "069c867925b887e1feb4968c@smsp-calendar.akumarau",
     "title": "Porsche Car Club",
     "start": "2026-11-22T08:30",
@@ -1371,6 +1360,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "c9833a64a56488bc650a7f6f@smsp-calendar.akumarau",
+    "title": "SMSP Ride Days - MEGA",
+    "start": "2026-11-22T08:30",
+    "end": "2026-11-22T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1474,17 +1474,6 @@
     "source_text": ""
   },
   {
-    "uid": "614be115c5215519e8573fa2@smsp-calendar.akumarau",
-    "title": "California Superbike School Australia",
-    "start": "2026-11-30T08:30",
-    "end": "2026-11-30T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "d6036e4d9aec3d4162e3872e@smsp-calendar.akumarau",
     "title": "Driving Solutions - Defensive Driver Training",
     "start": "2026-11-30T08:30",
@@ -1492,6 +1481,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Circuit, Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "614be115c5215519e8573fa2@smsp-calendar.akumarau",
+    "title": "California Superbike School Australia",
+    "start": "2026-11-30T08:30",
+    "end": "2026-11-30T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1551,6 +1551,17 @@
     "source_text": ""
   },
   {
+    "uid": "f53447cafd1289ab3aa1e313@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2026-12-04T08:30",
+    "end": "2026-12-04T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
     "uid": "f2824ce79501058195e99e6c@smsp-calendar.akumarau",
     "title": "SMSP Ride Days - MEGA",
     "start": "2026-12-04T08:30",
@@ -1562,13 +1573,13 @@
     "source_text": ""
   },
   {
-    "uid": "f53447cafd1289ab3aa1e313@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2026-12-04T08:30",
-    "end": "2026-12-04T16:30",
+    "uid": "e0d94a71d9d6aea776145539@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Skid & Slide",
+    "start": "2026-12-04T18:30",
+    "end": "2026-12-04T22:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1584,13 +1595,13 @@
     "source_text": ""
   },
   {
-    "uid": "e0d94a71d9d6aea776145539@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Skid & Slide",
-    "start": "2026-12-04T18:30",
-    "end": "2026-12-04T22:30",
+    "uid": "35a6b0700c54e756f6ee4e01@smsp-calendar.akumarau",
+    "title": "SMSP Ride Days - MEGA",
+    "start": "2026-12-05T08:30",
+    "end": "2026-12-05T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1617,28 +1628,6 @@
     "source_text": ""
   },
   {
-    "uid": "35a6b0700c54e756f6ee4e01@smsp-calendar.akumarau",
-    "title": "SMSP Ride Days - MEGA",
-    "start": "2026-12-05T08:30",
-    "end": "2026-12-05T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "c10074e90c38eb98f7cae895@smsp-calendar.akumarau",
-    "title": "St George Motorcycle Club - Summer Night Series 2026/2027",
-    "start": "2026-12-05T18:30",
-    "end": "2026-12-05T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "cb756510837ccf9d37874263@smsp-calendar.akumarau",
     "title": "Australian Drift School",
     "start": "2026-12-05T18:30",
@@ -1652,6 +1641,17 @@
   {
     "uid": "404c33bc2037aa677e50f7e7@smsp-calendar.akumarau",
     "title": "Cranked Motorsports",
+    "start": "2026-12-05T18:30",
+    "end": "2026-12-05T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "c10074e90c38eb98f7cae895@smsp-calendar.akumarau",
+    "title": "St George Motorcycle Club - Summer Night Series 2026/2027",
     "start": "2026-12-05T18:30",
     "end": "2026-12-05T22:30",
     "all_day": false,
@@ -1705,17 +1705,6 @@
     "source_text": ""
   },
   {
-    "uid": "d11c39696cd848e9ac110bbe@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Defensive Driver Training",
-    "start": "2026-12-07T08:30",
-    "end": "2026-12-07T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "f27c91224ec6a2cc8fb4805d@smsp-calendar.akumarau",
     "title": "Anglo Motorsport - Formula Ford Experience",
     "start": "2026-12-07T08:30",
@@ -1723,6 +1712,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "d11c39696cd848e9ac110bbe@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Defensive Driver Training",
+    "start": "2026-12-07T08:30",
+    "end": "2026-12-07T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1859,6 +1859,17 @@
     "source_text": ""
   },
   {
+    "uid": "7256dbfecede348c296561f4@smsp-calendar.akumarau",
+    "title": "Fastrack V8 Race Experience",
+    "start": "2026-12-12T08:30",
+    "end": "2026-12-12T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
     "uid": "24e41b7fb0a7c1d5a79267f9@smsp-calendar.akumarau",
     "title": "Australian Drift School",
     "start": "2026-12-12T08:30",
@@ -1870,13 +1881,13 @@
     "source_text": ""
   },
   {
-    "uid": "7256dbfecede348c296561f4@smsp-calendar.akumarau",
-    "title": "Fastrack V8 Race Experience",
-    "start": "2026-12-12T08:30",
-    "end": "2026-12-12T16:30",
+    "uid": "eefe42ead19e1761407c9682@smsp-calendar.akumarau",
+    "title": "Tuned",
+    "start": "2026-12-12T18:30",
+    "end": "2026-12-12T22:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Druitt (North)",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1892,10 +1903,10 @@
     "source_text": ""
   },
   {
-    "uid": "eefe42ead19e1761407c9682@smsp-calendar.akumarau",
-    "title": "Tuned",
-    "start": "2026-12-12T18:30",
-    "end": "2026-12-12T22:30",
+    "uid": "eff2b5eb019e9d0226343c38@smsp-calendar.akumarau",
+    "title": "Porsche Car Club",
+    "start": "2026-12-13T08:30",
+    "end": "2026-12-13T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
@@ -1921,17 +1932,6 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "eff2b5eb019e9d0226343c38@smsp-calendar.akumarau",
-    "title": "Porsche Car Club",
-    "start": "2026-12-13T08:30",
-    "end": "2026-12-13T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -1991,17 +1991,6 @@
     "source_text": ""
   },
   {
-    "uid": "281c1d4861f2f5c8d97407d8@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Skid & Slide",
-    "start": "2026-12-18T18:30",
-    "end": "2026-12-18T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "a99ee3bc37914d920b5bc612@smsp-calendar.akumarau",
     "title": "SMSP Ride Night MEGA",
     "start": "2026-12-18T18:30",
@@ -2009,6 +1998,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "281c1d4861f2f5c8d97407d8@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Skid & Slide",
+    "start": "2026-12-18T18:30",
+    "end": "2026-12-18T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2079,17 +2079,6 @@
     "source_text": ""
   },
   {
-    "uid": "82741b014d0174abfb1d7e3b@smsp-calendar.akumarau",
-    "title": "Drift Sydney",
-    "start": "2027-01-09T18:30",
-    "end": "2027-01-09T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "942f73b973c390d1cdcfcb1b@smsp-calendar.akumarau",
     "title": "Tuned. Car Meet (South Amaroo Paddock)",
     "start": "2027-01-09T18:30",
@@ -2097,6 +2086,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "82741b014d0174abfb1d7e3b@smsp-calendar.akumarau",
+    "title": "Drift Sydney",
+    "start": "2027-01-09T18:30",
+    "end": "2027-01-09T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2178,17 +2178,6 @@
     "source_text": ""
   },
   {
-    "uid": "8ea36e6223f4f16578e78cb3@smsp-calendar.akumarau",
-    "title": "SMSP Ride Days",
-    "start": "2027-01-26T08:30",
-    "end": "2027-01-26T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "8cc8c2a5dae8864f2c1581a2@smsp-calendar.akumarau",
     "title": "Australian Drift Club",
     "start": "2027-01-26T08:30",
@@ -2196,6 +2185,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "8ea36e6223f4f16578e78cb3@smsp-calendar.akumarau",
+    "title": "SMSP Ride Days",
+    "start": "2027-01-26T08:30",
+    "end": "2027-01-26T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2332,17 +2332,6 @@
     "source_text": ""
   },
   {
-    "uid": "d6d60f72848fe88ec6509e80@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Skid & Slide",
-    "start": "2027-02-05T18:30",
-    "end": "2027-02-05T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "8b88d82bd076cd27ee5b33d7@smsp-calendar.akumarau",
     "title": "St. George Motorcycle Club",
     "start": "2027-02-05T18:30",
@@ -2350,6 +2339,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "d6d60f72848fe88ec6509e80@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Skid & Slide",
+    "start": "2027-02-05T18:30",
+    "end": "2027-02-05T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2365,17 +2365,6 @@
     "source_text": ""
   },
   {
-    "uid": "f4ccbca1863d10f32c9fd94c@smsp-calendar.akumarau",
-    "title": "Christian Autosports Club of Australia",
-    "start": "2027-02-06T08:30",
-    "end": "2027-02-06T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "911ffeda49c075887538d5eb@smsp-calendar.akumarau",
     "title": "MRA - Motor Racing Australia",
     "start": "2027-02-06T08:30",
@@ -2383,6 +2372,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "f4ccbca1863d10f32c9fd94c@smsp-calendar.akumarau",
+    "title": "Christian Autosports Club of Australia",
+    "start": "2027-02-06T08:30",
+    "end": "2027-02-06T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2552,17 +2552,6 @@
     "source_text": ""
   },
   {
-    "uid": "b14c77b2f19ba0a09fb6749f@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Advanced Driver Training",
-    "start": "2027-02-12T08:30",
-    "end": "2027-02-12T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "38af11fd47139c79111293b8@smsp-calendar.akumarau",
     "title": "SMSP Ride Days",
     "start": "2027-02-12T08:30",
@@ -2570,6 +2559,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "b14c77b2f19ba0a09fb6749f@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Advanced Driver Training",
+    "start": "2027-02-12T08:30",
+    "end": "2027-02-12T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2585,17 +2585,6 @@
     "source_text": ""
   },
   {
-    "uid": "526283da2923c7aa23a7bc07@smsp-calendar.akumarau",
-    "title": "Drift Sydney",
-    "start": "2027-02-13T18:30",
-    "end": "2027-02-13T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "dc5b0e605db23cfc1d90c994@smsp-calendar.akumarau",
     "title": "South Circuit SMSP Ride Night",
     "start": "2027-02-13T18:30",
@@ -2603,6 +2592,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "526283da2923c7aa23a7bc07@smsp-calendar.akumarau",
+    "title": "Drift Sydney",
+    "start": "2027-02-13T18:30",
+    "end": "2027-02-13T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2706,17 +2706,6 @@
     "source_text": ""
   },
   {
-    "uid": "a544c5af4ef2295e21ebad44@smsp-calendar.akumarau",
-    "title": "Fastrack Experiences - Exotic Supercars",
-    "start": "2027-02-20T08:30",
-    "end": "2027-02-20T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Amaroo (South)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "2e3f7f794dddb2fae3d63892@smsp-calendar.akumarau",
     "title": "Private Event",
     "start": "2027-02-20T08:30",
@@ -2735,6 +2724,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "a544c5af4ef2295e21ebad44@smsp-calendar.akumarau",
+    "title": "Fastrack Experiences - Exotic Supercars",
+    "start": "2027-02-20T08:30",
+    "end": "2027-02-20T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Amaroo (South)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2783,17 +2783,6 @@
     "source_text": ""
   },
   {
-    "uid": "7827f938901021f1030c9aa4@smsp-calendar.akumarau",
-    "title": "Fastrack Experiences - V8 Racecars",
-    "start": "2027-02-21T08:30",
-    "end": "2027-02-21T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Druitt (North)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "20e5a7a489e90e49db4e5847@smsp-calendar.akumarau",
     "title": "Fastrack Experiences - Exotic Supercars",
     "start": "2027-02-21T08:30",
@@ -2801,6 +2790,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "7827f938901021f1030c9aa4@smsp-calendar.akumarau",
+    "title": "Fastrack Experiences - V8 Racecars",
+    "start": "2027-02-21T08:30",
+    "end": "2027-02-21T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Druitt (North)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -2937,17 +2937,6 @@
     "source_text": ""
   },
   {
-    "uid": "8cb046239bdb7570f99857ff@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Skid & Slide",
-    "start": "2027-03-12T18:30",
-    "end": "2027-03-12T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "d25a00df077eb1022415e7d3@smsp-calendar.akumarau",
     "title": "SMSP Ride Night",
     "start": "2027-03-12T18:30",
@@ -2955,6 +2944,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "8cb046239bdb7570f99857ff@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Skid & Slide",
+    "start": "2027-03-12T18:30",
+    "end": "2027-03-12T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3069,17 +3069,6 @@
     "source_text": ""
   },
   {
-    "uid": "ddbc39e4d0814adcdae6332a@smsp-calendar.akumarau",
-    "title": "Tuned. X - Drift Academy",
-    "start": "2027-03-21T18:30",
-    "end": "2027-03-21T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "efc8fab560d1a35ba744e9d5@smsp-calendar.akumarau",
     "title": "Driven Project Australia",
     "start": "2027-03-21T18:30",
@@ -3087,6 +3076,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "ddbc39e4d0814adcdae6332a@smsp-calendar.akumarau",
+    "title": "Tuned. X - Drift Academy",
+    "start": "2027-03-21T18:30",
+    "end": "2027-03-21T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3190,17 +3190,6 @@
     "source_text": ""
   },
   {
-    "uid": "5cc3e75172c23841f0179fbe@smsp-calendar.akumarau",
-    "title": "SMSP Ride Days",
-    "start": "2027-04-03T08:30",
-    "end": "2027-04-03T17:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "a4b6720aeb7d26cbd0cdde3b@smsp-calendar.akumarau",
     "title": "Private Event",
     "start": "2027-04-03T08:30",
@@ -3219,6 +3208,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "4WD Track",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "5cc3e75172c23841f0179fbe@smsp-calendar.akumarau",
+    "title": "SMSP Ride Days",
+    "start": "2027-04-03T08:30",
+    "end": "2027-04-03T17:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3410,17 +3410,6 @@
     "source_text": ""
   },
   {
-    "uid": "c57f8587e814598ce0150c2f@smsp-calendar.akumarau",
-    "title": "Christian Autosports Club of Australia",
-    "start": "2027-04-17T08:30",
-    "end": "2027-04-17T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "b59ed28d2c9e9fbb5c4d4130@smsp-calendar.akumarau",
     "title": "Driving Solutions - Defensive Driver Training",
     "start": "2027-04-17T08:30",
@@ -3432,13 +3421,13 @@
     "source_text": ""
   },
   {
-    "uid": "53862f87b0c78411d2b6f14f@smsp-calendar.akumarau",
-    "title": "Drift Sydney",
-    "start": "2027-04-17T18:30",
-    "end": "2027-04-17T22:30",
+    "uid": "c57f8587e814598ce0150c2f@smsp-calendar.akumarau",
+    "title": "Christian Autosports Club of Australia",
+    "start": "2027-04-17T08:30",
+    "end": "2027-04-17T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
+    "location": "Skid Circuit",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3454,6 +3443,17 @@
     "source_text": ""
   },
   {
+    "uid": "53862f87b0c78411d2b6f14f@smsp-calendar.akumarau",
+    "title": "Drift Sydney",
+    "start": "2027-04-17T18:30",
+    "end": "2027-04-17T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
     "uid": "f4999b214e0b2331df023b12@smsp-calendar.akumarau",
     "title": "Waratah Masters Cycling Club",
     "start": "2027-04-18T06:00",
@@ -3465,17 +3465,6 @@
     "source_text": ""
   },
   {
-    "uid": "b5357d6294dc91be3c129dd2@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2027-04-18T08:30",
-    "end": "2027-04-18T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "ae9fca6c233121ebc478e32c@smsp-calendar.akumarau",
     "title": "Porsche Club NSW",
     "start": "2027-04-18T08:30",
@@ -3483,6 +3472,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "b5357d6294dc91be3c129dd2@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2027-04-18T08:30",
+    "end": "2027-04-18T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3685,17 +3685,6 @@
     "source_text": ""
   },
   {
-    "uid": "be6aa85c7c193bb336fbec1a@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Defensive Driver Training",
-    "start": "2027-05-07T08:30",
-    "end": "2027-05-07T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "21939dc65022ba537d0b1863@smsp-calendar.akumarau",
     "title": "Fastrack Experiences - V8 Racecars",
     "start": "2027-05-07T08:30",
@@ -3703,6 +3692,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "be6aa85c7c193bb336fbec1a@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Defensive Driver Training",
+    "start": "2027-05-07T08:30",
+    "end": "2027-05-07T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3729,17 +3729,6 @@
     "source_text": ""
   },
   {
-    "uid": "d79c508fe8ad13fcc01c99fd@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2027-05-08T08:30",
-    "end": "2027-05-08T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "004027b24c223c763481d77e@smsp-calendar.akumarau",
     "title": "Fastrack Experiences - Exotic Supercars",
     "start": "2027-05-08T08:30",
@@ -3758,6 +3747,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "d79c508fe8ad13fcc01c99fd@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2027-05-08T08:30",
+    "end": "2027-05-08T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3894,17 +3894,6 @@
     "source_text": ""
   },
   {
-    "uid": "3c36bb4271a23c5f689a212a@smsp-calendar.akumarau",
-    "title": "MRA - Motor Racing Australia",
-    "start": "2027-05-21T18:30",
-    "end": "2027-05-21T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "e827353837659e47dd97c643@smsp-calendar.akumarau",
     "title": "Driving Solutions - Skid & Slide",
     "start": "2027-05-21T18:30",
@@ -3916,13 +3905,13 @@
     "source_text": ""
   },
   {
-    "uid": "9913e5c578164182dbce3297@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2027-05-22T08:30",
-    "end": "2027-05-22T16:30",
+    "uid": "3c36bb4271a23c5f689a212a@smsp-calendar.akumarau",
+    "title": "MRA - Motor Racing Australia",
+    "start": "2027-05-21T18:30",
+    "end": "2027-05-21T22:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -3934,6 +3923,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "9913e5c578164182dbce3297@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2027-05-22T08:30",
+    "end": "2027-05-22T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4059,17 +4059,6 @@
     "source_text": ""
   },
   {
-    "uid": "2ea41d4a5182ff8a5f65a4f7@smsp-calendar.akumarau",
-    "title": "The Drive Team - Private Event",
-    "start": "2027-06-04T08:30",
-    "end": "2027-06-04T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "d1df08be858548f4968d385e@smsp-calendar.akumarau",
     "title": "Driving Solutions - Advanced Driver Training",
     "start": "2027-06-04T08:30",
@@ -4081,13 +4070,13 @@
     "source_text": ""
   },
   {
-    "uid": "079fc192631c6a7533456b8c@smsp-calendar.akumarau",
-    "title": "Australian Drift Club",
-    "start": "2027-06-05T08:30",
-    "end": "2027-06-05T16:30",
+    "uid": "2ea41d4a5182ff8a5f65a4f7@smsp-calendar.akumarau",
+    "title": "The Drive Team - Private Event",
+    "start": "2027-06-04T08:30",
+    "end": "2027-06-04T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4099,6 +4088,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "4WD Track",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "079fc192631c6a7533456b8c@smsp-calendar.akumarau",
+    "title": "Australian Drift Club",
+    "start": "2027-06-05T08:30",
+    "end": "2027-06-05T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4334,13 +4334,13 @@
     "source_text": ""
   },
   {
-    "uid": "6c8ad03761705c44f982582f@smsp-calendar.akumarau",
-    "title": "MRA - Motor Racing Australia",
+    "uid": "50629cf4fce0d7d7b43a1b08@smsp-calendar.akumarau",
+    "title": "Porsche Club NSW",
     "start": "2027-07-04T08:30",
     "end": "2027-07-04T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4356,13 +4356,13 @@
     "source_text": ""
   },
   {
-    "uid": "50629cf4fce0d7d7b43a1b08@smsp-calendar.akumarau",
-    "title": "Porsche Club NSW",
+    "uid": "6c8ad03761705c44f982582f@smsp-calendar.akumarau",
+    "title": "MRA - Motor Racing Australia",
     "start": "2027-07-04T08:30",
     "end": "2027-07-04T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4455,17 +4455,6 @@
     "source_text": ""
   },
   {
-    "uid": "05969413b450dfe1f8d865c8@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Trailer Towing Course",
-    "start": "2027-07-17T08:30",
-    "end": "2027-07-17T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "9fb2a33539b07f2304eab892@smsp-calendar.akumarau",
     "title": "SMSP Ride Days",
     "start": "2027-07-17T08:30",
@@ -4473,6 +4462,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "05969413b450dfe1f8d865c8@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Trailer Towing Course",
+    "start": "2027-07-17T08:30",
+    "end": "2027-07-17T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4510,17 +4510,6 @@
     "source_text": ""
   },
   {
-    "uid": "333a8e60af573ca355d1e252@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2027-07-18T08:30",
-    "end": "2027-07-18T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "824454394b7a7d8e5ef647f5@smsp-calendar.akumarau",
     "title": "Jaguar Drivers Club",
     "start": "2027-07-18T08:30",
@@ -4528,6 +4517,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "333a8e60af573ca355d1e252@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2027-07-18T08:30",
+    "end": "2027-07-18T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4631,6 +4631,17 @@
     "source_text": ""
   },
   {
+    "uid": "3b1fb51fff088d9bd8814b6f@smsp-calendar.akumarau",
+    "title": "Motor Events Racing",
+    "start": "2027-07-31T08:30",
+    "end": "2027-07-31T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
     "uid": "0f453f22d10ee587ddd542e6@smsp-calendar.akumarau",
     "title": "Driving Solutions - 4WD Driver Training",
     "start": "2027-07-31T08:30",
@@ -4730,17 +4741,6 @@
     "source_text": ""
   },
   {
-    "uid": "187542690f6b8e7f7c82c099@smsp-calendar.akumarau",
-    "title": "Fastrack Experiences - V8 Racecars",
-    "start": "2027-08-07T08:30",
-    "end": "2027-08-07T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Druitt (North)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "921ceffbe01b8cbe33b30e0b@smsp-calendar.akumarau",
     "title": "Road and Track Drivers Club - RTDC",
     "start": "2027-08-07T08:30",
@@ -4759,6 +4759,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "187542690f6b8e7f7c82c099@smsp-calendar.akumarau",
+    "title": "Fastrack Experiences - V8 Racecars",
+    "start": "2027-08-07T08:30",
+    "end": "2027-08-07T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Druitt (North)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4785,17 +4796,6 @@
     "source_text": ""
   },
   {
-    "uid": "b9689b8f7a354851e4c723eb@smsp-calendar.akumarau",
-    "title": "Drift School Australia",
-    "start": "2027-08-08T08:30",
-    "end": "2027-08-08T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "427d4e34a16e679b90b1fef5@smsp-calendar.akumarau",
     "title": "Fastrack Experiences - V8 Racecars",
     "start": "2027-08-08T08:30",
@@ -4803,6 +4803,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Druitt (North)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "b9689b8f7a354851e4c723eb@smsp-calendar.akumarau",
+    "title": "Drift School Australia",
+    "start": "2027-08-08T08:30",
+    "end": "2027-08-08T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -4822,17 +4833,6 @@
     "title": "Driving Solutions - Advanced Driver Training",
     "start": "2027-08-13T08:30",
     "end": "2027-08-13T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
-    "uid": "9563f86081cce9e1693994d0@smsp-calendar.akumarau",
-    "title": "Australian Drift Club",
-    "start": "2027-08-14T08:30",
-    "end": "2027-08-14T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
@@ -4862,6 +4862,17 @@
     "source_text": ""
   },
   {
+    "uid": "9563f86081cce9e1693994d0@smsp-calendar.akumarau",
+    "title": "Australian Drift Club",
+    "start": "2027-08-14T08:30",
+    "end": "2027-08-14T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
     "uid": "0ecb535b7d1ff4d4eda345ea@smsp-calendar.akumarau",
     "title": "Drift School Australia",
     "start": "2027-08-14T18:30",
@@ -4873,17 +4884,6 @@
     "source_text": ""
   },
   {
-    "uid": "6bad123c05e41f6611437eb9@smsp-calendar.akumarau",
-    "title": "Porsche Club NSW",
-    "start": "2027-08-15T08:30",
-    "end": "2027-08-15T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "290253929ab8785d13797f14@smsp-calendar.akumarau",
     "title": "St. George Motorcycle Club",
     "start": "2027-08-15T08:30",
@@ -4891,6 +4891,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "6bad123c05e41f6611437eb9@smsp-calendar.akumarau",
+    "title": "Porsche Club NSW",
+    "start": "2027-08-15T08:30",
+    "end": "2027-08-15T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5049,17 +5060,6 @@
     "source_text": ""
   },
   {
-    "uid": "0124fbc7dd73b6feb0a0fb07@smsp-calendar.akumarau",
-    "title": "2027 Ferrari Challenge Trofeo Pirelli Australasia - Round 5",
-    "start": "2027-09-11T08:30",
-    "end": "2027-09-11T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP), Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "2b454f799f32a3b27eaa6587@smsp-calendar.akumarau",
     "title": "Driving Solutions - 4WD Driver Training",
     "start": "2027-09-11T08:30",
@@ -5071,13 +5071,24 @@
     "source_text": ""
   },
   {
-    "uid": "ee31310dada6001c0fd8b8fd@smsp-calendar.akumarau",
-    "title": "Road and Track Drivers Club - RTDC",
+    "uid": "0124fbc7dd73b6feb0a0fb07@smsp-calendar.akumarau",
+    "title": "2027 Ferrari Challenge Trofeo Pirelli Australasia - Round 5",
+    "start": "2027-09-11T08:30",
+    "end": "2027-09-11T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP), Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "637c648d86e33ae713f11900@smsp-calendar.akumarau",
+    "title": "Australian Drift Club",
     "start": "2027-09-11T18:30",
     "end": "2027-09-11T22:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5093,13 +5104,13 @@
     "source_text": ""
   },
   {
-    "uid": "637c648d86e33ae713f11900@smsp-calendar.akumarau",
-    "title": "Australian Drift Club",
+    "uid": "ee31310dada6001c0fd8b8fd@smsp-calendar.akumarau",
+    "title": "Road and Track Drivers Club - RTDC",
     "start": "2027-09-11T18:30",
     "end": "2027-09-11T22:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
+    "location": "Skid Circuit",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5181,17 +5192,6 @@
     "source_text": ""
   },
   {
-    "uid": "d4a9e8dcffb3ddd84a74ef8d@smsp-calendar.akumarau",
-    "title": "Fastrack Experiences - Exotic Supercars",
-    "start": "2027-09-18T08:30",
-    "end": "2027-09-18T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Amaroo (South)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "fcef388e05817980d622f1c2@smsp-calendar.akumarau",
     "title": "Drift School Australia",
     "start": "2027-09-18T08:30",
@@ -5199,6 +5199,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Circuit, Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "d4a9e8dcffb3ddd84a74ef8d@smsp-calendar.akumarau",
+    "title": "Fastrack Experiences - Exotic Supercars",
+    "start": "2027-09-18T08:30",
+    "end": "2027-09-18T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Amaroo (South)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5236,17 +5247,6 @@
     "source_text": ""
   },
   {
-    "uid": "006cc97fcb898585c3356c6e@smsp-calendar.akumarau",
-    "title": "Driving Solutions - 4WD Driver Training",
-    "start": "2027-09-19T08:30",
-    "end": "2027-09-19T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "4WD Track",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "fa8b1632bc2c462d723d7932@smsp-calendar.akumarau",
     "title": "Fastrack Experiences - V8 Racecars",
     "start": "2027-09-19T08:30",
@@ -5265,6 +5265,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "006cc97fcb898585c3356c6e@smsp-calendar.akumarau",
+    "title": "Driving Solutions - 4WD Driver Training",
+    "start": "2027-09-19T08:30",
+    "end": "2027-09-19T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "4WD Track",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5621,17 +5632,6 @@
     "source_text": ""
   },
   {
-    "uid": "e3c0907b796794aad664b1b0@smsp-calendar.akumarau",
-    "title": "Australian Drift Club",
-    "start": "2027-10-24T08:30",
-    "end": "2027-10-24T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "02437550342877653035acc7@smsp-calendar.akumarau",
     "title": "Porsche Club NSW",
     "start": "2027-10-24T08:30",
@@ -5650,6 +5650,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "4WD Track",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "e3c0907b796794aad664b1b0@smsp-calendar.akumarau",
+    "title": "Australian Drift Club",
+    "start": "2027-10-24T08:30",
+    "end": "2027-10-24T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5687,17 +5698,6 @@
     "source_text": ""
   },
   {
-    "uid": "f39b6bd4f058a11b993431b4@smsp-calendar.akumarau",
-    "title": "Road and Track Drivers Club - RTDC",
-    "start": "2027-10-30T18:30",
-    "end": "2027-10-30T22:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "f9a4fb1ae1bbb6a377fdbc35@smsp-calendar.akumarau",
     "title": "Australian Drift Club",
     "start": "2027-10-30T18:30",
@@ -5705,6 +5705,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "f39b6bd4f058a11b993431b4@smsp-calendar.akumarau",
+    "title": "Road and Track Drivers Club - RTDC",
+    "start": "2027-10-30T18:30",
+    "end": "2027-10-30T22:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5720,17 +5731,6 @@
     "source_text": ""
   },
   {
-    "uid": "454a802036e241224bad0385@smsp-calendar.akumarau",
-    "title": "Drift Sydney",
-    "start": "2027-10-31T08:30",
-    "end": "2027-10-31T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "251a19f9c4ca2cb3fd4b335b@smsp-calendar.akumarau",
     "title": "SMSP Ride Days",
     "start": "2027-10-31T08:30",
@@ -5738,6 +5738,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Gardner (GP)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "454a802036e241224bad0385@smsp-calendar.akumarau",
+    "title": "Drift Sydney",
+    "start": "2027-10-31T08:30",
+    "end": "2027-10-31T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5786,17 +5797,6 @@
     "source_text": ""
   },
   {
-    "uid": "a64878e6cabfebc8d570956a@smsp-calendar.akumarau",
-    "title": "Fastrack Experiences - Exotic Supercars",
-    "start": "2027-11-06T08:30",
-    "end": "2027-11-06T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Amaroo (South)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "ae0ee4edf36db886f4d80a7f@smsp-calendar.akumarau",
     "title": "Fastrack Experiences - V8 Racecars",
     "start": "2027-11-06T08:30",
@@ -5815,6 +5815,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Circuit, Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "a64878e6cabfebc8d570956a@smsp-calendar.akumarau",
+    "title": "Fastrack Experiences - Exotic Supercars",
+    "start": "2027-11-06T08:30",
+    "end": "2027-11-06T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Amaroo (South)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5852,17 +5863,6 @@
     "source_text": ""
   },
   {
-    "uid": "515780e2652f32b09959c15c@smsp-calendar.akumarau",
-    "title": "Porsche Club NSW",
-    "start": "2027-11-07T08:30",
-    "end": "2027-11-07T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "1317655fb71ae3e7793aeacf@smsp-calendar.akumarau",
     "title": "Fastrack Experiences - V8 Racecars",
     "start": "2027-11-07T08:30",
@@ -5874,13 +5874,13 @@
     "source_text": ""
   },
   {
-    "uid": "b58369558b44804cdef6bf1d@smsp-calendar.akumarau",
-    "title": "Driving Solutions - Trailer Towing Course",
+    "uid": "515780e2652f32b09959c15c@smsp-calendar.akumarau",
+    "title": "Porsche Club NSW",
     "start": "2027-11-07T08:30",
     "end": "2027-11-07T16:30",
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Skid Circuit",
+    "location": "Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5892,6 +5892,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Amaroo (South)",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "b58369558b44804cdef6bf1d@smsp-calendar.akumarau",
+    "title": "Driving Solutions - Trailer Towing Course",
+    "start": "2027-11-07T08:30",
+    "end": "2027-11-07T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Skid Circuit",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -5940,17 +5951,6 @@
     "source_text": ""
   },
   {
-    "uid": "13ab9726953317094ecf02c7@smsp-calendar.akumarau",
-    "title": "HSRCA Summer Festival",
-    "start": "2027-11-19T08:30",
-    "end": "2027-11-19T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP), Skid Circuit, Skid Pan",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "c0d40a7fdc924665ddb72d06@smsp-calendar.akumarau",
     "title": "Driving Solutions - 4WD Driver Training",
     "start": "2027-11-19T08:30",
@@ -5958,6 +5958,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "4WD Track",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "13ab9726953317094ecf02c7@smsp-calendar.akumarau",
+    "title": "HSRCA Summer Festival",
+    "start": "2027-11-19T08:30",
+    "end": "2027-11-19T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP), Skid Circuit, Skid Pan",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -6006,17 +6017,6 @@
     "source_text": ""
   },
   {
-    "uid": "d315efcd9309726277107f90@smsp-calendar.akumarau",
-    "title": "SMSP Ride Days",
-    "start": "2027-11-26T08:30",
-    "end": "2027-11-26T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "ae0da9b23318eb1ebe0b91fc@smsp-calendar.akumarau",
     "title": "Driving Solutions - Advanced Driver Training",
     "start": "2027-11-26T08:30",
@@ -6024,6 +6024,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "d315efcd9309726277107f90@smsp-calendar.akumarau",
+    "title": "SMSP Ride Days",
+    "start": "2027-11-26T08:30",
+    "end": "2027-11-26T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   },
@@ -6127,17 +6138,6 @@
     "source_text": ""
   },
   {
-    "uid": "83211c8dcf564d6da5b900c8@smsp-calendar.akumarau",
-    "title": "California Superbike School Australia",
-    "start": "2027-11-30T08:30",
-    "end": "2027-11-30T16:30",
-    "all_day": false,
-    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-    "location": "Gardner (GP)",
-    "description": "Source: Sydney Motorsport Park public event calendar",
-    "source_text": ""
-  },
-  {
     "uid": "12ab5da2a826c12d3e8fdf75@smsp-calendar.akumarau",
     "title": "Driving Solutions - Defensive Driver Training",
     "start": "2027-11-30T08:30",
@@ -6145,6 +6145,17 @@
     "all_day": false,
     "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
     "location": "Skid Circuit, Skid Pan",
+    "description": "Source: Sydney Motorsport Park public event calendar",
+    "source_text": ""
+  },
+  {
+    "uid": "83211c8dcf564d6da5b900c8@smsp-calendar.akumarau",
+    "title": "California Superbike School Australia",
+    "start": "2027-11-30T08:30",
+    "end": "2027-11-30T16:30",
+    "all_day": false,
+    "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
+    "location": "Gardner (GP)",
     "description": "Source: Sydney Motorsport Park public event calendar",
     "source_text": ""
   }
