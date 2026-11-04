@@ -108,7 +108,7 @@ PLAN = [
               "The exact pin is within metres of the reserve's usual photo spot.",
          notes=["About 1.5 km from the North Sydney office. Leave by 16:30 on the day.",
                 "Popular spot on full moon nights. Arrive early to claim the line.",
-                "Twilight bridge climbers may be on the arch. At 600 mm they make a strong silhouette against the moon."]),
+                "Twilight bridge climbers may be on the arch. At 400 mm they make a strong silhouette against the moon."]),
     dict(evening=date(2027, 7, 18), vp="Norah Head Rock Pool", lm="Norah Head Lighthouse",
          title="Moonrise behind the lighthouse at sunset",
          what="The full moon rising behind Norah Head Lighthouse across Cabbage Tree Bay, a few minutes "
@@ -196,16 +196,18 @@ def solve(vp, lm, evening):
 
 
 def lens_advice(h_deg):
-    """Focal length that makes the landmark about 60% of frame height, and the moon at 600 mm."""
+    """Focal length that makes the landmark about 60% of frame height, using the kit owned:
+    24-70mm, 70-200mm, and the 70-200mm with the 2x teleconverter (140 to 400 mm)."""
     f = 24.0 / (2 * math.tan(math.radians(h_deg / 0.6) / 2))
     if f <= 70:
         pick = f"FE 24-70mm F2.8 GM II at about {max(24, round(f / 5) * 5)} mm"
     elif f <= 200:
         pick = f"FE 70-200mm F2.8 GM OSS II at about {round(f / 5) * 5} mm"
-    elif f <= 600:
-        pick = f"FE 200-600mm at about {round(f / 10) * 10} mm"
+    elif f <= 400:
+        pick = f"FE 70-200mm F2.8 GM OSS II with the 2x teleconverter at about {round(f / 10) * 10} mm (f/5.6)"
     else:
-        pick = "FE 200-600mm at 600 mm, or 900 mm equivalent in APS-C crop mode"
+        pick = ("FE 70-200mm F2.8 GM OSS II with the 2x teleconverter at 400 mm, "
+                "or about 600 mm equivalent in APS-C crop mode")
     return f, pick
 
 
@@ -237,7 +239,7 @@ def build():
         h_ang = max(top_ang - base_ang, 0.05)
         f_fit, pick = lens_advice(h_ang)
         moon_w = A.moon_width_m(d_cam)
-        hf, vf = fov_deg(min(max(f_fit, 24), 600))
+        hf, vf = fov_deg(min(max(f_fit, 24), 400))
         dist_home, _ = A.distance_bearing(*HOME, *cam)
 
         rows, t = [], max(mr - timedelta(minutes=5), b["t"] - timedelta(minutes=30))
@@ -290,9 +292,9 @@ def build():
             f"{p['lm']} spans about {h_ang:.1f}° tall from here. The moon is 0.52° wide, about {moon_w:.0f} m across at this distance.",
             f"Landmark filling 60% of the frame height: {pick}.",
             *(p["framing"] if p.get("framing") else [
-              f"Moon dominant: FE 200-600mm at 600 mm puts the moon at {0.52 / fov_deg(600)[1] * 100:.0f}% of frame height "
-              "(34% in APS-C crop mode).",
-              "Tripod, OSS off on the tripod, 2 s timer or remote, shutter 1/125 s or faster at 600 mm.",
+              f"Moon dominant: FE 70-200mm F2.8 GM OSS II with the 2x teleconverter at 400 mm (f/5.6) puts the moon at "
+              f"{0.52 / fov_deg(400)[1] * 100:.0f}% of frame height ({0.52 / fov_deg(600)[1] * 100:.0f}% in APS-C crop mode).",
+              "Tripod, OSS off on the tripod, 2 s timer or remote, shutter 1/125 s or faster at 400 mm.",
               "Start: ISO 200 to 400, f/8, expose for the moon. Bracket 3 frames at 2 EV after sunset and blend."]),
             "",
             "FIELD NOTES",
