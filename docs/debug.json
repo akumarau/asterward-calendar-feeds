@@ -1,6 +1,6 @@
 {
   "target_url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-  "generated_at_utc": "2026-11-04T23:40:56Z",
+  "generated_at_utc": "2026-11-05T23:39:07Z",
   "page_title": "Home",
   "body_text_preview": "today November 2026 month week day list Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 6a Waratah Masters Cycling Club 8:30a Driving Solutions - NSW Fire 8:30a Driving Solutions - Defensive Driver Training 8:30a Porsche Sydney South 8:30a Anglo Motorsport - Formula Ford Experience 8:30a Australian Drift School 8:30a Blacktown City Council - Household Chemical CleanOut 8:30a Driving Solutions - NSW Fire 8:30a Driving Solutions - Defensive Driver Training 6:30p Driving Solutions - Skid & Slide 8:30a Driving Solutions - 4WD Driver Training Private 8:30a Australian Drift School 8:30a Driving Solutions - 4WD Driver Training 6p Night Drive for Learners - November 2026 8:30a Driving Solutions - Advanced Driver Training 8:30a Driving Solutions - 4WD Driver Training Private 8:30a SMSP Ride Days - MEGA 8:30a Fastrack V8 Race Experience 8:30a Fastrack - Exotic Supercar Drive Experiences 6:30p Roll Racing Sydney - Heavy Hitters 6:30p St George Motorcycle Club - Summer Night Series 2026/2027 8:30a Fastrack V8 Race Experience 6:30p Roll Racing Sydney - Heavy Hitters 6:30p Road and Track Drivers Club - RTDC 6:30p St George Motorcycle Club - Summer Night Series 2026/2027 8 9 10 11 12 13 14 8:30a Driving Solutions - 4WD Driver Training Private 8:30a Driving Solutions - 4WD Driver Training 8:30a Driving Solutions - Defensive Driver Training 8:30a SMSP Track Day 8:30a Longroup 6:30p Driving Solutions - Skid & Slide 8:30a Hi Tec SuperSeries Round 6 2026 8:30a Fastrack - Exotic Supercar Drive Experiences 8:30a Driving Solutions - Defensive Driver Training 8:30a Driving Solutions - Advanced Driver Training 6:30p NIGHTSHIFT CARS // ARDC Members Social and Track Night - November 2026 6:30p Drift Sydney 8:30a Fastrack V8 Race Experience 6:30p SMSP Track Night 6:30p Drift Sydney 8:30a Mazda MX-5 Club of NSW 15 16 17 18 19 20 21 8:30a Driving Solutions - 4WD Driver Training 6:30p SMSP Track Night 6:30p Roll Racing Sydney 6a Camden Cycling Club 8:30a Porsche Car Club 6:30p Roll Racing Sydney 8:30a Drift Sydney 8:30a SMSP Ride Days - MEGA 6:30p Tuned Drift X 22 23 24 25 26 27 28 8:30a Porsche Car Club 6:30p SMSP Track Night 8:30a Driving Solutions - Defensive Driver Training 8:30a HSRCA Summer Festival 2026 8:30a HSRCA Summer Festival 2026 8:30a SMSP Ride Days - MEGA 8:30a Driving Solutions - Defensive Driver Training 8:30a HSRCA Summer Festival 2026 8:30a HSRCA Summer Festival 2026 6:30p Roll Racing Sydney - 2WD Night 8:30a HSRCA Summer Festival 2026 8:30a HSRCA Summer Festival 2026 8:30a Driving Solutions - 4WD Driver Training 29 30 1 2 3 4 5 6a Waratah Masters Cycling Club 8:30a California Superbike School Australia 8:30a California Superbike School Australia 8:30a SMSP Track Day 8:30a Driving Solutions - Advanced Driver Training 8:30a Driving Solutions - 4WD Driver Training 8:30a Christian Autosports Club of Australia 8:30a HSRCA Summer Festival 2026 8:30a Driving Solutions - Defensive Driver Training 6p Night Drive for Learners - December 2026 6:30p SMSP Night Sprint 8:30a SMSP Ride Days - MEGA 8:30a Driving Solutions - Trailer Towing Course 8:30a HSRCA Summer Festival 2026 8:30a Driving Solutions - Defensive Driver Training 6:30p Driving Solutions - Private Event 8:30a SMSP Ride Days - MEGA 8:30a HSRCA Summer Festival 2026 6:30p Driving Solutions - Skid & Slide 6:30p Australian Drift School 6:30p Tuned 6:30p Australian Drift School 6:30p Cranked Motorsports 6:30p St George Motorcycle Club - Summer Night Series 2026/2027 6 7 8 9 10 11 12 6a Waratah Masters Cycling Club 8:30a Anglo Motorsport - Formula Ford Experience 8:30a Driving Solutions - Supercar Ride Day - Private Event 8:30a Driving Solutions - EV Driver Training 8:30a Driving Solutions - 4WD Driver Training 8:30a Driving Solutions - Advanced Driver Training 8:30a Australian Drift School 8:30a Anglo Motorsport - Formula Ford Experience 8:30a Driving Solutions - Defensive Driver Training 6:30p SMSP Track Night 8:30a Driving Solutions - EV Driver Training 8:30a Longroup 8:30a Fastrack V8 Race Experience 8:30a Australian Drift School 8:30a BMW Drivers Club NSW 8:30a Driving Solutions - Defensive Driver Training 6:30p Driving Solutions - Private Event 6:30p Longroup - Private Event 6:30p Roll Racing Sydney 8:30a Driving Solutions - 4WD Driver Training 8:30a BMW Drivers Club NSW 6:30p Roll Racing Sydney 8:30a Fastrack - Exotic Supercar Drive Experiences 8:30a Driving Solutions - 4WD Driver Training 8:30a Fastrack V8 Race Experience 6:30p Drift Sydney 6:30p Drift Sydney 6:30p Tuned Home",
   "candidate_count": 3,
@@ -24,129 +24,6 @@
     }
   ],
   "network_json": [
-    {
-      "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/sfsites/aura?r=1&ui-self-service-components-profileMenu.ProfileMenu.getProfileMenuResponse=1",
-      "status": 200,
-      "data": {
-        "actions": [
-          {
-            "id": "63;a",
-            "state": "SUCCESS",
-            "returnValue": {
-              "userId": "0055i000005ct6c",
-              "userDisplayName": "Event_Calendar",
-              "photoUrl": "/eventcalendar/profilephoto/005/T",
-              "guestUser": true,
-              "delegatedAdmin": false,
-              "b2bCommerceSuperUser": false,
-              "accountSwitcherUser": false,
-              "communityWorkspacesLabel": "Experience Workspaces",
-              "messagesEnabled": true,
-              "communityManagementAccess": false,
-              "communityBuilderAccess": false,
-              "communitySetupAccess": false,
-              "communityManageUrl": "/eventcalendar/communitySetup/cwApp.app#/c/home",
-              "communityBuilderUrl": "/eventcalendar/sfsites/picasso/core/config/commeditor.jsp?siteId=0DM5i000000ozKX",
-              "communitySetupUrl": "https://ausrdc.my.salesforce.com/_ui/networks/setup/SetupNetworksPage"
-            },
-            "error": []
-          }
-        ],
-        "context": {
-          "mode": "PROD",
-          "app": "siteforce:communityApp",
-          "contextPath": "/eventcalendar/s/sfsites",
-          "pathPrefix": "/eventcalendar",
-          "fwuid": "NjZ1S2dpaDFCTURrSEliQmh0ZXRhZ2tVMjdnTGFERUU2S3FfSVdrcU92bkExNS4zLjE2MDEw",
-          "mlr": 1,
-          "uad": 1,
-          "coos": 1,
-          "loaded": {
-            "APPLICATION@markup://siteforce:communityApp": "1906_hX_GVnJ0Dn--ZOA4Ee15ow"
-          },
-          "globalValueProviders": [
-            {
-              "type": "$Global",
-              "values": {
-                "eswConfigDeveloperName": {
-                  "writable": true,
-                  "defaultValue": ""
-                },
-                "isVoiceOver": {
-                  "writable": true,
-                  "defaultValue": false
-                },
-                "setupAppContextId": {
-                  "writable": true,
-                  "defaultValue": ""
-                },
-                "density": {
-                  "writable": true,
-                  "defaultValue": ""
-                },
-                "srcdoc": {
-                  "writable": false,
-                  "defaultValue": false
-                },
-                "appContextId": {
-                  "writable": true,
-                  "defaultValue": ""
-                },
-                "dynamicTypeSize": {
-                  "writable": true,
-                  "defaultValue": ""
-                }
-              }
-            }
-          ],
-          "enableAccessChecks": true,
-          "apce": 1,
-          "dns": "c",
-          "ls": 1,
-          "lairn": [],
-          "laerc": [],
-          "lav": "68",
-          "ln": 1,
-          "lgef": [
-            "com.salesforce.locker.enableImmediateGlobalObjectPatching",
-            "com.salesforce.locker.enableTrustedTypesScript",
-            "com.salesforce.locker.walkRangeProtoChainForMethods",
-            "com.salesforce.locker.changesSince.258",
-            "com.salesforce.locker.changesSince.256",
-            "com.salesforce.locker.enabledChangesSince.256",
-            "com.salesforce.locker.temporaryGate",
-            "com.salesforce.locker.changesSince.262",
-            "com.salesforce.locker.enableSfdcLiveObject"
-          ],
-          "cfcsd": "https://a.static.lightning.force.com/aus58.sfdc-vwfla6",
-          "mna": {
-            "lightning": "interop"
-          },
-          "arse": 1,
-          "acaf": 1,
-          "icld": 1,
-          "ccv": "60717234",
-          "services": [
-            "markup://lightning:configProvider",
-            "markup://force:salesforceScopedModuleResolver",
-            "markup://force:ldsEngineCreator",
-            "markup://instrumentation:locatorService"
-          ]
-        },
-        "perfSummary": {
-          "version": "core",
-          "request": 72,
-          "actions": {
-            "63;a": {
-              "total": 39,
-              "db": 16
-            }
-          },
-          "actionsTotal": 39,
-          "overhead": 0
-        }
-      }
-    },
     {
       "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/sfsites/aura?r=2&ui-force-components-controllers-hostConfig.HostConfig.getConfigData=1",
       "status": 200,
@@ -540,14 +417,137 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 50,
+          "request": 41,
           "actions": {
             "75;a": {
-              "total": 20,
-              "db": 1
+              "total": 18,
+              "db": 2
             }
           },
-          "actionsTotal": 20,
+          "actionsTotal": 18,
+          "overhead": 0
+        }
+      }
+    },
+    {
+      "url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/sfsites/aura?r=1&ui-self-service-components-profileMenu.ProfileMenu.getProfileMenuResponse=1",
+      "status": 200,
+      "data": {
+        "actions": [
+          {
+            "id": "63;a",
+            "state": "SUCCESS",
+            "returnValue": {
+              "userId": "0055i000005ct6c",
+              "userDisplayName": "Event_Calendar",
+              "photoUrl": "/eventcalendar/profilephoto/005/T",
+              "guestUser": true,
+              "delegatedAdmin": false,
+              "b2bCommerceSuperUser": false,
+              "accountSwitcherUser": false,
+              "communityWorkspacesLabel": "Experience Workspaces",
+              "messagesEnabled": true,
+              "communityManagementAccess": false,
+              "communityBuilderAccess": false,
+              "communitySetupAccess": false,
+              "communityManageUrl": "/eventcalendar/communitySetup/cwApp.app#/c/home",
+              "communityBuilderUrl": "/eventcalendar/sfsites/picasso/core/config/commeditor.jsp?siteId=0DM5i000000ozKX",
+              "communitySetupUrl": "https://ausrdc.my.salesforce.com/_ui/networks/setup/SetupNetworksPage"
+            },
+            "error": []
+          }
+        ],
+        "context": {
+          "mode": "PROD",
+          "app": "siteforce:communityApp",
+          "contextPath": "/eventcalendar/s/sfsites",
+          "pathPrefix": "/eventcalendar",
+          "fwuid": "NjZ1S2dpaDFCTURrSEliQmh0ZXRhZ2tVMjdnTGFERUU2S3FfSVdrcU92bkExNS4zLjE2MDEw",
+          "mlr": 1,
+          "uad": 1,
+          "coos": 1,
+          "loaded": {
+            "APPLICATION@markup://siteforce:communityApp": "1906_hX_GVnJ0Dn--ZOA4Ee15ow"
+          },
+          "globalValueProviders": [
+            {
+              "type": "$Global",
+              "values": {
+                "eswConfigDeveloperName": {
+                  "writable": true,
+                  "defaultValue": ""
+                },
+                "isVoiceOver": {
+                  "writable": true,
+                  "defaultValue": false
+                },
+                "setupAppContextId": {
+                  "writable": true,
+                  "defaultValue": ""
+                },
+                "density": {
+                  "writable": true,
+                  "defaultValue": ""
+                },
+                "srcdoc": {
+                  "writable": false,
+                  "defaultValue": false
+                },
+                "appContextId": {
+                  "writable": true,
+                  "defaultValue": ""
+                },
+                "dynamicTypeSize": {
+                  "writable": true,
+                  "defaultValue": ""
+                }
+              }
+            }
+          ],
+          "enableAccessChecks": true,
+          "apce": 1,
+          "dns": "c",
+          "ls": 1,
+          "lairn": [],
+          "laerc": [],
+          "lav": "68",
+          "ln": 1,
+          "lgef": [
+            "com.salesforce.locker.enableImmediateGlobalObjectPatching",
+            "com.salesforce.locker.enableTrustedTypesScript",
+            "com.salesforce.locker.walkRangeProtoChainForMethods",
+            "com.salesforce.locker.changesSince.258",
+            "com.salesforce.locker.changesSince.256",
+            "com.salesforce.locker.enabledChangesSince.256",
+            "com.salesforce.locker.temporaryGate",
+            "com.salesforce.locker.changesSince.262",
+            "com.salesforce.locker.enableSfdcLiveObject"
+          ],
+          "cfcsd": "https://a.static.lightning.force.com/aus58.sfdc-vwfla6",
+          "mna": {
+            "lightning": "interop"
+          },
+          "arse": 1,
+          "acaf": 1,
+          "icld": 1,
+          "ccv": "60717234",
+          "services": [
+            "markup://lightning:configProvider",
+            "markup://force:salesforceScopedModuleResolver",
+            "markup://force:ldsEngineCreator",
+            "markup://instrumentation:locatorService"
+          ]
+        },
+        "perfSummary": {
+          "version": "core",
+          "request": 83,
+          "actions": {
+            "63;a": {
+              "total": 40,
+              "db": 8
+            }
+          },
+          "actionsTotal": 40,
           "overhead": 0
         }
       }
@@ -665,14 +665,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 303,
+          "request": 260,
           "actions": {
             "59;a": {
-              "total": 273,
-              "db": 17
+              "total": 237,
+              "db": 8
             }
           },
-          "actionsTotal": 273,
+          "actionsTotal": 237,
           "overhead": 0
         }
       }
@@ -775,14 +775,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 323,
+          "request": 234,
           "actions": {
             "98;a": {
-              "total": 283,
-              "db": 68
+              "total": 196,
+              "db": 61
             }
           },
-          "actionsTotal": 283,
+          "actionsTotal": 196,
           "overhead": 0
         }
       }
@@ -882,7 +882,7 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 34,
+          "request": 21,
           "actions": {
             "109;a": {
               "total": 0,
@@ -1004,14 +1004,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 114,
+          "request": 105,
           "actions": {
             "107;a": {
-              "total": 38,
-              "db": 4
+              "total": 35,
+              "db": 1
             }
           },
-          "actionsTotal": 38,
+          "actionsTotal": 35,
           "overhead": 0
         }
       }
