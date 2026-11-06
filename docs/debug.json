@@ -1,6 +1,6 @@
 {
   "target_url": "https://events.sydneymotorsportpark.com.au/eventcalendar/s/",
-  "generated_at_utc": "2026-11-05T23:39:07Z",
+  "generated_at_utc": "2026-11-06T23:17:42Z",
   "page_title": "Home",
   "body_text_preview": "today November 2026 month week day list Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 6a Waratah Masters Cycling Club 8:30a Driving Solutions - NSW Fire 8:30a Driving Solutions - Defensive Driver Training 8:30a Porsche Sydney South 8:30a Anglo Motorsport - Formula Ford Experience 8:30a Australian Drift School 8:30a Blacktown City Council - Household Chemical CleanOut 8:30a Driving Solutions - NSW Fire 8:30a Driving Solutions - Defensive Driver Training 6:30p Driving Solutions - Skid & Slide 8:30a Driving Solutions - 4WD Driver Training Private 8:30a Australian Drift School 8:30a Driving Solutions - 4WD Driver Training 6p Night Drive for Learners - November 2026 8:30a Driving Solutions - Advanced Driver Training 8:30a Driving Solutions - 4WD Driver Training Private 8:30a SMSP Ride Days - MEGA 8:30a Fastrack V8 Race Experience 8:30a Fastrack - Exotic Supercar Drive Experiences 6:30p Roll Racing Sydney - Heavy Hitters 6:30p St George Motorcycle Club - Summer Night Series 2026/2027 8:30a Fastrack V8 Race Experience 6:30p Roll Racing Sydney - Heavy Hitters 6:30p Road and Track Drivers Club - RTDC 6:30p St George Motorcycle Club - Summer Night Series 2026/2027 8 9 10 11 12 13 14 8:30a Driving Solutions - 4WD Driver Training Private 8:30a Driving Solutions - 4WD Driver Training 8:30a Driving Solutions - Defensive Driver Training 8:30a SMSP Track Day 8:30a Longroup 6:30p Driving Solutions - Skid & Slide 8:30a Hi Tec SuperSeries Round 6 2026 8:30a Fastrack - Exotic Supercar Drive Experiences 8:30a Driving Solutions - Defensive Driver Training 8:30a Driving Solutions - Advanced Driver Training 6:30p NIGHTSHIFT CARS // ARDC Members Social and Track Night - November 2026 6:30p Drift Sydney 8:30a Fastrack V8 Race Experience 6:30p SMSP Track Night 6:30p Drift Sydney 8:30a Mazda MX-5 Club of NSW 15 16 17 18 19 20 21 8:30a Driving Solutions - 4WD Driver Training 6:30p SMSP Track Night 6:30p Roll Racing Sydney 6a Camden Cycling Club 8:30a Porsche Car Club 6:30p Roll Racing Sydney 8:30a Drift Sydney 8:30a SMSP Ride Days - MEGA 6:30p Tuned Drift X 22 23 24 25 26 27 28 8:30a Porsche Car Club 6:30p SMSP Track Night 8:30a Driving Solutions - Defensive Driver Training 8:30a HSRCA Summer Festival 2026 8:30a HSRCA Summer Festival 2026 8:30a SMSP Ride Days - MEGA 8:30a Driving Solutions - Defensive Driver Training 8:30a HSRCA Summer Festival 2026 8:30a HSRCA Summer Festival 2026 6:30p Roll Racing Sydney - 2WD Night 8:30a HSRCA Summer Festival 2026 8:30a HSRCA Summer Festival 2026 8:30a Driving Solutions - 4WD Driver Training 29 30 1 2 3 4 5 6a Waratah Masters Cycling Club 8:30a California Superbike School Australia 8:30a California Superbike School Australia 8:30a SMSP Track Day 8:30a Driving Solutions - Advanced Driver Training 8:30a Driving Solutions - 4WD Driver Training 8:30a Christian Autosports Club of Australia 8:30a HSRCA Summer Festival 2026 8:30a Driving Solutions - Defensive Driver Training 6p Night Drive for Learners - December 2026 6:30p SMSP Night Sprint 8:30a SMSP Ride Days - MEGA 8:30a Driving Solutions - Trailer Towing Course 8:30a HSRCA Summer Festival 2026 8:30a Driving Solutions - Defensive Driver Training 6:30p Driving Solutions - Private Event 8:30a SMSP Ride Days - MEGA 8:30a HSRCA Summer Festival 2026 6:30p Driving Solutions - Skid & Slide 6:30p Australian Drift School 6:30p Tuned 6:30p Australian Drift School 6:30p Cranked Motorsports 6:30p St George Motorcycle Club - Summer Night Series 2026/2027 6 7 8 9 10 11 12 6a Waratah Masters Cycling Club 8:30a Anglo Motorsport - Formula Ford Experience 8:30a Driving Solutions - Supercar Ride Day - Private Event 8:30a Driving Solutions - EV Driver Training 8:30a Driving Solutions - 4WD Driver Training 8:30a Driving Solutions - Advanced Driver Training 8:30a Australian Drift School 8:30a Anglo Motorsport - Formula Ford Experience 8:30a Driving Solutions - Defensive Driver Training 6:30p SMSP Track Night 8:30a Driving Solutions - EV Driver Training 8:30a Longroup 8:30a Fastrack V8 Race Experience 8:30a Australian Drift School 8:30a BMW Drivers Club NSW 8:30a Driving Solutions - Defensive Driver Training 6:30p Driving Solutions - Private Event 6:30p Longroup - Private Event 6:30p Roll Racing Sydney 8:30a Driving Solutions - 4WD Driver Training 8:30a BMW Drivers Club NSW 6:30p Roll Racing Sydney 8:30a Fastrack - Exotic Supercar Drive Experiences 8:30a Driving Solutions - 4WD Driver Training 8:30a Fastrack V8 Race Experience 6:30p Drift Sydney 6:30p Drift Sydney 6:30p Tuned Home",
   "candidate_count": 3,
@@ -417,14 +417,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 41,
+          "request": 35,
           "actions": {
             "75;a": {
-              "total": 18,
-              "db": 2
+              "total": 17,
+              "db": 1
             }
           },
-          "actionsTotal": 18,
+          "actionsTotal": 17,
           "overhead": 0
         }
       }
@@ -540,14 +540,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 83,
+          "request": 52,
           "actions": {
             "63;a": {
-              "total": 40,
-              "db": 8
+              "total": 28,
+              "db": 7
             }
           },
-          "actionsTotal": 40,
+          "actionsTotal": 28,
           "overhead": 0
         }
       }
@@ -665,14 +665,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 260,
+          "request": 282,
           "actions": {
             "59;a": {
-              "total": 237,
-              "db": 8
+              "total": 259,
+              "db": 6
             }
           },
-          "actionsTotal": 237,
+          "actionsTotal": 259,
           "overhead": 0
         }
       }
@@ -775,14 +775,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 234,
+          "request": 202,
           "actions": {
             "98;a": {
-              "total": 196,
-              "db": 61
+              "total": 171,
+              "db": 40
             }
           },
-          "actionsTotal": 196,
+          "actionsTotal": 171,
           "overhead": 0
         }
       }
@@ -882,7 +882,7 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 21,
+          "request": 19,
           "actions": {
             "109;a": {
               "total": 0,
@@ -1004,14 +1004,14 @@
         },
         "perfSummary": {
           "version": "core",
-          "request": 105,
+          "request": 189,
           "actions": {
             "107;a": {
-              "total": 35,
-              "db": 1
+              "total": 32,
+              "db": 2
             }
           },
-          "actionsTotal": 35,
+          "actionsTotal": 32,
           "overhead": 0
         }
       }
