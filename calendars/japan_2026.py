@@ -23,6 +23,10 @@ L = {
     "KURETAKE": "Hotel Kuretakeso Hiroshima Otemachi, 3-7-3 Otemachi, Naka Ward, Hiroshima 730-0051, Japan",
     "SUPER": "Super Hotel Mihara Ekimae, 1-12-10 Shiromachi, Mihara, Hiroshima, Japan",
     "MIHARA_STN": "JR Mihara Station, 1 Chome Shiromachi, Mihara, Hiroshima, Japan",
+    "MASUNAGA": "MASUNAGA1905 TOKYO AOYAMA, 2-12-34 Kita-Aoyama, Minato City, Tokyo 107-0061, Japan",
+    "EYEVAN": "THE EYEVAN TOKYO Daikanyama, CUBE Daikanyama E, 19-7 Sarugakucho, Shibuya City, Tokyo, Japan",
+    "GAIENMAE_STN": "Gaienmae Station (Tokyo Metro Ginza Line G03), Minato City, Tokyo, Japan",
+    "DAIKANYAMA_STN": "Daikanyama Station (Tokyu Toyoko Line), Shibuya City, Tokyo, Japan",
 }
 
 # ---------- Data ----------
@@ -300,6 +304,51 @@ ev("20261130", "1915", "2030", "Haneda transfer: T1 to T3", "HND1",
 ev("20261130", "2200", "1000", "✈ QF60 HND 22:00 → SYD 10:00 (+1)", "HND3",
    "Qantas QF60. Haneda T3 to Sydney T1. Overnight, 10 h.\n"
    "Arrival changed from 09:55 to 10:00 Sydney time.", stz=TOK, etz=SYD, edate="20261201")
+
+# ---------- Added later: Mon 16 Nov sunglass shopping day ----------
+# Appended after the D15 block on purpose. UIDs include the list position, so adding
+# events here leaves every earlier UID unchanged and Outlook updates instead of duplicating.
+# Free window on D1 is about 10:00 to 17:30 (tour meeting is 18:00 in the hotel lobby).
+# Masunaga closes the 1st, 3rd and 5th Tuesdays. Eyevan Daikanyama closes every Tuesday.
+# That makes Monday 16 Nov the clean day. Fares are IC card estimates, check on the day.
+ev("20261116", "1020", "1110", "Transit: Sakura Hotel → Masunaga Aoyama (Ginza Line)", "GAIENMAE_STN",
+   "Plan for the sunglass shops. This block replaces the optional Skytree slot if you do both shops.\n"
+   "1) Walk 8 min (600 m) to Nippori Station, West Exit.\n"
+   "2) JR Yamanote Line or Keihin Tohoku Line to Ueno, 2 stops, about 4 min.\n"
+   "3) Follow signs inside Ueno to the Tokyo Metro Ginza Line (orange, G16), platform for Shibuya. Allow 5 to 8 min to walk through.\n"
+   "4) Ginza Line toward Shibuya, 13 stops, about 25 min. Get off at Gaienmae (G03), two stops before Shibuya.\n"
+   "5) From Gaienmae walk about 5 min to the store in Kita-Aoyama 2-chome. Check the exact exit on Google Maps.\n"
+   "Door to door about 50 min. Fare about 400 to 450 yen (A$4). Use Suica or Pasmo on your phone.")
+ev("20261116", "1110", "1240", "MASUNAGA1905 Tokyo Aoyama (titanium sunglasses)", "MASUNAGA",
+   "Flagship store. Open 11:00 to 20:00. Closed the 1st, 3rd and 5th Tuesdays (17 Nov is closed, so today is the day).\n"
+   "Address: 2-12-34 Kita-Aoyama, Minato City. Tel +81 3 3403 1905.\n"
+   "Try the polarised glass lens models on the shortlist: BIRD, MONK, 096SG, 074SG. Check weight and the bridge fit on your face.\n"
+   "Japan price not confirmed. Overseas listings run about US$540 to 756 (A$775 to 1,085).\n"
+   "Tax free from 1 Nov 2026 is refund based: pay the tax inclusive price, claim about 10% back at departure.\n"
+   "Minimum 5,000 yen before tax per store per day. Carry your passport.\n"
+   "Keep the purchase in your cabin bag. Hotel bags are checked through from Hiroshima on 30 Nov, so ask the refund counter at Haneda T3.")
+ev("20261116", "1240", "1330", "Lunch (self funded), Aoyama or Omotesando", "Omotesando, Minato City, Tokyo, Japan",
+   "Plenty of cafes and casual places between Gaienmae and Omotesando. Pick on the day.")
+ev("20261116", "1330", "1410", "Transit: Aoyama → Daikanyama (Ginza Line + Tokyu Toyoko Line)", "DAIKANYAMA_STN",
+   "1) Walk back to Gaienmae Station, about 5 min.\n"
+   "2) Ginza Line toward Shibuya, 2 stops via Omotesando, about 5 min. End of the line.\n"
+   "3) At Shibuya follow signs to the Tokyu Toyoko Line. Take a Local (kakueki teisha) train, not an Express, because Express trains skip Daikanyama.\n"
+   "4) Toyoko Line one stop to Daikanyama, about 3 min. Use the Main Exit (Seimon) and walk about 5 min to CUBE Daikanyama.\n"
+   "Fare about 180 + 150 yen. Door to door about 40 min. Walking Shibuya to Daikanyama takes about 20 min if you prefer to skip the Toyoko Line.")
+ev("20261116", "1410", "1545", "THE EYEVAN TOKYO Daikanyama", "EYEVAN",
+   "Open 12:00 to 20:00. Closed Tuesdays. Tel 03 6427 8045.\n"
+   "Address: CUBE Daikanyama E building, 19-7 Sarugakucho, Shibuya City.\n"
+   "Shortlist price range about 53,900 to 77,000 yen (A$486 to 694). Compare weight and lens clarity with Masunaga.\n"
+   "Same tax free rules apply: 5,000 yen before tax per store per day, passport, cabin bag, refund counter at Haneda T3.")
+ev("20261116", "1545", "1630", "Buffer: decide, revisit a shop, or walk Daikanyama", "DAIKANYAMA_STN",
+   "Spare time for a second look. Sunset about 16:32. Quiet lanes and Kyu Yamate Dori are good for light.\n"
+   "Latest safe departure for the hotel is 16:30.")
+ev("20261116", "1630", "1730", "Transit: Daikanyama → Sakura Hotel Nippori (back for 18:00)", "NIPPORI_STN",
+   "1) Tokyu Toyoko Line from Daikanyama to Shibuya, 1 stop, about 3 min.\n"
+   "2) At Shibuya change to the JR Yamanote Line. Either direction reaches Nippori, about 35 min. Take whichever train arrives first.\n"
+   "3) Get off at Nippori, West Exit, then walk 8 min (600 m) to the hotel.\n"
+   "Fare about 150 + 240 yen. Door to door about 55 min. Arrive by 17:30 for a 30 min margin before the 18:00 lobby meeting.\n"
+   "Evening rush starts about 17:00 on the Yamanote Line, expect crowds. Backup: Shibuya to Nippori by Ginza Line to Ueno, then JR 2 stops.")
 
 # ---------- ICS writer ----------
 def esc(s):
