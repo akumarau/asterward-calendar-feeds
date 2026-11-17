@@ -34,1811 +34,2043 @@ TZNAME:AEDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:japan2026-allday-20261115@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261115@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:Japan D0 | Fly Sydney to Tokyo
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:QF59 Sydney 12:00 to Haneda T3 20:00 (local).\nNight: Sakura Ho
- tel Nippori (pre tour night\, booked 15 to 16 Nov). Check in from 15:00.\n
- Transfer: Monorail to Hamamatsucho\, JR Yamanote to Nippori West Exit\, ab
- out 1 hour.
-CATEGORIES:Japan Trip
+SUMMARY:D0 | Fly Sydney to Tokyo
+LOCATION:Sakura Hotel Nippori
+DESCRIPTION:Hotel tonight: Sakura Hotel Nippori\, 3-43-15 Sendagi\, Bunkyo-
+ ku\, Tokyo 113-0022
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261116@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261116@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Japan D1 | Tokyo: Yanaka and Ueno walk\, tour starts 18:00\, Sensoj
- i at night
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:One Life Adventures Japan Classic 14 Day.\nMeals included: dinn
- er.\nFree day before the tour: Yanaka\, Ueno Park\, Yuyake Dandan sunset. 
- No shopping.\nNight: Sakura Hotel Nippori.\nCamera bag: 24-70 by day\, add
-  the 12-24 at 16:45 for Sensoji.\nBring travel insurance proof for the gui
- de.
-CATEGORIES:Japan Trip
+SUMMARY:D1 | Tokyo: Yanaka and Ueno walk\, tour starts 18:00\, Sensoji at n
+ ight
+LOCATION:Sakura Hotel Nippori
+DESCRIPTION:Meals: Dinner\nLenses: 24-70 by day\nHotel tonight: Sakura Hote
+ l Nippori\, 3-43-15 Sendagi\, Bunkyo-ku\, Tokyo 113-0022\nCamera Carry: 24
+ -70 by day. Add the 12-24 at 16:45 for Sensoji.\nCamera Leave at the hotel
+ : 70-200\, 2x\, IT32\, tripod\nBring travel insurance proof for the guide.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261117@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261117@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Japan D2 | Tokyo: Harajuku free time\, Akihabara dinner and arcade
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Meals included: breakfast.\nFree afternoon in Harajuku. Meet 18
- :00 at Akihabara Station\, Central North Exit.\nNight: Sakura Hotel Nippor
- i.\nCamera bag: 24-70 only.
-CATEGORIES:Japan Trip
+SUMMARY:D2 | Tokyo: Harajuku free time\, Akihabara dinner and arcade
+LOCATION:Sakura Hotel Nippori
+DESCRIPTION:Meals: Breakfast\nOptional: Akihabara early roam.\nLenses: 24-7
+ 0 only\nHotel tonight: Sakura Hotel Nippori\, 3-43-15 Sendagi\, Bunkyo-ku\
+ , Tokyo 113-0022\nCamera Carry: 24-70 only.\nCamera Leave at the hotel: 12
+ -24\, 70-200\, 2x\, IT32\, tripod
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261118@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261118@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:Japan D3 | Tokyo: sushi class\, teamLab\, skyline\, Omoide Yokocho\
- , Kabukicho\, Shibuya
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Meals included: breakfast\, lunch (sushi class).\nMeet 10:00 in
-  the hotel lobby. Bring IC card\, passport and food money.\nteamLab Border
- less 14:00 is booked.\nNight: Sakura Hotel Nippori.\nCamera bag: 24-70 and
-  12-24. No flash or tripod at teamLab.
-CATEGORIES:Japan Trip
+SUMMARY:D3 | Tokyo: sushi class\, teamLab\, skyline\, Omoide Yokocho\, Kabu
+ kicho\, Shibuya
+LOCATION:Sakura Hotel Nippori
+DESCRIPTION:Meals: Breakfast\, lunch\nLenses: 24-70 and 12-24\nHotel tonigh
+ t: Sakura Hotel Nippori\, 3-43-15 Sendagi\, Bunkyo-ku\, Tokyo 113-0022\nCa
+ mera Carry: 24-70 and 12-24.\nCamera Leave at the hotel: 70-200\, 2x\, IT3
+ 2\, tripod\nMeet 10:00 in the hotel lobby. Bring IC card\, passport and fo
+ od money.\nAfternoon meeting: 16:15 hotel lobby or 17:15 at the Metropolit
+ an Government Building. You are coming from teamLab\, so 17:15.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261119@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261119@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Japan D4 | Hakone: Romancecar\, Mount Fuji views\, nabe dinner
-LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
- 8\, Japan
-DESCRIPTION:Meals included: breakfast\, dinner.\nNight: Gora Gaku Guesthous
- e\, tatami twin or triple.\nMoving day: the whole camera bag travels with 
- you\, tripod in main luggage.\nShoot with the 24-70\, 70-200 and 2x. IT32 
- for dinner after check in.\nExpect 2 to 7 C in the morning. Owakudani has 
- a respiratory caution.
-CATEGORIES:Japan Trip
+SUMMARY:D4 | Hakone: Romancecar\, Mount Fuji views\, nabe dinner
+LOCATION:Hakone Guesthouse Gaku
+DESCRIPTION:Meals: Breakfast\, dinner\nLenses: 24-70\, 70-200\, 2x and IT32
+ \nHotel tonight: Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagaw
+ a 250-0408\nCamera Moving day: Check out of Sakura Hotel before 09:15. The
+  whole camera bag travels with you. Tripod goes in your main luggage.\nCam
+ era After bag drop\, about 13:00: Bags stay at Gaku. Take the 24-70\, 70-2
+ 00 and 2x to Owakudani.\nCamera Dinner: Take the IT32 for the group shot.\
+ nMeet 09:15 outside the hotel\, checked out\, with all luggage.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261120@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261120@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Japan D5 | Takayama: Shinkansen\, old town\, sake tasting\, temple 
- stay
-LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
- 506-0025\, Japan
-DESCRIPTION:Meals included: none.\nOptional: onsen or public bath.\nNight: 
- Temple Hotel Takayama Zenkoji\, multi share.\nMoving day: the whole camera
-  bag travels with you\, tripod in main luggage.\nShoot with the 24-70.\nCo
- ldest stop: 0 to 5 C mornings\, frost possible.
-CATEGORIES:Japan Trip
+SUMMARY:D5 | Takayama: Shinkansen\, old town\, sake tasting\, temple stay
+LOCATION:Temple Hotel Takayama Zenkoji
+DESCRIPTION:Meals: None\nOptional: Onsen\, sento\, kyudo archery.\nLenses: 
+ 24-70 only\nHotel tonight: Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi
+ \, Takayama\, Gifu 506-0025\nCamera Moving day: Meet at 08:00 with all lug
+ gage. The whole camera bag travels with you. Tripod goes in your main lugg
+ age.\nCamera Shoot with: 24-70. Spare battery in an inner pocket.\nCamera 
+ After check in\, about 14:00: Bags stay at Zenkoji.\nMeet 08:00 in the dow
+ nstairs game room with all luggage\, paper tickets and passport.\nColdest 
+ stop: 0 to 5 C mornings\, frost possible.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261121@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261121@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Japan D6 | Takayama market\, train to Kyoto\, Gion walk
-LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
- 5-0089\, Japan
-DESCRIPTION:Meals included: none.\nNight: Ryokan Hostel Gion\, individual p
- od. Check in from 16:00.\nMarket at 07:00 before check out: 24-70 only.\nM
- oving day: the whole camera bag travels with you\, tripod in main luggage.
- \nAfter bag drop at 14:30: 24-70 and 70-200 for Gion.
-CATEGORIES:Japan Trip
+SUMMARY:D6 | Takayama market\, train to Kyoto\, Gion walk
+LOCATION:Ryokan Hostel Gion
+DESCRIPTION:Meals: None\nOptional: Prayer ceremony\, meditation\, morning m
+ arket.\nLenses: 24-70\nHotel tonight: Ryokan Hostel Gion\, 391-2 Motomachi
+ \, Higashiyama-ku\, Kyoto 605-0089\nCamera Morning: Bags go by the front d
+ oor at 09:15. Keep the camera bag with you\, not at the door. Take the 24-
+ 70 to the market.\nCamera Moving day: Meet at 11:00. The whole camera bag 
+ travels with you to Kyoto. Tripod goes in your main luggage.\nCamera After
+  check in\, 15:45: Bags stay at the hostel. Take the 24-70 and 70-200 for 
+ the Gion tour.\nBags by the front door at 09:15. Meet 11:00 outside the te
+ mple.\nBuy lunch in Takayama for the train.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261122@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261122@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:Japan D7 | Kyoto: Fushimi Inari at dawn\, Kiyomizudera\, tea ceremo
- ny
-LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
- 5-0089\, Japan
-DESCRIPTION:Meals included: none.\nOptional: Nishiki Market\, kimono hire\,
-  geisha arts performance.\nKendo may move to this day.\nNight: Ryokan Host
- el Gion.\nCamera bag: 24-70 and 12-24. No tripods at Kiyomizudera.
-CATEGORIES:Japan Trip
+SUMMARY:D7 | Kyoto: Fushimi Inari at dawn\, Kiyomizudera\, tea ceremony
+LOCATION:Ryokan Hostel Gion
+DESCRIPTION:Meals: None\nOptional: Kimono (opt in).\nLenses: 24-70 and 12-2
+ 4\nHotel tonight: Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama-ku\, 
+ Kyoto 605-0089\nCamera Carry: 24-70 and 12-24. No tripod.\nCamera Leave at
+  the hostel: 70-200\, 2x\, IT32\, tripod\nEarly start: meet 06:00 outside 
+ the hostel.\nLikely 15\,000 steps by lunch.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261123@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261123@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:Japan D8 | Kyoto: Kinkakuji\, Daitokuji Zen gardens\, kendo
-LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
- 5-0089\, Japan
-DESCRIPTION:Meals included: none.\nOptional: Heian Shrine.\n23 Nov is a Jap
- anese public holiday\, expect crowds.\nNight: Ryokan Hostel Gion.\nCamera 
- bag: 24-70 and 70-200.
-CATEGORIES:Japan Trip
+SUMMARY:D8 | Kyoto: Kinkakuji\, Daitokuji Zen gardens\, kendo
+LOCATION:Ryokan Hostel Gion
+DESCRIPTION:Meals: None\nOptional: Heian Shrine.\nLenses: 24-70 and 70-200\
+ nHotel tonight: Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama-ku\, Ky
+ oto 605-0089\nCamera Carry: 24-70 and 70-200.\nCamera Leave at the hostel:
+  12-24\, 2x\, IT32\, tripod\nMeet 08:40 in the hostel lobby. 23 Nov is a p
+ ublic holiday\, expect crowds.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261124@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261124@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Japan D9 | Arashiyama bamboo\, monkeys\, boat ride\, Osaka Dotonbor
- i
-LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023\, 
- Japan
-DESCRIPTION:Meals included: dinner.\nOptional: extended karaoke.\nNight: Ho
- tel Links Namba\, twin share (operator PDF\, 'or similar').\nMoving day: t
- he whole camera bag travels with you\, tripod in main luggage.\nShoot with
-  the 24-70\, 70-200 and 2x. After check in\, 24-70 only for Dotonbori.
-CATEGORIES:Japan Trip
+SUMMARY:D9 | Arashiyama bamboo\, monkeys\, boat ride\, Osaka Dotonbori
+LOCATION:Hotel Links Namba
+DESCRIPTION:Meals: Dinner (food tour)\nOptional: Free time in Osaka.\nLense
+ s: 24-70\, 70-200 and 2x\nHotel tonight: Hotel Links Namba\, 1-9-27 Inari\
+ , Naniwa-ku\, Osaka 556-0023\nCamera Morning: Bags wait at the Gion hostel
+  reception. Take the 24-70\, 70-200 and 2x. The rest stays packed in your 
+ luggage.\nCamera Moving day: Collect bags at 13:20. The whole camera bag t
+ ravels with you to Osaka. Tripod goes in your main luggage.\nCamera After 
+ check in\, 15:00: Bags stay at Hotel Links Namba. Take only the 24-70 to D
+ otonbori.\nMeet 08:00 outside the hostel\, bags left in reception. Back at
+  the hostel 13:20.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261125@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261125@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:Japan D10 | Osaka: free morning\, Osaka Castle\, Shinsekai
-LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023\, 
- Japan
-DESCRIPTION:Meals included: breakfast.\nOptional: Shinsaibashi\, Amerikamur
- a\, Spa World.\nFull moon rises about 17:03 at Osaka Castle.\nNight: Hotel
-  Links Namba.\nCamera bag: 24-70\, 70-200 and 2x.
-CATEGORIES:Japan Trip
+SUMMARY:D10 | Osaka: free morning\, Osaka Castle\, Shinsekai
+LOCATION:Hotel Links Namba
+DESCRIPTION:Meals: Breakfast\nOptional: Free morning until 15:00.\nLenses: 
+ 24-70\, 70-200 and 2x\nHotel tonight: Hotel Links Namba\, 1-9-27 Inari\, N
+ aniwa-ku\, Osaka 556-0023\nCamera Carry: 24-70\, 70-200 and 2x.\nCamera Le
+ ave at the hotel: 12-24\, IT32\, tripod\nFree until 15:00. Meet outside Mo
+ rinomiya Station.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261126@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261126@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Japan D11 | Nara Park\, then Koyasan temple stay
-LOCATION:Fugen In Temple (Shukubo Fugenin)\, 605 Koyasan\, Koya\, Ito Distr
- ict\, Wakayama 648-0211\, Japan
-DESCRIPTION:Meals included: breakfast\, vegetarian temple dinner.\nNight: F
- ugen In Temple\, tatami twin (operator PDF\, 'or similar').\nMoving day: t
- he whole camera bag travels with you\, tripod in main luggage.\nShoot with
-  the 24-70 and 70-200. Koyasan mornings 0 to 4 C.
-CATEGORIES:Japan Trip
+SUMMARY:D11 | Nara Park\, then Koyasan temple stay
+LOCATION:Daimyo-in Temple
+DESCRIPTION:Meals: Breakfast\, vegan temple dinner\nLenses: 24-70 and 70-20
+ 0\nHotel tonight: Daimyo-in Temple\, Koyasan\, Wakayama\nCamera Morning: L
+ uggage stays at Hotel Links reception during Nara. Take the 24-70 and 70-2
+ 00. The rest stays packed in your luggage.\nCamera Moving day: Collect bag
+ s after lunch. The whole camera bag travels with you to Koyasan. Tripod go
+ es in your main luggage.\nCamera After check in\, 16:00: Bags stay at Daim
+ yo-in. Take the 24-70 for Okunoin.\nMeet 08:00 in reception. Luggage stays
+  at the hotel during Nara.\nKoyasan mornings 0 to 4 C.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261127@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261127@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Japan D12 | Koyasan prayers\, Danjo Garan\, Shinkansen to Hiroshima
- \, Peace Memorial
-LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
-  Hiroshima 730-0051\, Japan
-DESCRIPTION:Meals included: breakfast.\nNight: Hotel Kuretakeso Otemachi\, 
- twin room. Check in from 15:00.\nMoving day: the whole camera bag travels 
- with you\, tripod in main luggage.\nShoot with the 24-70 and 12-24. Keep i
- t respectful at the memorial.
-CATEGORIES:Japan Trip
+SUMMARY:D12 | Koyasan prayers\, Danjo Garan\, Shinkansen to Hiroshima\, Pea
+ ce Memorial
+LOCATION:Hotel Kuretakeso Hiroshima Otemachi
+DESCRIPTION:Meals: Breakfast\nLenses: 24-70 and 12-24\nHotel tonight: Hotel
+  Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka-ku\, Hiroshima 730-
+ 0051\nCamera Moving day: Meet at 09:15 with bags. The whole camera bag tra
+ vels with you. Tripod goes in your main luggage.\nCamera Danjo Garan: The 
+ guide minds the main bags. Take the camera bag with you.\nCamera After che
+ ck in\, 15:20: Bags stay at Kuretakeso. Take the 24-70 and 12-24 to the Pe
+ ace Park.\nMeet 09:15 outside the temple with bags and paper bus tickets.\
+ nKeep it respectful at the memorial.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261128@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261128@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:Japan D13 | Miyajima: Great Torii\, Itsukushima Shrine\, farewell e
- vening
-LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
-  Hiroshima 730-0051\, Japan
-DESCRIPTION:Meals included: breakfast. Farewell meal not included.\nNight: 
- Hotel Kuretakeso Otemachi.\nTide: high about 12:30\, the torii floats. Con
- firm locally.\nCamera bag: 24-70\, 70-200 and IT32.
-CATEGORIES:Japan Trip
+SUMMARY:D13 | Miyajima: Great Torii\, Itsukushima Shrine\, farewell evening
+LOCATION:Hotel Kuretakeso Hiroshima Otemachi
+DESCRIPTION:Meals: Breakfast. Final evening meal not included\nLenses: 24-7
+ 0\, 70-200 and IT32\nHotel tonight: Hotel Kuretakeso Hiroshima Otemachi\, 
+ 3-7-3 Otemachi\, Naka-ku\, Hiroshima 730-0051\nCamera Carry: 24-70\, 70-20
+ 0 and IT32.\nCamera Leave at the hotel: 12-24\, 2x\, tripod\nMeet 07:45 in
+  front of the hotel.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261129@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261129@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:Japan D14 | Tour ends 09:00\, Mihara\, Buttsuji autumn leaves
-LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
- a\, Japan
-DESCRIPTION:Meals included: breakfast (tour hotel).\nNight: Super Hotel Mih
- ara Ekimae. Confirmed. Check in 15:00 to 23:00\, check out by 10:00.\nHote
- l phone +81 848 89 9000. Breakfast included at Super Hotel.\nMoving day: t
- he whole camera bag travels with you\, tripod in main luggage.\nBag drop a
- t Super Hotel 10:50\, then 24-70 and 70-200 at Buttsuji. Tripod optional f
- or dusk.
-CATEGORIES:Japan Trip
+SUMMARY:D14 | Tour ends 09:00\, Mihara\, Buttsuji autumn leaves
+LOCATION:Super Hotel Mihara Ekimae
+DESCRIPTION:Meals: Breakfast (tour hotel)\nLenses: 24-70 and 70-200\nHotel 
+ tonight: Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshi
+ ma\nCamera Moving day: Check out of Hotel Kuretakeso by 08:00. The whole c
+ amera bag travels with you. Tripod goes in your main luggage.\nCamera Bag 
+ drop\, 10:50: Leave the main luggage at Super Hotel Mihara. Take the 24-70
+  and 70-200 to Buttsuji.\nCamera Dusk\, 16:15: You are checked in by then.
+  Add the tripod if you want long exposures.\nHotel phone +81 848 89 9000. 
+ Breakfast included at Super Hotel.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261130@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-day-20261130@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Japan D15 | Mount Fudekage sunrise\, fly Hiroshima to Haneda to Syd
- ney
-LOCATION:Hiroshima Airport\, 64-31 Zennyuji\, Hongo-cho\, Mihara\, Hiroshim
- a 729-0416\, Japan
-DESCRIPTION:JL264 Hiroshima 17:55 to Haneda T1 19:15\, then QF60 Haneda T3 
- 22:00 to Sydney T1 10:00 (1 Dec).\nOvernight flight\, no hotel.\nSunrise: 
- everything\, including the tripod.\nMoving day: luggage stored 10:00 to 13
- :15\, then the whole camera bag is your cabin bag. Tripod in checked lugga
- ge.
-CATEGORIES:Japan Trip
+SUMMARY:D15 | Mount Fudekage sunrise\, fly Hiroshima to Haneda to Sydney
+LOCATION:
+DESCRIPTION:Camera Sunrise\, 06:10: Everything: tripod\, 12-24\, 24-70\, 70
+ -200 and 2x. The taxi drops you close.\nCamera Moving day: Check out by 10
+ :00. Main luggage is stored at the hotel until 13:15. Then the whole camer
+ a bag goes with you to the airport as your cabin bag.\nCamera Before the a
+ irport: Pack the tripod in your checked luggage. Keep the camera\, lenses\
+ , batteries and power bank in the cabin bag.\nJL264 Hiroshima 17:55 to Han
+ eda T1 19:15\, then QF60 Haneda T3 22:00 to Sydney T1 10:00 (1 Dec).\nOver
+ night flight\, no hotel.
 TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-allday-20261201@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Back in Sydney | QF60 lands 10:00
-LOCATION:Sydney Airport T1 International\, Mascot NSW 2020\, Australia
-DESCRIPTION:QF60 arrives Sydney T1 at 10:00 local (updated from 09:55).
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261115-0900-001@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261115-sydney-airport-check-in-and-security@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Australia/Sydney:20261115T090000
 DTEND;TZID=Australia/Sydney:20261115T111500
 SUMMARY:Sydney Airport check in and security
 LOCATION:Sydney Airport T1 International\, Mascot NSW 2020\, Australia
-DESCRIPTION:Local time (Sydney): 09:00 to 11:15\nQF59 departs 12:00. Seat n
- ot yet assigned.\nSpare batteries and power bank go in cabin bags.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:QF59 departs 12:00. Seat not yet assigned.\nSpare batteries and
+  power bank go in cabin bags.\nMap: https://www.google.com/maps/search/?ap
+ i=1&query=Sydney%20Airport%20T1%20International%2C%20Mascot%20NSW%202020%2
+ C%20Australia
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261115-1200-002@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261115-qf59-syd-12-00-hnd-20-00@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Australia/Sydney:20261115T120000
 DTEND;TZID=Asia/Tokyo:20261115T200000
 SUMMARY:✈ QF59 SYD 12:00 → HND 20:00
 LOCATION:Sydney Airport T1 International\, Mascot NSW 2020\, Australia
-DESCRIPTION:Local time: 12:00 Sydney to 20:00 Tokyo\nQantas QF59. Sydney T1
-  to Tokyo Haneda T3.\nDeparts 12:00 Sydney time\, arrives 20:00 Tokyo time
- . 10 h\, 7\,816 km.\nArrival gate forecast 141 to 148.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DESCRIPTION:Qantas QF59. Sydney T1 to Tokyo Haneda T3.\nDeparts 12:00 Sydne
+ y time\, arrives 20:00 Tokyo time. 10 h\, 7\,816 km.\nArrival gate forecas
+ t 141 to 148.\nMap: https://www.google.com/maps/search/?api=1&query=Sydney
+ %20Airport%20T1%20International%2C%20Mascot%20NSW%202020%2C%20Australia
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261115-2000-003@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261115-haneda-arrival-immigration-customs-bagga@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261115T200000
 DTEND;TZID=Asia/Tokyo:20261115T210000
 SUMMARY:Haneda arrival: immigration\, customs\, baggage
 LOCATION:Haneda Airport Terminal 3\, 2-6-5 Hanedakuko\, Ota City\, Tokyo 14
- 4-0041\, Japan
-DESCRIPTION:Local time (Tokyo): 20:00 to 21:00\nHave the Visit Japan Web QR
-  codes ready.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+ 4-0041
+DESCRIPTION:Have the Visit Japan Web QR codes ready.\nMap: https://www.goog
+ le.com/maps/search/?api=1&query=Haneda%20Airport%20Terminal%203%2C%202-6-5
+ %20Hanedakuko%2C%20Ota%20City%2C%20Tokyo%20144-0041
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261115-2100-004@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261115-transfer-haneda-to-nippori@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261115T210000
 DTEND;TZID=Asia/Tokyo:20261115T221500
 SUMMARY:Transfer Haneda to Nippori
-LOCATION:Nippori Station West Exit\, Arakawa City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 21:00 to 22:15\nTokyo Monorail to Hamamatsu
- cho\, JR Yamanote Line to Nippori\, West Exit.\nWalk about 8 min (600 m) t
- o the hotel. Around 1 hour in total.\nOperator PDF lists last trains aroun
- d 23:09\, check on the day. Taxi is the fallback.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+LOCATION:Nippori Station West Exit\, Arakawa City\, Tokyo
+DESCRIPTION:Tokyo Monorail to Hamamatsucho\, JR Yamanote Line to Nippori\, 
+ West Exit.\nWalk about 8 min (600 m) to the hotel. Around 1 hour in total.
+ \nOperator PDF lists last trains around 23:09\, check on the day. Taxi is 
+ the fallback.\nMap: https://www.google.com/maps/search/?api=1&query=Nippor
+ i%20Station%20West%20Exit%2C%20Arakawa%20City%2C%20Tokyo
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261115-2215-005@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261115-check-in-sakura-hotel-nippori@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261115T221500
 DTEND;TZID=Asia/Tokyo:20261115T224500
 SUMMARY:Check in: Sakura Hotel Nippori
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Local time (Tokyo): 22:15 to 22:45\nPre tour night booked 15 to
-  16 Nov. The tour uses this hotel from 16 Nov.\nConfirm at reception that 
- your tour nights follow on\, so you stay put.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261116-1800-007@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261116T180000
-DTEND;TZID=Asia/Tokyo:20261116T183000
-SUMMARY:Tour group meeting\, hotel lobby
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Local time (Tokyo): 18:00 to 18:30\nOne Life Adventures. Guide 
- meets the group in the lobby.\nBring insurance proof.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261116-1830-008@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261116T183000
-DTEND;TZID=Asia/Tokyo:20261116T203000
-SUMMARY:Welcome dinner (included)
-LOCATION:Tokyo\, venue set by guide
-DESCRIPTION:Local time (Tokyo): 18:30 to 20:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261116-2030-009@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261116T203000
-DTEND;TZID=Asia/Tokyo:20261116T220000
-SUMMARY:Sensoji at night
-LOCATION:Sensoji\, 2 Chome-3-1 Asakusa\, Taito City\, Tokyo 111-0032\, Japa
- n
-DESCRIPTION:Local time (Tokyo): 20:30 to 22:00\nLenses: 12-24 for the gate 
- and pagoda\, 24-70 for the lanes.\nSettings: f/2.8 · 1/125 · ISO 6400 fo
- r people. Still scenes: 1/4 s · ISO 1600\, hold steady.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261117-0730-010@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261117T073000
-DTEND;TZID=Asia/Tokyo:20261117T083000
-SUMMARY:Breakfast (included)
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Local time (Tokyo): 07:30 to 08:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261117-0900-011@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261117T090000
-DTEND;TZID=Asia/Tokyo:20261117T100000
-SUMMARY:Japan orientation
-LOCATION:Tokyo\, set by guide
-DESCRIPTION:Local time (Tokyo): 09:00 to 10:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261117-1030-012@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261117T103000
-DTEND;TZID=Asia/Tokyo:20261117T120000
-SUMMARY:Harajuku and Takeshita Street
-LOCATION:Takeshita Street\, 1 Chome Jingumae\, Shibuya City\, Tokyo 150-000
- 1\, Japan
-DESCRIPTION:Local time (Tokyo): 10:30 to 12:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261117-1200-013@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261117T123000
-DTEND;TZID=Asia/Tokyo:20261117T153000
-SUMMARY:Free time in Harajuku
-LOCATION:Takeshita Street\, 1 Chome Jingumae\, Shibuya City\, Tokyo 150-000
- 1\, Japan
-DESCRIPTION:Local time (Tokyo): 12:30 to 15:30\nSelf guided. Meiji Jingu an
- d Yoyogi Park are free if not done this morning.\nGuide picks: Laforet\, T
- akeshita Street (JOL food court\, gachapon\, crepes\, Daiso).\nShopping pi
- cks skipped to save money: Oriental Bazaar\, Kiddyland\, B Side Label.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261117-1530-014@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261117T153000
-DTEND;TZID=Asia/Tokyo:20261117T174500
-SUMMARY:Akihabara early: roam on your own (optional)
-LOCATION:Akihabara Electric Town\, Sotokanda\, Chiyoda City\, Tokyo 101-002
- 1\, Japan
-DESCRIPTION:Local time (Tokyo): 15:30 to 17:45\nGuide suggests heading over
-  early for anime\, manga and electronics.\nHarajuku to Akihabara: JR Yaman
- ote Line\, about 30 min.\nSunset 16:32. Neon at blue hour: f/2.8 · 1/4 s 
- · ISO 1600\, hold steady.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261117-1830-015@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261117T180000
-DTEND;TZID=Asia/Tokyo:20261117T210000
-SUMMARY:Meet 18:00 at Akihabara Central North Exit\, then dinner and arcade
-LOCATION:Akihabara Station Central North Exit\, Chiyoda City\, Tokyo\, Japa
- n
-DESCRIPTION:Local time (Tokyo): 18:00 to 21:00\nMeeting point just outside 
- the Central North Exit: https://maps.app.goo.gl/birud228RZKw4WRN7\nDinner 
- and arcade with the group. Check whether dinner is included.\nSome arcades
-  do not allow photos. Check the signs. No flash.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261118-0800-017@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261118T080000
-DTEND;TZID=Asia/Tokyo:20261118T090000
-SUMMARY:Breakfast (included)
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Local time (Tokyo): 08:00 to 09:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261118-1000-018@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261118T110000
-DTEND;TZID=Asia/Tokyo:20261118T130000
-SUMMARY:Sushi class at Tsukiji Market\, lunch included
-LOCATION:Tsukiji Outer Market\, Chuo City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 11:00 to 13:00\nTwo hours. Make four types 
- of sushi\, miso soup and teriyaki fish\, then eat what you made.\nGroup le
- aves the hotel lobby at 10:00.\nCamera: 24-70 at 50 to 70mm\, f/4 · 1/250
-  · ISO 1600 to 3200.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261118-1400-019@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261118T140000
-DTEND;TZID=Asia/Tokyo:20261118T161500
-SUMMARY:teamLab Borderless (booked)
-LOCATION:teamLab Borderless\, Azabudai Hills Garden Plaza B B1\, 1-2-4 Azab
- udai\, Minato City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 14:00 to 16:15\nEntry 14:00. Allow 2 to 3 h
- ours. Leave by 16:15.\nFrom Tsukiji: Hibiya Line to Kamiyacho\, Exit 5\, a
- bout 2 min underground.\nNo flash\, tripods\, monopods or selfie sticks of
-  30 cm or more. Wear flat shoes.\nCamera: 12-24\, f/2.8 · 1/125 · ISO 64
- 00 to 12800. Underexpose about one stop to keep the colours.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261118-1600-020@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261118T170000
-DTEND;TZID=Asia/Tokyo:20261118T183000
-SUMMARY:Tokyo Metropolitan Government Building\, 45th floor
-LOCATION:Tokyo Metropolitan Government Building\, 2 Chome-8-1 Nishishinjuku
- \, Shinjuku City\, Tokyo 163-8001\, Japan
-DESCRIPTION:Local time (Tokyo): 17:00 to 18:30\nNight skyline with the grou
- p. From teamLab: Hibiya Line to Roppongi\, then Oedo Line to Tochomae\, ab
- out 30 min.\nTell the guide you will meet them at the building\, not the h
- otel.\nCamera: 24-70\, f/2.8 · 1/30 · ISO 3200. Hood flat against the gl
- ass.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261118-1730-021@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261118T190000
-DTEND;TZID=Asia/Tokyo:20261118T203000
-SUMMARY:Omoide Yokocho dinner (self funded)
-LOCATION:Omoide Yokocho\, 1 Chome-2 Nishishinjuku\, Shinjuku City\, Tokyo 1
- 60-0023\, Japan
-DESCRIPTION:Local time (Tokyo): 19:00 to 20:30\nOld school yakitori alleys.
-  Vegetarian choices are limited\, ask the guide.\nCamera: 24-70 at 35mm\, 
- f/2.8 · 1/125 · ISO 6400.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261118-1930-022@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261118T213000
-DTEND;TZID=Asia/Tokyo:20261118T223000
-SUMMARY:Shibuya: Hachiko and the Scramble Crossing
-LOCATION:Shibuya Scramble Crossing\, 2 Chome-2-1 Dogenzaka\, Shibuya City\,
-  Tokyo 150-0043\, Japan
-DESCRIPTION:Local time (Tokyo): 21:30 to 22:30\nTrain with the group from K
- abukicho. Hachiko story first\, then the crossing.\nFreeze: f/2.8 · 1/250
-  · ISO 12800. Blur: f/4 · 1/4 s · ISO 800\, hold steady.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261119-0700-023@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261119T070000
-DTEND;TZID=Asia/Tokyo:20261119T080000
-SUMMARY:Breakfast (included) and check out
-LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Local time (Tokyo): 07:00 to 08:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261119-0830-024@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261119T083000
-DTEND;TZID=Asia/Tokyo:20261119T103000
-SUMMARY:Romancecar Shinjuku to Hakone Yumoto
-LOCATION:Shinjuku Station (Odakyu Line)\, Shinjuku City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 08:30 to 10:30\nRide is about 85 min.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261119-1030-025@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261119T103000
-DTEND;TZID=Asia/Tokyo:20261119T160000
-SUMMARY:Hakone loop and Mount Fuji viewpoints
-LOCATION:Owakudani\, 1251 Sengokuhara\, Hakone\, Kanagawa 250-0631\, Japan
-DESCRIPTION:Local time (Tokyo): 10:30 to 16:00\nVaried local transport: mou
- ntain train\, cable car\, ropeway\, Lake Ashi.\nFuji views are weather dep
- endent\, mornings are usually clearest.\nOwakudani has a respiratory cauti
- on. The operator has an alternate if needed.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261119-1630-026@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261119T163000
-DTEND;TZID=Asia/Tokyo:20261119T170000
-SUMMARY:Check in: Gora Gaku Guesthouse
-LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
- 8\, Japan
-DESCRIPTION:Local time (Tokyo): 16:30 to 17:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261119-1830-027@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261119T183000
-DTEND;TZID=Asia/Tokyo:20261119T210000
-SUMMARY:Family nabe dinner and games (included)
-LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
- 8\, Japan
-DESCRIPTION:Local time (Tokyo): 18:30 to 21:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261120-0700-028@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261120T070000
-DTEND;TZID=Asia/Tokyo:20261120T074500
-SUMMARY:Check out: Gora Gaku Guesthouse
-LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
- 8\, Japan
-DESCRIPTION:Local time (Tokyo): 07:00 to 07:45
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261120-0800-029@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261120T080000
-DTEND;TZID=Asia/Tokyo:20261120T133000
-SUMMARY:Shinkansen and train: Hakone to Takayama
-LOCATION:Odawara Station\, Odawara\, Kanagawa\, Japan
-DESCRIPTION:Local time (Tokyo): 08:00 to 13:30\nFirst Shinkansen of the tri
- p. Likely Odawara to Nagoya\, then Limited Express Hida to Takayama.\nAbou
- t 5 hours. Heading west\, Fuji is on the right side (E seats) if clear.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261120-1400-030@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261120T140000
-DTEND;TZID=Asia/Tokyo:20261120T163000
-SUMMARY:Takayama old town guided tour
-LOCATION:Sanmachi Suji\, Kamisannomachi\, Takayama\, Gifu 506-0846\, Japan
-DESCRIPTION:Local time (Tokyo): 14:00 to 16:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261120-1630-031@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261120T163000
-DTEND;TZID=Asia/Tokyo:20261120T173000
-SUMMARY:Sake brewery tasting
-LOCATION:Sanmachi Suji breweries\, Takayama\, Gifu\, Japan
-DESCRIPTION:Local time (Tokyo): 16:30 to 17:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261120-1730-032@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261120T173000
-DTEND;TZID=Asia/Tokyo:20261120T180000
-SUMMARY:Check in: Temple Hotel Takayama Zenkoji
-LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
- 506-0025\, Japan
-DESCRIPTION:Local time (Tokyo): 17:30 to 18:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261120-1830-033@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261120T183000
-DTEND;TZID=Asia/Tokyo:20261120T200000
-SUMMARY:Dinner (self funded): try Hida beef
-LOCATION:Takayama old town\, Gifu\, Japan
-DESCRIPTION:Local time (Tokyo): 18:30 to 20:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261120-2000-034@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261120T200000
-DTEND;TZID=Asia/Tokyo:20261120T210000
-SUMMARY:Onsen or public bath (optional)
-LOCATION:Takayama\, Gifu\, Japan
-DESCRIPTION:Local time (Tokyo): 20:00 to 21:00\nTattoo rules and washing et
- iquette apply.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261121-0700-035@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261121T070000
-DTEND;TZID=Asia/Tokyo:20261121T083000
-SUMMARY:Miyagawa Morning Market
-LOCATION:Miyagawa Morning Market\, Shimosannomachi\, Takayama\, Gifu\, Japa
- n
-DESCRIPTION:Local time (Tokyo): 07:00 to 08:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261121-0900-036@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261121T090000
-DTEND;TZID=Asia/Tokyo:20261121T093000
-SUMMARY:Check out: Temple Hotel Takayama Zenkoji
-LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
- 506-0025\, Japan
-DESCRIPTION:Local time (Tokyo): 09:00 to 09:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261121-0945-037@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261121T094500
-DTEND;TZID=Asia/Tokyo:20261121T140000
-SUMMARY:Train: Takayama to Kyoto
-LOCATION:Takayama Station\, Takayama\, Gifu\, Japan
-DESCRIPTION:Local time (Tokyo): 09:45 to 14:00\nLimited Express Hida\, like
- ly via Nagoya and Shinkansen. About 4 hours.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261121-1430-038@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261121T143000
-DTEND;TZID=Asia/Tokyo:20261121T150000
-SUMMARY:Drop bags: Ryokan Hostel Gion
-LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
- 5-0089\, Japan
-DESCRIPTION:Local time (Tokyo): 14:30 to 15:00\nCheck in opens 16:00.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261121-1700-039@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261121T170000
-DTEND;TZID=Asia/Tokyo:20261121T190000
-SUMMARY:Guided Gion walking tour
-LOCATION:Hanamikoji Street\, Gionmachi Minamigawa\, Higashiyama Ward\, Kyot
- o 605-0074\, Japan
-DESCRIPTION:Local time (Tokyo): 17:00 to 19:00\nShoot geiko and maiko only 
- from a respectful distance. 70-200 helps.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261121-1900-040@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261121T190000
-DTEND;TZID=Asia/Tokyo:20261121T203000
-SUMMARY:Dinner (self funded)
-LOCATION:Pontocho\, Nakagyo Ward\, Kyoto\, Japan
-DESCRIPTION:Local time (Tokyo): 19:00 to 20:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261122-0530-041@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261122T053000
-DTEND;TZID=Asia/Tokyo:20261122T083000
-SUMMARY:Fushimi Inari Taisha before dawn
-LOCATION:Fushimi Inari Taisha\, 68 Fukakusa Yabunouchicho\, Fushimi Ward\, 
- Kyoto 612-0882\, Japan
-DESCRIPTION:Local time (Tokyo): 05:30 to 08:30\nSubway before dawn. Sunrise
-  about 06:40. Do not block the paths.\nLens: 12-24 at f/4 to f/5.6.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261122-0930-042@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261122T093000
-DTEND;TZID=Asia/Tokyo:20261122T113000
-SUMMARY:Kiyomizudera
-LOCATION:Kiyomizudera\, 1 Chome-294 Kiyomizu\, Higashiyama Ward\, Kyoto 605
- -0862\, Japan
-DESCRIPTION:Local time (Tokyo): 09:30 to 11:30\nTripods and monopods are pr
- ohibited.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261122-1200-043@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261122T120000
-DTEND;TZID=Asia/Tokyo:20261122T130000
-SUMMARY:Tea ceremony
-LOCATION:Kyoto\, venue set by guide
-DESCRIPTION:Local time (Tokyo): 12:00 to 13:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261122-1330-044@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261122T133000
-DTEND;TZID=Asia/Tokyo:20261122T150000
-SUMMARY:Nishiki Market and lunch (optional)
-LOCATION:Nishiki Market\, Nishikikoji Street\, Nakagyo Ward\, Kyoto 604-805
- 5\, Japan
-DESCRIPTION:Local time (Tokyo): 13:30 to 15:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261122-1500-045@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261122T150000
-DTEND;TZID=Asia/Tokyo:20261122T180000
-SUMMARY:Kimono hire walk (optional)
-LOCATION:Higashiyama\, Kyoto\, Japan
-DESCRIPTION:Local time (Tokyo): 15:00 to 18:00\nSunset about 16:45.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261122-1900-046@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261122T190000
-DTEND;TZID=Asia/Tokyo:20261122T200000
-SUMMARY:Geisha arts performance (optional)
-LOCATION:Gion Corner\, 570-2 Gionmachi Minamigawa\, Higashiyama Ward\, Kyot
- o 605-0074\, Japan
-DESCRIPTION:Local time (Tokyo): 19:00 to 20:00\nVenue to confirm with the g
- uide. Gion Corner is the usual option.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261123-0900-047@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261123T090000
-DTEND;TZID=Asia/Tokyo:20261123T103000
-SUMMARY:Kinkakuji (Golden Pavilion)
-LOCATION:Kinkakuji\, 1 Kinkakujicho\, Kita Ward\, Kyoto 603-8361\, Japan
-DESCRIPTION:Local time (Tokyo): 09:00 to 10:30\nCPL helps with reflections.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261123-1100-048@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261123T110000
-DTEND;TZID=Asia/Tokyo:20261123T123000
-SUMMARY:Daitokuji Zen gardens
-LOCATION:Daitokuji\, 53 Murasakino Daitokujicho\, Kita Ward\, Kyoto 603-823
- 1\, Japan
-DESCRIPTION:Local time (Tokyo): 11:00 to 12:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261123-1330-049@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261123T133000
-DTEND;TZID=Asia/Tokyo:20261123T143000
-SUMMARY:Heian Shrine (optional)
-LOCATION:Heian Shrine\, 97 Okazaki Nishitennocho\, Sakyo Ward\, Kyoto 606-8
- 341\, Japan
-DESCRIPTION:Local time (Tokyo): 13:30 to 14:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261123-1500-050@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261123T150000
-DTEND;TZID=Asia/Tokyo:20261123T170000
-SUMMARY:Kendo class
-LOCATION:Kyoto\, venue set by guide
-DESCRIPTION:Local time (Tokyo): 15:00 to 17:00\nMay swap with Day 7.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-0730-051@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T073000
-DTEND;TZID=Asia/Tokyo:20261124T080000
-SUMMARY:Check out: Ryokan Hostel Gion
-LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
- 5-0089\, Japan
-DESCRIPTION:Local time (Tokyo): 07:30 to 08:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-0800-052@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T080000
-DTEND;TZID=Asia/Tokyo:20261124T084500
-SUMMARY:Train to Arashiyama
-LOCATION:Arashiyama\, Ukyo Ward\, Kyoto\, Japan
-DESCRIPTION:Local time (Tokyo): 08:00 to 08:45
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-0845-053@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T084500
-DTEND;TZID=Asia/Tokyo:20261124T101500
-SUMMARY:Arashiyama Bamboo Grove
-LOCATION:Arashiyama Bamboo Grove\, Sagaogurayama Tabuchiyamacho\, Ukyo Ward
- \, Kyoto 616-8394\, Japan
-DESCRIPTION:Local time (Tokyo): 08:45 to 10:15\nWatch vertical lines with t
- he 12-24.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-1030-054@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T103000
-DTEND;TZID=Asia/Tokyo:20261124T120000
-SUMMARY:Iwatayama Monkey Park
-LOCATION:Iwatayama Monkey Park\, 8 Arashiyama Genrokuzancho\, Nishikyo Ward
- \, Kyoto 616-0004\, Japan
-DESCRIPTION:Local time (Tokyo): 10:30 to 12:00\nKeep more than 2 m from the
-  monkeys. 70-200 is the lens.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-1230-055@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T123000
-DTEND;TZID=Asia/Tokyo:20261124T140000
-SUMMARY:Traditional valley boat ride
-LOCATION:Arashiyama\, Oi River near Togetsukyo Bridge\, Kyoto\, Japan
-DESCRIPTION:Local time (Tokyo): 12:30 to 14:00\nExact route set by the guid
- e.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-1430-056@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T143000
-DTEND;TZID=Asia/Tokyo:20261124T160000
-SUMMARY:Train to Osaka\, check in: Hotel Links Namba
-LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023\, 
- Japan
-DESCRIPTION:Local time (Tokyo): 14:30 to 16:00\nCheck in from 15:00.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-1800-057@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T180000
-DTEND;TZID=Asia/Tokyo:20261124T203000
-SUMMARY:Dotonbori food tour (dinner included)
-LOCATION:Dotonbori\, 1 Chome Dotonbori\, Chuo Ward\, Osaka 542-0071\, Japan
-DESCRIPTION:Local time (Tokyo): 18:00 to 20:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261124-2030-058@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261124T203000
-DTEND;TZID=Asia/Tokyo:20261124T223000
-SUMMARY:Karaoke\, extended (optional)
-LOCATION:Namba\, Osaka\, Japan
-DESCRIPTION:Local time (Tokyo): 20:30 to 22:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261125-0800-059@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261125T080000
-DTEND;TZID=Asia/Tokyo:20261125T090000
-SUMMARY:Breakfast (included)
-LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023\, 
- Japan
-DESCRIPTION:Local time (Tokyo): 08:00 to 09:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261125-0930-060@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261125T093000
-DTEND;TZID=Asia/Tokyo:20261125T113000
-SUMMARY:Shinsaibashi and Amerikamura (optional)
-LOCATION:Shinsaibashisuji\, Chuo Ward\, Osaka 542-0085\, Japan
-DESCRIPTION:Local time (Tokyo): 09:30 to 11:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261125-1345-062@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261125T134500
-DTEND;TZID=Asia/Tokyo:20261125T154500
-SUMMARY:Spa World (optional)
-LOCATION:Spa World\, 3 Chome-4-24 Ebisuhigashi\, Naniwa Ward\, Osaka 556-00
- 02\, Japan
-DESCRIPTION:Local time (Tokyo): 13:45 to 15:45\nTattoo rules apply.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261125-1615-063@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261125T161500
-DTEND;TZID=Asia/Tokyo:20261125T180000
-SUMMARY:Osaka Castle Gardens
-LOCATION:Osaka Castle\, 1-1 Osakajo\, Chuo Ward\, Osaka 540-0002\, Japan
-DESCRIPTION:Local time (Tokyo): 16:15 to 18:00\nSunset about 16:50.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261125-1830-064@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261125T183000
-DTEND;TZID=Asia/Tokyo:20261125T210000
-SUMMARY:Shinsekai evening tour and dinner (self funded)
-LOCATION:Shinsekai\, Ebisuhigashi\, Naniwa Ward\, Osaka 556-0002\, Japan
-DESCRIPTION:Local time (Tokyo): 18:30 to 21:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261126-0645-065@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261126T064500
-DTEND;TZID=Asia/Tokyo:20261126T073000
-SUMMARY:Breakfast (included) and check out
-LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023\, 
- Japan
-DESCRIPTION:Local time (Tokyo): 06:45 to 07:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261126-0745-066@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261126T074500
-DTEND;TZID=Asia/Tokyo:20261126T083000
-SUMMARY:Train: Osaka to Nara
-LOCATION:Nara\, Japan
-DESCRIPTION:Local time (Tokyo): 07:45 to 08:30\nAbout 45 min.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261126-0830-067@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261126T083000
-DTEND;TZID=Asia/Tokyo:20261126T123000
-SUMMARY:Nara Park and temples
-LOCATION:Nara Park\, Zoshicho\, Nara 630-8211\, Japan
-DESCRIPTION:Local time (Tokyo): 08:30 to 12:30\nDeer portraits with the 70-
- 200.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261126-1230-068@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261126T123000
-DTEND;TZID=Asia/Tokyo:20261126T133000
-SUMMARY:Return to Osaka
-LOCATION:Osaka\, Japan
-DESCRIPTION:Local time (Tokyo): 12:30 to 13:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261126-1330-069@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261126T133000
-DTEND;TZID=Asia/Tokyo:20261126T160000
-SUMMARY:Train\, cable car and bus to Koyasan
-LOCATION:Gokurakubashi Station\, Koya\, Ito District\, Wakayama\, Japan
-DESCRIPTION:Local time (Tokyo): 13:30 to 16:00\nAbout 90 min by train\, the
- n cable car and bus.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261126-1600-070@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261126T160000
-DTEND;TZID=Asia/Tokyo:20261126T163000
-SUMMARY:Check in: Fugen In Temple
-LOCATION:Fugen In Temple (Shukubo Fugenin)\, 605 Koyasan\, Koya\, Ito Distr
- ict\, Wakayama 648-0211\, Japan
-DESCRIPTION:Local time (Tokyo): 16:00 to 16:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261126-1730-071@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261126T173000
-DTEND;TZID=Asia/Tokyo:20261126T183000
-SUMMARY:Vegetarian temple dinner (included)
-LOCATION:Fugen In Temple (Shukubo Fugenin)\, 605 Koyasan\, Koya\, Ito Distr
- ict\, Wakayama 648-0211\, Japan
-DESCRIPTION:Local time (Tokyo): 17:30 to 18:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261127-0630-072@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261127T063000
-DTEND;TZID=Asia/Tokyo:20261127T071500
-SUMMARY:Morning prayers with the monks
-LOCATION:Fugen In Temple (Shukubo Fugenin)\, 605 Koyasan\, Koya\, Ito Distr
- ict\, Wakayama 648-0211\, Japan
-DESCRIPTION:Local time (Tokyo): 06:30 to 07:15\nTime set by the temple. Dre
- ss warm.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261127-0715-073@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261127T071500
-DTEND;TZID=Asia/Tokyo:20261127T080000
-SUMMARY:Temple breakfast (included)
-LOCATION:Fugen In Temple (Shukubo Fugenin)\, 605 Koyasan\, Koya\, Ito Distr
- ict\, Wakayama 648-0211\, Japan
-DESCRIPTION:Local time (Tokyo): 07:15 to 08:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261127-0815-074@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261127T081500
-DTEND;TZID=Asia/Tokyo:20261127T094500
-SUMMARY:Danjo Garan
-LOCATION:Danjo Garan\, 152 Koyasan\, Koya\, Ito District\, Wakayama\, Japan
-DESCRIPTION:Local time (Tokyo): 08:15 to 09:45
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261127-1030-075@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261127T103000
-DTEND;TZID=Asia/Tokyo:20261127T150000
-SUMMARY:Travel: Koyasan to Hiroshima via Osaka
-LOCATION:Shin Osaka Station\, Yodogawa Ward\, Osaka\, Japan
-DESCRIPTION:Local time (Tokyo): 10:30 to 15:00\nLeave before lunch. Shinkan
- sen Shin Osaka to Hiroshima about 90 min. Streetcar to the hotel.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261127-1500-076@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261127T150000
-DTEND;TZID=Asia/Tokyo:20261127T153000
-SUMMARY:Check in: Hotel Kuretakeso Otemachi
-LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
-  Hiroshima 730-0051\, Japan
-DESCRIPTION:Local time (Tokyo): 15:00 to 15:30\n1 min walk from Chuden-mae 
- streetcar stop.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261127-1545-077@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261127T154500
-DTEND;TZID=Asia/Tokyo:20261127T174500
-SUMMARY:Guided Peace Memorial Park and Museum
-LOCATION:Hiroshima Peace Memorial Museum\, 1-2 Nakajimacho\, Naka Ward\, Hi
- roshima 730-0811\, Japan
-DESCRIPTION:Local time (Tokyo): 15:45 to 17:45
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261128-0730-078@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261128T073000
-DTEND;TZID=Asia/Tokyo:20261128T083000
-SUMMARY:Breakfast (included)
-LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
-  Hiroshima 730-0051\, Japan
-DESCRIPTION:Local time (Tokyo): 07:30 to 08:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261128-0845-079@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261128T084500
-DTEND;TZID=Asia/Tokyo:20261128T100000
-SUMMARY:Train and ferry to Miyajima
-LOCATION:Miyajimaguchi Ferry Terminal\, Hatsukaichi\, Hiroshima\, Japan
-DESCRIPTION:Local time (Tokyo): 08:45 to 10:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261128-1000-080@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261128T100000
-DTEND;TZID=Asia/Tokyo:20261128T123000
-SUMMARY:Great Torii\, Itsukushima Shrine\, Hall of 1\,000 Mats
-LOCATION:Itsukushima Shrine\, 1-1 Miyajimacho\, Hatsukaichi\, Hiroshima 739
- -0588\, Japan
-DESCRIPTION:Local time (Tokyo): 10:00 to 12:30\nCheck the tide table for th
- e torii.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261128-1230-081@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261128T123000
-DTEND;TZID=Asia/Tokyo:20261128T160000
-SUMMARY:Free afternoon on Miyajima
-LOCATION:Miyajima\, Hatsukaichi\, Hiroshima\, Japan
-DESCRIPTION:Local time (Tokyo): 12:30 to 16:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261128-1600-082@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261128T160000
-DTEND;TZID=Asia/Tokyo:20261128T171500
-SUMMARY:Return to Hiroshima
-LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
-  Hiroshima 730-0051\, Japan
-DESCRIPTION:Local time (Tokyo): 16:00 to 17:15
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261128-1900-083@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261128T190000
-DTEND;TZID=Asia/Tokyo:20261128T213000
-SUMMARY:Final group evening
-LOCATION:Hiroshima\, venue set by guide
-DESCRIPTION:Local time (Tokyo): 19:00 to 21:30\nMeal not included.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-0700-084@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T070000
-DTEND;TZID=Asia/Tokyo:20261129T080000
-SUMMARY:Breakfast (included) and check out
-LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
-  Hiroshima 730-0051\, Japan
-DESCRIPTION:Local time (Tokyo): 07:00 to 08:00\nAsk the guide for help with
-  onward travel.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-0900-085@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T090000
-DTEND;TZID=Asia/Tokyo:20261129T091500
-SUMMARY:Tour ends
-LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
-  Hiroshima 730-0051\, Japan
-DESCRIPTION:Local time (Tokyo): 09:00 to 09:15\nTour finishes at 09:00 in H
- iroshima.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-0915-086@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T091500
-DTEND;TZID=Asia/Tokyo:20261129T094500
-SUMMARY:Peace Park river walk (optional)
-LOCATION:Atomic Bomb Dome\, 1-10 Otemachi\, Naka Ward\, Hiroshima 730-0051\
- , Japan
-DESCRIPTION:Local time (Tokyo): 09:15 to 09:45\nSuggested in the operator P
- DF.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-0945-087@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T094500
-DTEND;TZID=Asia/Tokyo:20261129T101500
-SUMMARY:Streetcar to Hiroshima Station
-LOCATION:Hiroshima Station\, Minami Ward\, Hiroshima\, Japan
-DESCRIPTION:Local time (Tokyo): 09:45 to 10:15
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1015-088@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T101500
-DTEND;TZID=Asia/Tokyo:20261129T105000
-SUMMARY:Shinkansen: Hiroshima to Mihara
-LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima\, Japa
- n
-DESCRIPTION:Local time (Tokyo): 10:15 to 10:50\nKodama about 25 min. JR San
- yo local takes about 75 min.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1050-089@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T105000
-DTEND;TZID=Asia/Tokyo:20261129T111500
-SUMMARY:Drop luggage: Super Hotel Mihara Ekimae
-LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
- a\, Japan
-DESCRIPTION:Local time (Tokyo): 10:50 to 11:15\nCheck in opens 15:00. Confi
- rm they will hold bags.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1130-090@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T113000
-DTEND;TZID=Asia/Tokyo:20261129T121500
-SUMMARY:Bus to Buttsuji Temple
-LOCATION:JR Mihara Station\, bus stop No. 4\, Mihara\, Hiroshima\, Japan
-DESCRIPTION:Local time (Tokyo): 11:30 to 12:15\nGeiyo Bus\, about 40 min. B
- uses are infrequent. 2025 adult fare 730 yen.\nExtra autumn buses ran 15 t
- o 30 Nov in 2025. Check the 2026 timetable. Taxi is the fallback.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1215-091@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T121500
-DTEND;TZID=Asia/Tokyo:20261129T150000
-SUMMARY:Buttsuji Temple autumn leaves
-LOCATION:Buttsuji Temple\, 22 Motoyama\, Takasaka-cho\, Mihara\, Hiroshima 
- 729-0471\, Japan
-DESCRIPTION:Local time (Tokyo): 12:15 to 15:00\nEarlier research: autumn sp
- ecial opening runs to 29 Nov\, 08:00 to 17:00\, 500 yen. Reconfirm.\nLense
- s: 24-70 for temple and foliage\, 70-200 for compressed details.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1500-092@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T150000
-DTEND;TZID=Asia/Tokyo:20261129T154500
-SUMMARY:Bus back to Mihara Station
-LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima\, Japa
- n
-DESCRIPTION:Local time (Tokyo): 15:00 to 15:45\nCheck the return times on a
- rrival. 2025 timetable shows late afternoon buses.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1545-093@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T154500
-DTEND;TZID=Asia/Tokyo:20261129T160000
-SUMMARY:Check in: Super Hotel Mihara Ekimae
-LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
- a\, Japan
-DESCRIPTION:Local time (Tokyo): 15:45 to 16:00\nBook the 05:50 taxi for tom
- orrow at reception.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1615-094@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T161500
-DTEND;TZID=Asia/Tokyo:20261129T174500
-SUMMARY:Mihara waterfront and castle ruins at dusk
-LOCATION:Mihara Castle Ruins Park\, beside JR Mihara Station\, Mihara\, Hir
- oshima\, Japan
-DESCRIPTION:Local time (Tokyo): 16:15 to 17:45\nSunset about 16:57. Blue ho
- ur on the harbour after.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261129-1800-095@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261129T180000
-DTEND;TZID=Asia/Tokyo:20261129T193000
-SUMMARY:Dinner (self funded)
-LOCATION:Mihara\, Hiroshima\, Japan
-DESCRIPTION:Local time (Tokyo): 18:00 to 19:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-0550-096@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T055000
-DTEND;TZID=Asia/Tokyo:20261130T061000
-SUMMARY:Taxi to Mount Fudekage (pre booked)
-LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
- a\, Japan
-DESCRIPTION:Local time (Tokyo): 05:50 to 06:10\nBook the return trip in adv
- ance. Early taxis are not guaranteed.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-0610-097@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T061000
-DTEND;TZID=Asia/Tokyo:20261130T074500
-SUMMARY:Mount Fudekage sunrise shoot
-LOCATION:Mt Fudekage Observatory\, Mihara\, Hiroshima\, Japan (34.3759\, 13
- 3.0815)
-DESCRIPTION:Local time (Tokyo): 06:10 to 07:45\nSunrise about 06:55. Summit
-  about 311 m\, Seto Inland Sea island layers\, possible sea fog.\nLenses: 
- 12-24\, 24-70\, 70-200 with 2x. Tripod: f/11\, ISO 100\, 2 s timer.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-0745-098@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T074500
-DTEND;TZID=Asia/Tokyo:20261130T080500
-SUMMARY:Taxi back to hotel
-LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
- a\, Japan
-DESCRIPTION:Local time (Tokyo): 07:45 to 08:05
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-0815-099@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T081500
-DTEND;TZID=Asia/Tokyo:20261130T093000
-SUMMARY:Breakfast (included) and pack
-LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
- a\, Japan
-DESCRIPTION:Local time (Tokyo): 08:15 to 09:30
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-0930-100@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T093000
-DTEND;TZID=Asia/Tokyo:20261130T100000
-SUMMARY:Check out by 10:00\, store luggage
-LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
- a\, Japan
-DESCRIPTION:Local time (Tokyo): 09:30 to 10:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-1000-101@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T100000
-DTEND;TZID=Asia/Tokyo:20261130T131500
-SUMMARY:Free time in Mihara and lunch
-LOCATION:Mihara\, Hiroshima\, Japan
-DESCRIPTION:Local time (Tokyo): 10:00 to 13:15
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-1315-102@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T131500
-DTEND;TZID=Asia/Tokyo:20261130T134000
-SUMMARY:Collect luggage\, walk to station bus stop
-LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima\, Japa
- n
-DESCRIPTION:Local time (Tokyo): 13:15 to 13:40
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-1350-103@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T135000
-DTEND;TZID=Asia/Tokyo:20261130T142800
-SUMMARY:Airport bus: Mihara Station → Hiroshima Airport
-LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima\, Japa
- n
-DESCRIPTION:Local time (Tokyo): 13:50 to 14:28\nNot booked. Recheck the tim
- etable and stop. Earlier research: 1\,000 yen.\nThe next bus (15:50) is to
- o late for a safe margin.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-1430-104@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T143000
-DTEND;TZID=Asia/Tokyo:20261130T153000
-SUMMARY:JAL check in and bag drop
-LOCATION:Hiroshima Airport\, 64-31 Zennyuji\, Hongo-cho\, Mihara\, Hiroshim
- a 729-0416\, Japan
-DESCRIPTION:Local time (Tokyo): 14:30 to 15:30\nBoth flights are on one boo
- king. Ask to check the bag through to Sydney.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-1755-105@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T175500
-DTEND;TZID=Asia/Tokyo:20261130T191500
-SUMMARY:✈ JL264 HIJ 17:55 → HND 19:15
-LOCATION:Hiroshima Airport\, 64-31 Zennyuji\, Hongo-cho\, Mihara\, Hiroshim
- a 729-0416\, Japan
-DESCRIPTION:Local time (Tokyo): 17:55 to 19:15\nJapan Airlines JL264. Depar
- ture changed from 17:50 to 17:55.\nGate A2 (app forecast). Arrives Haneda 
- T1\, gates 7 to 21. 1 h 20 min\, 637 km.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-1915-106@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T191500
-DTEND;TZID=Asia/Tokyo:20261130T203000
-SUMMARY:Haneda transfer: T1 to T3
-LOCATION:Haneda Airport Terminal 1\, 3-3-2 Hanedakuko\, Ota City\, Tokyo 14
- 4-0041\, Japan
-DESCRIPTION:Local time (Tokyo): 19:15 to 20:30\nConnection 2 h 45 min. Take
-  the free inter terminal shuttle bus.\nInternational check in\, security a
- nd emigration at T3.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261130-2200-107@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261130T220000
-DTEND;TZID=Australia/Sydney:20261201T100000
-SUMMARY:✈ QF60 HND 22:00 → SYD 10:00 (+1)
-LOCATION:Haneda Airport Terminal 3\, 2-6-5 Hanedakuko\, Ota City\, Tokyo 14
- 4-0041\, Japan
-DESCRIPTION:Local time: 22:00 Tokyo to 10:00 Sydney\nQantas QF60. Haneda T3
-  to Sydney T1. Overnight\, 10 h.\nArrival changed from 09:55 to 10:00 Sydn
- ey time.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261116-1000-115@akumarau
-DTSTAMP:20261117T061553Z
+  113-0022
+DESCRIPTION:Pre tour night booked 15 to 16 Nov. The tour uses this hotel fr
+ om 16 Nov.\nConfirm at reception that your tour nights follow on\, so you 
+ stay put.\nMap: https://www.google.com/maps/search/?api=1&query=Sakura%20H
+ otel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Toky
+ o%20113-0022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261116-yanaka-cemetery-and-temples-free@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261116T100000
 DTEND;TZID=Asia/Tokyo:20261116T120000
 SUMMARY:Yanaka Cemetery and temples (free)
-LOCATION:Yanaka Cemetery\, 7 Chome-5-24 Yanaka\, Taito City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 10:00 to 12:00\nOld Tokyo lanes\, small tem
- ples and the cemetery avenue. Short walk from the hotel.\nCamera: 24-70\, 
- f/8 · 1/250 · ISO 100 to 400.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+LOCATION:Yanaka Cemetery\, 7 Chome-5-24 Yanaka\, Taito City\, Tokyo
+DESCRIPTION:Old Tokyo lanes\, small temples and the cemetery avenue. Short 
+ walk from the hotel and Nippori West Exit.\nMap: https://www.google.com/ma
+ ps/search/?api=1&query=Yanaka%20Cemetery%2C%207%20Chome-5-24%20Yanaka%2C%2
+ 0Taito%20City%2C%20Tokyo
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261116-1200-116@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261116-lunch-self-funded-yanaka@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261116T120000
 DTEND;TZID=Asia/Tokyo:20261116T130000
-SUMMARY:Lunch (self funded)\, Yanaka Ginza
-LOCATION:Yanaka Ginza\, 3 Chome-13-1 Yanaka\, Taito City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 12:00 to 13:00
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+SUMMARY:Lunch (self funded)\, Yanaka
+LOCATION:Yanaka Ginza\, 3 Chome-13-1 Yanaka\, Taito City\, Tokyo
+DESCRIPTION:Cheap street snacks along Yanaka Ginza. Pick on the day.\nMap: 
+ https://www.google.com/maps/search/?api=1&query=Yanaka%20Ginza%2C%203%20Ch
+ ome-13-1%20Yanaka%2C%20Taito%20City%2C%20Tokyo
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261116-1300-117@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261116-ueno-park-and-shinobazu-pond-free@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261116T130000
 DTEND;TZID=Asia/Tokyo:20261116T160000
 SUMMARY:Ueno Park and Shinobazu Pond (free)
-LOCATION:Shinobazu Pond\, Ueno Park\, Taito City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 13:00 to 16:00\nAbout 20 min walk from Yana
- ka. Skip the paid museums to save money.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+LOCATION:Shinobazu Pond\, Ueno Park\, Taito City\, Tokyo
+DESCRIPTION:About 20 min walk from Yanaka. Park\, pond and shrine grounds a
+ re free. Skip the paid museums to save money.\nMap: https://www.google.com
+ /maps/search/?api=1&query=Shinobazu%20Pond%2C%20Ueno%20Park%2C%20Taito%20C
+ ity%2C%20Tokyo
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261116-1600-118@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261116-sunset-at-the-yuyake-dandan-steps@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261116T160000
 DTEND;TZID=Asia/Tokyo:20261116T164500
 SUMMARY:Sunset at the Yuyake Dandan steps
-LOCATION:Yuyake Dandan\, 3 Chome-13 Nishinippori\, Arakawa City\, Tokyo\, J
- apan
-DESCRIPTION:Local time (Tokyo): 16:00 to 16:45\nSunset about 16:33. About 5
-  min from the hotel.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+LOCATION:Yuyake Dandan\, 3 Chome-13 Nishinippori\, Arakawa City\, Tokyo
+DESCRIPTION:Sunset about 16:33 over Yanaka Ginza. About 5 min from the hote
+ l.\nMap: https://www.google.com/maps/search/?api=1&query=Yuyake%20Dandan%2
+ C%203%20Chome-13%20Nishinippori%2C%20Arakawa%20City%2C%20Tokyo
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261116-1645-119@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261116-back-at-the-hotel-rest-and-swap-lenses@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261116T164500
 DTEND;TZID=Asia/Tokyo:20261116T174500
 SUMMARY:Back at the hotel: rest and swap lenses
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Local time (Tokyo): 16:45 to 17:45\nPick up the 12-24 for Senso
- ji. Lobby meeting at 18:00.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+  113-0022
+DESCRIPTION:Pick up the 12-24 for Sensoji. Lobby meeting at 18:00.\nMap: ht
+ tps://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippori%2C%
+ 203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261118-1000-120@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261116-tour-group-meeting-hotel-lobby@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261116T180000
+DTEND;TZID=Asia/Tokyo:20261116T183000
+SUMMARY:Tour group meeting\, hotel lobby
+LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
+  113-0022
+DESCRIPTION:One Life Adventures. Guide meets the group in the lobby.\nBring
+  insurance proof.\nMap: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261116-welcome-dinner-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261116T183000
+DTEND;TZID=Asia/Tokyo:20261116T203000
+SUMMARY:Welcome dinner (included)
+LOCATION:Tokyo\, venue set by guide
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261116-sensoji-at-night@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261116T203000
+DTEND;TZID=Asia/Tokyo:20261116T220000
+SUMMARY:Sensoji at night
+LOCATION:Sensoji\, 2 Chome-3-1 Asakusa\, Taito City\, Tokyo 111-0032
+DESCRIPTION:Lenses: 12-24 for the gate and pagoda\, 24-70 for the lanes.\nM
+ ap: https://www.google.com/maps/search/?api=1&query=Sensoji%2C%202%20Chome
+ -3-1%20Asakusa%2C%20Taito%20City%2C%20Tokyo%20111-0032
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261117-breakfast-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261117T073000
+DTEND;TZID=Asia/Tokyo:20261117T083000
+SUMMARY:Breakfast (included)
+LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
+  113-0022
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Sakura%20H
+ otel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Toky
+ o%20113-0022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261117-japan-orientation@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261117T090000
+DTEND;TZID=Asia/Tokyo:20261117T100000
+SUMMARY:Japan orientation
+LOCATION:Tokyo\, set by guide
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261117-harajuku-and-takeshita-street@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261117T103000
+DTEND;TZID=Asia/Tokyo:20261117T120000
+SUMMARY:Harajuku and Takeshita Street
+LOCATION:Takeshita Street\, 1 Chome Jingumae\, Shibuya City\, Tokyo 150-000
+ 1
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Takeshita%
+ 20Street%2C%201%20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo%20150-00
+ 01
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261117-free-time-in-harajuku@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261117T123000
+DTEND;TZID=Asia/Tokyo:20261117T153000
+SUMMARY:Free time in Harajuku
+LOCATION:Takeshita Street\, 1 Chome Jingumae\, Shibuya City\, Tokyo 150-000
+ 1
+DESCRIPTION:Self guided. Meiji Jingu and Yoyogi Park are free if you did no
+ t see them this morning.\nLaforet: Harajuku fashion since 1978. Good for s
+ treet portraits outside. Map\nTakeshita Street: JOL food court\, gachapon 
+ capsule toy stores\, rainbow food\, crepes\, candied strawberries\, cheese
+  coins\, Daiso.\nViewpoint building: the guide's link came through incompl
+ ete. Ask the guide which one.\nShopping picks\, skipped to save money: Ori
+ ental Bazaar (map)\, Kiddyland (map)\, B Side Label stickers (map).\nMap: 
+ https://www.google.com/maps/search/?api=1&query=Takeshita%20Street%2C%201%
+ 20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo%20150-0001
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261117-akihabara-early-roam-on-your-own-optiona@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261117T153000
+DTEND;TZID=Asia/Tokyo:20261117T174500
+SUMMARY:Akihabara early: roam on your own (optional)
+LOCATION:Akihabara Electric Town\, Sotokanda\, Chiyoda City\, Tokyo 101-002
+ 1
+DESCRIPTION:Guide suggests heading over early for anime\, manga and electro
+ nics. Sunset 16:32\, neon at blue hour until about 17:00.\nHarajuku to Aki
+ habara: JR Yamanote Line to Akihabara\, about 30 min\, or Chuo Line Rapid 
+ via Ochanomizu.\nMap: https://www.google.com/maps/search/?api=1&query=Akih
+ abara%20Electric%20Town%2C%20Sotokanda%2C%20Chiyoda%20City%2C%20Tokyo%2010
+ 1-0021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261117-meet-the-group-akihabara-station-central@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261117T180000
+DTEND;TZID=Asia/Tokyo:20261117T181500
+SUMMARY:Meet the group: Akihabara Station\, Central North Exit
+LOCATION:Akihabara Station Central North Exit\, Chiyoda City\, Tokyo
+DESCRIPTION:Meeting point is just outside the Central North Exit.\nMap: htt
+ ps://maps.app.goo.gl/birud228RZKw4WRN7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261117-dinner-and-arcade-with-the-group@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261117T180000
+DTEND;TZID=Asia/Tokyo:20261117T210000
+SUMMARY:Dinner and arcade with the group
+LOCATION:Akihabara\, Chiyoda City\, Tokyo
+DESCRIPTION:Venue set by the guide. Breakfast is the only included meal tod
+ ay\, so check whether dinner is included.\nMap: https://www.google.com/map
+ s/search/?api=1&query=Akihabara%2C%20Chiyoda%20City%2C%20Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261118-breakfast-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261118T080000
+DTEND;TZID=Asia/Tokyo:20261118T090000
+SUMMARY:Breakfast (included)
+LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
+  113-0022
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Sakura%20H
+ otel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Toky
+ o%20113-0022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261118-meet-the-group-hotel-lobby@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261118T100000
 DTEND;TZID=Asia/Tokyo:20261118T101500
 SUMMARY:Meet the group: hotel lobby
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
-  113-0022\, Japan
-DESCRIPTION:Local time (Tokyo): 10:00 to 10:15\nBring your IC card (Suica o
- r Pasmo)\, passport\, and money for food.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+  113-0022
+DESCRIPTION:Bring your IC card (Suica or Pasmo)\, passport\, and money for 
+ food.\nMap: https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel
+ %20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20
+ 113-0022
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261118-1300-121@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261118-sushi-class-at-tsukiji-market-lunch-incl@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261118T110000
+DTEND;TZID=Asia/Tokyo:20261118T130000
+SUMMARY:Sushi class at Tsukiji Market\, lunch included
+LOCATION:Tsukiji Outer Market\, Chuo City\, Tokyo
+DESCRIPTION:Two hours. You make four types of sushi\, miso soup and teriyak
+ i fish\, then eat what you made.\nSend your sushi option to the operator b
+ y 9 Nov:\n1 raw fish sushi + cooked fish teriyaki\n2 vegetarian sushi + to
+ fu teriyaki\n3 vegetarian sushi + cooked fish teriyaki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261118-free-time-then-tsukiji-kamiyacho-hibiya-@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261118T130000
 DTEND;TZID=Asia/Tokyo:20261118T134500
 SUMMARY:Free time\, then Tsukiji → Kamiyacho (Hibiya Line)
-LOCATION:Kamiyacho Station Exit 5\, Minato City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 13:00 to 13:45\nHibiya Line from Tsukiji to
-  Kamiyacho\, 5 stops\, about 10 min.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+LOCATION:Kamiyacho Station Exit 5\, Minato City\, Tokyo
+DESCRIPTION:Hibiya Line from Tsukiji to Kamiyacho\, 5 stops\, about 10 min.
+  teamLab is about 2 min underground from Exit 5.\nMap: https://www.google.
+ com/maps/search/?api=1&query=Kamiyacho%20Station%20Exit%205%2C%20Minato%20
+ City%2C%20Tokyo
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261118-1615-122@akumarau
-DTSTAMP:20261117T061553Z
-DTSTART;TZID=Asia/Tokyo:20261118T161500
-DTEND;TZID=Asia/Tokyo:20261118T165000
+UID:japan2026-20261118-teamlab-borderless-booked@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261118T140000
+DTEND;TZID=Asia/Tokyo:20261118T163000
+SUMMARY:teamLab Borderless (booked)
+LOCATION:teamLab Borderless\, 5-9-1 Toranomon\, Minato City\, Tokyo
+DESCRIPTION:Ticket booked for 14:00. Leave by 16:30 for the 17:15 meeting.\
+ nPhotos are allowed. No flash\, tripods\, monopods or selfie sticks of 30 
+ cm or more.\nFloors are dark and uneven in places. Wear flat shoes.\nMap: 
+ https://www.google.com/maps/search/?api=1&query=teamLab%20Borderless%2C%20
+ 5-9-1%20Toranomon%2C%20Minato%20City%2C%20Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261118-transit-kamiyacho-tochomae@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261118T163000
+DTEND;TZID=Asia/Tokyo:20261118T171000
 SUMMARY:Transit: Kamiyacho → Tochomae
-LOCATION:Tochomae Station\, Shinjuku City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 16:15 to 16:50\nHibiya Line to Roppongi\, 1
-  stop\, then Toei Oedo Line to Tochomae. About 30 min door to door.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+LOCATION:Tochomae Station\, Shinjuku City\, Tokyo
+DESCRIPTION:Hibiya Line to Roppongi\, 1 stop\, then Toei Oedo Line to Tocho
+ mae. About 30 min door to door.\nMap: https://www.google.com/maps/search/?
+ api=1&query=Tochomae%20Station%2C%20Shinjuku%20City%2C%20Tokyo
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:japan2026-20261118-2030-123@akumarau
-DTSTAMP:20261117T061553Z
+UID:japan2026-20261118-meet-the-group-tokyo-metropolitan-govern@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261118T171500
+DTEND;TZID=Asia/Tokyo:20261118T183000
+SUMMARY:Meet the group: Tokyo Metropolitan Government Building\, then the 4
+ 5th floor
+LOCATION:Tokyo Metropolitan Government Building\, 2 Chome-8-1 Nishishinjuku
+ \, Shinjuku City\, Tokyo 163-8001
+DESCRIPTION:Meeting point: the elevators on the ground floor. Look for the 
+ line of people waiting.\nSend the guide a photo when you arrive so they ca
+ n check you are in the right spot.\nTell the guide you will meet at the bu
+ ilding at 17:15\, not in the hotel lobby at 16:15.\nThen the skyline from 
+ the 45th floor. Sunset is 16:32\, so it will be dark.\nMap: https://maps.g
+ oogle.com/?cid=9849659820499292991
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261118-omoide-yokocho-dinner-self-funded@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261118T190000
+DTEND;TZID=Asia/Tokyo:20261118T203000
+SUMMARY:Omoide Yokocho dinner (self funded)
+LOCATION:Omoide Yokocho\, 1 Chome-2 Nishishinjuku\, Shinjuku City\, Tokyo 1
+ 60-0023
+DESCRIPTION:Old school yakitori alleys. Adventurous cuts and offal for the 
+ brave. Vegetarian choices are limited\, so ask the guide.\nMap: https://ww
+ w.google.com/maps/search/?api=1&query=Omoide%20Yokocho%2C%201%20Chome-2%20
+ Nishishinjuku%2C%20Shinjuku%20City%2C%20Tokyo%20160-0023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261118-kabukicho-walk-and-the-godzilla-head@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Tokyo:20261118T203000
 DTEND;TZID=Asia/Tokyo:20261118T211500
 SUMMARY:Kabukicho walk and the Godzilla head
 LOCATION:Godzilla Head\, Hotel Gracery Shinjuku\, 1 Chome-19-1 Kabukicho\, 
- Shinjuku City\, Tokyo\, Japan
-DESCRIPTION:Local time (Tokyo): 20:30 to 21:15\nShort wander with the group
- . Camera: 12-24 for the street\, 24-70 to frame Godzilla\, f/2.8 · 1/125 
- · ISO 3200.
-CATEGORIES:Japan Trip
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
+ Shinjuku City\, Tokyo
+DESCRIPTION:Short wander with the group to meet one of Japan’s most famou
+ s characters.\nMap: https://www.google.com/maps/search/?api=1&query=Godzil
+ la%20Head%2C%20Hotel%20Gracery%20Shinjuku%2C%201%20Chome-19-1%20Kabukicho%
+ 2C%20Shinjuku%20City%2C%20Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261118-shibuya-hachiko-story-and-the-scramble-c@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261118T213000
+DTEND;TZID=Asia/Tokyo:20261118T223000
+SUMMARY:Shibuya: Hachiko story and the Scramble Crossing
+LOCATION:Shibuya Scramble Crossing\, 2 Chome-2-1 Dogenzaka\, Shibuya City\,
+  Tokyo 150-0043
+DESCRIPTION:Train with the group to Shibuya. Hachiko statue first\, then th
+ e crossing.\nMap: https://www.google.com/maps/search/?api=1&query=Shibuya%
+ 20Scramble%20Crossing%2C%202%20Chome-2-1%20Dogenzaka%2C%20Shibuya%20City%2
+ C%20Tokyo%20150-0043
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261119-breakfast-included-pack-and-check-out@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261119T073000
+DTEND;TZID=Asia/Tokyo:20261119T090000
+SUMMARY:Breakfast (included)\, pack and check out
+LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
+  113-0022
+DESCRIPTION:Double check the room for all belongings before checking out.\n
+ Map: https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nipp
+ ori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-002
+ 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261119-meet-the-group-outside-the-hotel-in-the-@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261119T091500
+DTEND;TZID=Asia/Tokyo:20261119T093000
+SUMMARY:Meet the group: outside the hotel in the playground
+LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
+  113-0022
+DESCRIPTION:Bags packed and checked out. Bring your IC card and all luggage
+ .\nMap: https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20N
+ ippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-
+ 0022
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261119-shinjuku-romancecar-and-the-mountain-tra@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261119T093000
+DTEND;TZID=Asia/Tokyo:20261119T130000
+SUMMARY:Shinjuku\, Romancecar and the mountain train to Gora
+LOCATION:Shinjuku Station (Odakyu Line)\, Shinjuku City\, Tokyo
+DESCRIPTION:Buy lunch at a conbini in Shinjuku Station and eat it on the Ro
+ mancecar.\nChange at the base of Mount Hakone to the zig zag Mountain Trai
+ n up to Gora.\nTimes between the guide’s fixed points are approximate.\n
+ Map: https://www.google.com/maps/search/?api=1&query=Shinjuku%20Station%20
+ %28Odakyu%20Line%29%2C%20Shinjuku%20City%2C%20Tokyo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261119-drop-bags-gaku-guesthouse@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261119T130000
+DTEND;TZID=Asia/Tokyo:20261119T133000
+SUMMARY:Drop bags: Gaku Guesthouse
+LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
+ 8
+DESCRIPTION:Quick walk from Gora Station. A short breather before Owakudani
+ .\nMap: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261119-cable-car-and-ropeway-to-owakudani@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261119T133000
+DTEND;TZID=Asia/Tokyo:20261119T163000
+SUMMARY:Cable car and ropeway to Owakudani
+LOCATION:Owakudani\, 1251 Sengokuhara\, Hakone\, Kanagawa 250-0631
+DESCRIPTION:The Valley of Death\, known for its sulphur vents. Try a black 
+ egg.\nBest chance today for a view of Mount Fuji.\nTimes between the guide
+ ’s fixed points are approximate.\nMap: https://www.google.com/maps/searc
+ h/?api=1&query=Owakudani%2C%201251%20Sengokuhara%2C%20Hakone%2C%20Kanagawa
+ %20250-0631
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261119-conbini-run-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261119T163000
+DTEND;TZID=Asia/Tokyo:20261119T173000
+SUMMARY:Conbini run (optional)
+LOCATION:Gora\, Hakone\, Kanagawa
+DESCRIPTION:Buy snacks or drinks for tonight\, and breakfast if you want to
+  eat before 09:00 tomorrow.\nMap: https://www.google.com/maps/search/?api=
+ 1&query=Gora%2C%20Hakone%2C%20Kanagawa
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261119-curry-nabe-dinner-and-games-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261119T183000
+DTEND;TZID=Asia/Tokyo:20261119T210000
+SUMMARY:Curry nabe dinner and games (included)
+LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
+ 8
+DESCRIPTION:Third floor common area. Everyone helps cook a family style cur
+ ry nabe\, then games.\nMap: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261120-meet-the-group-downstairs-game-room@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261120T080000
+DTEND;TZID=Asia/Tokyo:20261120T081500
+SUMMARY:Meet the group: downstairs game room
+LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
+ 8
+DESCRIPTION:Bring your paper tickets\, all luggage\, and passport for check
+  in.\nMap: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261120-train-down-the-mountain-metro-to-odawara@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261120T081500
+DTEND;TZID=Asia/Tokyo:20261120T100000
+SUMMARY:Train down the mountain\, metro to Odawara
+LOCATION:Odawara Station\, Odawara\, Kanagawa
+DESCRIPTION:Breakfast stop at a cafe in Odawara. Buy an ekiben for the trai
+ n.\nTimes between the guide’s fixed points are approximate.\nMap: https:
+ //www.google.com/maps/search/?api=1&query=Odawara%20Station%2C%20Odawara%2
+ C%20Kanagawa
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261120-first-shinkansen-to-nagoya-then-hida-wid@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261120T100000
+DTEND;TZID=Asia/Tokyo:20261120T140000
+SUMMARY:First Shinkansen to Nagoya\, then Hida Wide View to Takayama
+LOCATION:Nagoya Station\, Nakamura Ward\, Nagoya\, Aichi
+DESCRIPTION:About two and a half hours on the Hida Wide View along the rive
+ r valleys of the Japanese Alps.\nLong travel day. Download podcasts or sho
+ ws before you leave.\nTimes between the guide’s fixed points are approxi
+ mate.\nMap: https://www.google.com/maps/search/?api=1&query=Nagoya%20Stati
+ on%2C%20Nakamura%20Ward%2C%20Nagoya%2C%20Aichi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261120-check-in-temple-hotel-takayama-zenkoji@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261120T140000
+DTEND;TZID=Asia/Tokyo:20261120T143000
+SUMMARY:Check in: Temple Hotel Takayama Zenkoji
+LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
+ 506-0025
+DESCRIPTION:Map: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261120-sanmachi-suji-old-town-and-sake-tasting@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261120T143000
+DTEND;TZID=Asia/Tokyo:20261120T170000
+SUMMARY:Sanmachi Suji old town and sake tasting
+LOCATION:Sanmachi Suji\, Kamisannomachi\, Takayama\, Gifu 506-0846
+DESCRIPTION:Local delights and award winning sake with the group.\nTimes be
+ tween the guide’s fixed points are approximate.\nMap: https://www.google
+ .com/maps/search/?api=1&query=Sanmachi%20Suji%2C%20Kamisannomachi%2C%20Tak
+ ayama%2C%20Gifu%20506-0846
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261120-free-evening-in-takayama@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261120T170000
+DTEND;TZID=Asia/Tokyo:20261120T220000
+SUMMARY:Free evening in Takayama
+LOCATION:Takayama old town\, Gifu
+DESCRIPTION:Onsen etiquette: no tattoos\, bathing is nude\, tie long hair u
+ p\, wash before you get in.\nHida beef restaurant: join the line before 17
+ :00\nGyoza\, with a veggie option: opens 18:00\nJakson Curry: opens 17:30\
+ nGreen Hotel onsen: 2\,000 yen\, towel extra\, closes 22:00. No tattoos\nY
+ utopia sento: about 600 yen\, tattoos fine\, ask for soap\nKyudo\, Japanes
+ e archery: 700 yen for 10 arrows\, 19:00 to 22:00\nTakayama castle ruins: 
+ beware of bears\nInteractive map of Takayama\nMap: https://www.google.com/
+ maps/search/?api=1&query=Takayama%20old%20town%2C%20Gifu
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-morning-prayer-ceremony-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T070000
+DTEND;TZID=Asia/Tokyo:20261121T074500
+SUMMARY:Morning Prayer Ceremony (optional)
+LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
+ 506-0025
+DESCRIPTION:Kaiji-san leads a Buddhist morning prayer. Chant notes are prov
+ ided. The day plan lists 06:55\, so be there a few minutes early.\nMap: ht
+ tps://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-meditation-optional-3-000-yen@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T080000
+DTEND;TZID=Asia/Tokyo:20261121T090000
+SUMMARY:Meditation (optional\, 3\,000 yen)
+LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
+ 506-0025
+DESCRIPTION:Buddhist meditation and mindful breathing.\nMap: https://maps.a
+ pp.goo.gl/owu3p5wEo1Fn6sXC9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-bags-packed-by-the-front-door@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T091500
+DTEND;TZID=Asia/Tokyo:20261121T093000
+SUMMARY:Bags packed by the front door
+LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
+ 506-0025
+DESCRIPTION:Map: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-miyagawa-morning-market-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T093000
+DTEND;TZID=Asia/Tokyo:20261121T104500
+SUMMARY:Miyagawa Morning Market (optional)
+LOCATION:Miyagawa Morning Market\, Shimosannomachi\, Takayama\, Gifu
+DESCRIPTION:Hida beef buns\, anko croissants\, souvenirs.\nBuy lunch for th
+ e train here in Takayama.\nSupermarket 1: bento boxes\nSupermarket 2: bent
+ o boxes\nNearest 7-Eleven to the temple\nMap: https://www.google.com/maps/
+ search/?api=1&query=Miyagawa%20Morning%20Market%2C%20Shimosannomachi%2C%20
+ Takayama%2C%20Gifu
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-meet-the-group-outside-the-temple@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T110000
+DTEND;TZID=Asia/Tokyo:20261121T111500
+SUMMARY:Meet the group: outside the temple
+LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
+ 506-0025
+DESCRIPTION:Bring everything. IC card needed this afternoon\, passport for 
+ check in.\nMap: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-hida-wide-view-to-nagoya@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T113000
+DTEND;TZID=Asia/Tokyo:20261121T143000
+SUMMARY:Hida Wide View to Nagoya
+LOCATION:Takayama Station\, Takayama\, Gifu
+DESCRIPTION:Eat your bento on the train.\nMap: https://www.google.com/maps/
+ search/?api=1&query=Takayama%20Station%2C%20Takayama%2C%20Gifu
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-shinkansen-to-kyoto-then-metros-to-the-h@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T143000
+DTEND;TZID=Asia/Tokyo:20261121T154500
+SUMMARY:Shinkansen to Kyoto\, then metros to the hostel
+LOCATION:Kyoto Station\, Shimogyo Ward\, Kyoto
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Kyoto%20St
+ ation%2C%20Shimogyo%20Ward%2C%20Kyoto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-check-in-ryokan-hostel-gion-pods-3-night@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T154500
+DTEND;TZID=Asia/Tokyo:20261121T180000
+SUMMARY:Check in: Ryokan Hostel Gion (pods\, 3 nights)
+LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
+ 5-0089
+DESCRIPTION:Down time to rest\, snack or do laundry.\nMap: https://maps.app
+ .goo.gl/sdKRq3zUaFYq1S6f9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-gion-tour-with-a-local-guide@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T180000
+DTEND;TZID=Asia/Tokyo:20261121T193000
+SUMMARY:Gion tour with a local guide
+LOCATION:Hanamikoji Street\, Gionmachi Minamigawa\, Higashiyama Ward\, Kyot
+ o 605-0074
+DESCRIPTION:History of Gion and how to tell a real geiko or maiko.\nStay on
+  Hanamikoji and public roads. Private lanes carry signs with fines of up t
+ o 10\,000 yen.\nTimes between the guide’s fixed points are approximate.\
+ nMap: https://www.google.com/maps/search/?api=1&query=Hanamikoji%20Street%
+ 2C%20Gionmachi%20Minamigawa%2C%20Higashiyama%20Ward%2C%20Kyoto%20605-0074
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261121-free-evening-dinner-self-funded@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261121T193000
+DTEND;TZID=Asia/Tokyo:20261121T213000
+SUMMARY:Free evening: dinner (self funded)
+LOCATION:Gion\, Higashiyama Ward\, Kyoto
+DESCRIPTION:Kyoto Engine Ramen: vegetarian\, vegan and gluten free options\
+ nRamen Sen-no-Kaze: popular\, put your name down and come back\nIchiran: p
+ ork broth\, counter seats\, queue moves fast\nKyoto Ramen Mitsuru Gion: ch
+ icken ramen\nThe Ramen War\nKura Sushi: conveyor belt\, cheap\nObenki: qua
+ lity sushi near the hostel\nGyoza Hohei: Michelin recommended\, go at open
+ ing\nSenmonten: izakaya gyoza near the hostel\nMotoi: Michelin recommended
+  gyoza near Nishiki Market\nGyoza ChaoChao: good value\nGyukatsu\nHamburge
+ r steak with rice: queues\, near the hostel\nKhaos Spice Diner: curry\nSou
+ ffle pancakes\nElk Kyotokawaramachiten: souffle pancakes\, less busy\nBen'
+ s Cookies\nKitchen Bisshon: tiny pizza bar\, one pizza at a time\nAin Soph
+  Journey: vegan\nVegginy: vegan\nGion Soy Milk Ramen Uno Yokiko: vegan\nCh
+ oice: vegan\nVegan Farm: vegan\nVegan UZU Ramen: vegan\nZirael: vegan\nMap
+ : https://www.google.com/maps/search/?api=1&query=Gion%2C%20Higashiyama%20
+ Ward%2C%20Kyoto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-meet-the-group-outside-the-front-of-the-@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T060000
+DTEND;TZID=Asia/Tokyo:20261122T061500
+SUMMARY:Meet the group: outside the front of the hostel
+LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
+ 5-0089
+DESCRIPTION:Bring your IC card\, passport\, and money for food and souvenir
+ s.\nMap: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-fushimi-inari-taisha-at-dawn@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T063000
+DTEND;TZID=Asia/Tokyo:20261122T080000
+SUMMARY:Fushimi Inari Taisha at dawn
+LOCATION:Fushimi Inari Taisha\, 68 Fukakusa Yabunouchicho\, Fushimi Ward\, 
+ Kyoto 612-0882
+DESCRIPTION:Up the mountain before the crowds. Do not block the paths.\nMap
+ : https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taisha
+ %2C%2068%20Fukakusa%20Yabunouchicho%2C%20Fushimi%20Ward%2C%20Kyoto%20612-0
+ 882
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-breakfast-stop-at-familymart@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T080000
+DTEND;TZID=Asia/Tokyo:20261122T084500
+SUMMARY:Breakfast stop at FamilyMart
+LOCATION:Fushimi Ward\, Kyoto
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Fushimi%20
+ Ward%2C%20Kyoto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-kiyomizudera-the-pure-water-temple@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T090000
+DTEND;TZID=Asia/Tokyo:20261122T100000
+SUMMARY:Kiyomizudera\, the pure water temple
+LOCATION:Kiyomizudera\, 1 Chome-294 Kiyomizu\, Higashiyama Ward\, Kyoto 605
+ -0862
+DESCRIPTION:Water ritual for love\, longevity or wisdom.\nTripods and monop
+ ods are not allowed.\nMap: https://www.google.com/maps/search/?api=1&query
+ =Kiyomizudera%2C%201%20Chome-294%20Kiyomizu%2C%20Higashiyama%20Ward%2C%20K
+ yoto%20605-0862
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-free-time-in-ninenzaka@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T100000
+DTEND;TZID=Asia/Tokyo:20261122T105000
+SUMMARY:Free time in Ninenzaka
+LOCATION:Ninenzaka\, Higashiyama Ward\, Kyoto
+DESCRIPTION:Kimono and tea ceremony meeting point: 10:50 kimono\, 11:50 tea
+  ceremony\nPublic toilets\nKodaiji Temple\nRyozen Kannon: giant Kannon sta
+ tue\, 300 yen\nMochi Mochi: mochi pounding stand\nKyoto style Starbucks\nT
+ emple with the dragon ceiling painting\nBlack pagoda streets: good for pho
+ tos\nCustom rings with engraving: shopping\nStudio Ghibli shop: shopping\n
+ Map: https://www.google.com/maps/search/?api=1&query=Ninenzaka%2C%20Higash
+ iyama%20Ward%2C%20Kyoto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-kimono-fitting-if-you-opted-in-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T105000
+DTEND;TZID=Asia/Tokyo:20261122T115000
+SUMMARY:Kimono fitting (if you opted in) (optional)
+LOCATION:Ninenzaka\, Higashiyama Ward\, Kyoto
+DESCRIPTION:Meet 10:50. Belongings stay at the kimono shop. You wear only u
+ nderwear under the kimono.\nMap: https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-tea-ceremony@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T115000
+DTEND;TZID=Asia/Tokyo:20261122T130000
+SUMMARY:Tea ceremony
+LOCATION:Ninenzaka\, Higashiyama Ward\, Kyoto
+DESCRIPTION:Meet 11:50. History\, a demonstration\, then you make matcha yo
+ urself.\nMap: https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261122-free-afternoon-and-evening@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261122T130000
+DTEND;TZID=Asia/Tokyo:20261122T210000
+SUMMARY:Free afternoon and evening
+LOCATION:Higashiyama\, Kyoto
+DESCRIPTION:Ideas: Nishiki Market for lunch\, Gion Corner arts performance 
+ at night. See the Day 6 food picks.\nMap: https://www.google.com/maps/sear
+ ch/?api=1&query=Higashiyama%2C%20Kyoto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261123-meet-the-group-hostel-lobby@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261123T084000
+DTEND;TZID=Asia/Tokyo:20261123T085500
+SUMMARY:Meet the group: hostel lobby
+LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
+ 5-0089
+DESCRIPTION:Eat breakfast first\, it is an active day. Bring your IC card\,
+  passport and money.\nMap: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261123-bus-to-a-kendo-dojo-kendo-class@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261123T090000
+DTEND;TZID=Asia/Tokyo:20261123T113000
+SUMMARY:Bus to a kendo dojo\, kendo class
+LOCATION:Kyoto\, kendo dojo on the outskirts\, set by guide
+DESCRIPTION:Learn kendo and spar with each other.\nTimes between the guide
+ ’s fixed points are approximate.\nMap: https://www.google.com/maps/searc
+ h/?api=1&query=Kyoto%2C%20kendo%20dojo%20on%20the%20outskirts%2C%20set%20b
+ y%20guide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261123-kinkakuji-golden-pavilion@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261123T120000
+DTEND;TZID=Asia/Tokyo:20261123T133000
+SUMMARY:Kinkakuji (Golden Pavilion)
+LOCATION:Kinkakuji\, 1 Kinkakujicho\, Kita Ward\, Kyoto 603-8361
+DESCRIPTION:Times between the guide’s fixed points are approximate.\nMap:
+  https://www.google.com/maps/search/?api=1&query=Kinkakuji%2C%201%20Kinkak
+ ujicho%2C%20Kita%20Ward%2C%20Kyoto%20603-8361
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261123-daitokuji-zen-garden-sub-temple@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261123T134500
+DTEND;TZID=Asia/Tokyo:20261123T150000
+SUMMARY:Daitokuji Zen garden sub temple
+LOCATION:Daitokuji\, 53 Murasakino Daitokujicho\, Kita Ward\, Kyoto 603-823
+ 1
+DESCRIPTION:Day finishes around 15:00.\nMap: https://www.google.com/maps/se
+ arch/?api=1&query=Daitokuji%2C%2053%20Murasakino%20Daitokujicho%2C%20Kita%
+ 20Ward%2C%20Kyoto%20603-8231
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261123-free-evening-heian-shrine-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261123T153000
+DTEND;TZID=Asia/Tokyo:20261123T170000
+SUMMARY:Free evening. Heian Shrine (optional)
+LOCATION:Heian Shrine\, 97 Okazaki Nishitennocho\, Sakyo Ward\, Kyoto 606-8
+ 341
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Heian%20Sh
+ rine%2C%2097%20Okazaki%20Nishitennocho%2C%20Sakyo%20Ward%2C%20Kyoto%20606-
+ 8341
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-meet-the-group-outside-the-front-of-the-@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T080000
+DTEND;TZID=Asia/Tokyo:20261124T081500
+SUMMARY:Meet the group: outside the front of the hostel
+LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
+ 5-0089
+DESCRIPTION:Bags packed and left in reception. Eat breakfast first or bring
+  it\, food is hard to find in Arashiyama.\nMap: https://maps.app.goo.gl/sd
+ KRq3zUaFYq1S6f9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-arashiyama-bamboo-grove@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T083000
+DTEND;TZID=Asia/Tokyo:20261124T093000
+SUMMARY:Arashiyama Bamboo Grove
+LOCATION:Arashiyama Bamboo Grove\, Sagaogurayama Tabuchiyamacho\, Ukyo Ward
+ \, Kyoto 616-8394
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Arashiyama
+ %20Bamboo%20Grove%2C%20Sagaogurayama%20Tabuchiyamacho%2C%20Ukyo%20Ward%2C%
+ 20Kyoto%20616-8394
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-monkey-mountain-iwatayama-monkey-park@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T093000
+DTEND;TZID=Asia/Tokyo:20261124T120000
+SUMMARY:Monkey Mountain (Iwatayama Monkey Park)
+LOCATION:Iwatayama Monkey Park\, 8 Arashiyama Genrokuzancho\, Nishikyo Ward
+ \, Kyoto 616-0004
+DESCRIPTION:About 20 min walk up at your own pace. Listen to the guide’s 
+ do’s and don’ts first.\nMap: https://www.google.com/maps/search/?api=1
+ &query=Iwatayama%20Monkey%20Park%2C%208%20Arashiyama%20Genrokuzancho%2C%20
+ Nishikyo%20Ward%2C%20Kyoto%20616-0004
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-lunch-in-kyoto-self-funded@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T123000
+DTEND;TZID=Asia/Tokyo:20261124T132000
+SUMMARY:Lunch in Kyoto (self funded)
+LOCATION:Higashiyama\, Kyoto
+DESCRIPTION:Collect your bags from the hostel.\nMap: https://www.google.com
+ /maps/search/?api=1&query=Higashiyama%2C%20Kyoto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-meet-the-group-hostel-with-bags@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T132000
+DTEND;TZID=Asia/Tokyo:20261124T133000
+SUMMARY:Meet the group: hostel\, with bags
+LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
+ 5-0089
+DESCRIPTION:Map: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-train-to-osaka-check-in-hotel-links-namb@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T134000
+DTEND;TZID=Asia/Tokyo:20261124T150000
+SUMMARY:Train to Osaka\, check in: Hotel Links Namba
+LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
+DESCRIPTION:Train leaves 13:40\, check in on arrival about 15:00.\nMap: htt
+ ps://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-free-time-in-osaka-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T153000
+DTEND;TZID=Asia/Tokyo:20261124T183000
+SUMMARY:Free time in Osaka (optional)
+LOCATION:Namba\, Osaka
+DESCRIPTION:Have a snack before the food tour.\nAmerikamura: second hand di
+ strict\nDen Den Town: anime and electronics\nYasaka Namba Shrine: around t
+ he corner from the hotel\nUmeda Sky Building: viewpoint\nSpa World: huge o
+ nsen\, no tattoos\nShinsaibashi shopping district\nMap: https://www.google
+ .com/maps/search/?api=1&query=Namba%2C%20Osaka
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-dotonbori-food-tour-dinner-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T183000
+DTEND;TZID=Asia/Tokyo:20261124T210000
+SUMMARY:Dotonbori food tour (dinner included)
+LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
+DESCRIPTION:Meet 18:30 in the hotel lobby. Bring a light jacket. First food
+  stop about 19:30.\nGlico sign\, takoyaki\, kushikatsu\, okonomiyaki\, tai
+ yaki.\nMap: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261124-private-karaoke-booth@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261124T210000
+DTEND;TZID=Asia/Tokyo:20261124T223000
+SUMMARY:Private karaoke booth
+LOCATION:Dotonbori\, Chuo Ward\, Osaka
+DESCRIPTION:Last hurrah for the 10 day crew.\nMap: https://www.google.com/m
+ aps/search/?api=1&query=Dotonbori%2C%20Chuo%20Ward%2C%20Osaka
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261125-breakfast-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261125T080000
+DTEND;TZID=Asia/Tokyo:20261125T090000
+SUMMARY:Breakfast (included)
+LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
+DESCRIPTION:Map: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261125-free-morning-in-osaka-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261125T090000
+DTEND;TZID=Asia/Tokyo:20261125T143000
+SUMMARY:Free morning in Osaka (optional)
+LOCATION:Namba\, Osaka
+DESCRIPTION:Sleep in\, or try Amerikamura\, Shinsaibashi\, Spa World or Den
+  Den Town. See the Day 9 Osaka picks.\nMap: https://www.google.com/maps/se
+ arch/?api=1&query=Namba%2C%20Osaka
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261125-meet-the-group-outside-morinomiya-statio@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261125T150000
+DTEND;TZID=Asia/Tokyo:20261125T151500
+SUMMARY:Meet the group: outside Morinomiya Station
+LOCATION:Morinomiya Station\, Chuo Ward\, Osaka
+DESCRIPTION:Bring your IC card and money for food.\nMap: https://maps.app.g
+ oo.gl/M4hxEhxTGqF9ML796
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261125-osaka-castle@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261125T151500
+DTEND;TZID=Asia/Tokyo:20261125T164500
+SUMMARY:Osaka Castle
+LOCATION:Osaka Castle\, 1-1 Osakajo\, Chuo Ward\, Osaka 540-0002
+DESCRIPTION:Sunset about 16:48.\nTimes between the guide’s fixed points a
+ re approximate.\nMap: https://www.google.com/maps/search/?api=1&query=Osak
+ a%20Castle%2C%201-1%20Osakajo%2C%20Chuo%20Ward%2C%20Osaka%20540-0002
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261125-shinsekai@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261125T170000
+DTEND;TZID=Asia/Tokyo:20261125T180000
+SUMMARY:Shinsekai
+LOCATION:Shinsekai\, Ebisuhigashi\, Naniwa Ward\, Osaka 556-0002
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Shinsekai%
+ 2C%20Ebisuhigashi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261125-backstreets-tour-and-dinner-self-funded@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261125T180000
+DTEND;TZID=Asia/Tokyo:20261125T210000
+SUMMARY:Backstreets tour and dinner (self funded)
+LOCATION:Shinsekai\, Ebisuhigashi\, Naniwa Ward\, Osaka 556-0002
+DESCRIPTION:Times between the guide’s fixed points are approximate.\nMap:
+  https://www.google.com/maps/search/?api=1&query=Shinsekai%2C%20Ebisuhigas
+ hi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-breakfast-included-in-the-restaurant@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T070000
+DTEND;TZID=Asia/Tokyo:20261126T075000
+SUMMARY:Breakfast (included) in the restaurant
+LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
+DESCRIPTION:Bring all your bags down with you.\nMap: https://maps.app.goo.g
+ l/FABF6DS5nd7Hi63e9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-meet-the-group-reception@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T080000
+DTEND;TZID=Asia/Tokyo:20261126T081500
+SUMMARY:Meet the group: reception
+LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
+DESCRIPTION:Bags packed\, key cards handed in\, luggage left at reception. 
+ Bring your IC card\, passport and money.\nMap: https://maps.app.goo.gl/FAB
+ F6DS5nd7Hi63e9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-nara-park-todaiji-and-the-daibutsuden@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T083000
+DTEND;TZID=Asia/Tokyo:20261126T110000
+SUMMARY:Nara Park\, Todaiji and the Daibutsuden
+LOCATION:Todaiji\, 406-1 Zoshicho\, Nara 630-8211
+DESCRIPTION:Deer in Nara Park. Do not wear clothes you love.\nWalking tour 
+ of Todaiji\, the Daibutsuden hall and a city viewpoint\, then free time.\n
+ Map: https://www.google.com/maps/search/?api=1&query=Todaiji%2C%20406-1%20
+ Zoshicho%2C%20Nara%20630-8211
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-lunch-in-osaka-collect-bags@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T120000
+DTEND;TZID=Asia/Tokyo:20261126T131500
+SUMMARY:Lunch in Osaka\, collect bags
+LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
+DESCRIPTION:Map: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-train-cable-car-and-bus-to-koyasan@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T133000
+DTEND;TZID=Asia/Tokyo:20261126T160000
+SUMMARY:Train\, cable car and bus to Koyasan
+LOCATION:Gokurakubashi Station\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Gokurakuba
+ shi%20Station%2C%20Koya%2C%20Ito%20District%2C%20Wakayama
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-check-in-daimyo-in-temple@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T160000
+DTEND;TZID=Asia/Tokyo:20261126T163000
+SUMMARY:Check in: Daimyo-in Temple
+LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Map: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-okunoin-cemetery-walk@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T163000
+DTEND;TZID=Asia/Tokyo:20261126T174500
+SUMMARY:Okunoin cemetery walk
+LOCATION:Okunoin\, 550 Koyasan\, Koya\, Ito District\, Wakayama 648-0211
+DESCRIPTION:Japan’s largest cemetery and the history of Koyasan.\nTimes b
+ etween the guide’s fixed points are approximate.\nMap: https://www.googl
+ e.com/maps/search/?api=1&query=Okunoin%2C%20550%20Koyasan%2C%20Koya%2C%20I
+ to%20District%2C%20Wakayama%20648-0211
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-shojin-ryori-temple-dinner-included-vega@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T180000
+DTEND;TZID=Asia/Tokyo:20261126T190000
+SUMMARY:Shojin ryori temple dinner (included\, vegan)
+LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Map: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261126-free-evening-temple-onsen-and-a-stroll-o@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261126T190000
+DTEND;TZID=Asia/Tokyo:20261126T213000
+SUMMARY:Free evening: temple onsen and a stroll (optional)
+LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Onsen is gender separate. Yukata provided.\nMap: https://maps.a
+ pp.goo.gl/U3gvvXcbjrUaBT8y8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-prayer-ceremony-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T070000
+DTEND;TZID=Asia/Tokyo:20261127T074000
+SUMMARY:Prayer ceremony (optional)
+LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Dress warm.\nMap: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-temple-breakfast-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T074500
+DTEND;TZID=Asia/Tokyo:20261127T083000
+SUMMARY:Temple breakfast (included)
+LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Map: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-meet-the-group-outside-the-temple-bags-r@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T091500
+DTEND;TZID=Asia/Tokyo:20261127T093000
+SUMMARY:Meet the group: outside the temple\, bags ready
+LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Bring your paper bus tickets and everything else.\nMap: https:/
+ /maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-danjo-garan@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T093000
+DTEND;TZID=Asia/Tokyo:20261127T101500
+SUMMARY:Danjo Garan
+LOCATION:Danjo Garan\, 152 Koyasan\, Koya\, Ito District\, Wakayama
+DESCRIPTION:The guide waits with the bags. Buy lunch at the FamilyMart near
+ by\, train timings are tight.\nMap: https://www.google.com/maps/search/?ap
+ i=1&query=Danjo%20Garan%2C%20152%20Koyasan%2C%20Koya%2C%20Ito%20District%2
+ C%20Wakayama
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-bus-to-koyasan-cable-car-station@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T101500
+DTEND;TZID=Asia/Tokyo:20261127T104500
+SUMMARY:Bus to Koyasan cable car station
+LOCATION:Koyasan Station\, Koya\, Ito District\, Wakayama
+DESCRIPTION:Toilet stop here.\nMap: https://www.google.com/maps/search/?api
+ =1&query=Koyasan%20Station%2C%20Koya%2C%20Ito%20District%2C%20Wakayama
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-cable-car-and-train-to-osaka-namba@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T104500
+DTEND;TZID=Asia/Tokyo:20261127T123000
+SUMMARY:Cable car and train to Osaka Namba
+LOCATION:Namba Station\, Chuo Ward\, Osaka
+DESCRIPTION:About 90 min. No toilet\, no reserved seats\, no eating on this
+  train.\nMap: https://www.google.com/maps/search/?api=1&query=Namba%20Stat
+ ion%2C%20Chuo%20Ward%2C%20Osaka
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-shinkansen-shin-osaka-to-hiroshima-then-@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T131500
+DTEND;TZID=Asia/Tokyo:20261127T152000
+SUMMARY:Shinkansen Shin-Osaka to Hiroshima\, then streetcar
+LOCATION:Hiroshima Station\, Minami Ward\, Hiroshima
+DESCRIPTION:Metro from Namba to Shin-Osaka first. 7-Eleven stop before boar
+ ding.\nMap: https://www.google.com/maps/search/?api=1&query=Hiroshima%20St
+ ation%2C%20Minami%20Ward%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-check-in-hotel-kuretakeso-hiroshima-otem@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T152000
+DTEND;TZID=Asia/Tokyo:20261127T155000
+SUMMARY:Check in: Hotel Kuretakeso Hiroshima Otemachi
+LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
+  Hiroshima 730-0051
+DESCRIPTION:Map: https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-peace-memorial-park-tour-with-a-local-gu@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T160000
+DTEND;TZID=Asia/Tokyo:20261127T173000
+SUMMARY:Peace Memorial Park tour with a local guide
+LOCATION:Hiroshima Peace Memorial Park\, 1-2 Nakajimacho\, Naka Ward\, Hiro
+ shima 730-0811
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Hiroshima%
+ 20Peace%20Memorial%20Park%2C%201-2%20Nakajimacho%2C%20Naka%20Ward%2C%20Hir
+ oshima%20730-0811
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261127-free-evening-in-hiroshima-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261127T173000
+DTEND;TZID=Asia/Tokyo:20261127T210000
+SUMMARY:Free evening in Hiroshima (optional)
+LOCATION:Hiroshima\, Naka Ward
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Hiroshima%
+ 2C%20Naka%20Ward
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261128-breakfast-included@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261128T070000
+DTEND;TZID=Asia/Tokyo:20261128T074000
+SUMMARY:Breakfast (included)
+LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
+  Hiroshima 730-0051
+DESCRIPTION:Map: https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261128-meet-the-group-in-front-of-the-hotel@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261128T074500
+DTEND;TZID=Asia/Tokyo:20261128T080000
+SUMMARY:Meet the group: in front of the hotel
+LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
+  Hiroshima 730-0051
+DESCRIPTION:Bring money for food and souvenirs\, and your passport. The gui
+ de hands out a transport card for streetcars and ferries.\nMap: https://ma
+ ps.app.goo.gl/7yyJFPU9c6L7wvU68
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261128-two-streetcars-and-the-ferry-to-miyajima@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261128T080000
+DTEND;TZID=Asia/Tokyo:20261128T093000
+SUMMARY:Two streetcars and the ferry to Miyajima
+LOCATION:Miyajimaguchi Ferry Terminal\, Hatsukaichi\, Hiroshima
+DESCRIPTION:The second streetcar takes about an hour\, so grab a seat.\nTim
+ es between the guide’s fixed points are approximate.\nMap: https://www.g
+ oogle.com/maps/search/?api=1&query=Miyajimaguchi%20Ferry%20Terminal%2C%20H
+ atsukaichi%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261128-miyajima-walking-tour-omotesando-floatin@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261128T093000
+DTEND;TZID=Asia/Tokyo:20261128T123000
+SUMMARY:Miyajima walking tour: Omotesando\, Floating Torii\, Itsukushima Sh
+ rine\, Daisho-in
+LOCATION:Itsukushima Shrine\, 1-1 Miyajimacho\, Hatsukaichi\, Hiroshima 739
+ -0588
+DESCRIPTION:Try a momiji manju on Omotesando.\nDaisho-in has a dark tunnel 
+ under the temple and a lantern hall cave.\nTimes between the guide’s fix
+ ed points are approximate.\nMap: https://www.google.com/maps/search/?api=1
+ &query=Itsukushima%20Shrine%2C%201-1%20Miyajimacho%2C%20Hatsukaichi%2C%20H
+ iroshima%20739-0588
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261128-free-afternoon-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261128T123000
+DTEND;TZID=Asia/Tokyo:20261128T193000
+SUMMARY:Free afternoon (optional)
+LOCATION:Miyajima\, Hatsukaichi\, Hiroshima
+DESCRIPTION:Return to Hiroshima on your own.\nLemon drinks: Miyajima\nTouri
+ st information: toilets and bins\nGhibli store: Miyajima\nMt Misen Ropeway
+  station: Miyajima\nHiroshima Peace Memorial Museum: Hiroshima\nHiroshima 
+ Castle: Hiroshima\nShukkeien Gardens: Hiroshima\nMap: https://www.google.c
+ om/maps/search/?api=1&query=Miyajima%2C%20Hatsukaichi%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261128-final-evening-drinks-and-pool-at-the-one@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261128T200000
+DTEND;TZID=Asia/Tokyo:20261128T220000
+SUMMARY:Final evening: drinks and pool at the One Life pub
+LOCATION:Hiroshima\, venue set by guide
+DESCRIPTION:Meal not included.\nMap: https://www.google.com/maps/search/?ap
+ i=1&query=Hiroshima%2C%20venue%20set%20by%20guide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-breakfast-included-and-check-out@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T070000
+DTEND;TZID=Asia/Tokyo:20261129T080000
+SUMMARY:Breakfast (included) and check out
+LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
+  Hiroshima 730-0051
+DESCRIPTION:Ask the guide for help with onward travel.\nMap: https://www.go
+ ogle.com/maps/search/?api=1&query=Hotel%20Kuretakeso%20Hiroshima%20Otemach
+ i%2C%203-7-3%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%20730-0051
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-tour-ends@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T090000
+DTEND;TZID=Asia/Tokyo:20261129T091500
+SUMMARY:Tour ends
+LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
+  Hiroshima 730-0051
+DESCRIPTION:Tour finishes at 09:00 in Hiroshima.\nMap: https://www.google.c
+ om/maps/search/?api=1&query=Hotel%20Kuretakeso%20Hiroshima%20Otemachi%2C%2
+ 03-7-3%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%20730-0051
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-peace-park-river-walk-optional@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T091500
+DTEND;TZID=Asia/Tokyo:20261129T094500
+SUMMARY:Peace Park river walk (optional)
+LOCATION:Atomic Bomb Dome\, 1-10 Otemachi\, Naka Ward\, Hiroshima 730-0051
+DESCRIPTION:Suggested in the operator PDF.\nMap: https://www.google.com/map
+ s/search/?api=1&query=Atomic%20Bomb%20Dome%2C%201-10%20Otemachi%2C%20Naka%
+ 20Ward%2C%20Hiroshima%20730-0051
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-streetcar-to-hiroshima-station@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T094500
+DTEND;TZID=Asia/Tokyo:20261129T101500
+SUMMARY:Streetcar to Hiroshima Station
+LOCATION:Hiroshima Station\, Minami Ward\, Hiroshima
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Hiroshima%
+ 20Station%2C%20Minami%20Ward%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-shinkansen-hiroshima-to-mihara@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T101500
+DTEND;TZID=Asia/Tokyo:20261129T105000
+SUMMARY:Shinkansen: Hiroshima to Mihara
+LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
+DESCRIPTION:Kodama about 25 min. JR Sanyo local takes about 75 min.\nMap: h
+ ttps://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2C%20
+ 1%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-drop-luggage-super-hotel-mihara-ekimae@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T105000
+DTEND;TZID=Asia/Tokyo:20261129T111500
+SUMMARY:Drop luggage: Super Hotel Mihara Ekimae
+LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
+ a
+DESCRIPTION:Check in opens 15:00. Confirm they will hold bags.\nMap: https:
+ //www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%20Ekimae%
+ 2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-bus-to-buttsuji-temple@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T113000
+DTEND;TZID=Asia/Tokyo:20261129T121500
+SUMMARY:Bus to Buttsuji Temple
+LOCATION:JR Mihara Station\, bus stop No. 4\, Mihara\, Hiroshima
+DESCRIPTION:Geiyo Bus\, about 40 min. Buses are infrequent. 2025 adult fare
+  730 yen.\nExtra autumn buses ran 15 to 30 Nov in 2025. Check the 2026 tim
+ etable. Taxi is the fallback.\nMap: https://www.google.com/maps/search/?ap
+ i=1&query=JR%20Mihara%20Station%2C%20bus%20stop%20No.%204%2C%20Mihara%2C%2
+ 0Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-buttsuji-temple-autumn-leaves@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T121500
+DTEND;TZID=Asia/Tokyo:20261129T150000
+SUMMARY:Buttsuji Temple autumn leaves
+LOCATION:Buttsuji Temple\, 22 Motoyama\, Takasaka-cho\, Mihara\, Hiroshima 
+ 729-0471
+DESCRIPTION:Earlier research: autumn special opening runs to 29 Nov\, 08:00
+  to 17:00\, 500 yen. Reconfirm.\nLenses: 24-70 for temple and foliage\, 70
+ -200 for compressed details.\nMap: https://www.google.com/maps/search/?api
+ =1&query=Buttsuji%20Temple%2C%2022%20Motoyama%2C%20Takasaka-cho%2C%20Mihar
+ a%2C%20Hiroshima%20729-0471
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-bus-back-to-mihara-station@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T150000
+DTEND;TZID=Asia/Tokyo:20261129T154500
+SUMMARY:Bus back to Mihara Station
+LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
+DESCRIPTION:Check the return times on arrival. 2025 timetable shows late af
+ ternoon buses.\nMap: https://www.google.com/maps/search/?api=1&query=JR%20
+ Mihara%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-check-in-super-hotel-mihara-ekimae@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T154500
+DTEND;TZID=Asia/Tokyo:20261129T160000
+SUMMARY:Check in: Super Hotel Mihara Ekimae
+LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
+ a
+DESCRIPTION:Book the 05:50 taxi for tomorrow at reception.\nMap: https://ww
+ w.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%20Ekimae%2C%2
+ 01-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-mihara-waterfront-and-castle-ruins-at-du@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T161500
+DTEND;TZID=Asia/Tokyo:20261129T174500
+SUMMARY:Mihara waterfront and castle ruins at dusk
+LOCATION:Mihara Castle Ruins Park\, beside JR Mihara Station\, Mihara\, Hir
+ oshima
+DESCRIPTION:Sunset about 16:57. Blue hour on the harbour after.\nMap: https
+ ://www.google.com/maps/search/?api=1&query=Mihara%20Castle%20Ruins%20Park%
+ 2C%20beside%20JR%20Mihara%20Station%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261129-dinner-self-funded@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261129T180000
+DTEND;TZID=Asia/Tokyo:20261129T193000
+SUMMARY:Dinner (self funded)
+LOCATION:Mihara\, Hiroshima
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Mihara%2C%
+ 20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-taxi-to-mount-fudekage-pre-booked@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T055000
+DTEND;TZID=Asia/Tokyo:20261130T061000
+SUMMARY:Taxi to Mount Fudekage (pre booked)
+LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
+ a
+DESCRIPTION:Book the return trip in advance. Early taxis are not guaranteed
+ .\nMap: https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mi
+ hara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-mount-fudekage-sunrise-shoot@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T061000
+DTEND;TZID=Asia/Tokyo:20261130T074500
+SUMMARY:Mount Fudekage sunrise shoot
+LOCATION:Mt Fudekage Observatory\, Mihara\, Hiroshima
+DESCRIPTION:Sunrise about 06:55. Summit about 311 m\, Seto Inland Sea islan
+ d layers\, possible sea fog.\nLenses: 24-70 and 70-200. Tripod if packed.\
+ nMap: https://www.google.com/maps/search/?api=1&query=Mt%20Fudekage%20Obse
+ rvatory%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-taxi-back-to-hotel@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T074500
+DTEND;TZID=Asia/Tokyo:20261130T080500
+SUMMARY:Taxi back to hotel
+LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
+ a
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Super%20Ho
+ tel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-breakfast-included-and-pack@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T081500
+DTEND;TZID=Asia/Tokyo:20261130T093000
+SUMMARY:Breakfast (included) and pack
+LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
+ a
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Super%20Ho
+ tel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-check-out-by-10-00-store-luggage@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T093000
+DTEND;TZID=Asia/Tokyo:20261130T100000
+SUMMARY:Check out by 10:00\, store luggage
+LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
+ a
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Super%20Ho
+ tel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-free-time-in-mihara-and-lunch@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T100000
+DTEND;TZID=Asia/Tokyo:20261130T131500
+SUMMARY:Free time in Mihara and lunch
+LOCATION:Mihara\, Hiroshima
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Mihara%2C%
+ 20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-collect-luggage-walk-to-station-bus-stop@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T131500
+DTEND;TZID=Asia/Tokyo:20261130T134000
+SUMMARY:Collect luggage\, walk to station bus stop
+LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
+DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=JR%20Mihar
+ a%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-airport-bus-mihara-station-hiroshima-air@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T135000
+DTEND;TZID=Asia/Tokyo:20261130T142800
+SUMMARY:Airport bus: Mihara Station → Hiroshima Airport
+LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
+DESCRIPTION:Not booked. Recheck the timetable and stop. Earlier research: 1
+ \,000 yen.\nThe next bus (15:50) is too late for a safe margin.\nMap: http
+ s://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2C%201%2
+ 0Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-jal-check-in-and-bag-drop@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T143000
+DTEND;TZID=Asia/Tokyo:20261130T153000
+SUMMARY:JAL check in and bag drop
+LOCATION:Hiroshima Airport\, 64-31 Zennyuji\, Hongo-cho\, Mihara\, Hiroshim
+ a 729-0416
+DESCRIPTION:Both flights are on one booking. Ask to check the bag through t
+ o Sydney.\nMap: https://www.google.com/maps/search/?api=1&query=Hiroshima%
+ 20Airport%2C%2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hiroshima%
+ 20729-0416
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-jl264-hij-17-55-hnd-19-15@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T175500
+DTEND;TZID=Asia/Tokyo:20261130T191500
+SUMMARY:✈ JL264 HIJ 17:55 → HND 19:15
+LOCATION:Hiroshima Airport\, 64-31 Zennyuji\, Hongo-cho\, Mihara\, Hiroshim
+ a 729-0416
+DESCRIPTION:Japan Airlines JL264. Departure changed from 17:50 to 17:55.\nG
+ ate A2 (app forecast). Arrives Haneda T1\, gates 7 to 21. 1 h 20 min\, 637
+  km.\nMap: https://www.google.com/maps/search/?api=1&query=Hiroshima%20Air
+ port%2C%2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hiroshima%20729
+ -0416
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-haneda-transfer-t1-to-t3@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T191500
+DTEND;TZID=Asia/Tokyo:20261130T203000
+SUMMARY:Haneda transfer: T1 to T3
+LOCATION:Haneda Airport Terminal 1\, 3-3-2 Hanedakuko\, Ota City\, Tokyo 14
+ 4-0041
+DESCRIPTION:Connection 2 h 45 min. Take the free inter terminal shuttle bus
+ .\nInternational check in\, security and emigration at T3.\nMap: https://w
+ ww.google.com/maps/search/?api=1&query=Haneda%20Airport%20Terminal%201%2C%
+ 203-3-2%20Hanedakuko%2C%20Ota%20City%2C%20Tokyo%20144-0041
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:japan2026-20261130-qf60-hnd-22-00-syd-10-00-1@akumarau
+DTSTAMP:20261117T065820Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Tokyo:20261130T220000
+DTEND;TZID=Australia/Sydney:20261201T100000
+SUMMARY:✈ QF60 HND 22:00 → SYD 10:00 (+1)
+LOCATION:Haneda Airport Terminal 3\, 2-6-5 Hanedakuko\, Ota City\, Tokyo 14
+ 4-0041
+DESCRIPTION:Qantas QF60. Haneda T3 to Sydney T1. Overnight\, 10 h.\nArrival
+  changed from 09:55 to 10:00 Sydney time.\nMap: https://www.google.com/map
+ s/search/?api=1&query=Haneda%20Airport%20Terminal%203%2C%202-6-5%20Hanedak
+ uko%2C%20Ota%20City%2C%20Tokyo%20144-0041
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# RETIRED 17 Nov 2026: docs/japan-2026.ics is now built from the private trip itinerary page,
+# so the feed matches the page exactly. Do not run this file; it would overwrite the feed with old data.
+import sys; sys.exit("Retired: see the note at the top of this file.")
 """Build Japan Trip 2026 .ics for Outlook import."""
 import os
 from datetime import datetime, timezone
