@@ -50,15 +50,15 @@ ALLDAY = [
      "Night: Sakura Hotel Nippori.\nCamera bag: 24-70 and 12-24. No flash or tripod at teamLab."),
     ("20261119", "Japan D4 | Hakone: Romancecar, Mount Fuji views, nabe dinner", L["GAKU"],
      "Meals included: breakfast, dinner.\nNight: Gora Gaku Guesthouse, tatami twin or triple.\n"
-     "Camera bag: 24-70, 70-200, 2x and IT32.\n"
+     "Moving day: the whole camera bag travels with you, tripod in main luggage.\nShoot with the 24-70, 70-200 and 2x. IT32 for dinner after check in.\n"
      "Expect 2 to 7 C in the morning. Owakudani has a respiratory caution."),
     ("20261120", "Japan D5 | Takayama: Shinkansen, old town, sake tasting, temple stay", L["ZENKOJI"],
      "Meals included: none.\nOptional: onsen or public bath.\n"
-     "Night: Temple Hotel Takayama Zenkoji, multi share.\nCamera bag: 24-70 only.\n"
+     "Night: Temple Hotel Takayama Zenkoji, multi share.\nMoving day: the whole camera bag travels with you, tripod in main luggage.\nShoot with the 24-70.\n"
      "Coldest stop: 0 to 5 C mornings, frost possible."),
     ("20261121", "Japan D6 | Takayama market, train to Kyoto, Gion walk", L["GION"],
      "Meals included: none.\nNight: Ryokan Hostel Gion, individual pod. Check in from 16:00.\n"
-     "Camera bag: 24-70. Add the 70-200 for the Gion evening."),
+     "Market at 07:00 before check out: 24-70 only.\nMoving day: the whole camera bag travels with you, tripod in main luggage.\nAfter bag drop at 14:30: 24-70 and 70-200 for Gion."),
     ("20261122", "Japan D7 | Kyoto: Fushimi Inari at dawn, Kiyomizudera, tea ceremony", L["GION"],
      "Meals included: none.\nOptional: Nishiki Market, kimono hire, geisha arts performance.\n"
      "Kendo may move to this day.\nNight: Ryokan Hostel Gion.\nCamera bag: 24-70 and 12-24. No tripods at Kiyomizudera."),
@@ -68,7 +68,7 @@ ALLDAY = [
     ("20261124", "Japan D9 | Arashiyama bamboo, monkeys, boat ride, Osaka Dotonbori", L["LINKS"],
      "Meals included: dinner.\nOptional: extended karaoke.\n"
      "Night: Hotel Links Namba, twin share (operator PDF, 'or similar').\n"
-     "Camera bag: 24-70, 70-200 and 2x."),
+     "Moving day: the whole camera bag travels with you, tripod in main luggage.\nShoot with the 24-70, 70-200 and 2x. After check in, 24-70 only for Dotonbori."),
     ("20261125", "Japan D10 | Osaka: free morning, Osaka Castle, Shinsekai", L["LINKS"],
      "Meals included: breakfast.\nOptional: Shinsaibashi, Amerikamura, Spa World.\n"
      "Full moon rises about 17:03 at Osaka Castle.\n"
@@ -76,10 +76,10 @@ ALLDAY = [
     ("20261126", "Japan D11 | Nara Park, then Koyasan temple stay", L["FUGEN"],
      "Meals included: breakfast, vegetarian temple dinner.\n"
      "Night: Fugen In Temple, tatami twin (operator PDF, 'or similar').\n"
-     "Camera bag: 24-70 and 70-200. Koyasan mornings 0 to 4 C."),
+     "Moving day: the whole camera bag travels with you, tripod in main luggage.\nShoot with the 24-70 and 70-200. Koyasan mornings 0 to 4 C."),
     ("20261127", "Japan D12 | Koyasan prayers, Danjo Garan, Shinkansen to Hiroshima, Peace Memorial", L["KURETAKE"],
      "Meals included: breakfast.\nNight: Hotel Kuretakeso Otemachi, twin room. Check in from 15:00.\n"
-     "Camera bag: 24-70 and 12-24. Keep it respectful at the memorial."),
+     "Moving day: the whole camera bag travels with you, tripod in main luggage.\nShoot with the 24-70 and 12-24. Keep it respectful at the memorial."),
     ("20261128", "Japan D13 | Miyajima: Great Torii, Itsukushima Shrine, farewell evening", L["KURETAKE"],
      "Meals included: breakfast. Farewell meal not included.\n"
      "Night: Hotel Kuretakeso Otemachi.\nTide: high about 12:30, the torii floats. Confirm locally.\nCamera bag: 24-70, 70-200 and IT32."),
@@ -87,10 +87,10 @@ ALLDAY = [
      "Meals included: breakfast (tour hotel).\n"
      "Night: Super Hotel Mihara Ekimae. Confirmed. Check in 15:00 to 23:00, check out by 10:00.\n"
      "Hotel phone +81 848 89 9000. Breakfast included at Super Hotel.\n"
-     "Camera bag: 24-70 and 70-200. Tripod optional for dusk."),
+     "Moving day: the whole camera bag travels with you, tripod in main luggage.\nBag drop at Super Hotel 10:50, then 24-70 and 70-200 at Buttsuji. Tripod optional for dusk."),
     ("20261130", "Japan D15 | Mount Fudekage sunrise, fly Hiroshima to Haneda to Sydney", L["HIJ"],
      "JL264 Hiroshima 17:55 to Haneda T1 19:15, then QF60 Haneda T3 22:00 to Sydney T1 10:00 (1 Dec).\n"
-     "Overnight flight, no hotel.\nCamera bag for the sunrise: everything, including the tripod."),
+     "Overnight flight, no hotel.\nSunrise: everything, including the tripod.\nMoving day: luggage stored 10:00 to 13:15, then the whole camera bag is your cabin bag. Tripod in checked luggage."),
     ("20261201", "Back in Sydney | QF60 lands 10:00", L["SYD"],
      "QF60 arrives Sydney T1 at 10:00 local (updated from 09:55)."),
 ]
