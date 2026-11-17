@@ -449,7 +449,7 @@ def next_day(d):
 
 lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//akumarau//Japan Trip 2026//EN",
          "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:Japan Trip 2026",
-         "X-WR-TIMEZONE:Asia/Tokyo", "REFRESH-INTERVAL;VALUE=DURATION:PT12H", "X-PUBLISHED-TTL:PT12H"] + VTZ
+         "X-WR-TIMEZONE:Asia/Tokyo", "REFRESH-INTERVAL;VALUE=DURATION:PT1H", "X-PUBLISHED-TTL:PT1H"] + VTZ
 
 n = 0
 for d, title, loc, desc in ALLDAY:
