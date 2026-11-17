@@ -36,67 +36,72 @@ ALLDAY = [
      "QF59 Sydney 12:00 to Haneda T3 20:00 (local).\n"
      "Night: Sakura Hotel Nippori (pre tour night, booked 15 to 16 Nov). Check in from 15:00.\n"
      "Transfer: Monorail to Hamamatsucho, JR Yamanote to Nippori West Exit, about 1 hour."),
-    ("20261116", "Japan D1 | Tokyo: tour starts 18:00, welcome dinner, Sensoji at night", L["SAKURA"],
+    ("20261116", "Japan D1 | Tokyo: Yanaka and Ueno walk, tour starts 18:00, Sensoji at night", L["SAKURA"],
      "One Life Adventures Japan Classic 14 Day.\n"
-     "Meals included: dinner.\nOptional: Tokyo Skytree.\n"
-     "Night: Sakura Hotel Nippori.\nKit: 24-70 + 12-24.\n"
+     "Meals included: dinner.\nFree day before the tour: Yanaka, Ueno Park, Yuyake Dandan sunset. No shopping.\n"
+     "Night: Sakura Hotel Nippori.\nCamera bag: 24-70 by day, add the 12-24 at 16:45 for Sensoji.\n"
      "Bring travel insurance proof for the guide."),
-    ("20261117", "Japan D2 | Tokyo: Harajuku, Meiji Jingu, Akihabara", L["SAKURA"],
-     "Meals included: breakfast.\nOptional: maid cafe in Akihabara.\n"
-     "Night: Sakura Hotel Nippori.\nKit: 24-70 + 12-24."),
-    ("20261118", "Japan D3 | Tokyo: sushi class, Shinjuku, Omoide Yokocho, Shibuya", L["SAKURA"],
-     "Meals included: breakfast, lunch.\nOptional: Toyosu Fish Market, temple printed as 'Songokuji'.\n"
-     "Night: Sakura Hotel Nippori.\nKit: 24-70 + 12-24. Best night street day."),
+    ("20261117", "Japan D2 | Tokyo: Harajuku free time, Akihabara dinner and arcade", L["SAKURA"],
+     "Meals included: breakfast.\nFree afternoon in Harajuku. Meet 18:00 at Akihabara Station, Central North Exit.\n"
+     "Night: Sakura Hotel Nippori.\nCamera bag: 24-70 only."),
+    ("20261118", "Japan D3 | Tokyo: sushi class, teamLab, skyline, Omoide Yokocho, Kabukicho, Shibuya", L["SAKURA"],
+     "Meals included: breakfast, lunch (sushi class).\nMeet 10:00 in the hotel lobby. Bring IC card, passport and food money.\n"
+     "teamLab Borderless 14:00 is booked.\n"
+     "Night: Sakura Hotel Nippori.\nCamera bag: 24-70 and 12-24. No flash or tripod at teamLab."),
     ("20261119", "Japan D4 | Hakone: Romancecar, Mount Fuji views, nabe dinner", L["GAKU"],
      "Meals included: breakfast, dinner.\nNight: Gora Gaku Guesthouse, tatami twin or triple.\n"
-     "Kit: 24-70 + 70-200 for Fuji compression.\n"
+     "Camera bag: 24-70, 70-200, 2x and IT32.\n"
      "Expect 2 to 7 C in the morning. Owakudani has a respiratory caution."),
     ("20261120", "Japan D5 | Takayama: Shinkansen, old town, sake tasting, temple stay", L["ZENKOJI"],
      "Meals included: none.\nOptional: onsen or public bath.\n"
-     "Night: Temple Hotel Takayama Zenkoji, multi share.\nKit: 24-70 + 12-24.\n"
+     "Night: Temple Hotel Takayama Zenkoji, multi share.\nCamera bag: 24-70 only.\n"
      "Coldest stop: 0 to 5 C mornings, frost possible."),
     ("20261121", "Japan D6 | Takayama market, train to Kyoto, Gion walk", L["GION"],
      "Meals included: none.\nNight: Ryokan Hostel Gion, individual pod. Check in from 16:00.\n"
-     "Kit: 24-70."),
+     "Camera bag: 24-70. Add the 70-200 for the Gion evening."),
     ("20261122", "Japan D7 | Kyoto: Fushimi Inari at dawn, Kiyomizudera, tea ceremony", L["GION"],
      "Meals included: none.\nOptional: Nishiki Market, kimono hire, geisha arts performance.\n"
-     "Kendo may move to this day.\nNight: Ryokan Hostel Gion.\nKit: 12-24 + 24-70. No tripods at Kiyomizudera."),
+     "Kendo may move to this day.\nNight: Ryokan Hostel Gion.\nCamera bag: 24-70 and 12-24. No tripods at Kiyomizudera."),
     ("20261123", "Japan D8 | Kyoto: Kinkakuji, Daitokuji Zen gardens, kendo", L["GION"],
      "Meals included: none.\nOptional: Heian Shrine.\n"
-     "23 Nov is a Japanese public holiday, expect crowds.\nNight: Ryokan Hostel Gion.\nKit: 24-70 + 70-200."),
+     "23 Nov is a Japanese public holiday, expect crowds.\nNight: Ryokan Hostel Gion.\nCamera bag: 24-70 and 70-200."),
     ("20261124", "Japan D9 | Arashiyama bamboo, monkeys, boat ride, Osaka Dotonbori", L["LINKS"],
      "Meals included: dinner.\nOptional: extended karaoke.\n"
      "Night: Hotel Links Namba, twin share (operator PDF, 'or similar').\n"
-     "Kit: 24-70 + 70-200. Add 12-24 for the bamboo grove if you can carry it."),
+     "Camera bag: 24-70, 70-200 and 2x."),
     ("20261125", "Japan D10 | Osaka: free morning, Osaka Castle, Shinsekai", L["LINKS"],
-     "Meals included: breakfast.\nOptional: Shinsaibashi, Amerikamura, Den Den Town, Spa World.\n"
-     "Night: Hotel Links Namba.\nKit: 24-70 + 70-200."),
+     "Meals included: breakfast.\nOptional: Shinsaibashi, Amerikamura, Spa World.\n"
+     "Full moon rises about 17:03 at Osaka Castle.\n"
+     "Night: Hotel Links Namba.\nCamera bag: 24-70, 70-200 and 2x."),
     ("20261126", "Japan D11 | Nara Park, then Koyasan temple stay", L["FUGEN"],
      "Meals included: breakfast, vegetarian temple dinner.\n"
      "Night: Fugen In Temple, tatami twin (operator PDF, 'or similar').\n"
-     "Kit: 24-70 + 70-200 for the deer. Koyasan mornings 0 to 4 C."),
+     "Camera bag: 24-70 and 70-200. Koyasan mornings 0 to 4 C."),
     ("20261127", "Japan D12 | Koyasan prayers, Danjo Garan, Shinkansen to Hiroshima, Peace Memorial", L["KURETAKE"],
      "Meals included: breakfast.\nNight: Hotel Kuretakeso Otemachi, twin room. Check in from 15:00.\n"
-     "Kit: 24-70. Keep it respectful at the memorial."),
+     "Camera bag: 24-70 and 12-24. Keep it respectful at the memorial."),
     ("20261128", "Japan D13 | Miyajima: Great Torii, Itsukushima Shrine, farewell evening", L["KURETAKE"],
      "Meals included: breakfast. Farewell meal not included.\n"
-     "Night: Hotel Kuretakeso Otemachi.\nKit: 24-70 + 70-200."),
+     "Night: Hotel Kuretakeso Otemachi.\nTide: high about 12:30, the torii floats. Confirm locally.\nCamera bag: 24-70, 70-200 and IT32."),
     ("20261129", "Japan D14 | Tour ends 09:00, Mihara, Buttsuji autumn leaves", L["SUPER"],
      "Meals included: breakfast (tour hotel).\n"
      "Night: Super Hotel Mihara Ekimae. Confirmed. Check in 15:00 to 23:00, check out by 10:00.\n"
      "Hotel phone +81 848 89 9000. Breakfast included at Super Hotel.\n"
-     "Kit: 24-70 + 70-200 at Buttsuji."),
+     "Camera bag: 24-70 and 70-200. Tripod optional for dusk."),
     ("20261130", "Japan D15 | Mount Fudekage sunrise, fly Hiroshima to Haneda to Sydney", L["HIJ"],
      "JL264 Hiroshima 17:55 to Haneda T1 19:15, then QF60 Haneda T3 22:00 to Sydney T1 10:00 (1 Dec).\n"
-     "Overnight flight, no hotel."),
+     "Overnight flight, no hotel.\nCamera bag for the sunrise: everything, including the tripod."),
     ("20261201", "Back in Sydney | QF60 lands 10:00", L["SYD"],
      "QF60 arrives Sydney T1 at 10:00 local (updated from 09:55)."),
 ]
 
 # Timed: (date, start, end, title, location_key_or_text, description, start_tz, end_tz, end_date)
 T = []
-def ev(date, s, e, title, loc, desc="", stz=TOK, etz=None, edate=None):
-    T.append((date, s, e, title, L.get(loc, loc), desc, stz, etz or stz, edate or date))
+def ev(date, s, e, title, loc, desc="", stz=TOK, etz=None, edate=None, uid_s=None, drop=False):
+    # Every call keeps its list position, so UIDs of later events never shift.
+    # uid_s pins the UID to the original start time after a time change.
+    # drop=True keeps the position but leaves the event out of the feed.
+    T.append((date, s, e, title, L.get(loc, loc), desc, stz, etz or stz, edate or date, uid_s or s, drop))
 
 # D0 Sun 15 Nov
 ev("20261115", "0900", "1115", "Sydney Airport check in and security", "SYD",
@@ -117,36 +122,54 @@ ev("20261115", "2215", "2245", "Check in: Sakura Hotel Nippori", "SAKURA",
 
 # D1 Mon 16 Nov
 ev("20261116", "1000", "1300", "Tokyo Skytree (optional)", "Tokyo Skytree, 1 Chome-1-2 Oshiage, Sumida City, Tokyo 131-0045, Japan",
-   "Listed optional for Day 1. Self funded. Daytime visit before the tour starts.")
+   "Dropped 16 Nov.", drop=True)
 ev("20261116", "1800", "1830", "Tour group meeting, hotel lobby", "SAKURA",
    "One Life Adventures. Guide meets the group in the lobby.\nBring insurance proof.")
 ev("20261116", "1830", "2030", "Welcome dinner (included)", "Tokyo, venue set by guide")
 ev("20261116", "2030", "2200", "Sensoji at night", "Sensoji, 2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
-   "Lenses: 12-24 for the gate and pagoda, 24-70 for the lanes.")
+   "Lenses: 12-24 for the gate and pagoda, 24-70 for the lanes.\n"
+   "Settings: f/2.8 · 1/125 · ISO 6400 for people. Still scenes: 1/4 s · ISO 1600, hold steady.")
 
 # D2 Tue 17 Nov
 ev("20261117", "0730", "0830", "Breakfast (included)", "SAKURA")
 ev("20261117", "0900", "1000", "Japan orientation", "Tokyo, set by guide")
 ev("20261117", "1030", "1200", "Harajuku and Takeshita Street", "Takeshita Street, 1 Chome Jingumae, Shibuya City, Tokyo 150-0001, Japan")
-ev("20261117", "1200", "1430", "Yoyogi Park and Meiji Jingu", "Meiji Jingu, 1-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-8557, Japan")
-ev("20261117", "1530", "1830", "Akihabara", "Akihabara Electric Town, Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-   "Neon and street. Sunset about 16:33.")
-ev("20261117", "1830", "2000", "Maid cafe (optional)", "Akihabara, Chiyoda City, Tokyo, Japan")
+ev("20261117", "1230", "1530", "Free time in Harajuku", "Takeshita Street, 1 Chome Jingumae, Shibuya City, Tokyo 150-0001, Japan",
+   "Self guided. Meiji Jingu and Yoyogi Park are free if not done this morning.\n"
+   "Guide picks: Laforet, Takeshita Street (JOL food court, gachapon, crepes, Daiso).\n"
+   "Shopping picks skipped to save money: Oriental Bazaar, Kiddyland, B Side Label.", uid_s="1200")
+ev("20261117", "1530", "1745", "Akihabara early: roam on your own (optional)", "Akihabara Electric Town, Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+   "Guide suggests heading over early for anime, manga and electronics.\n"
+   "Harajuku to Akihabara: JR Yamanote Line, about 30 min.\n"
+   "Sunset 16:32. Neon at blue hour: f/2.8 · 1/4 s · ISO 1600, hold steady.")
+ev("20261117", "1800", "2100", "Meet 18:00 at Akihabara Central North Exit, then dinner and arcade", "Akihabara Station Central North Exit, Chiyoda City, Tokyo, Japan",
+   "Meeting point just outside the Central North Exit: https://maps.app.goo.gl/birud228RZKw4WRN7\n"
+   "Dinner and arcade with the group. Check whether dinner is included.\n"
+   "Some arcades do not allow photos. Check the signs. No flash.", uid_s="1830")
 
 # D3 Wed 18 Nov
 ev("20261118", "0500", "0730", "Toyosu Fish Market (optional)", "Toyosu Market, 6 Chome-6-1 Toyosu, Koto City, Tokyo 135-0061, Japan",
-   "Tuna auction runs early. Check viewing deck access and be back for breakfast.")
+   "Dropped 17 Nov.", drop=True)
 ev("20261118", "0800", "0900", "Breakfast (included)", "SAKURA")
-ev("20261118", "1000", "1300", "Sushi making class and lunch (included)", "Tokyo, venue set by guide",
-   "Send your sushi option to the operator by 9 Nov:\n"
-   "1 raw fish sushi + cooked fish teriyaki\n2 vegetarian sushi + tofu teriyaki\n3 vegetarian sushi + cooked fish teriyaki")
-ev("20261118", "1400", "1530", "Temple listed as 'Songokuji' (optional)", "Tokyo, confirm with guide",
-   "Name as printed in the operator PDF. Confirm the actual temple with the guide.")
-ev("20261118", "1600", "1730", "Shinjuku skyline at sunset", "Nishi Shinjuku, Shinjuku City, Tokyo, Japan",
-   "Sunset about 16:32. Blue hour follows.")
-ev("20261118", "1730", "1900", "Omoide Yokocho", "Omoide Yokocho, 1 Chome-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan")
-ev("20261118", "1930", "2100", "Shibuya Crossing", "Shibuya Scramble Crossing, 2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo 150-0043, Japan",
-   "Try 1/250 s to freeze people, 1/15 to 1/30 s for motion blur.")
+ev("20261118", "1100", "1300", "Sushi class at Tsukiji Market, lunch included", "Tsukiji Outer Market, Chuo City, Tokyo, Japan",
+   "Two hours. Make four types of sushi, miso soup and teriyaki fish, then eat what you made.\n"
+   "Group leaves the hotel lobby at 10:00.\n"
+   "Camera: 24-70 at 50 to 70mm, f/4 · 1/250 · ISO 1600 to 3200.", uid_s="1000")
+ev("20261118", "1400", "1615", "teamLab Borderless (booked)", "teamLab Borderless, Azabudai Hills Garden Plaza B B1, 1-2-4 Azabudai, Minato City, Tokyo, Japan",
+   "Entry 14:00. Allow 2 to 3 hours. Leave by 16:15.\n"
+   "From Tsukiji: Hibiya Line to Kamiyacho, Exit 5, about 2 min underground.\n"
+   "No flash, tripods, monopods or selfie sticks of 30 cm or more. Wear flat shoes.\n"
+   "Camera: 12-24, f/2.8 · 1/125 · ISO 6400 to 12800. Underexpose about one stop to keep the colours.")
+ev("20261118", "1700", "1830", "Tokyo Metropolitan Government Building, 45th floor", "Tokyo Metropolitan Government Building, 2 Chome-8-1 Nishishinjuku, Shinjuku City, Tokyo 163-8001, Japan",
+   "Night skyline with the group. From teamLab: Hibiya Line to Roppongi, then Oedo Line to Tochomae, about 30 min.\n"
+   "Tell the guide you will meet them at the building, not the hotel.\n"
+   "Camera: 24-70, f/2.8 · 1/30 · ISO 3200. Hood flat against the glass.", uid_s="1600")
+ev("20261118", "1900", "2030", "Omoide Yokocho dinner (self funded)", "Omoide Yokocho, 1 Chome-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+   "Old school yakitori alleys. Vegetarian choices are limited, ask the guide.\n"
+   "Camera: 24-70 at 35mm, f/2.8 · 1/125 · ISO 6400.", uid_s="1730")
+ev("20261118", "2130", "2230", "Shibuya: Hachiko and the Scramble Crossing", "Shibuya Scramble Crossing, 2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo 150-0043, Japan",
+   "Train with the group from Kabukicho. Hachiko story first, then the crossing.\n"
+   "Freeze: f/2.8 · 1/250 · ISO 12800. Blur: f/4 · 1/4 s · ISO 800, hold steady.", uid_s="1930")
 
 # D4 Thu 19 Nov
 ev("20261119", "0700", "0800", "Breakfast (included) and check out", "SAKURA")
@@ -218,7 +241,8 @@ ev("20261124", "2030", "2230", "Karaoke, extended (optional)", "Namba, Osaka, Ja
 # D10 Wed 25 Nov
 ev("20261125", "0800", "0900", "Breakfast (included)", "LINKS")
 ev("20261125", "0930", "1130", "Shinsaibashi and Amerikamura (optional)", "Shinsaibashisuji, Chuo Ward, Osaka 542-0085, Japan")
-ev("20261125", "1200", "1330", "Den Den Town (optional)", "Den Den Town, Nipponbashi, Naniwa Ward, Osaka 556-0005, Japan")
+ev("20261125", "1200", "1330", "Den Den Town (optional)", "Den Den Town, Nipponbashi, Naniwa Ward, Osaka 556-0005, Japan",
+   "Dropped 16 Nov: no shopping.", drop=True)
 ev("20261125", "1345", "1545", "Spa World (optional)", "Spa World, 3 Chome-4-24 Ebisuhigashi, Naniwa Ward, Osaka 556-0002, Japan",
    "Tattoo rules apply.")
 ev("20261125", "1615", "1800", "Osaka Castle Gardens", "Osaka Castle, 1-1 Osakajo, Chuo Ward, Osaka 540-0002, Japan",
@@ -284,7 +308,7 @@ ev("20261130", "0550", "0610", "Taxi to Mount Fudekage (pre booked)", "SUPER",
    "Book the return trip in advance. Early taxis are not guaranteed.")
 ev("20261130", "0610", "0745", "Mount Fudekage sunrise shoot", "Mt Fudekage Observatory, Mihara, Hiroshima, Japan (34.3759, 133.0815)",
    "Sunrise about 06:55. Summit about 311 m, Seto Inland Sea island layers, possible sea fog.\n"
-   "Lenses: 24-70 and 70-200. Tripod if packed.")
+   "Lenses: 12-24, 24-70, 70-200 with 2x. Tripod: f/11, ISO 100, 2 s timer.")
 ev("20261130", "0745", "0805", "Taxi back to hotel", "SUPER")
 ev("20261130", "0815", "0930", "Breakfast (included) and pack", "SUPER")
 ev("20261130", "0930", "1000", "Check out by 10:00, store luggage", "SUPER")
@@ -305,7 +329,7 @@ ev("20261130", "2200", "1000", "✈ QF60 HND 22:00 → SYD 10:00 (+1)", "HND3",
    "Qantas QF60. Haneda T3 to Sydney T1. Overnight, 10 h.\n"
    "Arrival changed from 09:55 to 10:00 Sydney time.", stz=TOK, etz=SYD, edate="20261201")
 
-# ---------- Added later: Mon 16 Nov sunglass shopping day ----------
+# ---------- Added later: Mon 16 Nov sunglass shopping day (dropped 16 Nov, positions kept) ----------
 # Appended after the D15 block on purpose. UIDs include the list position, so adding
 # events here leaves every earlier UID unchanged and Outlook updates instead of duplicating.
 # Free window on D1 is about 10:00 to 17:30 (tour meeting is 18:00 in the hotel lobby).
@@ -318,7 +342,7 @@ ev("20261116", "1020", "1110", "Transit: Sakura Hotel → Masunaga Aoyama (Ginza
    "3) Follow signs inside Ueno to the Tokyo Metro Ginza Line (orange, G16), platform for Shibuya. Allow 5 to 8 min to walk through.\n"
    "4) Ginza Line toward Shibuya, 13 stops, about 25 min. Get off at Gaienmae (G03), two stops before Shibuya.\n"
    "5) From Gaienmae walk about 5 min to the store in Kita-Aoyama 2-chome. Check the exact exit on Google Maps.\n"
-   "Door to door about 50 min. Fare about 400 to 450 yen (A$4). Use Suica or Pasmo on your phone.")
+   "Door to door about 50 min. Fare about 400 to 450 yen (A$4). Use Suica or Pasmo on your phone.", drop=True)
 ev("20261116", "1110", "1240", "MASUNAGA1905 Tokyo Aoyama (titanium sunglasses)", "MASUNAGA",
    "Flagship store. Open 11:00 to 20:00. Closed the 1st, 3rd and 5th Tuesdays (17 Nov is closed, so today is the day).\n"
    "Address: 2-12-34 Kita-Aoyama, Minato City. Tel +81 3 3403 1905.\n"
@@ -326,29 +350,50 @@ ev("20261116", "1110", "1240", "MASUNAGA1905 Tokyo Aoyama (titanium sunglasses)"
    "Japan price not confirmed. Overseas listings run about US$540 to 756 (A$775 to 1,085).\n"
    "Tax free from 1 Nov 2026 is refund based: pay the tax inclusive price, claim about 10% back at departure.\n"
    "Minimum 5,000 yen before tax per store per day. Carry your passport.\n"
-   "Keep the purchase in your cabin bag. Hotel bags are checked through from Hiroshima on 30 Nov, so ask the refund counter at Haneda T3.")
+   "Keep the purchase in your cabin bag. Hotel bags are checked through from Hiroshima on 30 Nov, so ask the refund counter at Haneda T3.", drop=True)
 ev("20261116", "1240", "1330", "Lunch (self funded), Aoyama or Omotesando", "Omotesando, Minato City, Tokyo, Japan",
-   "Plenty of cafes and casual places between Gaienmae and Omotesando. Pick on the day.")
+   "Plenty of cafes and casual places between Gaienmae and Omotesando. Pick on the day.", drop=True)
 ev("20261116", "1330", "1410", "Transit: Aoyama → Daikanyama (Ginza Line + Tokyu Toyoko Line)", "DAIKANYAMA_STN",
    "1) Walk back to Gaienmae Station, about 5 min.\n"
    "2) Ginza Line toward Shibuya, 2 stops via Omotesando, about 5 min. End of the line.\n"
    "3) At Shibuya follow signs to the Tokyu Toyoko Line. Take a Local (kakueki teisha) train, not an Express, because Express trains skip Daikanyama.\n"
    "4) Toyoko Line one stop to Daikanyama, about 3 min. Use the Main Exit (Seimon) and walk about 5 min to CUBE Daikanyama.\n"
-   "Fare about 180 + 150 yen. Door to door about 40 min. Walking Shibuya to Daikanyama takes about 20 min if you prefer to skip the Toyoko Line.")
+   "Fare about 180 + 150 yen. Door to door about 40 min. Walking Shibuya to Daikanyama takes about 20 min if you prefer to skip the Toyoko Line.", drop=True)
 ev("20261116", "1410", "1545", "THE EYEVAN TOKYO Daikanyama", "EYEVAN",
    "Open 12:00 to 20:00. Closed Tuesdays. Tel 03 6427 8045.\n"
    "Address: CUBE Daikanyama E building, 19-7 Sarugakucho, Shibuya City.\n"
    "Shortlist price range about 53,900 to 77,000 yen (A$486 to 694). Compare weight and lens clarity with Masunaga.\n"
-   "Same tax free rules apply: 5,000 yen before tax per store per day, passport, cabin bag, refund counter at Haneda T3.")
+   "Same tax free rules apply: 5,000 yen before tax per store per day, passport, cabin bag, refund counter at Haneda T3.", drop=True)
 ev("20261116", "1545", "1630", "Buffer: decide, revisit a shop, or walk Daikanyama", "DAIKANYAMA_STN",
    "Spare time for a second look. Sunset about 16:32. Quiet lanes and Kyu Yamate Dori are good for light.\n"
-   "Latest safe departure for the hotel is 16:30.")
+   "Latest safe departure for the hotel is 16:30.", drop=True)
 ev("20261116", "1630", "1730", "Transit: Daikanyama → Sakura Hotel Nippori (back for 18:00)", "NIPPORI_STN",
    "1) Tokyu Toyoko Line from Daikanyama to Shibuya, 1 stop, about 3 min.\n"
    "2) At Shibuya change to the JR Yamanote Line. Either direction reaches Nippori, about 35 min. Take whichever train arrives first.\n"
    "3) Get off at Nippori, West Exit, then walk 8 min (600 m) to the hotel.\n"
    "Fare about 150 + 240 yen. Door to door about 55 min. Arrive by 17:30 for a 30 min margin before the 18:00 lobby meeting.\n"
-   "Evening rush starts about 17:00 on the Yamanote Line, expect crowds. Backup: Shibuya to Nippori by Ginza Line to Ueno, then JR 2 stops.")
+   "Evening rush starts about 17:00 on the Yamanote Line, expect crowds. Backup: Shibuya to Nippori by Ginza Line to Ueno, then JR 2 stops.", drop=True)
+
+# ---------- Added 16 to 17 Nov: free walk on D1, guide plan for D3 ----------
+# Appended at the end so every earlier UID stays the same.
+ev("20261116", "1000", "1200", "Yanaka Cemetery and temples (free)", "Yanaka Cemetery, 7 Chome-5-24 Yanaka, Taito City, Tokyo, Japan",
+   "Old Tokyo lanes, small temples and the cemetery avenue. Short walk from the hotel.\n"
+   "Camera: 24-70, f/8 · 1/250 · ISO 100 to 400.")
+ev("20261116", "1200", "1300", "Lunch (self funded), Yanaka Ginza", "Yanaka Ginza, 3 Chome-13-1 Yanaka, Taito City, Tokyo, Japan")
+ev("20261116", "1300", "1600", "Ueno Park and Shinobazu Pond (free)", "Shinobazu Pond, Ueno Park, Taito City, Tokyo, Japan",
+   "About 20 min walk from Yanaka. Skip the paid museums to save money.")
+ev("20261116", "1600", "1645", "Sunset at the Yuyake Dandan steps", "Yuyake Dandan, 3 Chome-13 Nishinippori, Arakawa City, Tokyo, Japan",
+   "Sunset about 16:33. About 5 min from the hotel.")
+ev("20261116", "1645", "1745", "Back at the hotel: rest and swap lenses", "SAKURA",
+   "Pick up the 12-24 for Sensoji. Lobby meeting at 18:00.")
+ev("20261118", "1000", "1015", "Meet the group: hotel lobby", "SAKURA",
+   "Bring your IC card (Suica or Pasmo), passport, and money for food.")
+ev("20261118", "1300", "1345", "Free time, then Tsukiji → Kamiyacho (Hibiya Line)", "Kamiyacho Station Exit 5, Minato City, Tokyo, Japan",
+   "Hibiya Line from Tsukiji to Kamiyacho, 5 stops, about 10 min.")
+ev("20261118", "1615", "1650", "Transit: Kamiyacho → Tochomae", "Tochomae Station, Shinjuku City, Tokyo, Japan",
+   "Hibiya Line to Roppongi, 1 stop, then Toei Oedo Line to Tochomae. About 30 min door to door.")
+ev("20261118", "2030", "2115", "Kabukicho walk and the Godzilla head", "Godzilla Head, Hotel Gracery Shinjuku, 1 Chome-19-1 Kabukicho, Shinjuku City, Tokyo, Japan",
+   "Short wander with the group. Camera: 12-24 for the street, 24-70 to frame Godzilla, f/2.8 · 1/125 · ISO 3200.")
 
 # ---------- ICS writer ----------
 def esc(s):
@@ -417,7 +462,9 @@ for d, title, loc, desc in ALLDAY:
               "END:VEVENT"]
 
 TZLABEL = {TOK: "Tokyo", SYD: "Sydney"}
-for i, (d, s, e, title, loc, desc, stz, etz, ed) in enumerate(T, 1):
+for i, (d, s, e, title, loc, desc, stz, etz, ed, us, drop) in enumerate(T, 1):
+    if drop:
+        continue
     if stz == etz:
         lt = f"Local time ({TZLABEL[stz]}): {s[:2]}:{s[2:]} to {e[:2]}:{e[2:]}"
     else:
@@ -425,7 +472,7 @@ for i, (d, s, e, title, loc, desc, stz, etz, ed) in enumerate(T, 1):
     full = lt + ("\n" + desc if desc else "")
     if "venue set by guide" in loc or "set by guide" in loc or (stz == TOK and "Flight" not in title and not title.startswith("✈")):
         pass
-    lines += ["BEGIN:VEVENT", f"UID:japan2026-{d}-{s}-{i:03d}@akumarau", f"DTSTAMP:{NOW}",
+    lines += ["BEGIN:VEVENT", f"UID:japan2026-{d}-{us}-{i:03d}@akumarau", f"DTSTAMP:{NOW}",
               f"DTSTART;TZID={stz}:{d}T{s}00", f"DTEND;TZID={etz}:{ed}T{e}00",
               f"SUMMARY:{esc(title)}", f"LOCATION:{esc(loc)}", f"DESCRIPTION:{esc(full)}",
               "CATEGORIES:Japan Trip", "TRANSP:TRANSPARENT",
