@@ -35,8 +35,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:japan2026-day-20261115@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:D0 | Fly Sydney to Tokyo
@@ -47,8 +47,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261116@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:D1 | Tokyo: Yanaka and Ueno walk\, tour starts 18:00\, Sensoji at n
@@ -62,8 +62,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261117@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:D2 | Tokyo: Harajuku free time\, Akihabara dinner and arcade
@@ -76,8 +76,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261118@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:D3 | Tokyo: sushi class\, teamLab\, skyline\, Omoide Yokocho\, Kabu
@@ -93,8 +93,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261119@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:D4 | Hakone: Romancecar\, Mount Fuji views\, nabe dinner
@@ -110,8 +110,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261120@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:D5 | Takayama: Shinkansen\, old town\, sake tasting\, temple stay
@@ -128,8 +128,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261121@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:D6 | Takayama market\, train to Kyoto\, Gion walk
@@ -147,8 +147,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261122@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:D7 | Kyoto: Fushimi Inari at dawn\, Kiyomizudera\, tea ceremony
@@ -162,8 +162,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261123@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:D8 | Kyoto: Kinkakuji\, Daitokuji Zen gardens\, kendo
@@ -177,8 +177,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261124@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:D9 | Arashiyama bamboo\, monkeys\, boat ride\, Osaka Dotonbori
@@ -196,8 +196,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261125@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:D10 | Osaka: free morning\, Osaka Castle\, Shinsekai
@@ -211,8 +211,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261126@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:D11 | Nara Park\, then Koyasan temple stay
@@ -229,8 +229,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261127@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:D12 | Koyasan prayers\, Danjo Garan\, Shinkansen to Hiroshima\, Pea
@@ -248,8 +248,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261128@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:D13 | Miyajima: Great Torii\, Itsukushima Shrine\, farewell evening
@@ -263,8 +263,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261129@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:D14 | Tour ends 09:00\, Mihara\, Buttsuji autumn leaves
@@ -281,8 +281,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261130@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:D15 | Mount Fudekage sunrise\, fly Hiroshima to Haneda to Sydney
@@ -299,164 +299,188 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-sydney-airport-check-in-and-security@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Australia/Sydney:20261115T090000
 DTEND;TZID=Australia/Sydney:20261115T111500
 SUMMARY:Sydney Airport check in and security
 LOCATION:Sydney Airport T1 International\, Mascot NSW 2020\, Australia
-DESCRIPTION:QF59 departs 12:00. Seat not yet assigned.\nSpare batteries and
-  power bank go in cabin bags.\nMap: https://www.google.com/maps/search/?ap
- i=1&query=Sydney%20Airport%20T1%20International%2C%20Mascot%20NSW%202020%2
- C%20Australia
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sy
+ dney%20Airport%20T1%20International%2C%20Mascot%20NSW%202020%2C%20Australi
+ a\nQF59 departs 12:00. Seat not yet assigned.\nSpare batteries and power b
+ ank go in cabin bags.
+URL:https://www.google.com/maps/search/?api=1&query=Sydney%20Airport%20T1%2
+ 0International%2C%20Mascot%20NSW%202020%2C%20Australia
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-qf59-syd-12-00-hnd-20-00@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Australia/Sydney:20261115T120000
 DTEND;TZID=Asia/Tokyo:20261115T200000
 SUMMARY:✈ QF59 SYD 12:00 → HND 20:00
 LOCATION:Sydney Airport T1 International\, Mascot NSW 2020\, Australia
-DESCRIPTION:Qantas QF59. Sydney T1 to Tokyo Haneda T3.\nDeparts 12:00 Sydne
- y time\, arrives 20:00 Tokyo time. 10 h\, 7\,816 km.\nArrival gate forecas
- t 141 to 148.\nMap: https://www.google.com/maps/search/?api=1&query=Sydney
- %20Airport%20T1%20International%2C%20Mascot%20NSW%202020%2C%20Australia
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sy
+ dney%20Airport%20T1%20International%2C%20Mascot%20NSW%202020%2C%20Australi
+ a\nQantas QF59. Sydney T1 to Tokyo Haneda T3.\nDeparts 12:00 Sydney time\,
+  arrives 20:00 Tokyo time. 10 h\, 7\,816 km.\nArrival gate forecast 141 to
+  148.
+URL:https://www.google.com/maps/search/?api=1&query=Sydney%20Airport%20T1%2
+ 0International%2C%20Mascot%20NSW%202020%2C%20Australia
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-haneda-arrival-immigration-customs-bagga@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261115T200000
 DTEND;TZID=Asia/Tokyo:20261115T210000
 SUMMARY:Haneda arrival: immigration\, customs\, baggage
 LOCATION:Haneda Airport Terminal 3\, 2-6-5 Hanedakuko\, Ota City\, Tokyo 14
  4-0041
-DESCRIPTION:Have the Visit Japan Web QR codes ready.\nMap: https://www.goog
- le.com/maps/search/?api=1&query=Haneda%20Airport%20Terminal%203%2C%202-6-5
- %20Hanedakuko%2C%20Ota%20City%2C%20Tokyo%20144-0041
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ha
+ neda%20Airport%20Terminal%203%2C%202-6-5%20Hanedakuko%2C%20Ota%20City%2C%2
+ 0Tokyo%20144-0041\nHave the Visit Japan Web QR codes ready.
+URL:https://www.google.com/maps/search/?api=1&query=Haneda%20Airport%20Term
+ inal%203%2C%202-6-5%20Hanedakuko%2C%20Ota%20City%2C%20Tokyo%20144-0041
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-transfer-haneda-to-nippori@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261115T210000
 DTEND;TZID=Asia/Tokyo:20261115T221500
 SUMMARY:Transfer Haneda to Nippori
 LOCATION:Nippori Station West Exit\, Arakawa City\, Tokyo
-DESCRIPTION:Tokyo Monorail to Hamamatsucho\, JR Yamanote Line to Nippori\, 
- West Exit.\nWalk about 8 min (600 m) to the hotel. Around 1 hour in total.
- \nOperator PDF lists last trains around 23:09\, check on the day. Taxi is 
- the fallback.\nMap: https://www.google.com/maps/search/?api=1&query=Nippor
- i%20Station%20West%20Exit%2C%20Arakawa%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ni
+ ppori%20Station%20West%20Exit%2C%20Arakawa%20City%2C%20Tokyo\nTokyo Monora
+ il to Hamamatsucho\, JR Yamanote Line to Nippori\, West Exit.\nWalk about 
+ 8 min (600 m) to the hotel. Around 1 hour in total.\nOperator PDF lists la
+ st trains around 23:09\, check on the day. Taxi is the fallback.
+URL:https://www.google.com/maps/search/?api=1&query=Nippori%20Station%20Wes
+ t%20Exit%2C%20Arakawa%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-check-in-sakura-hotel-nippori@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261115T221500
 DTEND;TZID=Asia/Tokyo:20261115T224500
 SUMMARY:Check in: Sakura Hotel Nippori
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:Pre tour night booked 15 to 16 Nov. The tour uses this hotel fr
- om 16 Nov.\nConfirm at reception that your tour nights follow on\, so you 
- stay put.\nMap: https://www.google.com/maps/search/?api=1&query=Sakura%20H
- otel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Toky
- o%20113-0022
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022\nPre tour night booked 15 to 16 Nov. The tour uses th
+ is hotel from 16 Nov.\nConfirm at reception that your tour nights follow o
+ n\, so you stay put.
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-yanaka-cemetery-and-temples-free@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T100000
 DTEND;TZID=Asia/Tokyo:20261116T120000
 SUMMARY:Yanaka Cemetery and temples (free)
 LOCATION:Yanaka Cemetery\, 7 Chome-5-24 Yanaka\, Taito City\, Tokyo
-DESCRIPTION:Old Tokyo lanes\, small temples and the cemetery avenue. Short 
- walk from the hotel and Nippori West Exit.\nMap: https://www.google.com/ma
- ps/search/?api=1&query=Yanaka%20Cemetery%2C%207%20Chome-5-24%20Yanaka%2C%2
- 0Taito%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ya
+ naka%20Cemetery%2C%207%20Chome-5-24%20Yanaka%2C%20Taito%20City%2C%20Tokyo\
+ nOld Tokyo lanes\, small temples and the cemetery avenue. Short walk from 
+ the hotel and Nippori West Exit.
+URL:https://www.google.com/maps/search/?api=1&query=Yanaka%20Cemetery%2C%20
+ 7%20Chome-5-24%20Yanaka%2C%20Taito%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-lunch-self-funded-yanaka@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T120000
 DTEND;TZID=Asia/Tokyo:20261116T130000
 SUMMARY:Lunch (self funded)\, Yanaka
 LOCATION:Yanaka Ginza\, 3 Chome-13-1 Yanaka\, Taito City\, Tokyo
-DESCRIPTION:Cheap street snacks along Yanaka Ginza. Pick on the day.\nMap: 
- https://www.google.com/maps/search/?api=1&query=Yanaka%20Ginza%2C%203%20Ch
- ome-13-1%20Yanaka%2C%20Taito%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ya
+ naka%20Ginza%2C%203%20Chome-13-1%20Yanaka%2C%20Taito%20City%2C%20Tokyo\nCh
+ eap street snacks along Yanaka Ginza. Pick on the day.
+URL:https://www.google.com/maps/search/?api=1&query=Yanaka%20Ginza%2C%203%2
+ 0Chome-13-1%20Yanaka%2C%20Taito%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-ueno-park-and-shinobazu-pond-free@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T130000
 DTEND;TZID=Asia/Tokyo:20261116T160000
 SUMMARY:Ueno Park and Shinobazu Pond (free)
 LOCATION:Shinobazu Pond\, Ueno Park\, Taito City\, Tokyo
-DESCRIPTION:About 20 min walk from Yanaka. Park\, pond and shrine grounds a
- re free. Skip the paid museums to save money.\nMap: https://www.google.com
- /maps/search/?api=1&query=Shinobazu%20Pond%2C%20Ueno%20Park%2C%20Taito%20C
- ity%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sh
+ inobazu%20Pond%2C%20Ueno%20Park%2C%20Taito%20City%2C%20Tokyo\nAbout 20 min
+  walk from Yanaka. Park\, pond and shrine grounds are free. Skip the paid 
+ museums to save money.
+URL:https://www.google.com/maps/search/?api=1&query=Shinobazu%20Pond%2C%20U
+ eno%20Park%2C%20Taito%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-sunset-at-the-yuyake-dandan-steps@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T160000
 DTEND;TZID=Asia/Tokyo:20261116T164500
 SUMMARY:Sunset at the Yuyake Dandan steps
 LOCATION:Yuyake Dandan\, 3 Chome-13 Nishinippori\, Arakawa City\, Tokyo
-DESCRIPTION:Sunset about 16:33 over Yanaka Ginza. About 5 min from the hote
- l.\nMap: https://www.google.com/maps/search/?api=1&query=Yuyake%20Dandan%2
- C%203%20Chome-13%20Nishinippori%2C%20Arakawa%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Yu
+ yake%20Dandan%2C%203%20Chome-13%20Nishinippori%2C%20Arakawa%20City%2C%20To
+ kyo\nSunset about 16:33 over Yanaka Ginza. About 5 min from the hotel.
+URL:https://www.google.com/maps/search/?api=1&query=Yuyake%20Dandan%2C%203%
+ 20Chome-13%20Nishinippori%2C%20Arakawa%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-back-at-the-hotel-rest-and-swap-lenses@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T164500
 DTEND;TZID=Asia/Tokyo:20261116T174500
 SUMMARY:Back at the hotel: rest and swap lenses
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:Pick up the 12-24 for Sensoji. Lobby meeting at 18:00.\nMap: ht
- tps://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippori%2C%
- 203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022\nPick up the 12-24 for Sensoji. Lobby meeting at 18:0
+ 0.
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-tour-group-meeting-hotel-lobby@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T180000
 DTEND;TZID=Asia/Tokyo:20261116T183000
 SUMMARY:Tour group meeting\, hotel lobby
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:One Life Adventures. Guide meets the group in the lobby.\nBring
-  insurance proof.\nMap: https://www.google.com/maps/search/?api=1&query=Sa
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
  kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
- C%20Tokyo%20113-0022
+ C%20Tokyo%20113-0022\nOne Life Adventures. Guide meets the group in the lo
+ bby.\nBring insurance proof.
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-welcome-dinner-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T183000
 DTEND;TZID=Asia/Tokyo:20261116T203000
 SUMMARY:Welcome dinner (included)
@@ -466,35 +490,39 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-sensoji-at-night@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261116T203000
 DTEND;TZID=Asia/Tokyo:20261116T220000
 SUMMARY:Sensoji at night
 LOCATION:Sensoji\, 2 Chome-3-1 Asakusa\, Taito City\, Tokyo 111-0032
-DESCRIPTION:Lenses: 12-24 for the gate and pagoda\, 24-70 for the lanes.\nM
- ap: https://www.google.com/maps/search/?api=1&query=Sensoji%2C%202%20Chome
- -3-1%20Asakusa%2C%20Taito%20City%2C%20Tokyo%20111-0032
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Se
+ nsoji%2C%202%20Chome-3-1%20Asakusa%2C%20Taito%20City%2C%20Tokyo%20111-0032
+ \nLenses: 12-24 for the gate and pagoda\, 24-70 for the lanes.
+URL:https://www.google.com/maps/search/?api=1&query=Sensoji%2C%202%20Chome-
+ 3-1%20Asakusa%2C%20Taito%20City%2C%20Tokyo%20111-0032
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-breakfast-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261117T073000
 DTEND;TZID=Asia/Tokyo:20261117T083000
 SUMMARY:Breakfast (included)
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Sakura%20H
- otel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Toky
- o%20113-0022
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-japan-orientation@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261117T090000
 DTEND;TZID=Asia/Tokyo:20261117T100000
 SUMMARY:Japan orientation
@@ -504,114 +532,127 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-harajuku-and-takeshita-street@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261117T103000
 DTEND;TZID=Asia/Tokyo:20261117T120000
 SUMMARY:Harajuku and Takeshita Street
 LOCATION:Takeshita Street\, 1 Chome Jingumae\, Shibuya City\, Tokyo 150-000
  1
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Takeshita%
- 20Street%2C%201%20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo%20150-00
- 01
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ta
+ keshita%20Street%2C%201%20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo%
+ 20150-0001
+URL:https://www.google.com/maps/search/?api=1&query=Takeshita%20Street%2C%2
+ 01%20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo%20150-0001
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-free-time-in-harajuku@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261117T123000
 DTEND;TZID=Asia/Tokyo:20261117T153000
 SUMMARY:Free time in Harajuku
 LOCATION:Takeshita Street\, 1 Chome Jingumae\, Shibuya City\, Tokyo 150-000
  1
-DESCRIPTION:Self guided. Meiji Jingu and Yoyogi Park are free if you did no
- t see them this morning.\nLaforet: Harajuku fashion since 1978. Good for s
- treet portraits outside. Map\nTakeshita Street: JOL food court\, gachapon 
- capsule toy stores\, rainbow food\, crepes\, candied strawberries\, cheese
-  coins\, Daiso.\nViewpoint building: Tokyu Plaza Omotesando (Omokado)\, 4-
- 30-3 Jingumae. Mirrored entrance\, free rooftop terrace.\nShopping picks\,
-  skipped to save money: Oriental Bazaar (map)\, Kiddyland (map)\, B Side L
- abel stickers (map).\nMap: https://www.google.com/maps/search/?api=1&query
- =Takeshita%20Street%2C%201%20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tok
- yo%20150-0001
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ta
+ keshita%20Street%2C%201%20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo%
+ 20150-0001\nSelf guided. Meiji Jingu and Yoyogi Park are free if you did n
+ ot see them this morning.\nLaforet: Harajuku fashion since 1978. Good for 
+ street portraits outside. Map\nTakeshita Street: JOL food court\, gachapon
+  capsule toy stores\, rainbow food\, crepes\, candied strawberries\, chees
+ e coins\, Daiso.\nViewpoint building: Tokyu Plaza Omotesando (Omokado)\, 4
+ -30-3 Jingumae. Mirrored entrance\, free rooftop terrace.\nShopping picks\
+ , skipped to save money: Oriental Bazaar (map)\, Kiddyland (map)\, B Side 
+ Label stickers (map).
+URL:https://www.google.com/maps/search/?api=1&query=Takeshita%20Street%2C%2
+ 01%20Chome%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo%20150-0001
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-akihabara-early-roam-on-your-own-optiona@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261117T153000
 DTEND;TZID=Asia/Tokyo:20261117T174500
 SUMMARY:Akihabara early: roam on your own (optional)
 LOCATION:Akihabara Electric Town\, Sotokanda\, Chiyoda City\, Tokyo 101-002
  1
-DESCRIPTION:Guide suggests heading over early for anime\, manga and electro
- nics. Sunset 16:32\, neon at blue hour until about 17:00.\nHarajuku to Aki
- habara: JR Yamanote Line to Akihabara\, about 30 min\, or Chuo Line Rapid 
- via Ochanomizu.\nMap: https://www.google.com/maps/search/?api=1&query=Akih
- abara%20Electric%20Town%2C%20Sotokanda%2C%20Chiyoda%20City%2C%20Tokyo%2010
- 1-0021
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ak
+ ihabara%20Electric%20Town%2C%20Sotokanda%2C%20Chiyoda%20City%2C%20Tokyo%20
+ 101-0021\nGuide suggests heading over early for anime\, manga and electron
+ ics. Sunset 16:32\, neon at blue hour until about 17:00.\nHarajuku to Akih
+ abara: JR Yamanote Line to Akihabara\, about 30 min\, or Chuo Line Rapid v
+ ia Ochanomizu.
+URL:https://www.google.com/maps/search/?api=1&query=Akihabara%20Electric%20
+ Town%2C%20Sotokanda%2C%20Chiyoda%20City%2C%20Tokyo%20101-0021
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-meet-the-group-akihabara-station-central@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261117T180000
 DTEND;TZID=Asia/Tokyo:20261117T181500
 SUMMARY:Meet the group: Akihabara Station\, Central North Exit
 LOCATION:Akihabara Station Central North Exit\, Chiyoda City\, Tokyo
-DESCRIPTION:Meeting point is just outside the Central North Exit.\nMap: htt
- ps://maps.app.goo.gl/birud228RZKw4WRN7
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/birud228RZKw4WRN7\nMeeting
+  point is just outside the Central North Exit.
+URL:https://maps.app.goo.gl/birud228RZKw4WRN7
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-dinner-and-arcade-with-the-group@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261117T180000
 DTEND;TZID=Asia/Tokyo:20261117T210000
 SUMMARY:Dinner and arcade with the group
 LOCATION:Akihabara\, Chiyoda City\, Tokyo
-DESCRIPTION:Venue set by the guide. Breakfast is the only included meal tod
- ay\, so check whether dinner is included.\nMap: https://www.google.com/map
- s/search/?api=1&query=Akihabara%2C%20Chiyoda%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ak
+ ihabara%2C%20Chiyoda%20City%2C%20Tokyo\nVenue set by the guide. Breakfast 
+ is the only included meal today\, so check whether dinner is included.
+URL:https://www.google.com/maps/search/?api=1&query=Akihabara%2C%20Chiyoda%
+ 20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-breakfast-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T080000
 DTEND;TZID=Asia/Tokyo:20261118T090000
 SUMMARY:Breakfast (included)
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Sakura%20H
- otel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Toky
- o%20113-0022
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-meet-the-group-hotel-lobby@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T100000
 DTEND;TZID=Asia/Tokyo:20261118T101500
 SUMMARY:Meet the group: hotel lobby
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:Bring your IC card (Suica or Pasmo)\, passport\, and money for 
- food.\nMap: https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel
- %20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20
- 113-0022
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022\nBring your IC card (Suica or Pasmo)\, passport\, and
+  money for food.
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-sushi-class-at-tsukiji-market-lunch-incl@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T110000
 DTEND;TZID=Asia/Tokyo:20261118T130000
 SUMMARY:Sushi class at Tsukiji Market\, lunch included
@@ -624,1454 +665,1650 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-free-time-then-tsukiji-kamiyacho-hibiya-@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T130000
 DTEND;TZID=Asia/Tokyo:20261118T134500
 SUMMARY:Free time\, then Tsukiji → Kamiyacho (Hibiya Line)
 LOCATION:Kamiyacho Station Exit 5\, Minato City\, Tokyo
-DESCRIPTION:Hibiya Line from Tsukiji to Kamiyacho\, 5 stops\, about 10 min.
-  teamLab is about 2 min underground from Exit 5.\nMap: https://www.google.
- com/maps/search/?api=1&query=Kamiyacho%20Station%20Exit%205%2C%20Minato%20
- City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ka
+ miyacho%20Station%20Exit%205%2C%20Minato%20City%2C%20Tokyo\nHibiya Line fr
+ om Tsukiji to Kamiyacho\, 5 stops\, about 10 min. teamLab is about 2 min u
+ nderground from Exit 5.
+URL:https://www.google.com/maps/search/?api=1&query=Kamiyacho%20Station%20E
+ xit%205%2C%20Minato%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-teamlab-borderless-booked@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T140000
 DTEND;TZID=Asia/Tokyo:20261118T163000
 SUMMARY:teamLab Borderless (booked)
 LOCATION:teamLab Borderless\, 5-9-1 Toranomon\, Minato City\, Tokyo
-DESCRIPTION:Ticket booked for 14:00. Leave by 16:30 for the 17:15 meeting.\
- nPhotos are allowed. No flash\, tripods\, monopods or selfie sticks of 30 
- cm or more.\nFloors are dark and uneven in places. Wear flat shoes.\nMap: 
- https://www.google.com/maps/search/?api=1&query=teamLab%20Borderless%2C%20
- 5-9-1%20Toranomon%2C%20Minato%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=te
+ amLab%20Borderless%2C%205-9-1%20Toranomon%2C%20Minato%20City%2C%20Tokyo\nT
+ icket booked for 14:00. Leave by 16:30 for the 17:15 meeting.\nPhotos are 
+ allowed. No flash\, tripods\, monopods or selfie sticks of 30 cm or more.\
+ nFloors are dark and uneven in places. Wear flat shoes.
+URL:https://www.google.com/maps/search/?api=1&query=teamLab%20Borderless%2C
+ %205-9-1%20Toranomon%2C%20Minato%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-transit-kamiyacho-tochomae@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T163000
 DTEND;TZID=Asia/Tokyo:20261118T171000
 SUMMARY:Transit: Kamiyacho → Tochomae
 LOCATION:Tochomae Station\, Shinjuku City\, Tokyo
-DESCRIPTION:Hibiya Line to Roppongi\, 1 stop\, then Toei Oedo Line to Tocho
- mae. About 30 min door to door.\nMap: https://www.google.com/maps/search/?
- api=1&query=Tochomae%20Station%2C%20Shinjuku%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=To
+ chomae%20Station%2C%20Shinjuku%20City%2C%20Tokyo\nHibiya Line to Roppongi\
+ , 1 stop\, then Toei Oedo Line to Tochomae. About 30 min door to door.
+URL:https://www.google.com/maps/search/?api=1&query=Tochomae%20Station%2C%2
+ 0Shinjuku%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-meet-the-group-tokyo-metropolitan-govern@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T171500
 DTEND;TZID=Asia/Tokyo:20261118T183000
 SUMMARY:Meet the group: Tokyo Metropolitan Government Building\, then the 4
  5th floor
 LOCATION:Tokyo Metropolitan Government Building\, 2 Chome-8-1 Nishishinjuku
  \, Shinjuku City\, Tokyo 163-8001
-DESCRIPTION:Meeting point: the elevators on the ground floor. Look for the 
- line of people waiting.\nSend the guide a photo when you arrive so they ca
- n check you are in the right spot.\nTell the guide you will meet at the bu
- ilding at 17:15\, not in the hotel lobby at 16:15.\nThen the skyline from 
- the 45th floor. Sunset is 16:32\, so it will be dark.\nMap: https://maps.g
- oogle.com/?cid=9849659820499292991
+DESCRIPTION:Google Maps: https://maps.google.com/?cid=9849659820499292991\n
+ Meeting point: the elevators on the ground floor. Look for the line of peo
+ ple waiting.\nSend the guide a photo when you arrive so they can check you
+  are in the right spot.\nTell the guide you will meet at the building at 1
+ 7:15\, not in the hotel lobby at 16:15.\nThen the skyline from the 45th fl
+ oor. Sunset is 16:32\, so it will be dark.
+URL:https://maps.google.com/?cid=9849659820499292991
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-omoide-yokocho-dinner-self-funded@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T190000
 DTEND;TZID=Asia/Tokyo:20261118T203000
 SUMMARY:Omoide Yokocho dinner (self funded)
 LOCATION:Omoide Yokocho\, 1 Chome-2 Nishishinjuku\, Shinjuku City\, Tokyo 1
  60-0023
-DESCRIPTION:Old school yakitori alleys. Adventurous cuts and offal for the 
- brave. Vegetarian choices are limited\, so ask the guide.\nMap: https://ww
- w.google.com/maps/search/?api=1&query=Omoide%20Yokocho%2C%201%20Chome-2%20
- Nishishinjuku%2C%20Shinjuku%20City%2C%20Tokyo%20160-0023
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Om
+ oide%20Yokocho%2C%201%20Chome-2%20Nishishinjuku%2C%20Shinjuku%20City%2C%20
+ Tokyo%20160-0023\nOld school yakitori alleys. Adventurous cuts and offal f
+ or the brave. Vegetarian choices are limited\, so ask the guide.
+URL:https://www.google.com/maps/search/?api=1&query=Omoide%20Yokocho%2C%201
+ %20Chome-2%20Nishishinjuku%2C%20Shinjuku%20City%2C%20Tokyo%20160-0023
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-kabukicho-walk-and-the-godzilla-head@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T203000
 DTEND;TZID=Asia/Tokyo:20261118T211500
 SUMMARY:Kabukicho walk and the Godzilla head
 LOCATION:Godzilla Head\, Hotel Gracery Shinjuku\, 1 Chome-19-1 Kabukicho\, 
  Shinjuku City\, Tokyo
-DESCRIPTION:Short wander with the group to meet one of Japan’s most famou
- s characters.\nMap: https://www.google.com/maps/search/?api=1&query=Godzil
- la%20Head%2C%20Hotel%20Gracery%20Shinjuku%2C%201%20Chome-19-1%20Kabukicho%
- 2C%20Shinjuku%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Go
+ dzilla%20Head%2C%20Hotel%20Gracery%20Shinjuku%2C%201%20Chome-19-1%20Kabuki
+ cho%2C%20Shinjuku%20City%2C%20Tokyo\nShort wander with the group to meet o
+ ne of Japan’s most famous characters.
+URL:https://www.google.com/maps/search/?api=1&query=Godzilla%20Head%2C%20Ho
+ tel%20Gracery%20Shinjuku%2C%201%20Chome-19-1%20Kabukicho%2C%20Shinjuku%20C
+ ity%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-shibuya-hachiko-story-and-the-scramble-c@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261118T213000
 DTEND;TZID=Asia/Tokyo:20261118T223000
 SUMMARY:Shibuya: Hachiko story and the Scramble Crossing
 LOCATION:Shibuya Scramble Crossing\, 2 Chome-2-1 Dogenzaka\, Shibuya City\,
   Tokyo 150-0043
-DESCRIPTION:Train with the group to Shibuya. Hachiko statue first\, then th
- e crossing.\nMap: https://www.google.com/maps/search/?api=1&query=Shibuya%
- 20Scramble%20Crossing%2C%202%20Chome-2-1%20Dogenzaka%2C%20Shibuya%20City%2
- C%20Tokyo%20150-0043
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sh
+ ibuya%20Scramble%20Crossing%2C%202%20Chome-2-1%20Dogenzaka%2C%20Shibuya%20
+ City%2C%20Tokyo%20150-0043\nTrain with the group to Shibuya. Hachiko statu
+ e first\, then the crossing.
+URL:https://www.google.com/maps/search/?api=1&query=Shibuya%20Scramble%20Cr
+ ossing%2C%202%20Chome-2-1%20Dogenzaka%2C%20Shibuya%20City%2C%20Tokyo%20150
+ -0043
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-breakfast-included-pack-and-check-out@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261119T073000
 DTEND;TZID=Asia/Tokyo:20261119T090000
 SUMMARY:Breakfast (included)\, pack and check out
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:Double check the room for all belongings before checking out.\n
- Map: https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nipp
- ori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-002
- 2
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022\nDouble check the room for all belongings before chec
+ king out.
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-meet-the-group-outside-the-hotel-in-the-@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261119T091500
 DTEND;TZID=Asia/Tokyo:20261119T093000
 SUMMARY:Meet the group: outside the hotel in the playground
 LOCATION:Sakura Hotel Nippori\, 3 Chome-43-15 Sendagi\, Bunkyo City\, Tokyo
   113-0022
-DESCRIPTION:Bags packed and checked out. Bring your IC card and all luggage
- .\nMap: https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20N
- ippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-
- 0022
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ kura%20Hotel%20Nippori%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2
+ C%20Tokyo%20113-0022\nBags packed and checked out. Bring your IC card and 
+ all luggage.
+URL:https://www.google.com/maps/search/?api=1&query=Sakura%20Hotel%20Nippor
+ i%2C%203%20Chome-43-15%20Sendagi%2C%20Bunkyo%20City%2C%20Tokyo%20113-0022
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-shinjuku-romancecar-and-the-mountain-tra@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261119T093000
 DTEND;TZID=Asia/Tokyo:20261119T130000
 SUMMARY:Shinjuku\, Romancecar and the mountain train to Gora
 LOCATION:Shinjuku Station (Odakyu Line)\, Shinjuku City\, Tokyo
-DESCRIPTION:Buy lunch at a conbini in Shinjuku Station and eat it on the Ro
- mancecar.\nChange at the base of Mount Hakone to the zig zag Mountain Trai
- n up to Gora.\nTimes between the guide’s fixed points are approximate.\n
- Map: https://www.google.com/maps/search/?api=1&query=Shinjuku%20Station%20
- %28Odakyu%20Line%29%2C%20Shinjuku%20City%2C%20Tokyo
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sh
+ injuku%20Station%20%28Odakyu%20Line%29%2C%20Shinjuku%20City%2C%20Tokyo\nBu
+ y lunch at a conbini in Shinjuku Station and eat it on the Romancecar.\nCh
+ ange at the base of Mount Hakone to the zig zag Mountain Train up to Gora.
+ \nTimes between the guide’s fixed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Shinjuku%20Station%20%2
+ 8Odakyu%20Line%29%2C%20Shinjuku%20City%2C%20Tokyo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-drop-bags-gaku-guesthouse@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261119T130000
 DTEND;TZID=Asia/Tokyo:20261119T133000
 SUMMARY:Drop bags: Gaku Guesthouse
 LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
  8
-DESCRIPTION:Quick walk from Gora Station. A short breather before Owakudani
- .\nMap: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6\nQuick w
+ alk from Gora Station. A short breather before Owakudani.
+URL:https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-cable-car-and-ropeway-to-owakudani@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261119T133000
 DTEND;TZID=Asia/Tokyo:20261119T163000
 SUMMARY:Cable car and ropeway to Owakudani
 LOCATION:Owakudani\, 1251 Sengokuhara\, Hakone\, Kanagawa 250-0631
-DESCRIPTION:The Valley of Death\, known for its sulphur vents. Try a black 
- egg.\nBest chance today for a view of Mount Fuji.\nTimes between the guide
- ’s fixed points are approximate.\nMap: https://www.google.com/maps/searc
- h/?api=1&query=Owakudani%2C%201251%20Sengokuhara%2C%20Hakone%2C%20Kanagawa
- %20250-0631
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ow
+ akudani%2C%201251%20Sengokuhara%2C%20Hakone%2C%20Kanagawa%20250-0631\nThe 
+ Valley of Death\, known for its sulphur vents. Try a black egg.\nBest chan
+ ce today for a view of Mount Fuji.\nTimes between the guide’s fixed poin
+ ts are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Owakudani%2C%201251%20S
+ engokuhara%2C%20Hakone%2C%20Kanagawa%20250-0631
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-conbini-run-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261119T163000
 DTEND;TZID=Asia/Tokyo:20261119T173000
 SUMMARY:Conbini run (optional)
 LOCATION:Gora\, Hakone\, Kanagawa
-DESCRIPTION:Buy snacks or drinks for tonight\, and breakfast if you want to
-  eat before 09:00 tomorrow.\nMap: https://www.google.com/maps/search/?api=
- 1&query=Gora%2C%20Hakone%2C%20Kanagawa
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Go
+ ra%2C%20Hakone%2C%20Kanagawa\nBuy snacks or drinks for tonight\, and break
+ fast if you want to eat before 09:00 tomorrow.
+URL:https://www.google.com/maps/search/?api=1&query=Gora%2C%20Hakone%2C%20K
+ anagawa
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-curry-nabe-dinner-and-games-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261119T183000
 DTEND;TZID=Asia/Tokyo:20261119T210000
 SUMMARY:Curry nabe dinner and games (included)
 LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
  8
-DESCRIPTION:Third floor common area. Everyone helps cook a family style cur
- ry nabe\, then games.\nMap: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6\nThird f
+ loor common area. Everyone helps cook a family style curry nabe\, then gam
+ es.
+URL:https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-meet-the-group-downstairs-game-room@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261120T080000
 DTEND;TZID=Asia/Tokyo:20261120T081500
 SUMMARY:Meet the group: downstairs game room
 LOCATION:Hakone Guesthouse Gaku\, 1380-385 Gora\, Hakone\, Kanagawa 250-040
  8
-DESCRIPTION:Bring your paper tickets\, all luggage\, and passport for check
-  in.\nMap: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6\nBring y
+ our paper tickets\, all luggage\, and passport for check in.
+URL:https://maps.app.goo.gl/qgpXfXEWdyxj9r7V6
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-train-down-the-mountain-metro-to-odawara@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261120T081500
 DTEND;TZID=Asia/Tokyo:20261120T100000
 SUMMARY:Train down the mountain\, metro to Odawara
 LOCATION:Odawara Station\, Odawara\, Kanagawa
-DESCRIPTION:Breakfast stop at a cafe in Odawara. Buy an ekiben for the trai
- n.\nTimes between the guide’s fixed points are approximate.\nMap: https:
- //www.google.com/maps/search/?api=1&query=Odawara%20Station%2C%20Odawara%2
- C%20Kanagawa
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Od
+ awara%20Station%2C%20Odawara%2C%20Kanagawa\nBreakfast stop at a cafe in Od
+ awara. Buy an ekiben for the train.\nTimes between the guide’s fixed poi
+ nts are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Odawara%20Station%2C%20
+ Odawara%2C%20Kanagawa
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-first-shinkansen-to-nagoya-then-hida-wid@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261120T100000
 DTEND;TZID=Asia/Tokyo:20261120T140000
 SUMMARY:First Shinkansen to Nagoya\, then Hida Wide View to Takayama
 LOCATION:Nagoya Station\, Nakamura Ward\, Nagoya\, Aichi
-DESCRIPTION:About two and a half hours on the Hida Wide View along the rive
- r valleys of the Japanese Alps.\nLong travel day. Download podcasts or sho
- ws before you leave.\nTimes between the guide’s fixed points are approxi
- mate.\nMap: https://www.google.com/maps/search/?api=1&query=Nagoya%20Stati
- on%2C%20Nakamura%20Ward%2C%20Nagoya%2C%20Aichi
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Na
+ goya%20Station%2C%20Nakamura%20Ward%2C%20Nagoya%2C%20Aichi\nAbout two and 
+ a half hours on the Hida Wide View along the river valleys of the Japanese
+  Alps.\nLong travel day. Download podcasts or shows before you leave.\nTim
+ es between the guide’s fixed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Nagoya%20Station%2C%20N
+ akamura%20Ward%2C%20Nagoya%2C%20Aichi
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-check-in-temple-hotel-takayama-zenkoji@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261120T140000
 DTEND;TZID=Asia/Tokyo:20261120T143000
 SUMMARY:Check in: Temple Hotel Takayama Zenkoji
 LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
  506-0025
-DESCRIPTION:Map: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+URL:https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-sanmachi-suji-old-town-and-sake-tasting@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261120T143000
 DTEND;TZID=Asia/Tokyo:20261120T170000
 SUMMARY:Sanmachi Suji old town and sake tasting
 LOCATION:Sanmachi Suji\, Kamisannomachi\, Takayama\, Gifu 506-0846
-DESCRIPTION:Local delights and award winning sake with the group.\nTimes be
- tween the guide’s fixed points are approximate.\nMap: https://www.google
- .com/maps/search/?api=1&query=Sanmachi%20Suji%2C%20Kamisannomachi%2C%20Tak
- ayama%2C%20Gifu%20506-0846
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sa
+ nmachi%20Suji%2C%20Kamisannomachi%2C%20Takayama%2C%20Gifu%20506-0846\nLoca
+ l delights and award winning sake with the group.\nTimes between the guide
+ ’s fixed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Sanmachi%20Suji%2C%20Ka
+ misannomachi%2C%20Takayama%2C%20Gifu%20506-0846
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-free-evening-in-takayama@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261120T170000
 DTEND;TZID=Asia/Tokyo:20261120T220000
 SUMMARY:Free evening in Takayama
 LOCATION:Takayama old town\, Gifu
-DESCRIPTION:Onsen etiquette: no tattoos\, bathing is nude\, tie long hair u
- p\, wash before you get in.\nHida beef restaurant: join the line before 17
- :00\nGyoza\, with a veggie option: opens 18:00\nJakson Curry: opens 17:30\
- nGreen Hotel onsen: 2\,000 yen\, towel extra\, closes 22:00. No tattoos\nY
- utopia sento: about 600 yen\, tattoos fine\, ask for soap\nKyudo\, Japanes
- e archery: 700 yen for 10 arrows\, 19:00 to 22:00\nTakayama castle ruins: 
- beware of bears\nInteractive map of Takayama\nMap: https://www.google.com/
- maps/search/?api=1&query=Takayama%20old%20town%2C%20Gifu
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ta
+ kayama%20old%20town%2C%20Gifu\nOnsen etiquette: no tattoos\, bathing is nu
+ de\, tie long hair up\, wash before you get in.\nHida beef restaurant: joi
+ n the line before 17:00\nGyoza\, with a veggie option: opens 18:00\nJakson
+  Curry: opens 17:30\nGreen Hotel onsen: 2\,000 yen\, towel extra\, closes 
+ 22:00. No tattoos\nYutopia sento: about 600 yen\, tattoos fine\, ask for s
+ oap\nKyudo\, Japanese archery: 700 yen for 10 arrows\, 19:00 to 22:00\nTak
+ ayama castle ruins: beware of bears\nInteractive map of Takayama
+URL:https://www.google.com/maps/search/?api=1&query=Takayama%20old%20town%2
+ C%20Gifu
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-morning-prayer-ceremony-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T070000
 DTEND;TZID=Asia/Tokyo:20261121T074500
 SUMMARY:Morning Prayer Ceremony (optional)
 LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
  506-0025
-DESCRIPTION:Kaiji-san leads a Buddhist morning prayer. Chant notes are prov
- ided. The day plan lists 06:55\, so be there a few minutes early.\nMap: ht
- tps://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9\nKaiji-s
+ an leads a Buddhist morning prayer. Chant notes are provided. The day plan
+  lists 06:55\, so be there a few minutes early.
+URL:https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-meditation-optional-3-000-yen@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T080000
 DTEND;TZID=Asia/Tokyo:20261121T090000
 SUMMARY:Meditation (optional\, 3\,000 yen)
 LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
  506-0025
-DESCRIPTION:Buddhist meditation and mindful breathing.\nMap: https://maps.a
- pp.goo.gl/owu3p5wEo1Fn6sXC9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9\nBuddhis
+ t meditation and mindful breathing.
+URL:https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-bags-packed-by-the-front-door@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T091500
 DTEND;TZID=Asia/Tokyo:20261121T093000
 SUMMARY:Bags packed by the front door
 LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
  506-0025
-DESCRIPTION:Map: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+URL:https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-miyagawa-morning-market-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T093000
 DTEND;TZID=Asia/Tokyo:20261121T104500
 SUMMARY:Miyagawa Morning Market (optional)
 LOCATION:Miyagawa Morning Market\, Shimosannomachi\, Takayama\, Gifu
-DESCRIPTION:Hida beef buns\, anko croissants\, souvenirs.\nBuy lunch for th
- e train here in Takayama.\nSupermarket 1: bento boxes\nSupermarket 2: bent
- o boxes\nNearest 7-Eleven to the temple\nMap: https://www.google.com/maps/
- search/?api=1&query=Miyagawa%20Morning%20Market%2C%20Shimosannomachi%2C%20
- Takayama%2C%20Gifu
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mi
+ yagawa%20Morning%20Market%2C%20Shimosannomachi%2C%20Takayama%2C%20Gifu\nHi
+ da beef buns\, anko croissants\, souvenirs.\nBuy lunch for the train here 
+ in Takayama.\nSupermarket 1: bento boxes\nSupermarket 2: bento boxes\nNear
+ est 7-Eleven to the temple
+URL:https://www.google.com/maps/search/?api=1&query=Miyagawa%20Morning%20Ma
+ rket%2C%20Shimosannomachi%2C%20Takayama%2C%20Gifu
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-meet-the-group-outside-the-temple@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T110000
 DTEND;TZID=Asia/Tokyo:20261121T111500
 SUMMARY:Meet the group: outside the temple
 LOCATION:Temple Hotel Takayama Zenkoji\, 4-3 Tenmanmachi\, Takayama\, Gifu 
  506-0025
-DESCRIPTION:Bring everything. IC card needed this afternoon\, passport for 
- check in.\nMap: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9\nBring e
+ verything. IC card needed this afternoon\, passport for check in.
+URL:https://maps.app.goo.gl/owu3p5wEo1Fn6sXC9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-hida-wide-view-to-nagoya@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T113000
 DTEND;TZID=Asia/Tokyo:20261121T143000
 SUMMARY:Hida Wide View to Nagoya
 LOCATION:Takayama Station\, Takayama\, Gifu
-DESCRIPTION:Eat your bento on the train.\nMap: https://www.google.com/maps/
- search/?api=1&query=Takayama%20Station%2C%20Takayama%2C%20Gifu
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ta
+ kayama%20Station%2C%20Takayama%2C%20Gifu\nEat your bento on the train.
+URL:https://www.google.com/maps/search/?api=1&query=Takayama%20Station%2C%2
+ 0Takayama%2C%20Gifu
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-shinkansen-to-kyoto-then-metros-to-the-h@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T143000
 DTEND;TZID=Asia/Tokyo:20261121T154500
 SUMMARY:Shinkansen to Kyoto\, then metros to the hostel
 LOCATION:Kyoto Station\, Shimogyo Ward\, Kyoto
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Kyoto%20St
- ation%2C%20Shimogyo%20Ward%2C%20Kyoto
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ky
+ oto%20Station%2C%20Shimogyo%20Ward%2C%20Kyoto
+URL:https://www.google.com/maps/search/?api=1&query=Kyoto%20Station%2C%20Sh
+ imogyo%20Ward%2C%20Kyoto
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-check-in-ryokan-hostel-gion-pods-3-night@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T154500
 DTEND;TZID=Asia/Tokyo:20261121T180000
 SUMMARY:Check in: Ryokan Hostel Gion (pods\, 3 nights)
 LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
  5-0089
-DESCRIPTION:Down time to rest\, snack or do laundry.\nMap: https://maps.app
- .goo.gl/sdKRq3zUaFYq1S6f9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9\nDown ti
+ me to rest\, snack or do laundry.
+URL:https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-gion-tour-with-a-local-guide@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T180000
 DTEND;TZID=Asia/Tokyo:20261121T193000
 SUMMARY:Gion tour with a local guide
 LOCATION:Hanamikoji Street\, Gionmachi Minamigawa\, Higashiyama Ward\, Kyot
  o 605-0074
-DESCRIPTION:History of Gion and how to tell a real geiko or maiko.\nStay on
-  Hanamikoji and public roads. Private lanes carry signs with fines of up t
- o 10\,000 yen.\nTimes between the guide’s fixed points are approximate.\
- nMap: https://www.google.com/maps/search/?api=1&query=Hanamikoji%20Street%
- 2C%20Gionmachi%20Minamigawa%2C%20Higashiyama%20Ward%2C%20Kyoto%20605-0074
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ha
+ namikoji%20Street%2C%20Gionmachi%20Minamigawa%2C%20Higashiyama%20Ward%2C%2
+ 0Kyoto%20605-0074\nHistory of Gion and how to tell a real geiko or maiko.\
+ nStay on Hanamikoji and public roads. Private lanes carry signs with fines
+  of up to 10\,000 yen.\nTimes between the guide’s fixed points are appro
+ ximate.
+URL:https://www.google.com/maps/search/?api=1&query=Hanamikoji%20Street%2C%
+ 20Gionmachi%20Minamigawa%2C%20Higashiyama%20Ward%2C%20Kyoto%20605-0074
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-free-evening-dinner-self-funded@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261121T193000
 DTEND;TZID=Asia/Tokyo:20261121T213000
 SUMMARY:Free evening: dinner (self funded)
 LOCATION:Gion\, Higashiyama Ward\, Kyoto
-DESCRIPTION:Kyoto Engine Ramen: vegetarian\, vegan and gluten free options\
- nRamen Sen-no-Kaze: popular\, put your name down and come back\nIchiran: p
- ork broth\, counter seats\, queue moves fast\nKyoto Ramen Mitsuru Gion: ch
- icken ramen\nThe Ramen War\nKura Sushi: conveyor belt\, cheap\nObenki: qua
- lity sushi near the hostel\nGyoza Hohei: Michelin recommended\, go at open
- ing\nSenmonten: izakaya gyoza near the hostel\nMotoi: Michelin recommended
-  gyoza near Nishiki Market\nGyoza ChaoChao: good value\nGyukatsu\nHamburge
- r steak with rice: queues\, near the hostel\nKhaos Spice Diner: curry\nSou
- ffle pancakes\nElk Kyotokawaramachiten: souffle pancakes\, less busy\nBen'
- s Cookies\nKitchen Bisshon: tiny pizza bar\, one pizza at a time\nAin Soph
-  Journey: vegan\nVegginy: vegan\nGion Soy Milk Ramen Uno Yokiko: vegan\nCh
- oice: vegan\nVegan Farm: vegan\nVegan UZU Ramen: vegan\nZirael: vegan\nMap
- : https://www.google.com/maps/search/?api=1&query=Gion%2C%20Higashiyama%20
- Ward%2C%20Kyoto
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Gi
+ on%2C%20Higashiyama%20Ward%2C%20Kyoto\nKyoto Engine Ramen: vegetarian\, ve
+ gan and gluten free options\nRamen Sen-no-Kaze: popular\, put your name do
+ wn and come back\nIchiran: pork broth\, counter seats\, queue moves fast\n
+ Kyoto Ramen Mitsuru Gion: chicken ramen\nThe Ramen War\nKura Sushi: convey
+ or belt\, cheap\nObenki: quality sushi near the hostel\nGyoza Hohei: Miche
+ lin recommended\, go at opening\nSenmonten: izakaya gyoza near the hostel\
+ nMotoi: Michelin recommended gyoza near Nishiki Market\nGyoza ChaoChao: go
+ od value\nGyukatsu\nHamburger steak with rice: queues\, near the hostel\nK
+ haos Spice Diner: curry\nSouffle pancakes\nElk Kyotokawaramachiten: souffl
+ e pancakes\, less busy\nBen's Cookies\nKitchen Bisshon: tiny pizza bar\, o
+ ne pizza at a time\nAin Soph Journey: vegan\nVegginy: vegan\nGion Soy Milk
+  Ramen Uno Yokiko: vegan\nChoice: vegan\nVegan Farm: vegan\nVegan UZU Rame
+ n: vegan\nZirael: vegan
+URL:https://www.google.com/maps/search/?api=1&query=Gion%2C%20Higashiyama%2
+ 0Ward%2C%20Kyoto
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-meet-the-group-outside-the-front-of-the-@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T060000
 DTEND;TZID=Asia/Tokyo:20261122T061500
 SUMMARY:Meet the group: outside the front of the hostel
 LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
  5-0089
-DESCRIPTION:Bring your IC card\, passport\, and money for food and souvenir
- s.\nMap: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9\nBring y
+ our IC card\, passport\, and money for food and souvenirs.
+URL:https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-fushimi-inari-taisha-at-dawn@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T063000
 DTEND;TZID=Asia/Tokyo:20261122T080000
 SUMMARY:Fushimi Inari Taisha at dawn
 LOCATION:Fushimi Inari Taisha\, 68 Fukakusa Yabunouchicho\, Fushimi Ward\, 
  Kyoto 612-0882
-DESCRIPTION:Up the mountain before the crowds. Do not block the paths.\nMap
- : https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taisha
- %2C%2068%20Fukakusa%20Yabunouchicho%2C%20Fushimi%20Ward%2C%20Kyoto%20612-0
- 882
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Fu
+ shimi%20Inari%20Taisha%2C%2068%20Fukakusa%20Yabunouchicho%2C%20Fushimi%20W
+ ard%2C%20Kyoto%20612-0882\nUp the mountain before the crowds. Do not block
+  the paths.
+URL:https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taish
+ a%2C%2068%20Fukakusa%20Yabunouchicho%2C%20Fushimi%20Ward%2C%20Kyoto%20612-
+ 0882
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-breakfast-stop-at-familymart@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T080000
 DTEND;TZID=Asia/Tokyo:20261122T084500
 SUMMARY:Breakfast stop at FamilyMart
 LOCATION:Fushimi Ward\, Kyoto
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Fushimi%20
- Ward%2C%20Kyoto
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Fu
+ shimi%20Ward%2C%20Kyoto
+URL:https://www.google.com/maps/search/?api=1&query=Fushimi%20Ward%2C%20Kyo
+ to
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-kiyomizudera-the-pure-water-temple@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T090000
 DTEND;TZID=Asia/Tokyo:20261122T100000
 SUMMARY:Kiyomizudera\, the pure water temple
 LOCATION:Kiyomizudera\, 1 Chome-294 Kiyomizu\, Higashiyama Ward\, Kyoto 605
  -0862
-DESCRIPTION:Water ritual for love\, longevity or wisdom.\nTripods and monop
- ods are not allowed.\nMap: https://www.google.com/maps/search/?api=1&query
- =Kiyomizudera%2C%201%20Chome-294%20Kiyomizu%2C%20Higashiyama%20Ward%2C%20K
- yoto%20605-0862
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ki
+ yomizudera%2C%201%20Chome-294%20Kiyomizu%2C%20Higashiyama%20Ward%2C%20Kyot
+ o%20605-0862\nWater ritual for love\, longevity or wisdom.\nTripods and mo
+ nopods are not allowed.
+URL:https://www.google.com/maps/search/?api=1&query=Kiyomizudera%2C%201%20C
+ home-294%20Kiyomizu%2C%20Higashiyama%20Ward%2C%20Kyoto%20605-0862
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-free-time-in-ninenzaka@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T100000
 DTEND;TZID=Asia/Tokyo:20261122T105000
 SUMMARY:Free time in Ninenzaka
 LOCATION:Ninenzaka\, Higashiyama Ward\, Kyoto
-DESCRIPTION:Kimono and tea ceremony meeting point: 10:50 kimono\, 11:50 tea
-  ceremony\nPublic toilets\nKodaiji Temple\nRyozen Kannon: giant Kannon sta
- tue\, 300 yen\nMochi Mochi: mochi pounding stand\nKyoto style Starbucks\nT
- emple with the dragon ceiling painting\nBlack pagoda streets: good for pho
- tos\nCustom rings with engraving: shopping\nStudio Ghibli shop: shopping\n
- Map: https://www.google.com/maps/search/?api=1&query=Ninenzaka%2C%20Higash
- iyama%20Ward%2C%20Kyoto
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ni
+ nenzaka%2C%20Higashiyama%20Ward%2C%20Kyoto\nKimono and tea ceremony meetin
+ g point: 10:50 kimono\, 11:50 tea ceremony\nPublic toilets\nKodaiji Temple
+ \nRyozen Kannon: giant Kannon statue\, 300 yen\nMochi Mochi: mochi poundin
+ g stand\nKyoto style Starbucks\nTemple with the dragon ceiling painting\nB
+ lack pagoda streets: good for photos\nCustom rings with engraving: shoppin
+ g\nStudio Ghibli shop: shopping
+URL:https://www.google.com/maps/search/?api=1&query=Ninenzaka%2C%20Higashiy
+ ama%20Ward%2C%20Kyoto
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-kimono-fitting-if-you-opted-in-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T105000
 DTEND;TZID=Asia/Tokyo:20261122T115000
 SUMMARY:Kimono fitting (if you opted in) (optional)
 LOCATION:Ninenzaka\, Higashiyama Ward\, Kyoto
-DESCRIPTION:Meet 10:50. Belongings stay at the kimono shop. You wear only u
- nderwear under the kimono.\nMap: https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6\nMeet 10
+ :50. Belongings stay at the kimono shop. You wear only underwear under the
+  kimono.
+URL:https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-tea-ceremony@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T115000
 DTEND;TZID=Asia/Tokyo:20261122T130000
 SUMMARY:Tea ceremony
 LOCATION:Ninenzaka\, Higashiyama Ward\, Kyoto
-DESCRIPTION:Meet 11:50. History\, a demonstration\, then you make matcha yo
- urself.\nMap: https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6\nMeet 11
+ :50. History\, a demonstration\, then you make matcha yourself.
+URL:https://maps.app.goo.gl/jrazUxCF9sYcSNzZ6
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-free-afternoon-and-evening@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261122T130000
 DTEND;TZID=Asia/Tokyo:20261122T210000
 SUMMARY:Free afternoon and evening
 LOCATION:Higashiyama\, Kyoto
-DESCRIPTION:Ideas: Nishiki Market for lunch\, Gion Corner arts performance 
- at night. See the Day 6 food picks.\nMap: https://www.google.com/maps/sear
- ch/?api=1&query=Higashiyama%2C%20Kyoto
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ gashiyama%2C%20Kyoto\nIdeas: Nishiki Market for lunch\, Gion Corner arts p
+ erformance at night. See the Day 6 food picks.
+URL:https://www.google.com/maps/search/?api=1&query=Higashiyama%2C%20Kyoto
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-meet-the-group-hostel-lobby@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261123T084000
 DTEND;TZID=Asia/Tokyo:20261123T085500
 SUMMARY:Meet the group: hostel lobby
 LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
  5-0089
-DESCRIPTION:Eat breakfast first\, it is an active day. Bring your IC card\,
-  passport and money.\nMap: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9\nEat bre
+ akfast first\, it is an active day. Bring your IC card\, passport and mone
+ y.
+URL:https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-bus-to-a-kendo-dojo-kendo-class@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261123T090000
 DTEND;TZID=Asia/Tokyo:20261123T113000
 SUMMARY:Bus to a kendo dojo\, kendo class
 LOCATION:Kyoto\, kendo dojo on the outskirts\, set by guide
-DESCRIPTION:Learn kendo and spar with each other.\nTimes between the guide
- ’s fixed points are approximate.\nMap: https://www.google.com/maps/searc
- h/?api=1&query=Kyoto%2C%20kendo%20dojo%20on%20the%20outskirts%2C%20set%20b
- y%20guide
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ky
+ oto%2C%20kendo%20dojo%20on%20the%20outskirts%2C%20set%20by%20guide\nLearn 
+ kendo and spar with each other.\nTimes between the guide’s fixed points 
+ are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Kyoto%2C%20kendo%20dojo
+ %20on%20the%20outskirts%2C%20set%20by%20guide
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-kinkakuji-golden-pavilion@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261123T120000
 DTEND;TZID=Asia/Tokyo:20261123T133000
 SUMMARY:Kinkakuji (Golden Pavilion)
 LOCATION:Kinkakuji\, 1 Kinkakujicho\, Kita Ward\, Kyoto 603-8361
-DESCRIPTION:Times between the guide’s fixed points are approximate.\nMap:
-  https://www.google.com/maps/search/?api=1&query=Kinkakuji%2C%201%20Kinkak
- ujicho%2C%20Kita%20Ward%2C%20Kyoto%20603-8361
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ki
+ nkakuji%2C%201%20Kinkakujicho%2C%20Kita%20Ward%2C%20Kyoto%20603-8361\nTime
+ s between the guide’s fixed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Kinkakuji%2C%201%20Kink
+ akujicho%2C%20Kita%20Ward%2C%20Kyoto%20603-8361
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-daitokuji-zen-garden-sub-temple@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261123T134500
 DTEND;TZID=Asia/Tokyo:20261123T150000
 SUMMARY:Daitokuji Zen garden sub temple
 LOCATION:Daitokuji\, 53 Murasakino Daitokujicho\, Kita Ward\, Kyoto 603-823
  1
-DESCRIPTION:Day finishes around 15:00.\nMap: https://www.google.com/maps/se
- arch/?api=1&query=Daitokuji%2C%2053%20Murasakino%20Daitokujicho%2C%20Kita%
- 20Ward%2C%20Kyoto%20603-8231
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Da
+ itokuji%2C%2053%20Murasakino%20Daitokujicho%2C%20Kita%20Ward%2C%20Kyoto%20
+ 603-8231\nDay finishes around 15:00.
+URL:https://www.google.com/maps/search/?api=1&query=Daitokuji%2C%2053%20Mur
+ asakino%20Daitokujicho%2C%20Kita%20Ward%2C%20Kyoto%20603-8231
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-free-evening-heian-shrine-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261123T153000
 DTEND;TZID=Asia/Tokyo:20261123T170000
 SUMMARY:Free evening. Heian Shrine (optional)
 LOCATION:Heian Shrine\, 97 Okazaki Nishitennocho\, Sakyo Ward\, Kyoto 606-8
  341
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Heian%20Sh
- rine%2C%2097%20Okazaki%20Nishitennocho%2C%20Sakyo%20Ward%2C%20Kyoto%20606-
- 8341
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=He
+ ian%20Shrine%2C%2097%20Okazaki%20Nishitennocho%2C%20Sakyo%20Ward%2C%20Kyot
+ o%20606-8341
+URL:https://www.google.com/maps/search/?api=1&query=Heian%20Shrine%2C%2097%
+ 20Okazaki%20Nishitennocho%2C%20Sakyo%20Ward%2C%20Kyoto%20606-8341
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-meet-the-group-outside-the-front-of-the-@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T080000
 DTEND;TZID=Asia/Tokyo:20261124T081500
 SUMMARY:Meet the group: outside the front of the hostel
 LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
  5-0089
-DESCRIPTION:Bags packed and left in reception. Eat breakfast first or bring
-  it\, food is hard to find in Arashiyama.\nMap: https://maps.app.goo.gl/sd
- KRq3zUaFYq1S6f9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9\nBags pa
+ cked and left in reception. Eat breakfast first or bring it\, food is hard
+  to find in Arashiyama.
+URL:https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-arashiyama-bamboo-grove@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T083000
 DTEND;TZID=Asia/Tokyo:20261124T093000
 SUMMARY:Arashiyama Bamboo Grove
 LOCATION:Arashiyama Bamboo Grove\, Sagaogurayama Tabuchiyamacho\, Ukyo Ward
  \, Kyoto 616-8394
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Arashiyama
- %20Bamboo%20Grove%2C%20Sagaogurayama%20Tabuchiyamacho%2C%20Ukyo%20Ward%2C%
- 20Kyoto%20616-8394
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ar
+ ashiyama%20Bamboo%20Grove%2C%20Sagaogurayama%20Tabuchiyamacho%2C%20Ukyo%20
+ Ward%2C%20Kyoto%20616-8394
+URL:https://www.google.com/maps/search/?api=1&query=Arashiyama%20Bamboo%20G
+ rove%2C%20Sagaogurayama%20Tabuchiyamacho%2C%20Ukyo%20Ward%2C%20Kyoto%20616
+ -8394
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-monkey-mountain-iwatayama-monkey-park@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T093000
 DTEND;TZID=Asia/Tokyo:20261124T120000
 SUMMARY:Monkey Mountain (Iwatayama Monkey Park)
 LOCATION:Iwatayama Monkey Park\, 8 Arashiyama Genrokuzancho\, Nishikyo Ward
  \, Kyoto 616-0004
-DESCRIPTION:About 20 min walk up at your own pace. Listen to the guide’s 
- do’s and don’ts first.\nMap: https://www.google.com/maps/search/?api=1
- &query=Iwatayama%20Monkey%20Park%2C%208%20Arashiyama%20Genrokuzancho%2C%20
- Nishikyo%20Ward%2C%20Kyoto%20616-0004
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Iw
+ atayama%20Monkey%20Park%2C%208%20Arashiyama%20Genrokuzancho%2C%20Nishikyo%
+ 20Ward%2C%20Kyoto%20616-0004\nAbout 20 min walk up at your own pace. Liste
+ n to the guide’s do’s and don’ts first.
+URL:https://www.google.com/maps/search/?api=1&query=Iwatayama%20Monkey%20Pa
+ rk%2C%208%20Arashiyama%20Genrokuzancho%2C%20Nishikyo%20Ward%2C%20Kyoto%206
+ 16-0004
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-lunch-in-kyoto-self-funded@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T123000
 DTEND;TZID=Asia/Tokyo:20261124T132000
 SUMMARY:Lunch in Kyoto (self funded)
 LOCATION:Higashiyama\, Kyoto
-DESCRIPTION:Collect your bags from the hostel.\nMap: https://www.google.com
- /maps/search/?api=1&query=Higashiyama%2C%20Kyoto
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ gashiyama%2C%20Kyoto\nCollect your bags from the hostel.
+URL:https://www.google.com/maps/search/?api=1&query=Higashiyama%2C%20Kyoto
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-meet-the-group-hostel-with-bags@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T132000
 DTEND;TZID=Asia/Tokyo:20261124T133000
 SUMMARY:Meet the group: hostel\, with bags
 LOCATION:Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama Ward\, Kyoto 60
  5-0089
-DESCRIPTION:Map: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
+URL:https://maps.app.goo.gl/sdKRq3zUaFYq1S6f9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-train-to-osaka-check-in-hotel-links-namb@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T134000
 DTEND;TZID=Asia/Tokyo:20261124T150000
 SUMMARY:Train to Osaka\, check in: Hotel Links Namba
 LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
-DESCRIPTION:Train leaves 13:40\, check in on arrival about 15:00.\nMap: htt
- ps://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9\nTrain l
+ eaves 13:40\, check in on arrival about 15:00.
+URL:https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-free-time-in-osaka-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T153000
 DTEND;TZID=Asia/Tokyo:20261124T183000
 SUMMARY:Free time in Osaka (optional)
 LOCATION:Namba\, Osaka
-DESCRIPTION:Have a snack before the food tour.\nAmerikamura: second hand di
- strict\nDen Den Town: anime and electronics\nYasaka Namba Shrine: around t
- he corner from the hotel\nUmeda Sky Building: viewpoint\nSpa World: huge o
- nsen\, no tattoos\nShinsaibashi shopping district\nMap: https://www.google
- .com/maps/search/?api=1&query=Namba%2C%20Osaka
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Na
+ mba%2C%20Osaka\nHave a snack before the food tour.\nAmerikamura: second ha
+ nd district\nDen Den Town: anime and electronics\nYasaka Namba Shrine: aro
+ und the corner from the hotel\nUmeda Sky Building: viewpoint\nSpa World: h
+ uge onsen\, no tattoos\nShinsaibashi shopping district
+URL:https://www.google.com/maps/search/?api=1&query=Namba%2C%20Osaka
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-dotonbori-food-tour-dinner-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T183000
 DTEND;TZID=Asia/Tokyo:20261124T210000
 SUMMARY:Dotonbori food tour (dinner included)
 LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
-DESCRIPTION:Meet 18:30 in the hotel lobby. Bring a light jacket. First food
-  stop about 19:30.\nGlico sign\, takoyaki\, kushikatsu\, okonomiyaki\, tai
- yaki.\nMap: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9\nMeet 18
+ :30 in the hotel lobby. Bring a light jacket. First food stop about 19:30.
+ \nGlico sign\, takoyaki\, kushikatsu\, okonomiyaki\, taiyaki.
+URL:https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-private-karaoke-booth@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261124T210000
 DTEND;TZID=Asia/Tokyo:20261124T223000
 SUMMARY:Private karaoke booth
 LOCATION:Dotonbori\, Chuo Ward\, Osaka
-DESCRIPTION:Last hurrah for the 10 day crew.\nMap: https://www.google.com/m
- aps/search/?api=1&query=Dotonbori%2C%20Chuo%20Ward%2C%20Osaka
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Do
+ tonbori%2C%20Chuo%20Ward%2C%20Osaka\nLast hurrah for the 10 day crew.
+URL:https://www.google.com/maps/search/?api=1&query=Dotonbori%2C%20Chuo%20W
+ ard%2C%20Osaka
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-breakfast-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261125T080000
 DTEND;TZID=Asia/Tokyo:20261125T090000
 SUMMARY:Breakfast (included)
 LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
-DESCRIPTION:Map: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+URL:https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-free-morning-in-osaka-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261125T090000
 DTEND;TZID=Asia/Tokyo:20261125T143000
 SUMMARY:Free morning in Osaka (optional)
 LOCATION:Namba\, Osaka
-DESCRIPTION:Sleep in\, or try Amerikamura\, Shinsaibashi\, Spa World or Den
-  Den Town. See the Day 9 Osaka picks.\nMap: https://www.google.com/maps/se
- arch/?api=1&query=Namba%2C%20Osaka
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Na
+ mba%2C%20Osaka\nSleep in\, or try Amerikamura\, Shinsaibashi\, Spa World o
+ r Den Den Town. See the Day 9 Osaka picks.
+URL:https://www.google.com/maps/search/?api=1&query=Namba%2C%20Osaka
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-meet-the-group-outside-morinomiya-statio@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261125T150000
 DTEND;TZID=Asia/Tokyo:20261125T151500
 SUMMARY:Meet the group: outside Morinomiya Station
 LOCATION:Morinomiya Station\, Chuo Ward\, Osaka
-DESCRIPTION:Bring your IC card and money for food.\nMap: https://maps.app.g
- oo.gl/M4hxEhxTGqF9ML796
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/M4hxEhxTGqF9ML796\nBring y
+ our IC card and money for food.
+URL:https://maps.app.goo.gl/M4hxEhxTGqF9ML796
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-osaka-castle@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261125T151500
 DTEND;TZID=Asia/Tokyo:20261125T164500
 SUMMARY:Osaka Castle
 LOCATION:Osaka Castle\, 1-1 Osakajo\, Chuo Ward\, Osaka 540-0002
-DESCRIPTION:Sunset about 16:48.\nTimes between the guide’s fixed points a
- re approximate.\nMap: https://www.google.com/maps/search/?api=1&query=Osak
- a%20Castle%2C%201-1%20Osakajo%2C%20Chuo%20Ward%2C%20Osaka%20540-0002
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Os
+ aka%20Castle%2C%201-1%20Osakajo%2C%20Chuo%20Ward%2C%20Osaka%20540-0002\nSu
+ nset about 16:48.\nTimes between the guide’s fixed points are approximat
+ e.
+URL:https://www.google.com/maps/search/?api=1&query=Osaka%20Castle%2C%201-1
+ %20Osakajo%2C%20Chuo%20Ward%2C%20Osaka%20540-0002
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-shinsekai@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261125T170000
 DTEND;TZID=Asia/Tokyo:20261125T180000
 SUMMARY:Shinsekai
 LOCATION:Shinsekai\, Ebisuhigashi\, Naniwa Ward\, Osaka 556-0002
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Shinsekai%
- 2C%20Ebisuhigashi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sh
+ insekai%2C%20Ebisuhigashi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002
+URL:https://www.google.com/maps/search/?api=1&query=Shinsekai%2C%20Ebisuhig
+ ashi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-backstreets-tour-and-dinner-self-funded@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261125T180000
 DTEND;TZID=Asia/Tokyo:20261125T210000
 SUMMARY:Backstreets tour and dinner (self funded)
 LOCATION:Shinsekai\, Ebisuhigashi\, Naniwa Ward\, Osaka 556-0002
-DESCRIPTION:Times between the guide’s fixed points are approximate.\nMap:
-  https://www.google.com/maps/search/?api=1&query=Shinsekai%2C%20Ebisuhigas
- hi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Sh
+ insekai%2C%20Ebisuhigashi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002\nTimes 
+ between the guide’s fixed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Shinsekai%2C%20Ebisuhig
+ ashi%2C%20Naniwa%20Ward%2C%20Osaka%20556-0002
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-breakfast-included-in-the-restaurant@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T070000
 DTEND;TZID=Asia/Tokyo:20261126T075000
 SUMMARY:Breakfast (included) in the restaurant
 LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
-DESCRIPTION:Bring all your bags down with you.\nMap: https://maps.app.goo.g
- l/FABF6DS5nd7Hi63e9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9\nBring a
+ ll your bags down with you.
+URL:https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-meet-the-group-reception@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T080000
 DTEND;TZID=Asia/Tokyo:20261126T081500
 SUMMARY:Meet the group: reception
 LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
-DESCRIPTION:Bags packed\, key cards handed in\, luggage left at reception. 
- Bring your IC card\, passport and money.\nMap: https://maps.app.goo.gl/FAB
- F6DS5nd7Hi63e9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9\nBags pa
+ cked\, key cards handed in\, luggage left at reception. Bring your IC card
+ \, passport and money.
+URL:https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-nara-park-todaiji-and-the-daibutsuden@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T083000
 DTEND;TZID=Asia/Tokyo:20261126T110000
 SUMMARY:Nara Park\, Todaiji and the Daibutsuden
 LOCATION:Todaiji\, 406-1 Zoshicho\, Nara 630-8211
-DESCRIPTION:Deer in Nara Park. Do not wear clothes you love.\nWalking tour 
- of Todaiji\, the Daibutsuden hall and a city viewpoint\, then free time.\n
- Map: https://www.google.com/maps/search/?api=1&query=Todaiji%2C%20406-1%20
- Zoshicho%2C%20Nara%20630-8211
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=To
+ daiji%2C%20406-1%20Zoshicho%2C%20Nara%20630-8211\nDeer in Nara Park. Do no
+ t wear clothes you love.\nWalking tour of Todaiji\, the Daibutsuden hall a
+ nd a city viewpoint\, then free time.
+URL:https://www.google.com/maps/search/?api=1&query=Todaiji%2C%20406-1%20Zo
+ shicho%2C%20Nara%20630-8211
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-lunch-in-osaka-collect-bags@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T120000
 DTEND;TZID=Asia/Tokyo:20261126T131500
 SUMMARY:Lunch in Osaka\, collect bags
 LOCATION:Hotel Links Namba\, 1-9-27 Inari\, Naniwa Ward\, Osaka 556-0023
-DESCRIPTION:Map: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
+URL:https://maps.app.goo.gl/FABF6DS5nd7Hi63e9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-train-cable-car-and-bus-to-koyasan@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T133000
 DTEND;TZID=Asia/Tokyo:20261126T160000
 SUMMARY:Train\, cable car and bus to Koyasan
 LOCATION:Gokurakubashi Station\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Gokurakuba
- shi%20Station%2C%20Koya%2C%20Ito%20District%2C%20Wakayama
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Go
+ kurakubashi%20Station%2C%20Koya%2C%20Ito%20District%2C%20Wakayama
+URL:https://www.google.com/maps/search/?api=1&query=Gokurakubashi%20Station
+ %2C%20Koya%2C%20Ito%20District%2C%20Wakayama
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-check-in-daimyo-in-temple@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T160000
 DTEND;TZID=Asia/Tokyo:20261126T163000
 SUMMARY:Check in: Daimyo-in Temple
 LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Map: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+URL:https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-okunoin-cemetery-walk@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T163000
 DTEND;TZID=Asia/Tokyo:20261126T174500
 SUMMARY:Okunoin cemetery walk
 LOCATION:Okunoin\, 550 Koyasan\, Koya\, Ito District\, Wakayama 648-0211
-DESCRIPTION:Japan’s largest cemetery and the history of Koyasan.\nTimes b
- etween the guide’s fixed points are approximate.\nMap: https://www.googl
- e.com/maps/search/?api=1&query=Okunoin%2C%20550%20Koyasan%2C%20Koya%2C%20I
- to%20District%2C%20Wakayama%20648-0211
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ok
+ unoin%2C%20550%20Koyasan%2C%20Koya%2C%20Ito%20District%2C%20Wakayama%20648
+ -0211\nJapan’s largest cemetery and the history of Koyasan.\nTimes betwe
+ en the guide’s fixed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Okunoin%2C%20550%20Koya
+ san%2C%20Koya%2C%20Ito%20District%2C%20Wakayama%20648-0211
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-shojin-ryori-temple-dinner-included-vega@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T180000
 DTEND;TZID=Asia/Tokyo:20261126T190000
 SUMMARY:Shojin ryori temple dinner (included\, vegan)
 LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Map: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+URL:https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-free-evening-temple-onsen-and-a-stroll-o@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261126T190000
 DTEND;TZID=Asia/Tokyo:20261126T213000
 SUMMARY:Free evening: temple onsen and a stroll (optional)
 LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Onsen is gender separate. Yukata provided.\nMap: https://maps.a
- pp.goo.gl/U3gvvXcbjrUaBT8y8
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8\nOnsen i
+ s gender separate. Yukata provided.
+URL:https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-prayer-ceremony-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T070000
 DTEND;TZID=Asia/Tokyo:20261127T074000
 SUMMARY:Prayer ceremony (optional)
 LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Dress warm.\nMap: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8\nDress w
+ arm.
+URL:https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-temple-breakfast-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T074500
 DTEND;TZID=Asia/Tokyo:20261127T083000
 SUMMARY:Temple breakfast (included)
 LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Map: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+URL:https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-meet-the-group-outside-the-temple-bags-r@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T091500
 DTEND;TZID=Asia/Tokyo:20261127T093000
 SUMMARY:Meet the group: outside the temple\, bags ready
 LOCATION:Daimyo-in Temple\, Koyasan\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Bring your paper bus tickets and everything else.\nMap: https:/
- /maps.app.goo.gl/U3gvvXcbjrUaBT8y8
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8\nBring y
+ our paper bus tickets and everything else.
+URL:https://maps.app.goo.gl/U3gvvXcbjrUaBT8y8
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-danjo-garan@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T093000
 DTEND;TZID=Asia/Tokyo:20261127T101500
 SUMMARY:Danjo Garan
 LOCATION:Danjo Garan\, 152 Koyasan\, Koya\, Ito District\, Wakayama
-DESCRIPTION:The guide waits with the bags. Buy lunch at the FamilyMart near
- by\, train timings are tight.\nMap: https://www.google.com/maps/search/?ap
- i=1&query=Danjo%20Garan%2C%20152%20Koyasan%2C%20Koya%2C%20Ito%20District%2
- C%20Wakayama
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Da
+ njo%20Garan%2C%20152%20Koyasan%2C%20Koya%2C%20Ito%20District%2C%20Wakayama
+ \nThe guide waits with the bags. Buy lunch at the FamilyMart nearby\, trai
+ n timings are tight.
+URL:https://www.google.com/maps/search/?api=1&query=Danjo%20Garan%2C%20152%
+ 20Koyasan%2C%20Koya%2C%20Ito%20District%2C%20Wakayama
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-bus-to-koyasan-cable-car-station@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T101500
 DTEND;TZID=Asia/Tokyo:20261127T104500
 SUMMARY:Bus to Koyasan cable car station
 LOCATION:Koyasan Station\, Koya\, Ito District\, Wakayama
-DESCRIPTION:Toilet stop here.\nMap: https://www.google.com/maps/search/?api
- =1&query=Koyasan%20Station%2C%20Koya%2C%20Ito%20District%2C%20Wakayama
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ko
+ yasan%20Station%2C%20Koya%2C%20Ito%20District%2C%20Wakayama\nToilet stop h
+ ere.
+URL:https://www.google.com/maps/search/?api=1&query=Koyasan%20Station%2C%20
+ Koya%2C%20Ito%20District%2C%20Wakayama
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-cable-car-and-train-to-osaka-namba@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T104500
 DTEND;TZID=Asia/Tokyo:20261127T123000
 SUMMARY:Cable car and train to Osaka Namba
 LOCATION:Namba Station\, Chuo Ward\, Osaka
-DESCRIPTION:About 90 min. No toilet\, no reserved seats\, no eating on this
-  train.\nMap: https://www.google.com/maps/search/?api=1&query=Namba%20Stat
- ion%2C%20Chuo%20Ward%2C%20Osaka
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Na
+ mba%20Station%2C%20Chuo%20Ward%2C%20Osaka\nAbout 90 min. No toilet\, no re
+ served seats\, no eating on this train.
+URL:https://www.google.com/maps/search/?api=1&query=Namba%20Station%2C%20Ch
+ uo%20Ward%2C%20Osaka
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-shinkansen-shin-osaka-to-hiroshima-then-@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T131500
 DTEND;TZID=Asia/Tokyo:20261127T152000
 SUMMARY:Shinkansen Shin-Osaka to Hiroshima\, then streetcar
 LOCATION:Hiroshima Station\, Minami Ward\, Hiroshima
-DESCRIPTION:Metro from Namba to Shin-Osaka first. 7-Eleven stop before boar
- ding.\nMap: https://www.google.com/maps/search/?api=1&query=Hiroshima%20St
- ation%2C%20Minami%20Ward%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ roshima%20Station%2C%20Minami%20Ward%2C%20Hiroshima\nMetro from Namba to S
+ hin-Osaka first. 7-Eleven stop before boarding.
+URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%20Station%2C%
+ 20Minami%20Ward%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-check-in-hotel-kuretakeso-hiroshima-otem@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T152000
 DTEND;TZID=Asia/Tokyo:20261127T155000
 SUMMARY:Check in: Hotel Kuretakeso Hiroshima Otemachi
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
   Hiroshima 730-0051
-DESCRIPTION:Map: https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
+URL:https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-peace-memorial-park-tour-with-a-local-gu@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T160000
 DTEND;TZID=Asia/Tokyo:20261127T173000
 SUMMARY:Peace Memorial Park tour with a local guide
 LOCATION:Hiroshima Peace Memorial Park\, 1-2 Nakajimacho\, Naka Ward\, Hiro
  shima 730-0811
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Hiroshima%
- 20Peace%20Memorial%20Park%2C%201-2%20Nakajimacho%2C%20Naka%20Ward%2C%20Hir
- oshima%20730-0811
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ roshima%20Peace%20Memorial%20Park%2C%201-2%20Nakajimacho%2C%20Naka%20Ward%
+ 2C%20Hiroshima%20730-0811
+URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%20Peace%20Mem
+ orial%20Park%2C%201-2%20Nakajimacho%2C%20Naka%20Ward%2C%20Hiroshima%20730-
+ 0811
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-free-evening-in-hiroshima-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261127T173000
 DTEND;TZID=Asia/Tokyo:20261127T210000
 SUMMARY:Free evening in Hiroshima (optional)
 LOCATION:Hiroshima\, Naka Ward
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Hiroshima%
- 2C%20Naka%20Ward
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ roshima%2C%20Naka%20Ward
+URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%2C%20Naka%20W
+ ard
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-breakfast-included@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261128T070000
 DTEND;TZID=Asia/Tokyo:20261128T074000
 SUMMARY:Breakfast (included)
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
   Hiroshima 730-0051
-DESCRIPTION:Map: https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
+URL:https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-meet-the-group-in-front-of-the-hotel@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261128T074500
 DTEND;TZID=Asia/Tokyo:20261128T080000
 SUMMARY:Meet the group: in front of the hotel
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
   Hiroshima 730-0051
-DESCRIPTION:Bring money for food and souvenirs\, and your passport. The gui
- de hands out a transport card for streetcars and ferries.\nMap: https://ma
- ps.app.goo.gl/7yyJFPU9c6L7wvU68
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/7yyJFPU9c6L7wvU68\nBring m
+ oney for food and souvenirs\, and your passport. The guide hands out a tra
+ nsport card for streetcars and ferries.
+URL:https://maps.app.goo.gl/7yyJFPU9c6L7wvU68
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-two-streetcars-and-the-ferry-to-miyajima@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261128T080000
 DTEND;TZID=Asia/Tokyo:20261128T093000
 SUMMARY:Two streetcars and the ferry to Miyajima
 LOCATION:Miyajimaguchi Ferry Terminal\, Hatsukaichi\, Hiroshima
-DESCRIPTION:The second streetcar takes about an hour\, so grab a seat.\nTim
- es between the guide’s fixed points are approximate.\nMap: https://www.g
- oogle.com/maps/search/?api=1&query=Miyajimaguchi%20Ferry%20Terminal%2C%20H
- atsukaichi%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mi
+ yajimaguchi%20Ferry%20Terminal%2C%20Hatsukaichi%2C%20Hiroshima\nThe second
+  streetcar takes about an hour\, so grab a seat.\nTimes between the guide
+ ’s fixed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Miyajimaguchi%20Ferry%2
+ 0Terminal%2C%20Hatsukaichi%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-miyajima-walking-tour-omotesando-floatin@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261128T093000
 DTEND;TZID=Asia/Tokyo:20261128T123000
 SUMMARY:Miyajima walking tour: Omotesando\, Floating Torii\, Itsukushima Sh
  rine\, Daisho-in
 LOCATION:Itsukushima Shrine\, 1-1 Miyajimacho\, Hatsukaichi\, Hiroshima 739
  -0588
-DESCRIPTION:Try a momiji manju on Omotesando.\nDaisho-in has a dark tunnel 
- under the temple and a lantern hall cave.\nTimes between the guide’s fix
- ed points are approximate.\nMap: https://www.google.com/maps/search/?api=1
- &query=Itsukushima%20Shrine%2C%201-1%20Miyajimacho%2C%20Hatsukaichi%2C%20H
- iroshima%20739-0588
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=It
+ sukushima%20Shrine%2C%201-1%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshima%
+ 20739-0588\nTry a momiji manju on Omotesando.\nDaisho-in has a dark tunnel
+  under the temple and a lantern hall cave.\nTimes between the guide’s fi
+ xed points are approximate.
+URL:https://www.google.com/maps/search/?api=1&query=Itsukushima%20Shrine%2C
+ %201-1%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshima%20739-0588
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-free-afternoon-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261128T123000
 DTEND;TZID=Asia/Tokyo:20261128T193000
 SUMMARY:Free afternoon (optional)
 LOCATION:Miyajima\, Hatsukaichi\, Hiroshima
-DESCRIPTION:Return to Hiroshima on your own.\nLemon drinks: Miyajima\nTouri
- st information: toilets and bins\nGhibli store: Miyajima\nMt Misen Ropeway
-  station: Miyajima\nHiroshima Peace Memorial Museum: Hiroshima\nHiroshima 
- Castle: Hiroshima\nShukkeien Gardens: Hiroshima\nMap: https://www.google.c
- om/maps/search/?api=1&query=Miyajima%2C%20Hatsukaichi%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mi
+ yajima%2C%20Hatsukaichi%2C%20Hiroshima\nReturn to Hiroshima on your own.\n
+ Lemon drinks: Miyajima\nTourist information: toilets and bins\nGhibli stor
+ e: Miyajima\nMt Misen Ropeway station: Miyajima\nHiroshima Peace Memorial 
+ Museum: Hiroshima\nHiroshima Castle: Hiroshima\nShukkeien Gardens: Hiroshi
+ ma
+URL:https://www.google.com/maps/search/?api=1&query=Miyajima%2C%20Hatsukaic
+ hi%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-final-evening-drinks-and-pool-at-the-one@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261128T200000
 DTEND;TZID=Asia/Tokyo:20261128T220000
 SUMMARY:Final evening: drinks and pool at the One Life pub
 LOCATION:Hiroshima\, venue set by guide
-DESCRIPTION:Meal not included.\nMap: https://www.google.com/maps/search/?ap
- i=1&query=Hiroshima%2C%20venue%20set%20by%20guide
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ roshima%2C%20venue%20set%20by%20guide\nMeal not included.
+URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%2C%20venue%20
+ set%20by%20guide
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-breakfast-included-and-check-out@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T070000
 DTEND;TZID=Asia/Tokyo:20261129T080000
 SUMMARY:Breakfast (included) and check out
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
   Hiroshima 730-0051
-DESCRIPTION:Ask the guide for help with onward travel.\nMap: https://www.go
- ogle.com/maps/search/?api=1&query=Hotel%20Kuretakeso%20Hiroshima%20Otemach
- i%2C%203-7-3%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%20730-0051
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ho
+ tel%20Kuretakeso%20Hiroshima%20Otemachi%2C%203-7-3%20Otemachi%2C%20Naka%20
+ Ward%2C%20Hiroshima%20730-0051\nAsk the guide for help with onward travel.
+URL:https://www.google.com/maps/search/?api=1&query=Hotel%20Kuretakeso%20Hi
+ roshima%20Otemachi%2C%203-7-3%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%2
+ 0730-0051
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-tour-ends@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T090000
 DTEND;TZID=Asia/Tokyo:20261129T091500
 SUMMARY:Tour ends
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka Ward\,
   Hiroshima 730-0051
-DESCRIPTION:Tour finishes at 09:00 in Hiroshima.\nMap: https://www.google.c
- om/maps/search/?api=1&query=Hotel%20Kuretakeso%20Hiroshima%20Otemachi%2C%2
- 03-7-3%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%20730-0051
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ho
+ tel%20Kuretakeso%20Hiroshima%20Otemachi%2C%203-7-3%20Otemachi%2C%20Naka%20
+ Ward%2C%20Hiroshima%20730-0051\nTour finishes at 09:00 in Hiroshima.
+URL:https://www.google.com/maps/search/?api=1&query=Hotel%20Kuretakeso%20Hi
+ roshima%20Otemachi%2C%203-7-3%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%2
+ 0730-0051
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-peace-park-river-walk-optional@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T091500
 DTEND;TZID=Asia/Tokyo:20261129T094500
 SUMMARY:Peace Park river walk (optional)
 LOCATION:Atomic Bomb Dome\, 1-10 Otemachi\, Naka Ward\, Hiroshima 730-0051
-DESCRIPTION:Suggested in the operator PDF.\nMap: https://www.google.com/map
- s/search/?api=1&query=Atomic%20Bomb%20Dome%2C%201-10%20Otemachi%2C%20Naka%
- 20Ward%2C%20Hiroshima%20730-0051
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=At
+ omic%20Bomb%20Dome%2C%201-10%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%20
+ 730-0051\nSuggested in the operator PDF.
+URL:https://www.google.com/maps/search/?api=1&query=Atomic%20Bomb%20Dome%2C
+ %201-10%20Otemachi%2C%20Naka%20Ward%2C%20Hiroshima%20730-0051
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-streetcar-to-hiroshima-station@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T094500
 DTEND;TZID=Asia/Tokyo:20261129T101500
 SUMMARY:Streetcar to Hiroshima Station
 LOCATION:Hiroshima Station\, Minami Ward\, Hiroshima
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Hiroshima%
- 20Station%2C%20Minami%20Ward%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ roshima%20Station%2C%20Minami%20Ward%2C%20Hiroshima
+URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%20Station%2C%
+ 20Minami%20Ward%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-shinkansen-hiroshima-to-mihara@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T101500
 DTEND;TZID=Asia/Tokyo:20261129T105000
 SUMMARY:Shinkansen: Hiroshima to Mihara
 LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
-DESCRIPTION:Kodama about 25 min. JR Sanyo local takes about 75 min.\nMap: h
- ttps://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2C%20
- 1%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=JR
+ %20Mihara%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+ \nKodama about 25 min. JR Sanyo local takes about 75 min.
+URL:https://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2
+ C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-drop-luggage-super-hotel-mihara-ekimae@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T105000
 DTEND;TZID=Asia/Tokyo:20261129T111500
 SUMMARY:Drop luggage: Super Hotel Mihara Ekimae
 LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
  a
-DESCRIPTION:Check in opens 15:00. Confirm they will hold bags.\nMap: https:
- //www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%20Ekimae%
- 2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Su
+ per%20Hotel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20H
+ iroshima\nCheck in opens 15:00. Confirm they will hold bags.
+URL:https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%
+ 20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-bus-to-buttsuji-temple@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T113000
 DTEND;TZID=Asia/Tokyo:20261129T121500
 SUMMARY:Bus to Buttsuji Temple
 LOCATION:JR Mihara Station\, bus stop No. 4\, Mihara\, Hiroshima
-DESCRIPTION:Geiyo Bus\, about 40 min. Buses are infrequent. 2025 adult fare
-  730 yen.\nExtra autumn buses ran 15 to 30 Nov in 2025. Check the 2026 tim
- etable. Taxi is the fallback.\nMap: https://www.google.com/maps/search/?ap
- i=1&query=JR%20Mihara%20Station%2C%20bus%20stop%20No.%204%2C%20Mihara%2C%2
- 0Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=JR
+ %20Mihara%20Station%2C%20bus%20stop%20No.%204%2C%20Mihara%2C%20Hiroshima\n
+ Geiyo Bus\, about 40 min. Buses are infrequent. 2025 adult fare 730 yen.\n
+ Extra autumn buses ran 15 to 30 Nov in 2025. Check the 2026 timetable. Tax
+ i is the fallback.
+URL:https://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2
+ C%20bus%20stop%20No.%204%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-buttsuji-temple-autumn-leaves@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T121500
 DTEND;TZID=Asia/Tokyo:20261129T150000
 SUMMARY:Buttsuji Temple autumn leaves
 LOCATION:Buttsuji Temple\, 22 Motoyama\, Takasaka-cho\, Mihara\, Hiroshima 
  729-0471
-DESCRIPTION:Earlier research: autumn special opening runs to 29 Nov\, 08:00
-  to 17:00\, 500 yen. Reconfirm.\nLenses: 24-70 for temple and foliage\, 70
- -200 for compressed details.\nMap: https://www.google.com/maps/search/?api
- =1&query=Buttsuji%20Temple%2C%2022%20Motoyama%2C%20Takasaka-cho%2C%20Mihar
- a%2C%20Hiroshima%20729-0471
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Bu
+ ttsuji%20Temple%2C%2022%20Motoyama%2C%20Takasaka-cho%2C%20Mihara%2C%20Hiro
+ shima%20729-0471\nEarlier research: autumn special opening runs to 29 Nov\
+ , 08:00 to 17:00\, 500 yen. Reconfirm.\nLenses: 24-70 for temple and folia
+ ge\, 70-200 for compressed details.
+URL:https://www.google.com/maps/search/?api=1&query=Buttsuji%20Temple%2C%20
+ 22%20Motoyama%2C%20Takasaka-cho%2C%20Mihara%2C%20Hiroshima%20729-0471
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-bus-back-to-mihara-station@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T150000
 DTEND;TZID=Asia/Tokyo:20261129T154500
 SUMMARY:Bus back to Mihara Station
 LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
-DESCRIPTION:Check the return times on arrival. 2025 timetable shows late af
- ternoon buses.\nMap: https://www.google.com/maps/search/?api=1&query=JR%20
- Mihara%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=JR
+ %20Mihara%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+ \nCheck the return times on arrival. 2025 timetable shows late afternoon b
+ uses.
+URL:https://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2
+ C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-check-in-super-hotel-mihara-ekimae@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T154500
 DTEND;TZID=Asia/Tokyo:20261129T160000
 SUMMARY:Check in: Super Hotel Mihara Ekimae
 LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
  a
-DESCRIPTION:Book the 05:50 taxi for tomorrow at reception.\nMap: https://ww
- w.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%20Ekimae%2C%2
- 01-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Su
+ per%20Hotel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20H
+ iroshima\nBook the 05:50 taxi for tomorrow at reception.
+URL:https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%
+ 20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-mihara-waterfront-and-castle-ruins-at-du@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T161500
 DTEND;TZID=Asia/Tokyo:20261129T174500
 SUMMARY:Mihara waterfront and castle ruins at dusk
 LOCATION:Mihara Castle Ruins Park\, beside JR Mihara Station\, Mihara\, Hir
  oshima
-DESCRIPTION:Sunset about 16:57. Blue hour on the harbour after.\nMap: https
- ://www.google.com/maps/search/?api=1&query=Mihara%20Castle%20Ruins%20Park%
- 2C%20beside%20JR%20Mihara%20Station%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mi
+ hara%20Castle%20Ruins%20Park%2C%20beside%20JR%20Mihara%20Station%2C%20Miha
+ ra%2C%20Hiroshima\nSunset about 16:57. Blue hour on the harbour after.
+URL:https://www.google.com/maps/search/?api=1&query=Mihara%20Castle%20Ruins
+ %20Park%2C%20beside%20JR%20Mihara%20Station%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-dinner-self-funded@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261129T180000
 DTEND;TZID=Asia/Tokyo:20261129T193000
 SUMMARY:Dinner (self funded)
 LOCATION:Mihara\, Hiroshima
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Mihara%2C%
- 20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mi
+ hara%2C%20Hiroshima
+URL:https://www.google.com/maps/search/?api=1&query=Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-taxi-to-mount-fudekage-pre-booked@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T055000
 DTEND;TZID=Asia/Tokyo:20261130T061000
 SUMMARY:Taxi to Mount Fudekage (pre booked)
 LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
  a
-DESCRIPTION:Book the return trip in advance. Early taxis are not guaranteed
- .\nMap: https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mi
- hara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Su
+ per%20Hotel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20H
+ iroshima\nBook the return trip in advance. Early taxis are not guaranteed.
+URL:https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%
+ 20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-mount-fudekage-sunrise-shoot@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T061000
 DTEND;TZID=Asia/Tokyo:20261130T074500
 SUMMARY:Mount Fudekage sunrise shoot
 LOCATION:Mt Fudekage Observatory\, Mihara\, Hiroshima
-DESCRIPTION:Sunrise about 06:55. Summit about 311 m\, Seto Inland Sea islan
- d layers\, possible sea fog.\nLenses: 24-70 and 70-200. Tripod if packed.\
- nMap: https://www.google.com/maps/search/?api=1&query=Mt%20Fudekage%20Obse
- rvatory%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mt
+ %20Fudekage%20Observatory%2C%20Mihara%2C%20Hiroshima\nSunrise about 06:55.
+  Summit about 311 m\, Seto Inland Sea island layers\, possible sea fog.\nL
+ enses: 24-70 and 70-200. Tripod if packed.
+URL:https://www.google.com/maps/search/?api=1&query=Mt%20Fudekage%20Observa
+ tory%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-taxi-back-to-hotel@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T074500
 DTEND;TZID=Asia/Tokyo:20261130T080500
 SUMMARY:Taxi back to hotel
 LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
  a
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Super%20Ho
- tel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Su
+ per%20Hotel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20H
+ iroshima
+URL:https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%
+ 20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-breakfast-included-and-pack@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T081500
 DTEND;TZID=Asia/Tokyo:20261130T093000
 SUMMARY:Breakfast (included) and pack
 LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
  a
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Super%20Ho
- tel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Su
+ per%20Hotel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20H
+ iroshima
+URL:https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%
+ 20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-check-out-by-10-00-store-luggage@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T093000
 DTEND;TZID=Asia/Tokyo:20261130T100000
 SUMMARY:Check out by 10:00\, store luggage
 LOCATION:Super Hotel Mihara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshim
  a
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Super%20Ho
- tel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Su
+ per%20Hotel%20Mihara%20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20H
+ iroshima
+URL:https://www.google.com/maps/search/?api=1&query=Super%20Hotel%20Mihara%
+ 20Ekimae%2C%201-12-10%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-free-time-in-mihara-and-lunch@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T100000
 DTEND;TZID=Asia/Tokyo:20261130T131500
 SUMMARY:Free time in Mihara and lunch
 LOCATION:Mihara\, Hiroshima
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=Mihara%2C%
- 20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mi
+ hara%2C%20Hiroshima
+URL:https://www.google.com/maps/search/?api=1&query=Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-collect-luggage-walk-to-station-bus-stop@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T131500
 DTEND;TZID=Asia/Tokyo:20261130T134000
 SUMMARY:Collect luggage\, walk to station bus stop
 LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
-DESCRIPTION:Map: https://www.google.com/maps/search/?api=1&query=JR%20Mihar
- a%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=JR
+ %20Mihara%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+URL:https://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2
+ C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-airport-bus-mihara-station-hiroshima-air@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T135000
 DTEND;TZID=Asia/Tokyo:20261130T142800
 SUMMARY:Airport bus: Mihara Station → Hiroshima Airport
 LOCATION:JR Mihara Station\, 1 Chome Shiromachi\, Mihara\, Hiroshima
-DESCRIPTION:Not booked. Recheck the timetable and stop. Earlier research: 1
- \,000 yen.\nThe next bus (15:50) is too late for a safe margin.\nMap: http
- s://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2C%201%2
- 0Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=JR
+ %20Mihara%20Station%2C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
+ \nNot booked. Recheck the timetable and stop. Earlier research: 1\,000 yen
+ .\nThe next bus (15:50) is too late for a safe margin.
+URL:https://www.google.com/maps/search/?api=1&query=JR%20Mihara%20Station%2
+ C%201%20Chome%20Shiromachi%2C%20Mihara%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-jal-check-in-and-bag-drop@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T143000
 DTEND;TZID=Asia/Tokyo:20261130T153000
 SUMMARY:JAL check in and bag drop
 LOCATION:Hiroshima Airport\, 64-31 Zennyuji\, Hongo-cho\, Mihara\, Hiroshim
  a 729-0416
-DESCRIPTION:Both flights are on one booking. Ask to check the bag through t
- o Sydney.\nMap: https://www.google.com/maps/search/?api=1&query=Hiroshima%
- 20Airport%2C%2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hiroshima%
- 20729-0416
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ roshima%20Airport%2C%2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hi
+ roshima%20729-0416\nBoth flights are on one booking. Ask to check the bag 
+ through to Sydney.
+URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%20Airport%2C%
+ 2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hiroshima%20729-0416
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-jl264-hij-17-55-hnd-19-15@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T175500
 DTEND;TZID=Asia/Tokyo:20261130T191500
 SUMMARY:✈ JL264 HIJ 17:55 → HND 19:15
 LOCATION:Hiroshima Airport\, 64-31 Zennyuji\, Hongo-cho\, Mihara\, Hiroshim
  a 729-0416
-DESCRIPTION:Japan Airlines JL264. Departure changed from 17:50 to 17:55.\nG
- ate A2 (app forecast). Arrives Haneda T1\, gates 7 to 21. 1 h 20 min\, 637
-  km.\nMap: https://www.google.com/maps/search/?api=1&query=Hiroshima%20Air
- port%2C%2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hiroshima%20729
- -0416
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
+ roshima%20Airport%2C%2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hi
+ roshima%20729-0416\nJapan Airlines JL264. Departure changed from 17:50 to 
+ 17:55.\nGate A2 (app forecast). Arrives Haneda T1\, gates 7 to 21. 1 h 20 
+ min\, 637 km.
+URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%20Airport%2C%
+ 2064-31%20Zennyuji%2C%20Hongo-cho%2C%20Mihara%2C%20Hiroshima%20729-0416
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-haneda-transfer-t1-to-t3@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T191500
 DTEND;TZID=Asia/Tokyo:20261130T203000
 SUMMARY:Haneda transfer: T1 to T3
 LOCATION:Haneda Airport Terminal 1\, 3-3-2 Hanedakuko\, Ota City\, Tokyo 14
  4-0041
-DESCRIPTION:Connection 2 h 45 min. Take the free inter terminal shuttle bus
- .\nInternational check in\, security and emigration at T3.\nMap: https://w
- ww.google.com/maps/search/?api=1&query=Haneda%20Airport%20Terminal%201%2C%
- 203-3-2%20Hanedakuko%2C%20Ota%20City%2C%20Tokyo%20144-0041
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ha
+ neda%20Airport%20Terminal%201%2C%203-3-2%20Hanedakuko%2C%20Ota%20City%2C%2
+ 0Tokyo%20144-0041\nConnection 2 h 45 min. Take the free inter terminal shu
+ ttle bus.\nInternational check in\, security and emigration at T3.
+URL:https://www.google.com/maps/search/?api=1&query=Haneda%20Airport%20Term
+ inal%201%2C%203-3-2%20Hanedakuko%2C%20Ota%20City%2C%20Tokyo%20144-0041
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-qf60-hnd-22-00-syd-10-00-1@akumarau
-DTSTAMP:20261117T071605Z
-SEQUENCE:4
+DTSTAMP:20261118T041641Z
+SEQUENCE:5
 DTSTART;TZID=Asia/Tokyo:20261130T220000
 DTEND;TZID=Australia/Sydney:20261201T100000
 SUMMARY:✈ QF60 HND 22:00 → SYD 10:00 (+1)
 LOCATION:Haneda Airport Terminal 3\, 2-6-5 Hanedakuko\, Ota City\, Tokyo 14
  4-0041
-DESCRIPTION:Qantas QF60. Haneda T3 to Sydney T1. Overnight\, 10 h.\nArrival
-  changed from 09:55 to 10:00 Sydney time.\nMap: https://www.google.com/map
- s/search/?api=1&query=Haneda%20Airport%20Terminal%203%2C%202-6-5%20Hanedak
- uko%2C%20Ota%20City%2C%20Tokyo%20144-0041
+DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ha
+ neda%20Airport%20Terminal%203%2C%202-6-5%20Hanedakuko%2C%20Ota%20City%2C%2
+ 0Tokyo%20144-0041\nQantas QF60. Haneda T3 to Sydney T1. Overnight\, 10 h.\
+ nArrival changed from 09:55 to 10:00 Sydney time.
+URL:https://www.google.com/maps/search/?api=1&query=Haneda%20Airport%20Term
+ inal%203%2C%202-6-5%20Hanedakuko%2C%20Ota%20City%2C%20Tokyo%20144-0041
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
