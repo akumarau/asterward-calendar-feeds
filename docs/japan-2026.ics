@@ -35,7 +35,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:japan2026-day-20261115@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261116@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261117@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
@@ -76,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261118@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -93,7 +93,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261119@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -113,7 +113,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261120@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -135,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261121@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -157,31 +157,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261122@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:D7 | Kyoto: Fushimi Inari at dawn\, Kiyomizudera\, tea ceremony\, E
- ikando at night | 4 to 12 °C
+ ikando at night | 3 to 12 °C
 LOCATION:Ryokan Hostel Gion
-DESCRIPTION:Weather: Kyoto 4 to 12 °C\, partly cloudy (2%).\nWear: Warm ja
- cket with a layer underneath. Forecast checked 21 Nov\, 13:10\nMeals: None
- \nBooked: Kimono and tea ceremony.\nLenses: 24-70 and 70-200\nHotel tonigh
- t: Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama-ku\, Kyoto 605-0089\
- nCamera Carry: 24-70 and 70-200. No tripod.\nCamera Leave at the hostel: 1
- 2-24\, 2x\, IT32\, tripod\nCamera Kimono\, 10:50 to 13:00: The bag stays a
- t the kimono shop. Keep the body and 24-70 on the strap if the shop allows
- . Hand it to a friend for your portrait.\nEarly start: meet 06:00 outside 
- the hostel.\nKimono at 10:50\, tea ceremony at 11:50. Belongings stay at t
- he kimono shop.\nRunning late\, replanned at 14:35: walk north through Hig
- ashiyama to Nanzenji for sunset\, then Eikando lit up. Silver Pavilion and
-  the Philosopher’s Path are dropped.\nLong day on foot\, likely over 25\
- ,000 steps. Skip anything optional if you are flagging.
+DESCRIPTION:Weather: Kyoto 3 to 12 °C\, sunny (0%).\nWear: Warm jacket wit
+ h a layer underneath. Forecast checked 22 Nov\, 05:37\nMeals: None\nBooked
+ : Kimono and tea ceremony.\nLenses: 24-70 and 70-200\nHotel tonight: Ryoka
+ n Hostel Gion\, 391-2 Motomachi\, Higashiyama-ku\, Kyoto 605-0089\nCamera 
+ Carry: 24-70 and 70-200. No tripod.\nCamera Leave at the hostel: 12-24\, 2
+ x\, IT32\, tripod\nCamera Kimono\, 10:50 to 13:00: The bag stays at the ki
+ mono shop. Keep the body and 24-70 on the strap if the shop allows. Hand i
+ t to a friend for your portrait.\nEarly start: meet 06:00 outside the host
+ el.\nKimono at 10:50\, tea ceremony at 11:50. Belongings stay at the kimon
+ o shop.\nRunning late\, replanned at 14:35: walk north through Higashiyama
+  to Nanzenji for sunset\, then Eikando lit up. Silver Pavilion and the Phi
+ losopher’s Path are dropped.\nLong day on foot\, likely over 25\,000 ste
+ ps. Skip anything optional if you are flagging.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261123@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
@@ -189,7 +189,7 @@ SUMMARY:D8 | Kyoto: kendo\, Kinkakuji\, Daitokuji\, then teamLab Biovortex
  | 3 to 12 °C
 LOCATION:Ryokan Hostel Gion
 DESCRIPTION:Weather: Kyoto 3 to 12 °C\, partly cloudy (0%).\nWear: Warm ja
- cket with a layer underneath. Forecast checked 21 Nov\, 13:10\nMeals: None
+ cket with a layer underneath. Forecast checked 22 Nov\, 05:37\nMeals: None
  \nBooked: teamLab Biovortex\, 16:30 entry.\nLenses: 12-24\, 24-70 and 70-2
  00\nHotel tonight: Ryokan Hostel Gion\, 391-2 Motomachi\, Higashiyama-ku\,
   Kyoto 605-0089\nCamera Carry: 12-24\, 24-70 and 70-200. No tripod.\nCamer
@@ -201,17 +201,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261124@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:D9 | Arashiyama bamboo\, monkeys\, boat ride\, Osaka Dotonbori | 5 
- to 15 °C
+SUMMARY:D9 | Arashiyama bamboo\, monkeys\, boat ride\, Osaka Dotonbori | 7 
+ to 16 °C
 LOCATION:Hotel Links Namba
-DESCRIPTION:Weather: Kyoto 5 to 12 °C\, rain likely (100%). Osaka 6 to 15 
+DESCRIPTION:Weather: Kyoto 7 to 13 °C\, rain likely (100%). Osaka 8 to 16 
  °C\, rain likely (100%).\nWear: Warm jacket with a layer underneath. Umbr
- ella\, and the rain cover on the camera bag. Forecast checked 21 Nov\, 13:
- 10\nMeals: Dinner (food tour)\nOptional: Free time in Osaka.\nLenses: 24-7
+ ella\, and the rain cover on the camera bag. Forecast checked 22 Nov\, 05:
+ 37\nMeals: Dinner (food tour)\nOptional: Free time in Osaka.\nLenses: 24-7
  0\, 70-200 and 2x\nHotel tonight: Hotel Links Namba\, 1-9-27 Inari\, Naniw
  a-ku\, Osaka 556-0023\nCamera Morning: Bags wait at the Gion hostel recept
  ion. Take the 24-70\, 70-200 and 2x. The rest stays packed in your luggage
@@ -224,35 +224,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261125@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:D10 | Himeji Castle and the bullet trains\, then Osaka Castle and S
- hinsekai | 5 to 12 °C
+ hinsekai | 4 to 11 °C
 LOCATION:Hotel Links Namba
-DESCRIPTION:Weather: Osaka 5 to 12 °C\, sunny (0%).\nWear: Warm jacket wit
- h a layer underneath. Forecast checked 21 Nov\, 13:10\nMeals: Breakfast\nM
- orning: Himeji Castle and the Shinkansen\, back by 15:00.\nLenses: 24-70\,
-  70-200 and 2x\nHotel tonight: Hotel Links Namba\, 1-9-27 Inari\, Naniwa-k
- u\, Osaka 556-0023\nCamera Carry: 24-70\, 70-200 and 2x.\nCamera Leave at 
- the hotel: 12-24\, IT32\, tripod\nMorning trip to Himeji: castle at 09:20\
- , Shinkansen photos at 11:45.\nBe at Morinomiya Station by 15:00 for the g
- roup.\nCosts: about 1\,490 yen out\, 3\,520 yen back\, 2\,500 yen castle. 
- Roughly 7\,500 yen in total.
+DESCRIPTION:Weather: Osaka 4 to 11 °C\, cloudy (0%).\nWear: Warm jacket wi
+ th a layer underneath. Forecast checked 22 Nov\, 05:37\nMeals: Breakfast\n
+ Morning: Himeji Castle and the Shinkansen\, back by 15:00.\nLenses: 24-70\
+ , 70-200 and 2x\nHotel tonight: Hotel Links Namba\, 1-9-27 Inari\, Naniwa-
+ ku\, Osaka 556-0023\nCamera Carry: 24-70\, 70-200 and 2x.\nCamera Leave at
+  the hotel: 12-24\, IT32\, tripod\nMorning trip to Himeji: castle at 09:20
+ \, Shinkansen photos at 11:45.\nBe at Morinomiya Station by 15:00 for the 
+ group.\nCosts: about 1\,490 yen out\, 3\,520 yen back\, 2\,500 yen castle.
+  Roughly 7\,500 yen in total.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261126@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:D11 | Nara Park\, then Koyasan temple stay | −3 to 12 °C
 LOCATION:Daimyo-in Temple
-DESCRIPTION:Weather: Nara 3 to 12 °C\, cloudy (0%). Koyasan −3 to 9 °C\
+DESCRIPTION:Weather: Nara 3 to 12 °C\, cloudy (0%). Koyasan −3 to 8 °C\
  , cloudy (0%).\nWear: Thermals\, warm jacket\, gloves and beanie. Spare ba
- ttery in an inner pocket. Forecast checked 21 Nov\, 13:10\nMeals: Breakfas
+ ttery in an inner pocket. Forecast checked 22 Nov\, 05:37\nMeals: Breakfas
  t\, vegan temple dinner\nLenses: 24-70 and 70-200\nHotel tonight: Daimyo-i
  n Temple\, Koyasan\, Wakayama\nCamera Morning: Luggage stays at Hotel Link
  s reception during Nara. Take the 24-70 and 70-200. The rest stays packed 
@@ -265,89 +265,88 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261127@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:D12 | Koyasan prayers\, Danjo Garan\, Shinkansen to Hiroshima\, Pea
- ce Memorial | 1 to 16 °C
+ ce Memorial | 5 to 17 °C
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi
-DESCRIPTION:Weather: Koyasan 1 to 14 °C\, cloudy (8%). Hiroshima 5 to 16 
- °C\, sunny (3%).\nWear: Thermals\, warm jacket\, gloves and beanie. Spare
-  battery in an inner pocket. Forecast checked 21 Nov\, 13:10\nMeals: Break
- fast\nLenses: 24-70 and 12-24\nHotel tonight: Hotel Kuretakeso Hiroshima O
- temachi\, 3-7-3 Otemachi\, Naka-ku\, Hiroshima 730-0051\nCamera Moving day
- : Meet at 09:15 with bags. The whole camera bag travels with you. Tripod g
- oes in your main luggage.\nCamera Danjo Garan: The guide minds the main ba
- gs. Take the camera bag with you.\nCamera After check in\, 15:20: Bags sta
- y at Kuretakeso. Take the 24-70 and 12-24 to the Peace Park.\nMeet 09:15 o
- utside the temple with bags and paper bus tickets.\nKeep it respectful at 
- the memorial.
+DESCRIPTION:Weather: Koyasan 5 to 13 °C\, cloudy (15%). Hiroshima 5 to 17 
+ °C\, cloudy (9%).\nWear: Warm jacket with a layer underneath. Forecast ch
+ ecked 22 Nov\, 05:37\nMeals: Breakfast\nLenses: 24-70 and 12-24\nHotel ton
+ ight: Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka-ku\, Hir
+ oshima 730-0051\nCamera Moving day: Meet at 09:15 with bags. The whole cam
+ era bag travels with you. Tripod goes in your main luggage.\nCamera Danjo 
+ Garan: The guide minds the main bags. Take the camera bag with you.\nCamer
+ a After check in\, 15:20: Bags stay at Kuretakeso. Take the 24-70 and 12-2
+ 4 to the Peace Park.\nMeet 09:15 outside the temple with bags and paper bu
+ s tickets.\nKeep it respectful at the memorial.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261128@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:D13 | Miyajima: Great Torii\, Itsukushima Shrine\, farewell evening
-  | 5 to 20 °C
+  | 7 to 16 °C
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi
-DESCRIPTION:Weather: Miyajima 5 to 20 °C\, partly cloudy (16%).\nWear: War
- m jacket with a layer underneath. Forecast checked 21 Nov\, 13:10\nMeals: 
- Breakfast. Final evening meal not included\nLenses: 24-70\, 70-200 and IT3
- 2\nHotel tonight: Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, N
- aka-ku\, Hiroshima 730-0051\nCamera Carry: 24-70\, 70-200 and IT32.\nCamer
- a Leave at the hotel: 12-24\, 2x\, tripod\nMeet 07:45 in front of the hote
- l.
+DESCRIPTION:Weather: Miyajima 7 to 16 °C\, cloudy (14%).\nWear: Warm jacke
+ t with a layer underneath. Forecast checked 22 Nov\, 05:37\nMeals: Breakfa
+ st. Final evening meal not included\nLenses: 24-70\, 70-200 and IT32\nHote
+ l tonight: Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka-ku\
+ , Hiroshima 730-0051\nCamera Carry: 24-70\, 70-200 and IT32.\nCamera Leave
+  at the hotel: 12-24\, 2x\, tripod\nMeet 07:45 in front of the hotel.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261129@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:D14 | Tour ends 09:00\, Mihara\, Buttsuji autumn leaves | 2 to 14 
+SUMMARY:D14 | Tour ends 09:00\, Mihara\, Buttsuji autumn leaves | 3 to 13 
  °C
 LOCATION:Super Hotel Mihara Ekimae
-DESCRIPTION:Weather: Hiroshima 3 to 13 °C\, sunny (22%). Mihara 2 to 14 °
- C\, sunny (17%).\nWear: Thermals\, warm jacket\, gloves and beanie. Spare 
- battery in an inner pocket. Forecast checked 21 Nov\, 13:10\nMeals: Breakf
- ast (tour hotel)\nLenses: 24-70 and 70-200\nHotel tonight: Super Hotel Mih
- ara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshima\nCamera Moving day: C
- heck out of Hotel Kuretakeso by 08:00. The whole camera bag travels with y
- ou. Tripod goes in your main luggage.\nCamera Bag drop\, 10:50: Leave the 
- main luggage at Super Hotel Mihara. Take the 24-70 and 70-200 to Buttsuji.
- \nCamera Dusk\, 16:15: You are checked in by then. Add the tripod if you w
- ant long exposures.\nHotel phone +81 848 89 9000. Breakfast included at Su
- per Hotel.
+DESCRIPTION:Weather: Hiroshima 3 to 11 °C\, partly cloudy (25%). Mihara 3 
+ to 13 °C\, sunny (10%).\nWear: Warm jacket with a layer underneath. Spare
+  battery in an inner pocket. Forecast checked 22 Nov\, 05:37\nMeals: Break
+ fast (tour hotel)\nLenses: 24-70 and 70-200\nHotel tonight: Super Hotel Mi
+ hara Ekimae\, 1-12-10 Shiromachi\, Mihara\, Hiroshima\nCamera Moving day: 
+ Check out of Hotel Kuretakeso by 08:00. The whole camera bag travels with 
+ you. Tripod goes in your main luggage.\nCamera Bag drop\, 10:50: Leave the
+  main luggage at Super Hotel Mihara. Take the 24-70 and 70-200 to Buttsuji
+ .\nCamera Dusk\, 16:15: You are checked in by then. Add the tripod if you 
+ want long exposures.\nHotel phone +81 848 89 9000. Breakfast included at S
+ uper Hotel.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261130@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:D15 | Mount Fudekage sunrise\, fly Hiroshima to Haneda to Sydney | 
- 3 to 18 °C
+ 3 to 16 °C
 LOCATION:
-DESCRIPTION:Weather: Mihara 3 to 18 °C\, sunny (2%).\nWear: Warm jacket wi
- th a layer underneath. Forecast checked 21 Nov\, 13:10\nCamera Sunrise\, 0
- 6:10: Everything: tripod\, 12-24\, 24-70\, 70-200 and 2x. The taxi drops y
- ou close.\nCamera Moving day: Check out by 10:00. Main luggage is stored a
- t the hotel until 13:15. Then the whole camera bag goes with you to the ai
- rport as your cabin bag.\nCamera Before the airport: Pack the tripod in yo
- ur checked luggage. Keep the camera\, lenses\, batteries and power bank in
-  the cabin bag.\nJL264 Hiroshima 17:55 to Haneda T1 19:15\, then QF60 Hane
- da T3 22:00 to Sydney T1 10:00 (1 Dec).\nOvernight flight\, no hotel.
+DESCRIPTION:Weather: Mihara 3 to 16 °C\, sunny (1%).\nWear: Warm jacket wi
+ th a layer underneath. Spare battery in an inner pocket. Forecast checked 
+ 22 Nov\, 05:37\nCamera Sunrise\, 06:10: Everything: tripod\, 12-24\, 24-70
+ \, 70-200 and 2x. The taxi drops you close.\nCamera Moving day: Check out 
+ by 10:00. Main luggage is stored at the hotel until 13:15. Then the whole 
+ camera bag goes with you to the airport as your cabin bag.\nCamera Before 
+ the airport: Pack the tripod in your checked luggage. Keep the camera\, le
+ nses\, batteries and power bank in the cabin bag.\nJL264 Hiroshima 17:55 t
+ o Haneda T1 19:15\, then QF60 Haneda T3 22:00 to Sydney T1 10:00 (1 Dec).\
+ nOvernight flight\, no hotel.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-sydney-airport-check-in-and-security@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Australia/Sydney:20261115T090000
 DTEND;TZID=Australia/Sydney:20261115T111500
@@ -363,7 +362,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-qf59-syd-12-00-hnd-20-00@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Australia/Sydney:20261115T120000
 DTEND;TZID=Asia/Tokyo:20261115T200000
@@ -380,7 +379,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-haneda-arrival-immigration-customs-bagga@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261115T200000
 DTEND;TZID=Asia/Tokyo:20261115T210000
@@ -396,7 +395,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-transfer-haneda-to-nippori@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261115T210000
 DTEND;TZID=Asia/Tokyo:20261115T221500
@@ -413,7 +412,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261115-check-in-sakura-hotel-nippori@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261115T221500
 DTEND;TZID=Asia/Tokyo:20261115T224500
@@ -431,7 +430,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-yanaka-cemetery-and-temples-free@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T100000
 DTEND;TZID=Asia/Tokyo:20261116T120000
@@ -447,7 +446,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-lunch-self-funded-yanaka@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T120000
 DTEND;TZID=Asia/Tokyo:20261116T130000
@@ -462,7 +461,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-ueno-park-and-shinobazu-pond-free@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T130000
 DTEND;TZID=Asia/Tokyo:20261116T160000
@@ -478,7 +477,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-sunset-at-the-yuyake-dandan-steps@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T160000
 DTEND;TZID=Asia/Tokyo:20261116T164500
@@ -493,7 +492,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-back-at-the-hotel-rest-and-swap-lenses@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T164500
 DTEND;TZID=Asia/Tokyo:20261116T174500
@@ -510,7 +509,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-tour-group-meeting-hotel-lobby@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T180000
 DTEND;TZID=Asia/Tokyo:20261116T183000
@@ -527,7 +526,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-welcome-dinner-included@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T183000
 DTEND;TZID=Asia/Tokyo:20261116T203000
@@ -538,7 +537,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261116-sensoji-at-night@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261116T203000
 DTEND;TZID=Asia/Tokyo:20261116T220000
@@ -553,7 +552,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-breakfast-included@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261117T073000
 DTEND;TZID=Asia/Tokyo:20261117T083000
@@ -569,7 +568,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-japan-orientation@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261117T090000
 DTEND;TZID=Asia/Tokyo:20261117T100000
@@ -580,7 +579,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-harajuku-and-takeshita-street@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261117T103000
 DTEND;TZID=Asia/Tokyo:20261117T120000
@@ -596,7 +595,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-free-time-in-harajuku@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261117T123000
 DTEND;TZID=Asia/Tokyo:20261117T153000
@@ -619,7 +618,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-akihabara-early-roam-on-your-own-optiona@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261117T153000
 DTEND;TZID=Asia/Tokyo:20261117T174500
@@ -638,7 +637,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-meet-the-group-akihabara-station-central@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261117T180000
 DTEND;TZID=Asia/Tokyo:20261117T181500
@@ -651,7 +650,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261117-dinner-and-arcade-with-the-group@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261117T180000
 DTEND;TZID=Asia/Tokyo:20261117T210000
@@ -666,7 +665,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-breakfast-included@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T080000
 DTEND;TZID=Asia/Tokyo:20261118T090000
@@ -682,7 +681,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-meet-the-group-hotel-lobby@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T100000
 DTEND;TZID=Asia/Tokyo:20261118T101500
@@ -699,7 +698,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-sushi-class-at-tsukiji-market-lunch-incl@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T110000
 DTEND;TZID=Asia/Tokyo:20261118T130000
@@ -713,7 +712,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-free-time-then-tsukiji-kamiyacho-hibiya-@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T130000
 DTEND;TZID=Asia/Tokyo:20261118T134500
@@ -729,7 +728,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-teamlab-borderless-booked@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T140000
 DTEND;TZID=Asia/Tokyo:20261118T163000
@@ -746,7 +745,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-transit-kamiyacho-tochomae@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T163000
 DTEND;TZID=Asia/Tokyo:20261118T171000
@@ -761,7 +760,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-meet-the-group-tokyo-metropolitan-govern@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T171500
 DTEND;TZID=Asia/Tokyo:20261118T183000
@@ -780,7 +779,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-omoide-yokocho-dinner-self-funded@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T190000
 DTEND;TZID=Asia/Tokyo:20261118T203000
@@ -797,7 +796,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-kabukicho-walk-and-the-godzilla-head@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T203000
 DTEND;TZID=Asia/Tokyo:20261118T211500
@@ -815,7 +814,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261118-shibuya-hachiko-story-and-the-scramble-c@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261118T213000
 DTEND;TZID=Asia/Tokyo:20261118T223000
@@ -833,7 +832,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-breakfast-included-pack-and-check-out@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261119T073000
 DTEND;TZID=Asia/Tokyo:20261119T090000
@@ -850,7 +849,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-meet-the-group-outside-the-hotel-in-the-@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261119T091500
 DTEND;TZID=Asia/Tokyo:20261119T093000
@@ -867,7 +866,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-shinjuku-romancecar-and-the-mountain-tra@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261119T093000
 DTEND;TZID=Asia/Tokyo:20261119T130000
@@ -884,7 +883,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-drop-bags-gaku-guesthouse@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261119T130000
 DTEND;TZID=Asia/Tokyo:20261119T133000
@@ -898,7 +897,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-cable-car-and-ropeway-to-owakudani@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261119T133000
 DTEND;TZID=Asia/Tokyo:20261119T163000
@@ -915,7 +914,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-conbini-run-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261119T163000
 DTEND;TZID=Asia/Tokyo:20261119T173000
@@ -930,7 +929,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261119-curry-nabe-dinner-at-hakone-kitchen-then@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261119T183000
 DTEND;TZID=Asia/Tokyo:20261119T210000
@@ -946,7 +945,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-meet-the-group-downstairs-game-room@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261120T080000
 DTEND;TZID=Asia/Tokyo:20261120T081500
@@ -960,7 +959,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-train-down-the-mountain-metro-to-odawara@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261120T081500
 DTEND;TZID=Asia/Tokyo:20261120T100000
@@ -976,7 +975,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-first-shinkansen-to-nagoya-then-hida-wid@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261120T100000
 DTEND;TZID=Asia/Tokyo:20261120T140000
@@ -993,7 +992,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-check-in-temple-hotel-takayama-zenkoji@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261120T140000
 DTEND;TZID=Asia/Tokyo:20261120T143000
@@ -1006,7 +1005,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-sanmachi-suji-old-town-and-sake-tasting@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261120T143000
 DTEND;TZID=Asia/Tokyo:20261120T170000
@@ -1022,7 +1021,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261120-free-evening-in-takayama@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261120T170000
 DTEND;TZID=Asia/Tokyo:20261120T220000
@@ -1042,7 +1041,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-morning-prayer-ceremony-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T065500
 DTEND;TZID=Asia/Tokyo:20261121T074500
@@ -1056,7 +1055,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-meditation-optional-3-000-yen@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T080000
 DTEND;TZID=Asia/Tokyo:20261121T090000
@@ -1070,7 +1069,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-bags-packed-by-the-front-door@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T093000
 DTEND;TZID=Asia/Tokyo:20261121T094500
@@ -1083,7 +1082,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-miyagawa-morning-market-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T094500
 DTEND;TZID=Asia/Tokyo:20261121T104500
@@ -1100,7 +1099,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-meet-the-group-outside-the-temple@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T110000
 DTEND;TZID=Asia/Tokyo:20261121T111500
@@ -1114,7 +1113,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-hida-wide-view-to-nagoya@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T113000
 DTEND;TZID=Asia/Tokyo:20261121T143000
@@ -1128,7 +1127,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-shinkansen-to-kyoto-then-metros-to-the-h@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T143000
 DTEND;TZID=Asia/Tokyo:20261121T154500
@@ -1142,7 +1141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-check-in-ryokan-hostel-gion-pods-3-night@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T154500
 DTEND;TZID=Asia/Tokyo:20261121T180000
@@ -1156,7 +1155,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-gion-tour-with-a-local-guide@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T180000
 DTEND;TZID=Asia/Tokyo:20261121T193000
@@ -1175,7 +1174,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261121-free-evening-dinner-self-funded@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261121T193000
 DTEND;TZID=Asia/Tokyo:20261121T213000
@@ -1201,7 +1200,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-meet-the-group-outside-the-front-of-the-@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T060000
 DTEND;TZID=Asia/Tokyo:20261122T061500
@@ -1215,7 +1214,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-fushimi-inari-taisha-at-dawn@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T063000
 DTEND;TZID=Asia/Tokyo:20261122T081500
@@ -1233,7 +1232,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-breakfast-stop-at-familymart@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T083000
 DTEND;TZID=Asia/Tokyo:20261122T085500
@@ -1247,7 +1246,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-kiyomizudera-the-pure-water-temple@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T090000
 DTEND;TZID=Asia/Tokyo:20261122T100000
@@ -1264,7 +1263,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-free-time-in-ninenzaka@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T100000
 DTEND;TZID=Asia/Tokyo:20261122T105000
@@ -1283,7 +1282,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-kimono-fitting-booked@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T105000
 DTEND;TZID=Asia/Tokyo:20261122T115000
@@ -1299,7 +1298,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-tea-ceremony-booked-in-kimono@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T115000
 DTEND;TZID=Asia/Tokyo:20261122T130000
@@ -1313,7 +1312,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-grab-food-then-ninenzaka-nene-no-michi-a@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T143500
 DTEND;TZID=Asia/Tokyo:20261122T151000
@@ -1330,7 +1329,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-maruyama-park-yasaka-shrine-and-the-chio@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T151000
 DTEND;TZID=Asia/Tokyo:20261122T154500
@@ -1344,7 +1343,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-walk-to-the-heian-shrine-great-torii@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T154500
 DTEND;TZID=Asia/Tokyo:20261122T161000
@@ -1359,7 +1358,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-nanzenji-brick-aqueduct-and-sanmon-gate-@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T161500
 DTEND;TZID=Asia/Tokyo:20261122T170500
@@ -1376,7 +1375,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-eikando-autumn-night-illumination-option@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T171500
 DTEND;TZID=Asia/Tokyo:20261122T184500
@@ -1394,7 +1393,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-bus-or-taxi-to-shijo-kawaramachi@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T184500
 DTEND;TZID=Asia/Tokyo:20261122T191500
@@ -1408,7 +1407,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-don-quijote-look-do-not-buy-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T191500
 DTEND;TZID=Asia/Tokyo:20261122T194500
@@ -1424,7 +1423,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261122-dinner-then-walk-home-across-the-kamo-ri@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261122T194500
 DTEND;TZID=Asia/Tokyo:20261122T213000
@@ -1446,7 +1445,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-meet-the-group-hostel-lobby@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T084000
 DTEND;TZID=Asia/Tokyo:20261123T085500
@@ -1461,7 +1460,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-bus-to-a-kendo-dojo-kendo-class@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T090000
 DTEND;TZID=Asia/Tokyo:20261123T113000
@@ -1477,7 +1476,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-kinkakuji-golden-pavilion@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T120000
 DTEND;TZID=Asia/Tokyo:20261123T133000
@@ -1492,7 +1491,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-daitokuji-zen-garden-sub-temple@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T134500
 DTEND;TZID=Asia/Tokyo:20261123T150000
@@ -1508,7 +1507,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-subway-to-kyoto-station@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T150000
 DTEND;TZID=Asia/Tokyo:20261123T155000
@@ -1524,7 +1523,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-snack-near-kyoto-station-self-funded@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T155000
 DTEND;TZID=Asia/Tokyo:20261123T162000
@@ -1539,7 +1538,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-teamlab-biovortex-kyoto-booked-16-30-ent@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T163000
 DTEND;TZID=Asia/Tokyo:20261123T210000
@@ -1560,7 +1559,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-late-dinner-near-kyoto-station-self-fund@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T210000
 DTEND;TZID=Asia/Tokyo:20261123T214500
@@ -1574,7 +1573,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261123-back-to-the-hostel@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261123T214500
 DTEND;TZID=Asia/Tokyo:20261123T221500
@@ -1588,7 +1587,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-meet-the-group-outside-the-front-of-the-@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T080000
 DTEND;TZID=Asia/Tokyo:20261124T081500
@@ -1603,7 +1602,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-arashiyama-bamboo-grove@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T083000
 DTEND;TZID=Asia/Tokyo:20261124T093000
@@ -1620,7 +1619,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-monkey-mountain-iwatayama-monkey-park@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T093000
 DTEND;TZID=Asia/Tokyo:20261124T120000
@@ -1638,7 +1637,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-lunch-in-kyoto-self-funded@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T123000
 DTEND;TZID=Asia/Tokyo:20261124T132000
@@ -1651,7 +1650,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-meet-the-group-hostel-with-bags@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T132000
 DTEND;TZID=Asia/Tokyo:20261124T133000
@@ -1664,7 +1663,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-train-to-osaka-check-in-hotel-links-namb@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T134000
 DTEND;TZID=Asia/Tokyo:20261124T150000
@@ -1677,7 +1676,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-free-time-in-osaka-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T153000
 DTEND;TZID=Asia/Tokyo:20261124T183000
@@ -1693,7 +1692,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-dotonbori-food-tour-dinner-included@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T183000
 DTEND;TZID=Asia/Tokyo:20261124T210000
@@ -1707,7 +1706,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261124-private-karaoke-booth@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261124T210000
 DTEND;TZID=Asia/Tokyo:20261124T223000
@@ -1721,7 +1720,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-breakfast-included-early@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T070000
 DTEND;TZID=Asia/Tokyo:20261125T074000
@@ -1734,7 +1733,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-metro-to-osaka-station-jr-special-rapid-@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T074500
 DTEND;TZID=Asia/Tokyo:20261125T092000
@@ -1750,7 +1749,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-himeji-castle@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T092000
 DTEND;TZID=Asia/Tokyo:20261125T113000
@@ -1769,7 +1768,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-shinkansen-photos-at-himeji-station@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T114500
 DTEND;TZID=Asia/Tokyo:20261125T124500
@@ -1788,7 +1787,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-shinkansen-himeji-to-shin-osaka@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T124500
 DTEND;TZID=Asia/Tokyo:20261125T131500
@@ -1803,7 +1802,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-lunch-then-metro-to-morinomiya@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T131500
 DTEND;TZID=Asia/Tokyo:20261125T144500
@@ -1819,7 +1818,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-meet-the-group-outside-morinomiya-statio@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T150000
 DTEND;TZID=Asia/Tokyo:20261125T151500
@@ -1832,7 +1831,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-osaka-castle@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T151500
 DTEND;TZID=Asia/Tokyo:20261125T164500
@@ -1848,7 +1847,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-shinsekai@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T170000
 DTEND;TZID=Asia/Tokyo:20261125T180000
@@ -1862,7 +1861,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261125-backstreets-tour-and-dinner-self-funded@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261125T180000
 DTEND;TZID=Asia/Tokyo:20261125T210000
@@ -1877,7 +1876,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-breakfast-included-in-the-restaurant@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T070000
 DTEND;TZID=Asia/Tokyo:20261126T075000
@@ -1890,7 +1889,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-meet-the-group-reception@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T080000
 DTEND;TZID=Asia/Tokyo:20261126T081500
@@ -1904,7 +1903,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-nara-park-todaiji-and-the-daibutsuden@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T083000
 DTEND;TZID=Asia/Tokyo:20261126T110000
@@ -1920,7 +1919,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-lunch-in-osaka-collect-bags@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T120000
 DTEND;TZID=Asia/Tokyo:20261126T131500
@@ -1932,7 +1931,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-train-cable-car-and-bus-to-koyasan@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T133000
 DTEND;TZID=Asia/Tokyo:20261126T160000
@@ -1946,7 +1945,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-check-in-daimyo-in-temple@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T160000
 DTEND;TZID=Asia/Tokyo:20261126T163000
@@ -1958,7 +1957,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-okunoin-cemetery-walk@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T163000
 DTEND;TZID=Asia/Tokyo:20261126T174500
@@ -1974,7 +1973,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-shojin-ryori-temple-dinner-included-vega@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T180000
 DTEND;TZID=Asia/Tokyo:20261126T190000
@@ -1986,7 +1985,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261126-free-evening-temple-onsen-and-a-stroll-o@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261126T190000
 DTEND;TZID=Asia/Tokyo:20261126T213000
@@ -1999,7 +1998,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-prayer-ceremony-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T070000
 DTEND;TZID=Asia/Tokyo:20261127T074000
@@ -2012,7 +2011,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-temple-breakfast-included@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T074500
 DTEND;TZID=Asia/Tokyo:20261127T083000
@@ -2024,7 +2023,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-meet-the-group-outside-the-temple-bags-r@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T091500
 DTEND;TZID=Asia/Tokyo:20261127T093000
@@ -2037,7 +2036,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-danjo-garan@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T093000
 DTEND;TZID=Asia/Tokyo:20261127T101500
@@ -2053,7 +2052,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-bus-to-koyasan-cable-car-station@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T101500
 DTEND;TZID=Asia/Tokyo:20261127T104500
@@ -2068,7 +2067,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-cable-car-and-train-to-osaka-namba@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T104500
 DTEND;TZID=Asia/Tokyo:20261127T123000
@@ -2083,7 +2082,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-shinkansen-shin-osaka-to-hiroshima-then-@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T131500
 DTEND;TZID=Asia/Tokyo:20261127T152000
@@ -2098,7 +2097,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-check-in-hotel-kuretakeso-hiroshima-otem@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T152000
 DTEND;TZID=Asia/Tokyo:20261127T155000
@@ -2111,7 +2110,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-peace-memorial-park-tour-with-a-local-gu@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T160000
 DTEND;TZID=Asia/Tokyo:20261127T173000
@@ -2128,7 +2127,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-free-evening-in-hiroshima-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261127T173000
 DTEND;TZID=Asia/Tokyo:20261127T210000
@@ -2142,7 +2141,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-breakfast-included@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261128T070000
 DTEND;TZID=Asia/Tokyo:20261128T074000
@@ -2155,7 +2154,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-meet-the-group-in-front-of-the-hotel@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261128T074500
 DTEND;TZID=Asia/Tokyo:20261128T080000
@@ -2170,7 +2169,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-two-streetcars-and-the-ferry-to-miyajima@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261128T080000
 DTEND;TZID=Asia/Tokyo:20261128T093000
@@ -2186,7 +2185,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-miyajima-walking-tour-omotesando-floatin@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261128T093000
 DTEND;TZID=Asia/Tokyo:20261128T123000
@@ -2205,7 +2204,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-free-afternoon-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261128T123000
 DTEND;TZID=Asia/Tokyo:20261128T193000
@@ -2223,7 +2222,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-final-evening-drinks-and-pool-at-the-one@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261128T200000
 DTEND;TZID=Asia/Tokyo:20261128T220000
@@ -2237,7 +2236,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-breakfast-included-and-check-out@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T070000
 DTEND;TZID=Asia/Tokyo:20261129T080000
@@ -2254,7 +2253,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-tour-ends@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T090000
 DTEND;TZID=Asia/Tokyo:20261129T091500
@@ -2271,7 +2270,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-peace-park-river-walk-optional@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T091500
 DTEND;TZID=Asia/Tokyo:20261129T094500
@@ -2286,7 +2285,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-streetcar-to-hiroshima-station@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T094500
 DTEND;TZID=Asia/Tokyo:20261129T101500
@@ -2300,7 +2299,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-shinkansen-hiroshima-to-mihara@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T101500
 DTEND;TZID=Asia/Tokyo:20261129T105000
@@ -2315,7 +2314,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-drop-luggage-super-hotel-mihara-ekimae@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T105000
 DTEND;TZID=Asia/Tokyo:20261129T111500
@@ -2331,7 +2330,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-bus-to-buttsuji-temple@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T113000
 DTEND;TZID=Asia/Tokyo:20261129T121500
@@ -2348,7 +2347,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-buttsuji-temple-autumn-leaves@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T121500
 DTEND;TZID=Asia/Tokyo:20261129T150000
@@ -2366,7 +2365,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-bus-back-to-mihara-station@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T150000
 DTEND;TZID=Asia/Tokyo:20261129T154500
@@ -2382,7 +2381,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-check-in-super-hotel-mihara-ekimae@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T154500
 DTEND;TZID=Asia/Tokyo:20261129T160000
@@ -2398,7 +2397,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-mihara-waterfront-and-castle-ruins-at-du@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T161500
 DTEND;TZID=Asia/Tokyo:20261129T174500
@@ -2414,7 +2413,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261129-dinner-self-funded@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261129T180000
 DTEND;TZID=Asia/Tokyo:20261129T193000
@@ -2427,7 +2426,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-taxi-to-mount-fudekage-pre-booked@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T055000
 DTEND;TZID=Asia/Tokyo:20261130T061000
@@ -2443,7 +2442,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-mount-fudekage-sunrise-shoot@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T061000
 DTEND;TZID=Asia/Tokyo:20261130T074500
@@ -2459,7 +2458,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-taxi-back-to-hotel@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T074500
 DTEND;TZID=Asia/Tokyo:20261130T080500
@@ -2475,7 +2474,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-breakfast-included-and-pack@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T081500
 DTEND;TZID=Asia/Tokyo:20261130T093000
@@ -2491,7 +2490,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-check-out-by-10-00-store-luggage@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T093000
 DTEND;TZID=Asia/Tokyo:20261130T100000
@@ -2507,7 +2506,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-free-time-in-mihara-and-lunch@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T100000
 DTEND;TZID=Asia/Tokyo:20261130T131500
@@ -2520,7 +2519,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-collect-luggage-walk-to-station-bus-stop@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T131500
 DTEND;TZID=Asia/Tokyo:20261130T134000
@@ -2534,7 +2533,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-airport-bus-mihara-station-hiroshima-air@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T135000
 DTEND;TZID=Asia/Tokyo:20261130T142800
@@ -2550,7 +2549,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-jal-check-in-and-bag-drop@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T143000
 DTEND;TZID=Asia/Tokyo:20261130T153000
@@ -2567,7 +2566,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-jl264-hij-17-55-hnd-19-15@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T175500
 DTEND;TZID=Asia/Tokyo:20261130T191500
@@ -2585,7 +2584,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-haneda-transfer-t1-to-t3@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T191500
 DTEND;TZID=Asia/Tokyo:20261130T203000
@@ -2602,7 +2601,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261130-qf60-hnd-22-00-syd-10-00-1@akumarau
-DTSTAMP:20261122T053435Z
+DTSTAMP:20261122T053458Z
 SEQUENCE:31114
 DTSTART;TZID=Asia/Tokyo:20261130T220000
 DTEND;TZID=Australia/Sydney:20261201T100000
