@@ -309,22 +309,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-day-20261128@akumarau
-DTSTAMP:20261126T203744Z
-SEQUENCE:37777
+DTSTAMP:20261127T043000Z
+SEQUENCE:37778
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:D13 | Miyajima: Great Torii\, Itsukushima Shrine\, farewell evening
-  | 8 to 18 °C
+SUMMARY:D13 | Miyajima: Great Torii\, Itsukushima Shrine\, Mt Misen\, farew
+ ell evening 18:30 | 8 to 18 °C
 LOCATION:Hotel Kuretakeso Hiroshima Otemachi
 DESCRIPTION:Weather: Miyajima 8 to 18 °C\, rain likely (71%).\nWear: Light
   layers. Umbrella\, and the rain cover on the camera bag. Forecast checked
-  27 Nov\, 05:37\nMeals: Breakfast. Final evening meal not included\nAftern
- oon: Ropeway up at 13:30 (booked)\, Mt Misen summit\, ropeway down\, sunse
- t and the lit torii at low tide.\nLenses: 12-24\, 24-70\, 70-200 and tripo
- d\nHotel tonight: Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, N
- aka-ku\, Hiroshima 730-0051\nCamera Carry: 12-24\, 24-70\, 70-200 and the 
- tripod.\nCamera Leave at the hotel: 2x and IT32\nMeet 07:45 in front of th
- e hotel.
+  27 Nov\, 05:37\nMeals: Breakfast. Food at the One Life pub is self funded
+ \nAfternoon: Ropeway up at 13:30 (booked)\, Mt Misen summit\, ropeway down
+ \, sunset at the torii\, then back for 18:30.\nGuide update 27 Nov: the fi
+ nal evening meet is 18:30\, not 20:00. Leave the torii right after sunset 
+ (17:01).\nDropped: the low tide walk out at 18:31. Option: stay for it and
+  join the pub around 19:45.\nTransport: the guide's card covers streetcars
+  and ferries today.\nLenses: 12-24\, 24-70\, 70-200 and tripod\nHotel toni
+ ght: Hotel Kuretakeso Hiroshima Otemachi\, 3-7-3 Otemachi\, Naka-ku\, Hiro
+ shima 730-0051\nCamera Carry: 12-24\, 24-70\, 70-200 and the tripod.\nCame
+ ra Leave at the hotel: 2x and IT32\nMeet 07:45 in front of the hotel.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2351,18 +2354,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261127-okonomiyaki-dinner-self-funded@akumarau
-DTSTAMP:20261126T203744Z
-SEQUENCE:37777
+DTSTAMP:20261127T043000Z
+SEQUENCE:37778
 DTSTART;TZID=Asia/Tokyo:20261127T190000
 DTEND;TZID=Asia/Tokyo:20261127T200000
 SUMMARY:Okonomiyaki dinner (self funded)
-LOCATION:Okonomimura\, 5-13 Shintenchi\, Naka Ward\, Hiroshima 730-0034
-DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Ok
- onomimura%2C%205-13%20Shintenchi%2C%20Naka%20Ward%2C%20Hiroshima%20730-003
- 4\nHiroshima style okonomiyaki\, cooked on the grill in front of you. Sit 
- at the counter for photos of the cook.
-URL:https://www.google.com/maps/search/?api=1&query=Okonomimura%2C%205-13%2
- 0Shintenchi%2C%20Naka%20Ward%2C%20Hiroshima%20730-0034
+LOCATION:Guide's okonomiyaki pick\, Hiroshima
+DESCRIPTION:Google Maps: https://maps.app.goo.gl/T7cqzh9VbuuAEVEV6\nGuide's
+  pick for Hiroshima style okonomiyaki\, the kind with noodles inside. Grea
+ t atmosphere and kind staff.\nBackup: Okonomimura\, 5-13 Shintenchi. Sit a
+ t the counter for photos of the cook.\nEarly night. Tomorrow's meet is 07:
+ 45.
+URL:https://maps.app.goo.gl/T7cqzh9VbuuAEVEV6
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2430,15 +2433,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-lunch-on-omotesando-self-funded@akumarau
-DTSTAMP:20261126T203744Z
-SEQUENCE:37777
+DTSTAMP:20261127T043000Z
+SEQUENCE:37778
 DTSTART;TZID=Asia/Tokyo:20261128T123000
 DTEND;TZID=Asia/Tokyo:20261128T130000
 SUMMARY:Lunch on Omotesando (self funded)
 LOCATION:Omotesando Shopping Street\, Miyajimacho\, Hatsukaichi\, Hiroshima
 DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Om
  otesando%20Shopping%20Street%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hirosh
- ima
+ ima\nTry at least one momiji manju\, the maple leaf cake.\nGuide's picks:\
+ nLemon drinks: https://maps.app.goo.gl/Du9WCd9R3G6R3jcU8\nTourist informat
+ ion\, toilets and bins: https://maps.app.goo.gl/DT1P8nf6ge4mEaJ66\nGhibli 
+ store: https://maps.app.goo.gl/sizHkWLgihQRuupPA
 URL:https://www.google.com/maps/search/?api=1&query=Omotesando%20Shopping%2
  0Street%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshima
 TRANSP:OPAQUE
@@ -2542,61 +2548,50 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-sunset-and-blue-hour-at-the-great-torii@akumarau
-DTSTAMP:20261126T203744Z
-SEQUENCE:37777
+DTSTAMP:20261127T043000Z
+SEQUENCE:37778
 DTSTART;TZID=Asia/Tokyo:20261128T164500
-DTEND;TZID=Asia/Tokyo:20261128T174500
-SUMMARY:Sunset and blue hour at the Great Torii
+DTEND;TZID=Asia/Tokyo:20261128T170500
+SUMMARY:Sunset at the Great Torii\, then leave
 LOCATION:Itsukushima Shrine Otorii\, Miyajimacho\, Hatsukaichi\, Hiroshima
 DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=It
  sukushima%20Shrine%20Otorii%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshi
- ma\nSunset 17:01. The torii is lit from about sunset until 23:00.
-URL:https://www.google.com/maps/search/?api=1&query=Itsukushima%20Shrine%20
- Otorii%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshima
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:japan2026-20261128-low-tide-walk-out-to-the-lit-torii@akumarau
-DTSTAMP:20261126T203744Z
-SEQUENCE:37777
-DTSTART;TZID=Asia/Tokyo:20261128T174500
-DTEND;TZID=Asia/Tokyo:20261128T184000
-SUMMARY:Low tide: walk out to the lit torii
-LOCATION:Itsukushima Shrine Otorii\, Miyajimacho\, Hatsukaichi\, Hiroshima
-DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=It
- sukushima%20Shrine%20Otorii%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshi
- ma\nLow tide about 18:31. Check the tide table on the day. Walk out on the
-  sand to the base of the gate.
+ ma\nSunset 17:01. The torii lights come on around sunset.\nLeave by 17:05 
+ for the 18:30 farewell meet. No blue hour or low tide walk today.
 URL:https://www.google.com/maps/search/?api=1&query=Itsukushima%20Shrine%20
  Otorii%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-jr-ferry-and-jr-train-back-to-hiroshima@akumarau
-DTSTAMP:20261126T203744Z
-SEQUENCE:37777
-DTSTART;TZID=Asia/Tokyo:20261128T184500
-DTEND;TZID=Asia/Tokyo:20261128T194500
-SUMMARY:JR ferry and JR train back to Hiroshima
+DTSTAMP:20261127T043000Z
+SEQUENCE:37778
+DTSTART;TZID=Asia/Tokyo:20261128T170500
+DTEND;TZID=Asia/Tokyo:20261128T182500
+SUMMARY:Ferry and JR train back to Hiroshima
 LOCATION:Miyajima Pier\, Miyajimacho\, Hatsukaichi\, Hiroshima
 DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Mi
- yajima%20Pier%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshima\nJR ferry t
- o Miyajimaguchi\, then the JR Sanyo Line to Hiroshima. Faster than the str
- eetcar. IC card.
+ yajima%20Pier%2C%20Miyajimacho%2C%20Hatsukaichi%2C%20Hiroshima\nFastest wa
+ y back: ferry to Miyajimaguchi\, then the JR Sanyo Line to Hiroshima. The 
+ streetcar is covered by the guide's card but takes over an hour.\nAsk the 
+ guide whether the card covers the JR ferry. The JR train goes on your IC c
+ ard.\nConfirm with the guide where the 18:30 meet is.
 URL:https://www.google.com/maps/search/?api=1&query=Miyajima%20Pier%2C%20Mi
  yajimacho%2C%20Hatsukaichi%2C%20Hiroshima
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:japan2026-20261128-final-evening-drinks-and-pool-at-the-one@akumarau
-DTSTAMP:20261126T203744Z
-SEQUENCE:37777
-DTSTART;TZID=Asia/Tokyo:20261128T200000
+DTSTAMP:20261127T043000Z
+SEQUENCE:37778
+DTSTART;TZID=Asia/Tokyo:20261128T183000
 DTEND;TZID=Asia/Tokyo:20261128T220000
-SUMMARY:Final evening: drinks and pool at the One Life pub
+SUMMARY:Final evening: food\, drinks and pool at the One Life pub
 LOCATION:Hiroshima\, venue set by guide
 DESCRIPTION:Google Maps: https://www.google.com/maps/search/?api=1&query=Hi
- roshima%2C%20venue%20set%20by%20guide\nMeal not included.
+ roshima%2C%20venue%20set%20by%20guide\nMeet 18:30 (guide update 27 Nov). F
+ ood\, drinks\, pool and games. Last night with the group.\nFood and drinks
+  are self funded.
 URL:https://www.google.com/maps/search/?api=1&query=Hiroshima%2C%20venue%20
  set%20by%20guide
 TRANSP:OPAQUE
